@@ -15,8 +15,8 @@
 * **Citation**: Boets et al. (in press)
 * **License**: 
 * **Downloaded from**: 
-* **Downloaded at**:
-* **Source file**: 
+* **Downloaded at**: Received on 19-01-2016
+* **Source file**: https://github.com/LifeWatchINBO/alien-species-checklist/blob/master/source-datasets/macroinvertebrates/AI15-039_Boets_etal_almost%20ready%207%20Dec%202015_Tim.doc
 
 ## Manual of the Alien Plants of Belgium
 
@@ -25,7 +25,7 @@
 * **License**: http://creativecommons.org/licenses/by-sa/4.0/
 * **Downloaded from**: http://alienplantsbelgium.be/sites/alienplantsbelgium.be/files/Checklist2.xls
 * **Downloaded at**: 2016-01-19 (indicated on website as last modified 8 January 2016)
-* **Source file**: 
+* **Source file**: https://github.com/LifeWatchINBO/alien-species-checklist/blob/master/source-datasets/plants/Checklist2.xls
 
 ## RINSE registry
 
@@ -34,7 +34,7 @@
 * **License**: http://opendatacommons.org/licenses/odbl/1.0/
 * **Downloaded from**: http://neobiota.pensoft.net//lib/ajax_srv/article_elements_srv.php?action=download_suppl_file&instance_id=31&article_id=4007
 * **Downloaded at**: 2016-01-19
-* **Source file**: 
+* **Source file**: https://github.com/LifeWatchINBO/alien-species-checklist/blob/master/source-datasets/rinse/neobiota-023-065-s001.xlsx
 
 ## World Register of Introduced Marine Species (WRIMS)
 
