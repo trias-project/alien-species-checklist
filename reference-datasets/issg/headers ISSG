@@ -1,4 +1,5 @@
-COUNTRY	COUNTRY_code
+|-----|-----|
+COUNTRY	COUNTRY_code  | BE |
 SPECIES_Name
 Kingdom
 Phylum
