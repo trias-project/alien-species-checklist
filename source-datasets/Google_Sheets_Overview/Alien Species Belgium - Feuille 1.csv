@@ -1,0 +1,127 @@
+Source,Field,DwC term,Example,Needed?
+Harmonia,Species ID,organismID?,148,yes
+Harmonia,Added,,2013/10/08 at 13:25:01,no
+Harmonia,Last update,,2012/05/11 at 09:29:15,no
+Harmonia,Last state change,,2007/12/04 at 17:42:26,no
+Harmonia,Current state,,pending,no
+Harmonia,Group,,Vascular plants,yes
+Harmonia,phylum,phylum,Vascular plants,yes
+Harmonia,family,family,Aceraceae,yes
+Harmonia,genus,genus,Acer,yes
+Harmonia,specificEpithet,specificEpithet,negundo,yes
+Harmonia,scientificName,scientificName,Acer negundo,yes
+Harmonia,Synonym(s),,Negundo fraxinifolium,yes
+Harmonia,vernacularName,vernacularName,"Box-elder, Ash-leaved maple",yes
+Harmonia,Local name(s) (fr),,Erable negundo,yes
+Harmonia,Local name(s) (nl),,Vederesdoorn,yes
+Harmonia,Origin(s),,North America,yes
+Harmonia,habitat,habitat,terrestrial,yes
+Harmonia,Introduction pathway(s),,agri- and horticulture,
+Harmonia,establishmentMeans,,agri- and horticulture,
+Harmonia,Category,,b2,
+Harmonia,ISEIA score,,9,
+Harmonia,First observation,,1955,
+Harmonia,Spatial distribution,,restricted,
+Harmonia,Invasion stage,,spread,
+Harmonia,Already invasive in (if any),,United Kingdom,no
+Harmonia,Reproduction (Belgium),,yes,
+Harmonia,Reproduction (Wallonia),,yes,
+Harmonia,Reproduction (Flanders),,yes,
+Harmonia,Risk Analysis,,no,
+Harmonia,Dispersion potential,,high,
+Harmonia,Natural habitats,,high,
+Harmonia,Predation / Herbivory,,low,
+Harmonia,Competition,,unlikely,
+Harmonia,Disease transmission,,unlikely,
+Harmonia,Genetic effects,,low,
+Harmonia,Nutrient cycling,,low,
+Harmonia,Physical alteration,,low,
+Harmonia,Natural successions,,low,
+Harmonia,Food web alteration,,low,
+Harmonia,Contributors,,"Branquart Etienne, Vanderhoeven Sonia, Van Landuyt Wouter, Van Rossum Fabienne, Verloove Filip",no
+Harmonia,Maritime,,widespread,
+Harmonia,Flandrian,,widespread,
+Harmonia,Kempen,,isolated,
+Harmonia,Brabant,,widespread,
+Harmonia,Meuse,,isolated,
+Harmonia,Ardenne,,isolated,
+Harmonia,Lorraine,,isolated,
+Macroinvertebrates,phylum,phylum,ANNELIDA,yes
+Macroinvertebrates,order,order,Sabellida,yes
+Macroinvertebrates,family,family,Sabellidae,yes
+Macroinvertebrates,genus,genus,Laonome,yes
+Macroinvertebrates,specificEpithet,specificEpithet,calida,yes
+Macroinvertebrates,scientifcName,scientifcName,Laonome calida,yes
+Macroinvertebrates,Origin,,Australia,yes
+Macroinvertebrates,First occurrence in Flanders,,2014,
+Macroinvertebrates,Pathway of introduction,,shipping,
+Macroinvertebrates,establishmentMeans,,shipping,
+Macroinvertebrates,habitat,habitat,Freshwater/Brackish,yes
+Macroinvertebrates,Reference,,Leloup and Lefevre 1952,
+Plants,family,family,Acanthaceae,yes
+Plants,genus,genus,Acanthus,yes
+Plants,specificEpithet,specificEpithet,mollis,yes
+Plants,scientificName,scientificName,Acanthus mollis,yes
+Plants,scientificNameAuthorship,scientificNameAuthorship,(Chevalier) C.S. Liang et A.R. Ferguson,yes
+Plants,acceptedNameUsage,acceptedNameUsage,Acanthus mollis L.,yes
+Plants,Synonym,,Aptenia cordifolia (L. f.) Schwantes,yes
+Plants,M/I,,D,
+Plants,FR,,1998,
+Plants,MRR,,2015,
+Plants,Origin,,E AF,yes
+Plants,Presence_Fl,,x,
+Plants,Presence_Br,,x,
+Plants,Presence_Wa,,x,
+Plants,D/N,,cas.,
+Plants,V/I,,Hort.,
+Neobiota,phylum,phylum,Angiospermae,yes
+Neobiota,class,class,Eudicotyledoneae,yes
+Neobiota,genus,genus,Abronia,yes
+Neobiota,specificEpithet,specificEpithet,fragrans,yes
+Neobiota,scientificName,scientificName,Abronia fragrans,yes
+Neobiota,Great Britain,,not confirmed,no
+Neobiota,France,,present,no
+Neobiota,Belgium,,present,yes
+Neobiota,Netherlands,,not confirmed,no
+Neobiota,habitat,habitat,terrestrial,yes
+Neobiota,Notes,,data based solely on DAISIE portal,
+Neobiota,Column,,,
+Neobiota,Column 2,,,
+Neobiota,Column 3,,,
+Wrims,AphiaID,,345943,
+Wrims,kingdom,kingdom,Animalia,yes
+Wrims,phylum,phylum,Arthropoda,yes
+Wrims,class,class,Chromadorea,yes
+Wrims,order,order,Calanoida,yes
+Wrims,familly,familly,Acartiidae,yes
+Wrims,genus,genus,Acartia,yes
+Wrims,specificEpithet,specificEpithet,tonsa,yes
+Wrims,scientificName,scientificName,Acartia tonsa,yes
+Wrims,Taxon,,Acartia (Acanthacartia) tonsa,
+Wrims,habitat,habitat,Belgian Exclusive Economic Zone,yes
+Wrims,Distribution_id,,642501,
+Wrims,Notes,,non-indigenous,
+Wrims,Beginyear,,1952,
+Wrims,Occurrence,,Established,
+Wrims,establishmentMeans,,Established,
+Wrims,Origin,,Alien,
+Wrims,Invasiveness,,not specified,
+Wrims,Reference_id,,71170,
+Wrims,Reference,,VLIZ Alien Species Consortium,
+Wrims,Colunm,,,
+AnnexB RINSE,phylum,phylum,Angiospermae,yes
+AnnexB RINSE,class,class,Eudicotyledoneae,yes
+AnnexB RINSE,genus ,genus ,Acacia,yes
+AnnexB RINSE,specificEpithet,specificEpithet,dealbata,yes
+AnnexB RINSE,scientificName,scientificName,Acacia dealbata,yes
+AnnexB RINSE,infraspecificEpithet,infraspecificEpithet,,yes
+AnnexB RINSE,vernacularName,vernacularName,Silver wattle,yes
+AnnexB RINSE,GB,,Y,no
+AnnexB RINSE,France,,Y,no
+AnnexB RINSE,Belgium,,Y,yes
+AnnexB RINSE,Netherlands,,Y,no
+AnnexB RINSE,Rinse GB,,Y,no
+AnnexB RINSE,Rinse France,,N,no
+AnnexB RINSE,Rinse Belgium,,Y,yes
+AnnexB RINSE,Rinse Netherlands,,Y,no
+AnnexB RINSE,habitat,habitat,T,yes
