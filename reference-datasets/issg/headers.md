@@ -1,5 +1,6 @@
-|---|---|
+
 |**OriginalTerm**|**DwC-Term**|**Value**|
+|---|----|---|
 |COUNTRY | country	|Belgium
 |COUNTRY_code |countryCode  | BE |
 |SPECIES_Name | scientificName  | |
