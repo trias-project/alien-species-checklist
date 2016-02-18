@@ -36,6 +36,15 @@
 * **Downloaded at**: 2016-01-19
 * **Source file**: https://github.com/LifeWatchINBO/alien-species-checklist/blob/master/source-datasets/rinse/neobiota-023-065-s001.xlsx
 
+## Annex B RINSE registry
+
+* **Scope**: Non-native species from 4 countries, including Belgium. Earlier version of RINSE registry.
+* **Citation**: 
+* **License**: Gallardo, B., A. Zieritz, and D. C. Aldridge. 2013. Targeting and prioritisation for INS in the RINSE project area. Cambridge Environmental Consulting. Report commissioned by the Interreg 2Seas RINSE project. http://www.rinse-europe.eu/assets/__files/targeting-and-prioritisation-for-ins-in-the-rinse-project-area_fullversion2.pdf
+* **Downloaded from**:
+* **Downloaded at**: 2016-01-19
+* **Source file**: https://github.com/LifeWatchINBO/alien-species-checklist/blob/master/source-datasets/rinse-annex-b/AnnexB RINSE Registry of NNS.xlsx
+
 ## World Register of Introduced Marine Species (WRIMS)
 
 * **Scope**: Introduced marine species, filtered on nation = Belgium
