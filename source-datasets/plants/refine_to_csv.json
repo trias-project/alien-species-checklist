@@ -69,5 +69,31 @@
     "op": "core/column-removal",
     "description": "Remove column Column3",
     "columnName": "Column3"
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column FR using expression grel:toString(round(value))",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "FR",
+    "expression": "grel:toString(round(value))",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column MRR using expression grel:toString(round(value))",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "MRR",
+    "expression": "grel:toString(round(value))",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
   }
 ]
