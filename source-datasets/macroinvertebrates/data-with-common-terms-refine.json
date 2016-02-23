@@ -1,0 +1,8 @@
+[
+  {
+    "op": "core/column-rename",
+    "description": "Rename column Phylum to phylum",
+    "oldColumnName": "Phylum",
+    "newColumnName": "phylum"
+  }
+]
