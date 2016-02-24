@@ -1,0 +1,49 @@
+[
+  {
+    "op": "core/column-rename",
+    "description": "Rename column Non-native freshwater fishes of Flanders (Belgium) with their native range, introduction year (or period), introduction pathway(s) and establishment status. Latin name to Latin name",
+    "oldColumnName": "Non-native freshwater fishes of Flanders (Belgium) with their native range, introduction year (or period), introduction pathway(s) and establishment status. Latin name",
+    "newColumnName": "Latin name"
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column Introduction using expression grel:toString(round(value))",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Introduction",
+    "expression": "grel:toString(round(value))",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/row-removal",
+    "description": "Remove rows",
+    "engineConfig": {
+      "facets": [
+        {
+          "invert": false,
+          "expression": "row.flagged",
+          "selectError": false,
+          "omitError": false,
+          "selectBlank": false,
+          "name": "Flagged Rows",
+          "omitBlank": false,
+          "columnName": "",
+          "type": "list",
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ]
+        }
+      ],
+      "mode": "row-based"
+    }
+  }
+]
