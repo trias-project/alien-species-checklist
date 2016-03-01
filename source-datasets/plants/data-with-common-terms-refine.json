@@ -1,0 +1,754 @@
+[
+  {
+    "op": "core/column-rename",
+    "description": "Rename column Family to family",
+    "oldColumnName": "Family",
+    "newColumnName": "family"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column FR to firstObservationYearBE",
+    "oldColumnName": "FR",
+    "newColumnName": "firstObservationYearBE"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column M/I to introductionMode",
+    "oldColumnName": "M/I",
+    "newColumnName": "introductionMode"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column V/I to introductionPathway",
+    "oldColumnName": "V/I",
+    "newColumnName": "introductionPathway"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column MRR to latestObservationYearBE",
+    "oldColumnName": "MRR",
+    "newColumnName": "latestObservationYearBE"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column Origin to origin",
+    "oldColumnName": "Origin",
+    "newColumnName": "origin"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column Presence_Br to presenceBR",
+    "oldColumnName": "Presence_Br",
+    "newColumnName": "presenceBR"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column Presence_Fl to presenceFL",
+    "oldColumnName": "Presence_Fl",
+    "newColumnName": "presenceFL"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column Presence_Wa to presenceWA",
+    "oldColumnName": "Presence_Wa",
+    "newColumnName": "presenceWA"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column Taxon to scientificName",
+    "oldColumnName": "Taxon",
+    "newColumnName": "scientificName"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column D/N to status",
+    "oldColumnName": "D/N",
+    "newColumnName": "status"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column Synonym to synonym",
+    "oldColumnName": "Synonym",
+    "newColumnName": "synonym"
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column status to position 0",
+    "columnName": "status",
+    "index": 0
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column presenceWA to position 0",
+    "columnName": "presenceWA",
+    "index": 0
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column presenceFL to position 0",
+    "columnName": "presenceFL",
+    "index": 0
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column presenceBR to position 0",
+    "columnName": "presenceBR",
+    "index": 0
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column origin to position 0",
+    "columnName": "origin",
+    "index": 0
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column latestObservationYearBE to position 0",
+    "columnName": "latestObservationYearBE",
+    "index": 0
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column introductionMode to position 0",
+    "columnName": "introductionMode",
+    "index": 0
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column introductionPathway to position 0",
+    "columnName": "introductionPathway",
+    "index": 0
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column firstObservationYearBE to position 0",
+    "columnName": "firstObservationYearBE",
+    "index": 0
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column family to position 0",
+    "columnName": "family",
+    "index": 0
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column BFIS at index 1 based on column family using expression null",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "newColumnName": "BFIS",
+    "columnInsertIndex": 1,
+    "baseColumnName": "family",
+    "expression": "null",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column BFIS to position 0",
+    "columnName": "BFIS",
+    "index": 0
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column class at index 1 based on column BFIS using expression null",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "newColumnName": "class",
+    "columnInsertIndex": 1,
+    "baseColumnName": "BFIS",
+    "expression": "null",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column firstOservationFL at index 4 based on column firstObservationYearBE using expression null",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "newColumnName": "firstOservationFL",
+    "columnInsertIndex": 4,
+    "baseColumnName": "firstObservationYearBE",
+    "expression": "null",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column genus at index 5 based on column firstOservationFL using expression null",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "newColumnName": "genus",
+    "columnInsertIndex": 5,
+    "baseColumnName": "firstOservationFL",
+    "expression": "null",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column habitat at index 6 based on column genus using expression null",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "newColumnName": "habitat",
+    "columnInsertIndex": 6,
+    "baseColumnName": "genus",
+    "expression": "null",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column introductionMode to position 7",
+    "columnName": "introductionMode",
+    "index": 7
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column Invasiveness at index 9 based on column introductionPathway using expression null",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "newColumnName": "Invasiveness",
+    "columnInsertIndex": 9,
+    "baseColumnName": "introductionPathway",
+    "expression": "null",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column ISEIA at index 10 based on column Invasiveness using expression null",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "newColumnName": "ISEIA",
+    "columnInsertIndex": 10,
+    "baseColumnName": "Invasiveness",
+    "expression": "null",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column kingdom at index 11 based on column ISEIA using expression null",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "newColumnName": "kingdom",
+    "columnInsertIndex": 11,
+    "baseColumnName": "ISEIA",
+    "expression": "null",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column notes at index 13 based on column latestObservationYearBE using expression null",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "newColumnName": "notes",
+    "columnInsertIndex": 13,
+    "baseColumnName": "latestObservationYearBE",
+    "expression": "null",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column order at index 14 based on column notes using expression null",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "newColumnName": "order",
+    "columnInsertIndex": 14,
+    "baseColumnName": "notes",
+    "expression": "null",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column phylum at index 16 based on column origin using expression null",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "newColumnName": "phylum",
+    "columnInsertIndex": 16,
+    "baseColumnName": "origin",
+    "expression": "null",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column publicationStatus at index 20 based on column presenceWA using expression null",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "newColumnName": "publicationStatus",
+    "columnInsertIndex": 20,
+    "baseColumnName": "presenceWA",
+    "expression": "null",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column riskAnalysis at index 21 based on column publicationStatus using expression null",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "newColumnName": "riskAnalysis",
+    "columnInsertIndex": 21,
+    "baseColumnName": "publicationStatus",
+    "expression": "null",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column scientificName to position 22",
+    "columnName": "scientificName",
+    "index": 22
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column source at index 23 based on column scientificName using expression null",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "newColumnName": "source",
+    "columnInsertIndex": 23,
+    "baseColumnName": "scientificName",
+    "expression": "null",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column sourceID at index 24 based on column source using expression null",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "newColumnName": "sourceID",
+    "columnInsertIndex": 24,
+    "baseColumnName": "source",
+    "expression": "null",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column spatialDistribution at index 25 based on column sourceID using expression null",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "newColumnName": "spatialDistribution",
+    "columnInsertIndex": 25,
+    "baseColumnName": "sourceID",
+    "expression": "null",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column specificEpithet at index 26 based on column spatialDistribution using expression null",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "newColumnName": "specificEpithet",
+    "columnInsertIndex": 26,
+    "baseColumnName": "spatialDistribution",
+    "expression": "null",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column statusCertainty at index 28 based on column status using expression null",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "newColumnName": "statusCertainty",
+    "columnInsertIndex": 28,
+    "baseColumnName": "status",
+    "expression": "null",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column subspecies at index 29 based on column statusCertainty using expression null",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "newColumnName": "subspecies",
+    "columnInsertIndex": 29,
+    "baseColumnName": "statusCertainty",
+    "expression": "null",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column taxonID at index 31 based on column synonym using expression null",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "newColumnName": "taxonID",
+    "columnInsertIndex": 31,
+    "baseColumnName": "synonym",
+    "expression": "null",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column vernacularNameEN at index 32 based on column taxonID using expression null",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "newColumnName": "vernacularNameEN",
+    "columnInsertIndex": 32,
+    "baseColumnName": "taxonID",
+    "expression": "null",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column vernacularNameFR at index 33 based on column vernacularNameEN using expression null",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "newColumnName": "vernacularNameFR",
+    "columnInsertIndex": 33,
+    "baseColumnName": "vernacularNameEN",
+    "expression": "null",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column vernacularNameNL at index 34 based on column vernacularNameFR using expression null",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "newColumnName": "vernacularNameNL",
+    "columnInsertIndex": 34,
+    "baseColumnName": "vernacularNameFR",
+    "expression": "null",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column firstOservationFL to firstOservationYearFL",
+    "oldColumnName": "firstOservationFL",
+    "newColumnName": "firstOservationYearFL"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column presenceBE at index 18 based on column presenceBR using expression null",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "newColumnName": "presenceBE",
+    "columnInsertIndex": 18,
+    "baseColumnName": "presenceBR",
+    "expression": "null",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column presenceBE to position 17",
+    "columnName": "presenceBE",
+    "index": 17
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column datasetName at index 2 based on column class using expression null",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "newColumnName": "datasetName",
+    "columnInsertIndex": 2,
+    "baseColumnName": "class",
+    "expression": "null",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column taxonGroup at index 33 based on column synonym using expression null",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "newColumnName": "taxonGroup",
+    "columnInsertIndex": 33,
+    "baseColumnName": "synonym",
+    "expression": "null",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column notes to position 0",
+    "columnName": "notes",
+    "index": 0
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column publicationStatus to position 0",
+    "columnName": "publicationStatus",
+    "index": 0
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column riskAnalysis to position 0",
+    "columnName": "riskAnalysis",
+    "index": 0
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column sourceID to position 0",
+    "columnName": "sourceID",
+    "index": 0
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column source to position 0",
+    "columnName": "source",
+    "index": 0
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column latestObservationYearBE to position 0",
+    "columnName": "latestObservationYearBE",
+    "index": 0
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column firstOservationYearFL to position 0",
+    "columnName": "firstOservationYearFL",
+    "index": 0
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column firstObservationYearBE to position 0",
+    "columnName": "firstObservationYearBE",
+    "index": 0
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column presenceBR to position 0",
+    "columnName": "presenceBR",
+    "index": 0
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column presenceWA to position 0",
+    "columnName": "presenceWA",
+    "index": 0
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column presenceFL to position 0",
+    "columnName": "presenceFL",
+    "index": 0
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column presenceBE to position 0",
+    "columnName": "presenceBE",
+    "index": 0
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column origin to position 0",
+    "columnName": "origin",
+    "index": 0
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column habitat to position 0",
+    "columnName": "habitat",
+    "index": 0
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column introductionMode to position 0",
+    "columnName": "introductionMode",
+    "index": 0
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column introductionPathway to position 0",
+    "columnName": "introductionPathway",
+    "index": 0
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column Invasiveness to position 0",
+    "columnName": "Invasiveness",
+    "index": 0
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column spatialDistribution to position 0",
+    "columnName": "spatialDistribution",
+    "index": 0
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column ISEIA to position 0",
+    "columnName": "ISEIA",
+    "index": 0
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column BFIS to position 0",
+    "columnName": "BFIS",
+    "index": 0
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column statusCertainty to position 0",
+    "columnName": "statusCertainty",
+    "index": 0
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column status to position 0",
+    "columnName": "status",
+    "index": 0
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column vernacularNameFR to position 0",
+    "columnName": "vernacularNameFR",
+    "index": 0
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column vernacularNameNL to position 0",
+    "columnName": "vernacularNameNL",
+    "index": 0
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column vernacularNameEN to position 0",
+    "columnName": "vernacularNameEN",
+    "index": 0
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column taxonGroup to position 0",
+    "columnName": "taxonGroup",
+    "index": 0
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column subspecies to position 0",
+    "columnName": "subspecies",
+    "index": 0
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column specificEpithet to position 0",
+    "columnName": "specificEpithet",
+    "index": 0
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column genus to position 0",
+    "columnName": "genus",
+    "index": 0
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column family to position 0",
+    "columnName": "family",
+    "index": 0
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column class to position 0",
+    "columnName": "class",
+    "index": 0
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column order to position 0",
+    "columnName": "order",
+    "index": 0
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column phylum to position 0",
+    "columnName": "phylum",
+    "index": 0
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column kingdom to position 0",
+    "columnName": "kingdom",
+    "index": 0
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column synonym to position 0",
+    "columnName": "synonym",
+    "index": 0
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column scientificName to position 0",
+    "columnName": "scientificName",
+    "index": 0
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column datasetName to position 0",
+    "columnName": "datasetName",
+    "index": 0
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column taxonID to position 0",
+    "columnName": "taxonID",
+    "index": 0
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column class to position 6",
+    "columnName": "class",
+    "index": 6
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column datasetName",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "datasetName",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": true,
+        "fromError": false,
+        "from": [],
+        "to": "plants"
+      }
+    ]
+  }
+]
