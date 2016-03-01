@@ -1,0 +1,14 @@
+To remember:
+-----------
+(search for the command line programme in the program listing: cmd)
+
+Commands:
+To navigate in the folders:
+cd -> go to a location on the computer
+dir -> see what is in the current folder
+
+directly go to a specifi folder:
+cd C:\Users\HP\Documents\GitHub\alien-species-checklist\utilities
+
+to concatenate the files:
+csvcat --skip-headers filename1.tsv filename.tsv ... > concatenatedfilename.tsv
