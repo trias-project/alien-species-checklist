@@ -1,0 +1,24 @@
+taxonID	datasetName	scientificName	synonym	kingdom	phylum	class	order	family	genus	specificEpithet	subspecies	taxonGroup	vernacularNameEN	vernacularNameNL	vernacularNameFR	status	statusCertainty	BFIS	ISEIA	spatialDistribution	invasiveness	introductionPathways	introductionMode	habitat	origin	presenceBE	presenceFL	presenceWA	presenceBR	firstObservationYearBE	firstObservationYearFL	latestObservationYearBE	source	sourceID	riskAnalysis	publicationStatus	notes
+	fishes	Acipenser baeri											Siberian sturgeon			A						AQ, OR			AS						2001						
+	fishes	Acipenser guldenstaedti											Russian sturgeon			A						AQ, OR			EE						2005						
+	fishes	Acipenser ruthenus											Sterlet			A						AQ, OR			EE						20xx						
+	fishes	Ameiurus nebulosus											Brown bullhead			N						AQ, OR			NA						1871						
+	fishes	Aspius aspius											Asp			N						AN			EE						1984						
+	fishes	Carassius auratus											Goldfish			A						OR			AS						17th c.						
+	fishes	Carassius gibelio											Gibel carp			N						UN			AS or EE						17th c.						
+	fishes	Clarias gariepinus											African catfish			A*						AQ			AFR						1980s						
+	fishes	Ctenopharyngodon idella											Grass carp			A						BC			AS						1967						
+	fishes	Cyprinus carpio											Common carp			N						AQ			EE						13th c.						
+	fishes	Hypophthalmichthys molitrix											Silver carp			A						BC			AS						1975						
+	fishes	Hypophthalmichthys nobilis											Bighead carp			A						BC			AS						1975						
+	fishes	Ictalurus punctatus											Channel catfish			A						AQ			NA						1884						
+	fishes	Lepomis gibbosus											Pumpkinseed			N						OR			NA						1885						
+	fishes	Neogobius melanostomus											Round goby			N						BW, AM			EE						2010						
+	fishes	Oncorhynchus mykiss											Rainbow trout			A						AQ, AN			NA						1884						
+	fishes	Oreochromis niloticus											Nile tilapia			A*						AQ			AFR						1990						
+	fishes	Pimephales promelas											Fathead minnow			N						AN			NA						1984						
+	fishes	Ponticola kessleri											Bighead goby			N						BW, AM			EE						2012						
+	fishes	Proterorhinus semilunairs											Tubenose goby			N						AM			EE						2010						
+	fishes	Pseudorasbora parva											Topmouth gudgeon			N						UN, AN			AS						1992						
+	fishes	Sander lucioperca											Pikeperch			N						AN			EE						1890						
+	fishes	Umbra pygmaea											Eastern mudminnow			N						OR, AQ			NA						1920						
