@@ -55,6 +55,4 @@ Source datasets are [described here](source-datasets).
     * Rename the columns we want to keep to their common names (defined in [this spreadsheet](https://docs.google.com/spreadsheets/d/1KJX6QBhv2xmDffYtXGt6FHV41Pm_eQjcUrDqxZxouvQ/edit?ts=56c18641#gid=0))
     * Remove the columns we are not planning to use
     * Add the other common terms
-    * Order the columns alphabetically
-
-
+    * Sort the columns in the order provided above
