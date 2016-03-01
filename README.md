@@ -17,8 +17,8 @@ Source datasets are [described here](source-datasets).
         synonym
         kingdom
         phylum
-        order
         class
+        order
         family
         genus
         specificEpithet
