@@ -56,3 +56,9 @@ Source datasets are [described here](source-datasets).
     * Remove the columns we are not planning to use
     * Add the other common terms
     * Sort the columns in the order provided above
+
+4. From the root of the repository, concatenate the common term datasets with:
+
+    ```shell
+    csvcat --skip-headers source-datasets/fishes/data-with-common-terms.tsv source-datasets/harmonia/data-with-common-terms.tsv source-datasets/macroinvertebrates/data-with-common-terms.tsv source-datasets/plants/data-with-common-terms.tsv source-datasets/rinse/data-with-common-terms.tsv source-datasets/rinse-annex-b/data-with-common-terms.tsv source-datasets/wrims/data-with-common-terms.tsv > data/concatenated.tsv
+    ```
