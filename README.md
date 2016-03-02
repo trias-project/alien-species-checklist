@@ -41,6 +41,9 @@ Source datasets are [described here](source-datasets).
         presenceFL
         presenceWA
         presenceBR
+        presenceBECoast
+        presenceBPNS
+        presenceBEEZ
         firstObservationYearBE
         firstObservationYearFL
         latestObservationYearBE
