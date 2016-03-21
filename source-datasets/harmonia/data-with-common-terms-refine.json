@@ -965,5 +965,44 @@
     "baseColumnName": "genus",
     "expression": "null",
     "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column presenceBECoast at index 30 based on column presenceBR using expression null",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "newColumnName": "presenceBECoast",
+    "columnInsertIndex": 30,
+    "baseColumnName": "presenceBR",
+    "expression": "null",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column presenceBPNS at index 31 based on column presenceBECoast using expression null",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "newColumnName": "presenceBPNS",
+    "columnInsertIndex": 31,
+    "baseColumnName": "presenceBECoast",
+    "expression": "null",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column presenceBEEZ at index 32 based on column presenceBPNS using expression null",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "newColumnName": "presenceBEEZ",
+    "columnInsertIndex": 32,
+    "baseColumnName": "presenceBPNS",
+    "expression": "null",
+    "onError": "set-to-blank"
   }
 ]

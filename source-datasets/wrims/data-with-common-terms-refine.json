@@ -1,5 +1,93 @@
 [
   {
+    "op": "core/column-addition",
+    "description": "Create column presenceBE at index 9 based on column PlaceName using expression grel:value",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "mode": "text",
+          "caseSensitive": false,
+          "query": "Belgium",
+          "name": "PlaceName",
+          "type": "text",
+          "columnName": "PlaceName"
+        }
+      ]
+    },
+    "newColumnName": "presenceBE",
+    "columnInsertIndex": 9,
+    "baseColumnName": "PlaceName",
+    "expression": "grel:value",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column presenceBPNS at index 9 based on column PlaceName using expression grel:value",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "mode": "text",
+          "caseSensitive": false,
+          "query": "Belgian part of the North Sea",
+          "name": "PlaceName",
+          "type": "text",
+          "columnName": "PlaceName"
+        }
+      ]
+    },
+    "newColumnName": "presenceBPNS",
+    "columnInsertIndex": 9,
+    "baseColumnName": "PlaceName",
+    "expression": "grel:value",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column presenceBEEZ at index 9 based on column PlaceName using expression grel:value",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "mode": "text",
+          "caseSensitive": false,
+          "query": "Belgian Exclusive Economic Zone",
+          "name": "PlaceName",
+          "type": "text",
+          "columnName": "PlaceName"
+        }
+      ]
+    },
+    "newColumnName": "presenceBEEZ",
+    "columnInsertIndex": 9,
+    "baseColumnName": "PlaceName",
+    "expression": "grel:value",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column presenceBECoast at index 9 based on column PlaceName using expression grel:value",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "mode": "text",
+          "caseSensitive": false,
+          "query": "Belgian Coast",
+          "name": "PlaceName",
+          "type": "text",
+          "columnName": "PlaceName"
+        }
+      ]
+    },
+    "newColumnName": "presenceBECoast",
+    "columnInsertIndex": 9,
+    "baseColumnName": "PlaceName",
+    "expression": "grel:value",
+    "onError": "set-to-blank"
+  },
+  {
     "op": "core/column-rename",
     "description": "Rename column Class to class",
     "oldColumnName": "Class",
@@ -314,19 +402,6 @@
     "description": "Move column order to position 12",
     "columnName": "order",
     "index": 12
-  },
-  {
-    "op": "core/column-addition",
-    "description": "Create column presenceBE at index 15 based on column phylum using expression null",
-    "engineConfig": {
-      "mode": "row-based",
-      "facets": []
-    },
-    "newColumnName": "presenceBE",
-    "columnInsertIndex": 15,
-    "baseColumnName": "phylum",
-    "expression": "null",
-    "onError": "set-to-blank"
   },
   {
     "op": "core/column-addition",
@@ -793,5 +868,155 @@
         "to": "wrims"
       }
     ]
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column presenceBECoast to position 37",
+    "columnName": "presenceBECoast",
+    "index": 37
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column presenceBECoast to position 36",
+    "columnName": "presenceBECoast",
+    "index": 36
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column presenceBECoast to position 35",
+    "columnName": "presenceBECoast",
+    "index": 35
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column presenceBECoast to position 34",
+    "columnName": "presenceBECoast",
+    "index": 34
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column presenceBECoast to position 33",
+    "columnName": "presenceBECoast",
+    "index": 33
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column presenceBECoast to position 32",
+    "columnName": "presenceBECoast",
+    "index": 32
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column presenceBECoast to position 31",
+    "columnName": "presenceBECoast",
+    "index": 31
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column presenceBECoast to position 30",
+    "columnName": "presenceBECoast",
+    "index": 30
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column presenceBEEZ to position 38",
+    "columnName": "presenceBEEZ",
+    "index": 38
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column presenceBEEZ to position 37",
+    "columnName": "presenceBEEZ",
+    "index": 37
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column presenceBEEZ to position 36",
+    "columnName": "presenceBEEZ",
+    "index": 36
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column presenceBEEZ to position 35",
+    "columnName": "presenceBEEZ",
+    "index": 35
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column presenceBEEZ to position 34",
+    "columnName": "presenceBEEZ",
+    "index": 34
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column presenceBEEZ to position 33",
+    "columnName": "presenceBEEZ",
+    "index": 33
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column presenceBEEZ to position 32",
+    "columnName": "presenceBEEZ",
+    "index": 32
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column presenceBEEZ to position 31",
+    "columnName": "presenceBEEZ",
+    "index": 31
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column presenceBPNS to position 39",
+    "columnName": "presenceBPNS",
+    "index": 39
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column presenceBPNS to position 38",
+    "columnName": "presenceBPNS",
+    "index": 38
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column presenceBPNS to position 37",
+    "columnName": "presenceBPNS",
+    "index": 37
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column presenceBPNS to position 36",
+    "columnName": "presenceBPNS",
+    "index": 36
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column presenceBPNS to position 35",
+    "columnName": "presenceBPNS",
+    "index": 35
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column presenceBPNS to position 34",
+    "columnName": "presenceBPNS",
+    "index": 34
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column presenceBPNS to position 33",
+    "columnName": "presenceBPNS",
+    "index": 33
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column presenceBPNS to position 32",
+    "columnName": "presenceBPNS",
+    "index": 32
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column presenceBPNS to position 31",
+    "columnName": "presenceBPNS",
+    "index": 31
   }
 ]
