@@ -801,5 +801,282 @@
     "description": "Rename column firstOservationYearFL to firstObservationYearFL",
     "oldColumnName": "firstOservationYearFL",
     "newColumnName": "firstObservationYearFL"
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column introductionPathway",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Grain, wool, …",
+                "l": "Grain, wool, …"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "introductionPathway",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "introductionPathway"
+        }
+      ]
+    },
+    "columnName": "introductionPathway",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Grain, wool, …"
+        ],
+        "to": "Grain, wool, etc"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column introductionPathway",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "introductionPathway",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Grain, ore,…"
+        ],
+        "to": "Grain, ore, etc"
+      }
+    ]
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column introductionPathway2 at index 23 based on column introductionPathway using expression grel:replace (value, \"...\", \"etc\")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "newColumnName": "introductionPathway2",
+    "columnInsertIndex": 23,
+    "baseColumnName": "introductionPathway",
+    "expression": "grel:replace (value, \"...\", \"etc\")",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-removal",
+    "description": "Remove column introductionPathway2",
+    "columnName": "introductionPathway2"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column introductionPathWay2 at index 23 based on column introductionPathway using expression grel:replace (value,\" …\", \"etc\")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Grain, seeds, …",
+                "l": "Grain, seeds, …"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "introductionPathway2",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "introductionPathway2"
+        }
+      ]
+    },
+    "newColumnName": "introductionPathWay2",
+    "columnInsertIndex": 23,
+    "baseColumnName": "introductionPathway",
+    "expression": "grel:replace (value,\" …\", \"etc\")",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-removal",
+    "description": "Remove column introductionPathWay2",
+    "columnName": "introductionPathWay2"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column introductionPathway2 at index 23 based on column introductionPathway using expression grel:replace (value,\"…\", \"etc\")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Grain, seeds, …",
+                "l": "Grain, seeds, …"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "introductionPathway2",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "introductionPathway2"
+        },
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Agric.,…",
+                "l": "Agric.,…"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "introductionPathWay2",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "introductionPathWay2"
+        }
+      ]
+    },
+    "newColumnName": "introductionPathway2",
+    "columnInsertIndex": 23,
+    "baseColumnName": "introductionPathway",
+    "expression": "grel:replace (value,\"…\", \"etc\")",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column introductionPathway2",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "introductionPathway2",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Grain,..."
+        ],
+        "to": "Grain, etc"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column introductionPathway2",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "introductionPathway2",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Nurseries, ..."
+        ],
+        "to": "Nurseries, etc"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column introductionPathway2",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "introductionPathway2",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Ore,..."
+        ],
+        "to": "Ore, etc"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column introductionPathway2",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "columnName": "introductionPathway2",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Wool, grain, ..."
+        ],
+        "to": "Wool, grain, etc"
+      }
+    ]
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column introductionPathWay3 at index 24 based on column introductionPathway2 using expression grel:replace (value,\"…\", \" etc\")",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "newColumnName": "introductionPathWay3",
+    "columnInsertIndex": 24,
+    "baseColumnName": "introductionPathway2",
+    "expression": "grel:replace (value,\"…\", \" etc\")",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-removal",
+    "description": "Remove column introductionPathWay3",
+    "columnName": "introductionPathWay3"
+  },
+  {
+    "op": "core/column-removal",
+    "description": "Remove column introductionPathway",
+    "columnName": "introductionPathway"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column introductionPathway2 to introductionPathway",
+    "oldColumnName": "introductionPathway2",
+    "newColumnName": "introductionPathway"
   }
 ]
