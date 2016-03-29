@@ -1,0 +1,435 @@
+[
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column nameMatchValidation using expression grel:if(cells[\"scientificName\"].value == cells[\"gbifapi_canonicalName\"].value,\"names match\",\"\")",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "nameMatchValidation",
+    "expression": "grel:if(cells[\"scientificName\"].value == cells[\"gbifapi_canonicalName\"].value,\"exact match\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column subspecies to infraspecificEpithet",
+    "oldColumnName": "subspecies",
+    "newColumnName": "infraspecificEpithet"
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column nameMatchValidation",
+    "engineConfig": {
+      "facets": [
+        {
+          "invert": false,
+          "expression": "value",
+          "selectError": false,
+          "omitError": false,
+          "selectBlank": false,
+          "name": "gbifapi_rank",
+          "omitBlank": false,
+          "columnName": "gbifapi_rank",
+          "type": "list",
+          "selection": [
+            {
+              "v": {
+                "v": "SUBSPECIES",
+                "l": "SUBSPECIES"
+              }
+            }
+          ]
+        },
+        {
+          "invert": false,
+          "expression": "value",
+          "selectError": false,
+          "omitError": false,
+          "selectBlank": false,
+          "name": "kingdom",
+          "omitBlank": false,
+          "columnName": "kingdom",
+          "type": "list",
+          "selection": [
+            {
+              "v": {
+                "v": "Plantae",
+                "l": "Plantae"
+              }
+            }
+          ]
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "nameMatchValidation",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "names match"
+        ],
+        "to": "infraspecificEpithet assumed subsp."
+      }
+    ]
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column scientificName using expression grel:split(value,\"\")[0] + \" \" + split(value,\"\")[1] + \" subsp. \" + split(value,\"\")[2]",
+    "engineConfig": {
+      "facets": [
+        {
+          "invert": false,
+          "expression": "value",
+          "selectError": false,
+          "omitError": false,
+          "selectBlank": false,
+          "name": "nameMatchValidation",
+          "omitBlank": false,
+          "columnName": "nameMatchValidation",
+          "type": "list",
+          "selection": [
+            {
+              "v": {
+                "v": "infraspecificEpithet assumed subsp.",
+                "l": "infraspecificEpithet assumed subsp."
+              }
+            }
+          ]
+        },
+        {
+          "invert": false,
+          "expression": "value",
+          "selectError": false,
+          "omitError": false,
+          "selectBlank": false,
+          "name": "gbifapi_rank",
+          "omitBlank": false,
+          "columnName": "gbifapi_rank",
+          "type": "list",
+          "selection": [
+            {
+              "v": {
+                "v": "SUBSPECIES",
+                "l": "SUBSPECIES"
+              }
+            }
+          ]
+        },
+        {
+          "invert": false,
+          "expression": "value",
+          "selectError": false,
+          "omitError": false,
+          "selectBlank": false,
+          "name": "kingdom",
+          "omitBlank": false,
+          "columnName": "kingdom",
+          "type": "list",
+          "selection": [
+            {
+              "v": {
+                "v": "Plantae",
+                "l": "Plantae"
+              }
+            }
+          ]
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "grel:split(value,\"\")[0] + \" \" + split(value,\"\")[1] + \" subsp. \" + split(value,\"\")[2]",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column nameMatchValidation",
+    "engineConfig": {
+      "facets": [
+        {
+          "invert": false,
+          "expression": "value",
+          "selectError": false,
+          "omitError": false,
+          "selectBlank": false,
+          "name": "gbifapi_rank",
+          "omitBlank": false,
+          "columnName": "gbifapi_rank",
+          "type": "list",
+          "selection": [
+            {
+              "v": {
+                "v": "VARIETY",
+                "l": "VARIETY"
+              }
+            }
+          ]
+        },
+        {
+          "invert": false,
+          "expression": "value",
+          "selectError": false,
+          "omitError": false,
+          "selectBlank": false,
+          "name": "kingdom",
+          "omitBlank": false,
+          "columnName": "kingdom",
+          "type": "list",
+          "selection": [
+            {
+              "v": {
+                "v": "Plantae",
+                "l": "Plantae"
+              }
+            },
+            {
+              "v": {
+                "v": "Fungi",
+                "l": "Fungi"
+              }
+            }
+          ]
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "nameMatchValidation",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "names match"
+        ],
+        "to": "infraspecificEpithet assumed var."
+      }
+    ]
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column scientificName using expression grel:split(value,\"\")[0] + \" \" + split(value,\"\")[1] + \" var. \" + split(value,\"\")[2]",
+    "engineConfig": {
+      "facets": [
+        {
+          "invert": false,
+          "expression": "value",
+          "selectError": false,
+          "omitError": false,
+          "selectBlank": false,
+          "name": "nameMatchValidation",
+          "omitBlank": false,
+          "columnName": "nameMatchValidation",
+          "type": "list",
+          "selection": [
+            {
+              "v": {
+                "v": "infraspecificEpithet assumed var.",
+                "l": "infraspecificEpithet assumed var."
+              }
+            }
+          ]
+        },
+        {
+          "invert": false,
+          "expression": "value",
+          "selectError": false,
+          "omitError": false,
+          "selectBlank": false,
+          "name": "gbifapi_rank",
+          "omitBlank": false,
+          "columnName": "gbifapi_rank",
+          "type": "list",
+          "selection": [
+            {
+              "v": {
+                "v": "VARIETY",
+                "l": "VARIETY"
+              }
+            }
+          ]
+        },
+        {
+          "invert": false,
+          "expression": "value",
+          "selectError": false,
+          "omitError": false,
+          "selectBlank": false,
+          "name": "kingdom",
+          "omitBlank": false,
+          "columnName": "kingdom",
+          "type": "list",
+          "selection": [
+            {
+              "v": {
+                "v": "Plantae",
+                "l": "Plantae"
+              }
+            },
+            {
+              "v": {
+                "v": "Fungi",
+                "l": "Fungi"
+              }
+            }
+          ]
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "grel:split(value,\"\")[0] + \" \" + split(value,\"\")[1] + \" var. \" + split(value,\"\")[2]",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column nameMatchValidation",
+    "engineConfig": {
+      "facets": [
+        {
+          "invert": false,
+          "expression": "value",
+          "selectError": false,
+          "omitError": false,
+          "selectBlank": false,
+          "name": "gbifapi_rank",
+          "omitBlank": false,
+          "columnName": "gbifapi_rank",
+          "type": "list",
+          "selection": [
+            {
+              "v": {
+                "v": "FORM",
+                "l": "FORM"
+              }
+            }
+          ]
+        },
+        {
+          "invert": false,
+          "expression": "value",
+          "selectError": false,
+          "omitError": false,
+          "selectBlank": false,
+          "name": "kingdom",
+          "omitBlank": false,
+          "columnName": "kingdom",
+          "type": "list",
+          "selection": [
+            {
+              "v": {
+                "v": "Plantae",
+                "l": "Plantae"
+              }
+            },
+            {
+              "v": {
+                "v": "Fungi",
+                "l": "Fungi"
+              }
+            }
+          ]
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "nameMatchValidation",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "names match"
+        ],
+        "to": "infraspecificEpithet assumed f."
+      }
+    ]
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column scientificName using expression grel:split(value,\"\")[0] + \" \" + split(value,\"\")[1] + \" f. \" + split(value,\"\")[2]",
+    "engineConfig": {
+      "facets": [
+        {
+          "invert": false,
+          "expression": "value",
+          "selectError": false,
+          "omitError": false,
+          "selectBlank": false,
+          "name": "nameMatchValidation",
+          "omitBlank": false,
+          "columnName": "nameMatchValidation",
+          "type": "list",
+          "selection": [
+            {
+              "v": {
+                "v": "infraspecificEpithet assumed f.",
+                "l": "infraspecificEpithet assumed f."
+              }
+            }
+          ]
+        },
+        {
+          "invert": false,
+          "expression": "value",
+          "selectError": false,
+          "omitError": false,
+          "selectBlank": false,
+          "name": "gbifapi_rank",
+          "omitBlank": false,
+          "columnName": "gbifapi_rank",
+          "type": "list",
+          "selection": [
+            {
+              "v": {
+                "v": "FORM",
+                "l": "FORM"
+              }
+            }
+          ]
+        },
+        {
+          "invert": false,
+          "expression": "value",
+          "selectError": false,
+          "omitError": false,
+          "selectBlank": false,
+          "name": "kingdom",
+          "omitBlank": false,
+          "columnName": "kingdom",
+          "type": "list",
+          "selection": [
+            {
+              "v": {
+                "v": "Plantae",
+                "l": "Plantae"
+              }
+            },
+            {
+              "v": {
+                "v": "Fungi",
+                "l": "Fungi"
+              }
+            }
+          ]
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "grel:split(value,\"\")[0] + \" \" + split(value,\"\")[1] + \" f. \" + split(value,\"\")[2]",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  }
+]
