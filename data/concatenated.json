@@ -42,5 +42,57 @@
     "onError": "keep-original",
     "repeat": false,
     "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column scientificName using expression grel:trim(value)",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "grel:trim(value)",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column nameMatchValidation using expression grel:if(cells[\"scientificName\"].value == cells[\"gbifapi_scientificName\"].value,\"exact match with gbifapi_scientificName\",\"\")",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "nameMatchValidation",
+    "expression": "grel:if(cells[\"scientificName\"].value == cells[\"gbifapi_scientificName\"].value,\"exact match with gbifapi_scientificName\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column nameMatchValidation using expression grel:if(cells[\"scientificName\"].value == cells[\"gbifapi_canonicalName\"].value,\"exact match with gbifapi_canonicalName\",\"\")",
+    "engineConfig": {
+      "facets": [
+        {
+          "invert": false,
+          "expression": "value",
+          "selectError": false,
+          "omitError": false,
+          "selectBlank": true,
+          "name": "nameMatchValidation",
+          "omitBlank": false,
+          "columnName": "nameMatchValidation",
+          "type": "list",
+          "selection": []
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "nameMatchValidation",
+    "expression": "grel:if(cells[\"scientificName\"].value == cells[\"gbifapi_canonicalName\"].value,\"exact match with gbifapi_canonicalName\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
   }
 ]
