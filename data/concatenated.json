@@ -1,0 +1,73 @@
+[
+  {
+    "op": "core/column-addition",
+    "description": "Create column index at index 1 based on column taxonID using expression grel:row.record.index",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "newColumnName": "index",
+    "columnInsertIndex": 1,
+    "baseColumnName": "taxonID",
+    "expression": "grel:row.record.index",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column index to position 0",
+    "columnName": "index",
+    "index": 0
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column scientificName using expression grel:trim(cells[\"genus\"].value + \" \" + cells[\"specificEpithet\"].value)",
+    "engineConfig": {
+      "facets": [
+        {
+          "invert": false,
+          "expression": "value",
+          "selectError": false,
+          "omitError": false,
+          "selectBlank": true,
+          "name": "scientificName",
+          "omitBlank": false,
+          "columnName": "scientificName",
+          "type": "list",
+          "selection": []
+        }
+      ],
+      "mode": "record-based"
+    },
+    "columnName": "scientificName",
+    "expression": "grel:trim(cells[\"genus\"].value + \" \" + cells[\"specificEpithet\"].value)",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column scientificName using expression grel:cells[\"genus\"].value",
+    "engineConfig": {
+      "facets": [
+        {
+          "invert": false,
+          "expression": "value",
+          "selectError": false,
+          "omitError": false,
+          "selectBlank": true,
+          "name": "scientificName",
+          "omitBlank": false,
+          "columnName": "scientificName",
+          "type": "list",
+          "selection": []
+        }
+      ],
+      "mode": "record-based"
+    },
+    "columnName": "scientificName",
+    "expression": "grel:cells[\"genus\"].value",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  }
+]
