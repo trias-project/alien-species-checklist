@@ -868,5 +868,24 @@
     "op": "core/column-removal",
     "description": "Remove column taxonGroup",
     "columnName": "taxonGroup"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column verbatimScientificName at index 5 based on column scientificName using expression grel:value",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "newColumnName": "verbatimScientificName",
+    "columnInsertIndex": 5,
+    "baseColumnName": "scientificName",
+    "expression": "grel:value",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column subspecies to infraspecificEpithet",
+    "oldColumnName": "subspecies",
+    "newColumnName": "infraspecificEpithet"
   }
 ]
