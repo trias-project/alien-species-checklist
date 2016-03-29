@@ -75,14 +75,14 @@
     "engineConfig": {
       "facets": [
         {
-          "invert": false,
           "expression": "value",
+          "invert": false,
           "selectError": false,
           "omitError": false,
-          "selectBlank": true,
           "name": "nameMatchValidation",
-          "omitBlank": false,
+          "selectBlank": true,
           "columnName": "nameMatchValidation",
+          "omitBlank": false,
           "type": "list",
           "selection": []
         }
@@ -91,6 +91,28 @@
     },
     "columnName": "nameMatchValidation",
     "expression": "grel:if(cells[\"scientificName\"].value == cells[\"gbifapi_canonicalName\"].value,\"exact match with gbifapi_canonicalName\",\"\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column scientificName using expression grel:replace(value,\" sp.\",\"\")",
+    "engineConfig": {
+      "facets": [
+        {
+          "query": " sp.",
+          "name": "scientificName",
+          "caseSensitive": false,
+          "columnName": "scientificName",
+          "type": "text",
+          "mode": "text"
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "grel:replace(value,\" sp.\",\"\")",
     "onError": "keep-original",
     "repeat": false,
     "repeatCount": 10
