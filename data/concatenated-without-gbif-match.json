@@ -24,14 +24,14 @@
     "engineConfig": {
       "facets": [
         {
-          "invert": false,
           "expression": "isBlank(value)",
+          "invert": false,
           "selectError": false,
           "omitError": false,
-          "selectBlank": false,
           "name": "genus",
-          "omitBlank": false,
+          "selectBlank": false,
           "columnName": "genus",
+          "omitBlank": false,
           "type": "list",
           "selection": [
             {
@@ -62,14 +62,14 @@
     "engineConfig": {
       "facets": [
         {
-          "invert": false,
           "expression": "isBlank(value)",
+          "invert": false,
           "selectError": false,
           "omitError": false,
-          "selectBlank": false,
           "name": "genus",
-          "omitBlank": false,
+          "selectBlank": false,
           "columnName": "genus",
+          "omitBlank": false,
           "type": "list",
           "selection": [
             {
@@ -100,14 +100,14 @@
     "engineConfig": {
       "facets": [
         {
-          "invert": false,
           "expression": "isBlank(value)",
+          "invert": false,
           "selectError": false,
           "omitError": false,
-          "selectBlank": false,
           "name": "genus",
-          "omitBlank": false,
+          "selectBlank": false,
           "columnName": "genus",
+          "omitBlank": false,
           "type": "list",
           "selection": [
             {
@@ -126,5 +126,747 @@
     "onError": "keep-original",
     "repeat": false,
     "repeatCount": 10
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column nameMatchValidation at index 1 based on column index using expression null",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "newColumnName": "nameMatchValidation",
+    "columnInsertIndex": 1,
+    "baseColumnName": "index",
+    "expression": "null",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column kingdom",
+    "engineConfig": {
+      "facets": [
+        {
+          "invert": false,
+          "expression": "value",
+          "selectError": false,
+          "omitError": false,
+          "selectBlank": false,
+          "name": "datasetName",
+          "omitBlank": false,
+          "columnName": "datasetName",
+          "type": "list",
+          "selection": [
+            {
+              "v": {
+                "v": "fishes",
+                "l": "fishes"
+              }
+            }
+          ]
+        }
+      ],
+      "mode": "record-based"
+    },
+    "columnName": "kingdom",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": true,
+        "fromError": false,
+        "from": [],
+        "to": "Animalia"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column kingdom",
+    "engineConfig": {
+      "facets": [
+        {
+          "invert": false,
+          "expression": "value",
+          "selectError": false,
+          "omitError": false,
+          "selectBlank": false,
+          "name": "datasetName",
+          "omitBlank": false,
+          "columnName": "datasetName",
+          "type": "list",
+          "selection": [
+            {
+              "v": {
+                "v": "plants",
+                "l": "plants"
+              }
+            }
+          ]
+        }
+      ],
+      "mode": "record-based"
+    },
+    "columnName": "kingdom",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": true,
+        "fromError": false,
+        "from": [],
+        "to": "Plantae"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column kingdom",
+    "engineConfig": {
+      "facets": [
+        {
+          "invert": false,
+          "expression": "value",
+          "selectError": false,
+          "omitError": false,
+          "selectBlank": false,
+          "name": "datasetName",
+          "omitBlank": false,
+          "columnName": "datasetName",
+          "type": "list",
+          "selection": [
+            {
+              "v": {
+                "v": "macroinvertebrates",
+                "l": "macroinvertebrates"
+              }
+            }
+          ]
+        }
+      ],
+      "mode": "record-based"
+    },
+    "columnName": "kingdom",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": true,
+        "fromError": false,
+        "from": [],
+        "to": "Animalia"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column kingdom",
+    "engineConfig": {
+      "facets": [
+        {
+          "invert": false,
+          "expression": "value",
+          "selectError": false,
+          "omitError": false,
+          "selectBlank": false,
+          "name": "datasetName",
+          "omitBlank": false,
+          "columnName": "datasetName",
+          "type": "list",
+          "selection": [
+            {
+              "v": {
+                "v": "rinse",
+                "l": "rinse"
+              }
+            },
+            {
+              "v": {
+                "v": "wrims",
+                "l": "wrims"
+              }
+            },
+            {
+              "v": {
+                "v": "rinse-annex-b",
+                "l": "rinse-annex-b"
+              }
+            }
+          ]
+        },
+        {
+          "invert": false,
+          "expression": "value",
+          "selectError": false,
+          "omitError": false,
+          "selectBlank": false,
+          "name": "phylum",
+          "omitBlank": false,
+          "columnName": "phylum",
+          "type": "list",
+          "selection": [
+            {
+              "v": {
+                "v": "Chlorophyta",
+                "l": "Chlorophyta"
+              }
+            },
+            {
+              "v": {
+                "v": "Pinophyta",
+                "l": "Pinophyta"
+              }
+            },
+            {
+              "v": {
+                "v": "Pteridophyta",
+                "l": "Pteridophyta"
+              }
+            },
+            {
+              "v": {
+                "v": "Bryophyta",
+                "l": "Bryophyta"
+              }
+            },
+            {
+              "v": {
+                "v": "Marchantiophyta",
+                "l": "Marchantiophyta"
+              }
+            },
+            {
+              "v": {
+                "v": "Lycopodiophyta",
+                "l": "Lycopodiophyta"
+              }
+            },
+            {
+              "v": {
+                "v": "Rhodophyta",
+                "l": "Rhodophyta"
+              }
+            },
+            {
+              "v": {
+                "v": "Angiospermae",
+                "l": "Angiospermae"
+              }
+            }
+          ]
+        }
+      ],
+      "mode": "record-based"
+    },
+    "columnName": "kingdom",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": true,
+        "fromError": false,
+        "from": [],
+        "to": "Plantae"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column kingdom",
+    "engineConfig": {
+      "facets": [
+        {
+          "invert": false,
+          "expression": "value",
+          "selectError": false,
+          "omitError": false,
+          "selectBlank": false,
+          "name": "datasetName",
+          "omitBlank": false,
+          "columnName": "datasetName",
+          "type": "list",
+          "selection": [
+            {
+              "v": {
+                "v": "rinse",
+                "l": "rinse"
+              }
+            },
+            {
+              "v": {
+                "v": "wrims",
+                "l": "wrims"
+              }
+            },
+            {
+              "v": {
+                "v": "rinse-annex-b",
+                "l": "rinse-annex-b"
+              }
+            }
+          ]
+        },
+        {
+          "invert": false,
+          "expression": "value",
+          "selectError": false,
+          "omitError": false,
+          "selectBlank": false,
+          "name": "phylum",
+          "omitBlank": false,
+          "columnName": "phylum",
+          "type": "list",
+          "selection": [
+            {
+              "v": {
+                "v": "Porifera",
+                "l": "Porifera"
+              }
+            },
+            {
+              "v": {
+                "v": "Bryozoa",
+                "l": "Bryozoa"
+              }
+            },
+            {
+              "v": {
+                "v": "Platyhelminthes",
+                "l": "Platyhelminthes"
+              }
+            },
+            {
+              "v": {
+                "v": "Annelida",
+                "l": "Annelida"
+              }
+            },
+            {
+              "v": {
+                "v": "Mollusca",
+                "l": "Mollusca"
+              }
+            },
+            {
+              "v": {
+                "v": "Rotifera",
+                "l": "Rotifera"
+              }
+            },
+            {
+              "v": {
+                "v": "Nematoda",
+                "l": "Nematoda"
+              }
+            },
+            {
+              "v": {
+                "v": "Chordata",
+                "l": "Chordata"
+              }
+            },
+            {
+              "v": {
+                "v": "Nemertea",
+                "l": "Nemertea"
+              }
+            },
+            {
+              "v": {
+                "v": "Arthropoda",
+                "l": "Arthropoda"
+              }
+            },
+            {
+              "v": {
+                "v": "Ctenophora",
+                "l": "Ctenophora"
+              }
+            },
+            {
+              "v": {
+                "v": "Cnidaria",
+                "l": "Cnidaria"
+              }
+            }
+          ]
+        }
+      ],
+      "mode": "record-based"
+    },
+    "columnName": "kingdom",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": true,
+        "fromError": false,
+        "from": [],
+        "to": "Animalia"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column kingdom",
+    "engineConfig": {
+      "facets": [
+        {
+          "invert": false,
+          "expression": "value",
+          "selectError": false,
+          "omitError": false,
+          "selectBlank": false,
+          "name": "datasetName",
+          "omitBlank": false,
+          "columnName": "datasetName",
+          "type": "list",
+          "selection": [
+            {
+              "v": {
+                "v": "rinse",
+                "l": "rinse"
+              }
+            },
+            {
+              "v": {
+                "v": "rinse-annex-b",
+                "l": "rinse-annex-b"
+              }
+            },
+            {
+              "v": {
+                "v": "wrims",
+                "l": "wrims"
+              }
+            }
+          ]
+        },
+        {
+          "invert": false,
+          "expression": "value",
+          "selectError": false,
+          "omitError": false,
+          "selectBlank": false,
+          "name": "phylum",
+          "omitBlank": false,
+          "columnName": "phylum",
+          "type": "list",
+          "selection": [
+            {
+              "v": {
+                "v": "Ascomycota",
+                "l": "Ascomycota"
+              }
+            },
+            {
+              "v": {
+                "v": "Chytridiomycota",
+                "l": "Chytridiomycota"
+              }
+            },
+            {
+              "v": {
+                "v": "Basidiomycota",
+                "l": "Basidiomycota"
+              }
+            },
+            {
+              "v": {
+                "v": "Zygomycota",
+                "l": "Zygomycota"
+              }
+            }
+          ]
+        }
+      ],
+      "mode": "record-based"
+    },
+    "columnName": "kingdom",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": true,
+        "fromError": false,
+        "from": [],
+        "to": "Fungi"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column kingdom",
+    "engineConfig": {
+      "facets": [
+        {
+          "invert": false,
+          "expression": "value",
+          "selectError": false,
+          "omitError": false,
+          "selectBlank": false,
+          "name": "datasetName",
+          "omitBlank": false,
+          "columnName": "datasetName",
+          "type": "list",
+          "selection": [
+            {
+              "v": {
+                "v": "rinse",
+                "l": "rinse"
+              }
+            },
+            {
+              "v": {
+                "v": "wrims",
+                "l": "wrims"
+              }
+            },
+            {
+              "v": {
+                "v": "rinse-annex-b",
+                "l": "rinse-annex-b"
+              }
+            }
+          ]
+        },
+        {
+          "invert": false,
+          "expression": "value",
+          "selectError": false,
+          "omitError": false,
+          "selectBlank": false,
+          "name": "phylum",
+          "omitBlank": false,
+          "columnName": "phylum",
+          "type": "list",
+          "selection": [
+            {
+              "v": {
+                "v": "Proteobacteria",
+                "l": "Proteobacteria"
+              }
+            },
+            {
+              "v": {
+                "v": "Firmicutes",
+                "l": "Firmicutes"
+              }
+            }
+          ]
+        }
+      ],
+      "mode": "record-based"
+    },
+    "columnName": "kingdom",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": true,
+        "fromError": false,
+        "from": [],
+        "to": "Bacteria"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column kingdom",
+    "engineConfig": {
+      "facets": [
+        {
+          "invert": false,
+          "expression": "value",
+          "selectError": false,
+          "omitError": false,
+          "selectBlank": false,
+          "name": "datasetName",
+          "omitBlank": false,
+          "columnName": "datasetName",
+          "type": "list",
+          "selection": [
+            {
+              "v": {
+                "v": "rinse",
+                "l": "rinse"
+              }
+            },
+            {
+              "v": {
+                "v": "wrims",
+                "l": "wrims"
+              }
+            },
+            {
+              "v": {
+                "v": "rinse-annex-b",
+                "l": "rinse-annex-b"
+              }
+            }
+          ]
+        },
+        {
+          "invert": false,
+          "expression": "value",
+          "selectError": false,
+          "omitError": false,
+          "selectBlank": false,
+          "name": "phylum",
+          "omitBlank": false,
+          "columnName": "phylum",
+          "type": "list",
+          "selection": [
+            {
+              "v": {
+                "v": "Haptophyta",
+                "l": "Haptophyta"
+              }
+            }
+          ]
+        }
+      ],
+      "mode": "record-based"
+    },
+    "columnName": "kingdom",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": true,
+        "fromError": false,
+        "from": [],
+        "to": "Chromista"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column kingdom",
+    "engineConfig": {
+      "facets": [
+        {
+          "invert": false,
+          "expression": "value",
+          "selectError": false,
+          "omitError": false,
+          "selectBlank": false,
+          "name": "datasetName",
+          "omitBlank": false,
+          "columnName": "datasetName",
+          "type": "list",
+          "selection": [
+            {
+              "v": {
+                "v": "rinse",
+                "l": "rinse"
+              }
+            },
+            {
+              "v": {
+                "v": "wrims",
+                "l": "wrims"
+              }
+            },
+            {
+              "v": {
+                "v": "rinse-annex-b",
+                "l": "rinse-annex-b"
+              }
+            }
+          ]
+        },
+        {
+          "invert": false,
+          "expression": "value",
+          "selectError": false,
+          "omitError": false,
+          "selectBlank": false,
+          "name": "phylum",
+          "omitBlank": false,
+          "columnName": "phylum",
+          "type": "list",
+          "selection": [
+            {
+              "v": {
+                "v": "Cercozoa",
+                "l": "Cercozoa"
+              }
+            }
+          ]
+        }
+      ],
+      "mode": "record-based"
+    },
+    "columnName": "kingdom",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": true,
+        "fromError": false,
+        "from": [],
+        "to": "Protozoa"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column phylum",
+    "engineConfig": {
+      "facets": [
+        {
+          "invert": false,
+          "expression": "value",
+          "selectError": false,
+          "omitError": false,
+          "selectBlank": false,
+          "name": "datasetName",
+          "omitBlank": false,
+          "columnName": "datasetName",
+          "type": "list",
+          "selection": [
+            {
+              "v": {
+                "v": "rinse",
+                "l": "rinse"
+              }
+            },
+            {
+              "v": {
+                "v": "rinse-annex-b",
+                "l": "rinse-annex-b"
+              }
+            },
+            {
+              "v": {
+                "v": "wrims",
+                "l": "wrims"
+              }
+            }
+          ]
+        },
+        {
+          "invert": false,
+          "expression": "value",
+          "selectError": false,
+          "omitError": false,
+          "selectBlank": true,
+          "name": "kingdom",
+          "omitBlank": false,
+          "columnName": "kingdom",
+          "type": "list",
+          "selection": []
+        }
+      ],
+      "mode": "record-based"
+    },
+    "columnName": "phylum",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Heterokontophyta "
+        ],
+        "to": "Heterokontophyta"
+      }
+    ]
+  },
+  {
+    "op": "core/column-removal",
+    "description": "Remove column taxonGroup",
+    "columnName": "taxonGroup"
   }
 ]
