@@ -1,0 +1,97 @@
+index	datasetName	scientificName	gbifapi_canonicalName	gbifapi_usageKey
+19	fishes	Proterorhinus semilunairs	Proterorhinus semilunaris	2379245
+193	macroinvertebrates	Athyaephyra desmaresti	Atyaephyra desmaresti	4417569
+230	macroinvertebrates	Mytilopsis leucophaeta	Mytilopsis leucophaeata	2287076
+338	plants	Corispermum gmelinii Bunge	Corispermum gmelini	3759793
+358	plants	Allium christophii Trautv.	Allium cristophii	2856780
+475	plants	Loncomelos brevistylus (Wolfner ) Dostál	Loncomelos brevistylum	2772890
+537	plants	Brachycome heterodonta DC.	Brachyscome heterodonta	3144548
+604	plants	Cyanus depressa (Bieb.) Soják	Cyanus depressus	5386007
+947	plants	Neslia paniculata (L.) Desv. subsp. paniculata	Neslia paniculata apiculata	3047151
+948	plants	Neslia paniculata (L.) Desv. subsp. thracia (Velen.) Bornm.	Neslia paniculata thracica	3047147
+1204	plants	Ephedra saxatalis (Stapf) Royle subsp. sikkimensis (Stapf) Florin	Ephedra saxatilis sikkimensis	2653395
+1760	plants	Papaver setiferum Goldblatt	Papaver setigerum	3602227
+2053	plants	Lachnagrostis billardieri (R. Brown) Trin.	Lachnagrostis billardierei	4136060
+2140	plants	Secale xderzhavinii Tzvelev	Secale derzhavinii	4121360
+2277	plants	Lysimachia monelli (L.) U. Manns et Anderb.	Lysimachia lunelli	4007543
+2402	plants	Prunus domestica L. subsp. instititia (L.) Bonnier et Layens	Prunus domestica insititia	6449311
+2484	plants	Salix elaeagnos Scop. subsp. angustifolia (Cariot) Rech. f.	Salix eleagnos angustifolia	6711137
+2561	plants	Nicotiana langsdorfii J.A. Weinm.	Nicotiana langsdorffii	2928759
+2700	rinse	Acrophyllum dentatum	Achrophyllum dentatum	2670002
+2833	rinse	Amaranthus polygonioides	Amaranthus polygonoides	5384342
+2854	rinse	Amethystea caeruea	Amethystea caerulea	4930999
+2880	rinse	Anchusa gmelinii	Anchusa gmelini	5662226
+2910	rinse	Antirrhinum granaticum	Antirrhinum graniticum	7333212
+2962	rinse	Artemisia ampestris	Artemisia campestris	3121461
+2973	rinse	Artemisia stellerana	Artemisia stelleriana	3121391
+3058	rinse	Avena sativa x sterilis	Avena sativa sterilis	4151419
+3117	rinse	Blitum nuttalianum	Blitum nuttallianum	5568899
+3347	rinse	Cerastium x maureri	Cerastium mairei	3810137
+3356	rinse	Chaenorrhinum origanifolium	Chaenorhinum origanifolium	7332415
+3381	rinse	Chenopodium album x amaranticolor	Chenopodium album amaranticolor	6449176
+3383	rinse	Chenopodium album x missouriense	Chenopodium album missouriense	3755928
+3423	rinse	Chenopodium x preissmannii	Chenopodium preissmanni	3757267
+3504	rinse	Convallaria bifolium kamtschaticum	Convallaria bifolia kamtschaticum	3685139
+3732	rinse	Dactyloctenium aegyptinum	Dactyloctenium aegyptium	2706188
+3883	rinse	Epilobium x novae-civitatis	Epilobium novae-civitalis	3663855
+3884	rinse	Epilobium x novae-civitatis	Epilobium novae-civitalis	3663855
+3991	rinse	Eucalyptus robustus	Eucalyptus robusta	3176743
+4060	rinse	Filipendula kamtschatica	Filipendula camtschatica	7272312
+4084	rinse	Fumaria kralikii	Fumaria kraliki	5530641
+4090	rinse	Fumaria officinalis x parviflora	Fumaria officinalis parviflora	5531933
+4296	rinse	Hiptage benghalensi	Hiptage benghalensis	3191302
+4338	rinse	Hypericum maculatum maculatum	Hypericum maculatum immaculatum	3714979
+4640	rinse	Lythrum acutangulatum	Lythrum acutangulum	3989886
+4814	rinse	Nepeta x faasenii	Nepeta faassenii	5610551
+4833	rinse	Nonnea pulla	Nonea pulla	7294644
+5024	rinse	Petasites fragans	Petasites fragrans	3088330
+5186	rinse	Portulaca oleracea granulostellulata	Portulaca oleracea granulatostellulata	3084726
+5321	rinse	Rorippa x hungarica	Rorippa hungaricum	3692775
+5406	rinse	Salix elaeagnos angustifolia	Salix eleagnos angustifolia	6711137
+5422	rinse	Salix x hirtei	Salix hirta	5582453
+5686	rinse	Solanum sodomaeum	Solanum sodomeum	3800427
+5737	rinse	Spergularia bocconei	Spergularia bocconi	3813145
+6036	rinse	Veronica x sooiana	Veronica sooana	3725991
+6165	rinse	Sparganophilus tamensis	Sparganophilus tamesis	2308258
+6175	rinse	Abgrallapspis cyanophylli	Abgrallaspis cyanophylli	2088176
+6189	rinse	Acartua omorii	Acartia omorii	4333247
+6216	rinse	Acrotrichis sanctahelenae	Acrotrichis sanctaehelenae	4435724
+6217	rinse	Actheres percarum	Achtheres percarum	2116335
+6219	rinse	Aculpos lycopersici	Aculops lycopersici	2128536
+6237	rinse	Aedes astropalpus	Aedes atropalpus	1651847
+6249	rinse	Aglyptinus agathidioides	Aglyptinus agathidiodes	4447352
+6293	rinse	Andricus lignicola	Andricus lignicolus	4497054
+6385	rinse	Athyaephyra desmaresti	Atyaephyra desmaresti	4417569
+6414	rinse	Bacillius rossius	Bacillus rossius	1415862
+6415	rinse	Bactrocera cucurbitae	Bactrocera curcubitae	5886573
+6472	rinse	Brevitalitrus hortulanus	Brevitalitrus hotulanus	6461401
+6686	rinse	Cupiennus getazi	Cupiennius getazi	2152793
+6694	rinse	Cydia milleniana	Cydia millenniana	1737917
+6844	rinse	Epuraea luteola	Epuraea luteolus	4452599
+6908	rinse	Ferrisisa virgata	Ferrisia virgata	2093900
+7057	rinse	Lamyctes coeculus	Lamyctes caeculus	2230946
+7116	rinse	Listroderes costrirostris	Listroderes costirostris	1207035
+7207	rinse	Metatrichoniscoides leydigii	Metatrichoniscoides leydigi	2208437
+7325	rinse	Opuntaspis philococcus	Opuntiaspis philococcus	2085087
+7350	rinse	Otiorhynchus salicicola	Otiorrhynchus salicicola	1200069
+7581	rinse	Psylliodes cucullata	Psylliodes cucullatus	1048468
+7667	rinse	Sclerocona acutellus	Sclerocona acutella	4531968
+7931	rinse	Xyleborus pfeilii	Xyleborus pfeili	5020629
+7934	rinse	Xylographus bostrychoides	Xylographus bostrichoides	4456373
+8144	rinse	Acrophyllum dentatum	Achrophyllum dentatum	2670002
+8155	rinse	Oedopodiella australis	Oedipodiella australis	2673839
+8157	rinse	Orthodontium pelucens	Orthodontium pellucens	2677056
+8291	rinse	Balearica pavonica	Balearica pavonina	5228232
+8522	rinse	Litoria ewingi	Litoria ewingii	2427705
+8728	rinse	Sarcophilus harrisi	Sarcophilus harrisii	2435451
+8811	rinse	Zosterops erythropleura	Zosterops erythropleurus	2489345
+8836	rinse	Beroe cucumi	Beroe cucumis	2501114
+9025	rinse	Mytilopsis leucophaeta	Mytilopsis leucophaeata	2287076
+9142	rinse	Picea alcockiana	Picea alcoquiana	5284853
+9241	rinse	Acrothamnion preisii	Acrothamnion preissii	2658484
+9297	rinse	Sarcodiotheca gaudichaudi	Sarcodiotheca gaudichaudii	2668224
+9311	rinse-annex-b	Anthurus muellerianus aseroëformis	Anthurus muellerianus aseroëformis	3284317
+9313	rinse-annex-b	Artemisia ampestris maritima	Artemisia campestris maritima	6077549
+9319	rinse-annex-b	Cinara pini habitans	Cinara pinihabitans	2073440
+9334	rinse-annex-b	Megabalanus coccoporna	Megabalanus coccopoma	5166489
+9347	rinse-annex-b	Hippollais rama	Hippolais rama	2493218
