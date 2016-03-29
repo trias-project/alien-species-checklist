@@ -116,5 +116,62 @@
     "onError": "keep-original",
     "repeat": false,
     "repeatCount": 10
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column nameMatchValidation",
+    "engineConfig": {
+      "facets": [
+        {
+          "invert": false,
+          "expression": "value",
+          "selectError": false,
+          "omitError": false,
+          "selectBlank": false,
+          "name": "gbifapi_matchType",
+          "omitBlank": false,
+          "columnName": "gbifapi_matchType",
+          "type": "list",
+          "selection": [
+            {
+              "v": {
+                "v": "EXACT",
+                "l": "EXACT"
+              }
+            }
+          ]
+        },
+        {
+          "invert": false,
+          "expression": "value",
+          "selectError": false,
+          "omitError": false,
+          "selectBlank": false,
+          "name": "gbifapi_confidence",
+          "omitBlank": false,
+          "columnName": "gbifapi_confidence",
+          "type": "list",
+          "selection": [
+            {
+              "v": {
+                "v": "100",
+                "l": "100"
+              }
+            }
+          ]
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "nameMatchValidation",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": true,
+        "fromError": false,
+        "from": [],
+        "to": "EXACT 100%"
+      }
+    ]
   }
 ]
