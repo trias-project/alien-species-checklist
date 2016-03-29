@@ -260,5 +260,18 @@
         "to": "Procambarus ('Marmorkrebs')"
       }
     ]
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column index using expression grel:rowIndex",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "index",
+    "expression": "grel:rowIndex",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
   }
 ]
