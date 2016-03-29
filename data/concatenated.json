@@ -75,14 +75,14 @@
     "engineConfig": {
       "facets": [
         {
-          "expression": "value",
           "invert": false,
+          "expression": "value",
           "selectError": false,
           "omitError": false,
-          "name": "nameMatchValidation",
           "selectBlank": true,
-          "columnName": "nameMatchValidation",
+          "name": "nameMatchValidation",
           "omitBlank": false,
+          "columnName": "nameMatchValidation",
           "type": "list",
           "selection": []
         }
@@ -123,14 +123,14 @@
     "engineConfig": {
       "facets": [
         {
-          "invert": false,
           "expression": "value",
+          "invert": false,
           "selectError": false,
           "omitError": false,
-          "selectBlank": false,
           "name": "gbifapi_matchType",
-          "omitBlank": false,
+          "selectBlank": false,
           "columnName": "gbifapi_matchType",
+          "omitBlank": false,
           "type": "list",
           "selection": [
             {
@@ -142,14 +142,14 @@
           ]
         },
         {
-          "invert": false,
           "expression": "value",
+          "invert": false,
           "selectError": false,
           "omitError": false,
-          "selectBlank": false,
           "name": "gbifapi_confidence",
-          "omitBlank": false,
+          "selectBlank": false,
           "columnName": "gbifapi_confidence",
+          "omitBlank": false,
           "type": "list",
           "selection": [
             {
@@ -171,6 +171,93 @@
         "fromError": false,
         "from": [],
         "to": "EXACT 100%"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column scientificName",
+    "engineConfig": {
+      "facets": [
+        {
+          "query": "\"",
+          "name": "scientificName",
+          "caseSensitive": false,
+          "columnName": "scientificName",
+          "type": "text",
+          "mode": "text"
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "\"Populus x jackii Sargent \"\"Gileadensis\"\" (P. balsamifera x deltoides)\""
+        ],
+        "to": "Populus x jackii Sargent 'Gileadensis' (P. balsamifera x deltoides)"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column scientificName",
+    "engineConfig": {
+      "facets": [
+        {
+          "query": "\"",
+          "name": "scientificName",
+          "caseSensitive": false,
+          "columnName": "scientificName",
+          "type": "text",
+          "mode": "text"
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "\"Sedum \"\"Autumn Joy\"\" (S. spectabile Boreau x telephium L.)\""
+        ],
+        "to": "Sedum 'Autumn Joy' (S. spectabile Boreau x telephium L.)"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column scientificName",
+    "engineConfig": {
+      "facets": [
+        {
+          "query": "\"",
+          "name": "scientificName",
+          "caseSensitive": false,
+          "columnName": "scientificName",
+          "type": "text",
+          "mode": "text"
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Procambarus \"(\"\"Marmorkrebs\"\")\""
+        ],
+        "to": "Procambarus ('Marmorkrebs')"
       }
     ]
   }
