@@ -1,7 +1,7 @@
 [
   {
     "op": "core/text-transform",
-    "description": "Text transform on cells in column nameMatchValidation using expression grel:if(cells[\"scientificName\"].value == cells[\"gbifapi_canonicalName\"].value,\"names match\",\"\")",
+    "description": "Text transform on cells in column nameMatchValidation using expression grel:if(cells[\"scientificName\"].value == cells[\"gbifapi_canonicalName\"].value,\"exact match\",\"\")",
     "engineConfig": {
       "facets": [],
       "mode": "row-based"
@@ -71,7 +71,7 @@
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "names match"
+          "exact match"
         ],
         "to": "infraspecificEpithet assumed subsp."
       }
@@ -207,7 +207,7 @@
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "names match"
+          "exact match"
         ],
         "to": "infraspecificEpithet assumed var."
       }
@@ -349,7 +349,7 @@
         "fromBlank": false,
         "fromError": false,
         "from": [
-          "names match"
+          "exact match"
         ],
         "to": "infraspecificEpithet assumed f."
       }
