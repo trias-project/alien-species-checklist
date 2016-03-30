@@ -686,5 +686,27 @@
         "to": "Proterorhinus semilunaris"
       }
     ]
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column manual_acceptedKey at index 43 based on column notes using expression grel:\"\"",
+    "engineConfig": {
+      "facets": [
+        {
+          "query": "",
+          "name": "scientificName",
+          "caseSensitive": false,
+          "columnName": "scientificName",
+          "type": "text",
+          "mode": "text"
+        }
+      ],
+      "mode": "row-based"
+    },
+    "newColumnName": "manual_acceptedKey",
+    "columnInsertIndex": 43,
+    "baseColumnName": "notes",
+    "expression": "grel:\"\"",
+    "onError": "set-to-blank"
   }
 ]
