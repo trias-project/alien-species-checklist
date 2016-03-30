@@ -75,14 +75,14 @@
     "engineConfig": {
       "facets": [
         {
-          "invert": false,
           "expression": "value",
+          "invert": false,
           "selectError": false,
           "omitError": false,
-          "selectBlank": true,
           "name": "nameMatchValidation",
-          "omitBlank": false,
+          "selectBlank": true,
           "columnName": "nameMatchValidation",
+          "omitBlank": false,
           "type": "list",
           "selection": []
         }
@@ -123,14 +123,14 @@
     "engineConfig": {
       "facets": [
         {
-          "expression": "value",
           "invert": false,
+          "expression": "value",
           "selectError": false,
           "omitError": false,
-          "name": "gbifapi_matchType",
           "selectBlank": false,
-          "columnName": "gbifapi_matchType",
+          "name": "gbifapi_matchType",
           "omitBlank": false,
+          "columnName": "gbifapi_matchType",
           "type": "list",
           "selection": [
             {
@@ -142,14 +142,14 @@
           ]
         },
         {
-          "expression": "value",
           "invert": false,
+          "expression": "value",
           "selectError": false,
           "omitError": false,
-          "name": "gbifapi_confidence",
           "selectBlank": false,
-          "columnName": "gbifapi_confidence",
+          "name": "gbifapi_confidence",
           "omitBlank": false,
+          "columnName": "gbifapi_confidence",
           "type": "list",
           "selection": [
             {
@@ -273,5 +273,418 @@
     "onError": "keep-original",
     "repeat": false,
     "repeatCount": 10
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column scientificName",
+    "engineConfig": {
+      "facets": [
+        {
+          "invert": false,
+          "expression": "value",
+          "selectError": false,
+          "omitError": false,
+          "selectBlank": false,
+          "name": "nameMatchValidation",
+          "omitBlank": false,
+          "columnName": "nameMatchValidation",
+          "type": "list",
+          "selection": [
+            {
+              "v": {
+                "v": "EXACT 100%",
+                "l": "EXACT 100%"
+              }
+            }
+          ]
+        },
+        {
+          "invert": false,
+          "expression": "value",
+          "selectError": false,
+          "omitError": false,
+          "selectBlank": false,
+          "name": "datasetName",
+          "omitBlank": false,
+          "columnName": "datasetName",
+          "type": "list",
+          "selection": [
+            {
+              "v": {
+                "v": "harmonia",
+                "l": "harmonia"
+              }
+            }
+          ]
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Aster x salignus"
+        ],
+        "to": "Symphyotrichum salignum"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column nameMatchValidation",
+    "engineConfig": {
+      "facets": [
+        {
+          "invert": false,
+          "expression": "value",
+          "selectError": false,
+          "omitError": false,
+          "selectBlank": false,
+          "name": "datasetName",
+          "omitBlank": false,
+          "columnName": "datasetName",
+          "type": "list",
+          "selection": [
+            {
+              "v": {
+                "v": "harmonia",
+                "l": "harmonia"
+              }
+            }
+          ]
+        },
+        {
+          "invert": false,
+          "expression": "value",
+          "selectError": false,
+          "omitError": false,
+          "selectBlank": false,
+          "name": "gbifapi_status",
+          "omitBlank": false,
+          "columnName": "gbifapi_status",
+          "type": "list",
+          "selection": [
+            {
+              "v": {
+                "v": "ACCEPTED",
+                "l": "ACCEPTED"
+              }
+            }
+          ]
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "nameMatchValidation",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "EXACT 100%"
+        ],
+        "to": "ok"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column nameMatchValidation",
+    "engineConfig": {
+      "facets": [
+        {
+          "invert": false,
+          "expression": "value",
+          "selectError": false,
+          "omitError": false,
+          "selectBlank": false,
+          "name": "datasetName",
+          "omitBlank": false,
+          "columnName": "datasetName",
+          "type": "list",
+          "selection": [
+            {
+              "v": {
+                "v": "harmonia",
+                "l": "harmonia"
+              }
+            }
+          ]
+        },
+        {
+          "invert": false,
+          "expression": "value",
+          "selectError": false,
+          "omitError": false,
+          "selectBlank": false,
+          "name": "gbifapi_status",
+          "omitBlank": false,
+          "columnName": "gbifapi_status",
+          "type": "list",
+          "selection": [
+            {
+              "v": {
+                "v": "ACCEPTED",
+                "l": "ACCEPTED"
+              }
+            }
+          ]
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "nameMatchValidation",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "exact match with gbifapi_canonicalName"
+        ],
+        "to": "ok"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column nameMatchValidation",
+    "engineConfig": {
+      "facets": [
+        {
+          "invert": false,
+          "expression": "value",
+          "selectError": false,
+          "omitError": false,
+          "selectBlank": false,
+          "name": "datasetName",
+          "omitBlank": false,
+          "columnName": "datasetName",
+          "type": "list",
+          "selection": [
+            {
+              "v": {
+                "v": "fishes",
+                "l": "fishes"
+              }
+            }
+          ]
+        },
+        {
+          "invert": false,
+          "expression": "value",
+          "selectError": false,
+          "omitError": false,
+          "selectBlank": false,
+          "name": "gbifapi_status",
+          "omitBlank": false,
+          "columnName": "gbifapi_status",
+          "type": "list",
+          "selection": [
+            {
+              "v": {
+                "v": "ACCEPTED",
+                "l": "ACCEPTED"
+              }
+            }
+          ]
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "nameMatchValidation",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "exact match with gbifapi_canonicalName"
+        ],
+        "to": "ok"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column scientificName",
+    "engineConfig": {
+      "facets": [
+        {
+          "invert": false,
+          "expression": "value",
+          "selectError": false,
+          "omitError": false,
+          "selectBlank": true,
+          "name": "nameMatchValidation",
+          "omitBlank": false,
+          "columnName": "nameMatchValidation",
+          "type": "list",
+          "selection": [
+            {
+              "v": {
+                "v": "exact match with gbifapi_canonicalName",
+                "l": "exact match with gbifapi_canonicalName"
+              }
+            }
+          ]
+        },
+        {
+          "invert": false,
+          "expression": "value",
+          "selectError": false,
+          "omitError": false,
+          "selectBlank": false,
+          "name": "datasetName",
+          "omitBlank": false,
+          "columnName": "datasetName",
+          "type": "list",
+          "selection": [
+            {
+              "v": {
+                "v": "fishes",
+                "l": "fishes"
+              }
+            }
+          ]
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Acipenser baeri"
+        ],
+        "to": "Acipenser baerii"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column scientificName",
+    "engineConfig": {
+      "facets": [
+        {
+          "invert": false,
+          "expression": "value",
+          "selectError": false,
+          "omitError": false,
+          "selectBlank": true,
+          "name": "nameMatchValidation",
+          "omitBlank": false,
+          "columnName": "nameMatchValidation",
+          "type": "list",
+          "selection": [
+            {
+              "v": {
+                "v": "exact match with gbifapi_canonicalName",
+                "l": "exact match with gbifapi_canonicalName"
+              }
+            }
+          ]
+        },
+        {
+          "invert": false,
+          "expression": "value",
+          "selectError": false,
+          "omitError": false,
+          "selectBlank": false,
+          "name": "datasetName",
+          "omitBlank": false,
+          "columnName": "datasetName",
+          "type": "list",
+          "selection": [
+            {
+              "v": {
+                "v": "fishes",
+                "l": "fishes"
+              }
+            }
+          ]
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Acipenser guldenstaedti"
+        ],
+        "to": "Acipenser guldenstaedtii"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column scientificName",
+    "engineConfig": {
+      "facets": [
+        {
+          "invert": false,
+          "expression": "value",
+          "selectError": false,
+          "omitError": false,
+          "selectBlank": true,
+          "name": "nameMatchValidation",
+          "omitBlank": false,
+          "columnName": "nameMatchValidation",
+          "type": "list",
+          "selection": [
+            {
+              "v": {
+                "v": "exact match with gbifapi_canonicalName",
+                "l": "exact match with gbifapi_canonicalName"
+              }
+            }
+          ]
+        },
+        {
+          "invert": false,
+          "expression": "value",
+          "selectError": false,
+          "omitError": false,
+          "selectBlank": false,
+          "name": "datasetName",
+          "omitBlank": false,
+          "columnName": "datasetName",
+          "type": "list",
+          "selection": [
+            {
+              "v": {
+                "v": "fishes",
+                "l": "fishes"
+              }
+            }
+          ]
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Proterorhinus semilunairs"
+        ],
+        "to": "Proterorhinus semilunaris"
+      }
+    ]
   }
 ]
