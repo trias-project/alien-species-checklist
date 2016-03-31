@@ -1334,5 +1334,261 @@
         "to": "ok"
       }
     ]
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column newVerbatimScientificName at index 1 based on column index using expression grel:cell.cross(\"concatenated without gbif match\", \"index\").cells[\"verbatimScientificName\"].value[0]",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "newColumnName": "newVerbatimScientificName",
+    "columnInsertIndex": 1,
+    "baseColumnName": "index",
+    "expression": "grel:cell.cross(\"concatenated without gbif match\", \"index\").cells[\"verbatimScientificName\"].value[0]",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column verbatimScientificName using expression grel:cells[\"newVerbatimScientificName\"].value",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "verbatimScientificName",
+    "expression": "grel:cells[\"newVerbatimScientificName\"].value",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/column-removal",
+    "description": "Remove column newVerbatimScientificName",
+    "columnName": "newVerbatimScientificName"
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column scientificName using expression grel:cells[\"verbatimScientificName\"].value",
+    "engineConfig": {
+      "facets": [
+        {
+          "invert": false,
+          "expression": "value",
+          "selectError": false,
+          "omitError": false,
+          "selectBlank": false,
+          "name": "datasetName",
+          "omitBlank": false,
+          "columnName": "datasetName",
+          "type": "list",
+          "selection": [
+            {
+              "v": {
+                "v": "wrims",
+                "l": "wrims"
+              }
+            }
+          ]
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "grel:cells[\"verbatimScientificName\"].value",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column scientificName",
+    "engineConfig": {
+      "facets": [
+        {
+          "invert": false,
+          "expression": "value",
+          "selectError": false,
+          "omitError": false,
+          "selectBlank": false,
+          "name": "datasetName",
+          "omitBlank": false,
+          "columnName": "datasetName",
+          "type": "list",
+          "selection": [
+            {
+              "v": {
+                "v": "wrims",
+                "l": "wrims"
+              }
+            }
+          ]
+        },
+        {
+          "query": "(",
+          "name": "scientificName",
+          "caseSensitive": false,
+          "columnName": "scientificName",
+          "type": "text",
+          "mode": "text"
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Acartia (Acanthacartia) tonsa"
+        ],
+        "to": "Acartia tonsa"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column scientificName",
+    "engineConfig": {
+      "facets": [
+        {
+          "invert": false,
+          "expression": "value",
+          "selectError": false,
+          "omitError": false,
+          "selectBlank": false,
+          "name": "datasetName",
+          "omitBlank": false,
+          "columnName": "datasetName",
+          "type": "list",
+          "selection": [
+            {
+              "v": {
+                "v": "wrims",
+                "l": "wrims"
+              }
+            }
+          ]
+        },
+        {
+          "query": "(",
+          "name": "scientificName",
+          "caseSensitive": false,
+          "columnName": "scientificName",
+          "type": "text",
+          "mode": "text"
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Haliclona (Soestella) xena"
+        ],
+        "to": "Haliclona xena"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column scientificName",
+    "engineConfig": {
+      "facets": [
+        {
+          "invert": false,
+          "expression": "value",
+          "selectError": false,
+          "omitError": false,
+          "selectBlank": false,
+          "name": "datasetName",
+          "omitBlank": false,
+          "columnName": "datasetName",
+          "type": "list",
+          "selection": [
+            {
+              "v": {
+                "v": "wrims",
+                "l": "wrims"
+              }
+            }
+          ]
+        },
+        {
+          "query": "(",
+          "name": "scientificName",
+          "caseSensitive": false,
+          "columnName": "scientificName",
+          "type": "text",
+          "mode": "text"
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Mycale (Carmia) micracanthoxea"
+        ],
+        "to": "Mycale micracanthoxea"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column scientificName",
+    "engineConfig": {
+      "facets": [
+        {
+          "invert": false,
+          "expression": "value",
+          "selectError": false,
+          "omitError": false,
+          "selectBlank": false,
+          "name": "datasetName",
+          "omitBlank": false,
+          "columnName": "datasetName",
+          "type": "list",
+          "selection": [
+            {
+              "v": {
+                "v": "wrims",
+                "l": "wrims"
+              }
+            }
+          ]
+        },
+        {
+          "query": "(",
+          "name": "scientificName",
+          "caseSensitive": false,
+          "columnName": "scientificName",
+          "type": "text",
+          "mode": "text"
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "scientificName",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "Sargassum (Bactrophycus) muticum"
+        ],
+        "to": "Sargassum muticum"
+      }
+    ]
   }
 ]
