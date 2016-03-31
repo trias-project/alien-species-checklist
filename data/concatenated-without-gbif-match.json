@@ -1,7 +1,7 @@
 [
   {
     "op": "core/column-addition",
-    "description": "Create column index at index 1 based on column taxonID using expression grel:row.record.index",
+    "description": "Create column index at index 1 based on column taxonID using expression grel:\"dummy\"",
     "engineConfig": {
       "facets": [],
       "mode": "record-based"
@@ -9,7 +9,7 @@
     "newColumnName": "index",
     "columnInsertIndex": 1,
     "baseColumnName": "taxonID",
-    "expression": "grel:row.record.index",
+    "expression": "grel:\"dummy\"",
     "onError": "set-to-blank"
   },
   {
@@ -19,31 +19,100 @@
     "index": 0
   },
   {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column index using expression grel:row.index",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "index",
+    "expression": "grel:row.index",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column subspecies to infraspecificEpithet",
+    "oldColumnName": "subspecies",
+    "newColumnName": "infraspecificEpithet"
+  },
+  {
     "op": "core/mass-edit",
-    "description": "Mass edit cells in column specificEpithet",
+    "description": "Mass edit cells in column infraspecificEpithet",
     "engineConfig": {
       "facets": [
         {
-          "expression": "isBlank(value)",
           "invert": false,
+          "expression": "value",
           "selectError": false,
           "omitError": false,
-          "name": "genus",
           "selectBlank": false,
-          "columnName": "genus",
+          "name": "datasetName",
           "omitBlank": false,
+          "columnName": "datasetName",
           "type": "list",
           "selection": [
             {
               "v": {
-                "v": false,
-                "l": "false"
+                "v": "rinse",
+                "l": "rinse"
+              }
+            },
+            {
+              "v": {
+                "v": "rinse-annex-b",
+                "l": "rinse-annex-b"
               }
             }
           ]
         }
       ],
-      "mode": "row-based"
+      "mode": "record-based"
+    },
+    "columnName": "infraspecificEpithet",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": true,
+        "fromError": false,
+        "from": [],
+        "to": ""
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column specificEpithet",
+    "engineConfig": {
+      "facets": [
+        {
+          "invert": false,
+          "expression": "value",
+          "selectError": false,
+          "omitError": false,
+          "selectBlank": false,
+          "name": "datasetName",
+          "omitBlank": false,
+          "columnName": "datasetName",
+          "type": "list",
+          "selection": [
+            {
+              "v": {
+                "v": "rinse",
+                "l": "rinse"
+              }
+            },
+            {
+              "v": {
+                "v": "rinse-annex-b",
+                "l": "rinse-annex-b"
+              }
+            }
+          ]
+        }
+      ],
+      "mode": "record-based"
     },
     "columnName": "specificEpithet",
     "expression": "value",
@@ -57,72 +126,40 @@
     ]
   },
   {
-    "op": "core/mass-edit",
-    "description": "Mass edit cells in column subspecies",
-    "engineConfig": {
-      "facets": [
-        {
-          "expression": "isBlank(value)",
-          "invert": false,
-          "selectError": false,
-          "omitError": false,
-          "name": "genus",
-          "selectBlank": false,
-          "columnName": "genus",
-          "omitBlank": false,
-          "type": "list",
-          "selection": [
-            {
-              "v": {
-                "v": false,
-                "l": "false"
-              }
-            }
-          ]
-        }
-      ],
-      "mode": "row-based"
-    },
-    "columnName": "subspecies",
-    "expression": "value",
-    "edits": [
-      {
-        "fromBlank": true,
-        "fromError": false,
-        "from": [],
-        "to": ""
-      }
-    ]
-  },
-  {
     "op": "core/text-transform",
-    "description": "Text transform on cells in column scientificName using expression grel:trim(trim(cells[\"genus\"].value) + \" \" + trim(cells[\"specificEpithet\"].value) + \" \" + trim(cells[\"subspecies\"].value))",
+    "description": "Text transform on cells in column scientificName using expression grel:trim(trim(cells[\"genus\"].value) + \" \" + trim(cells[\"specificEpithet\"].value) + \" \" + trim(cells[\"infraspecificEpithet\"].value))",
     "engineConfig": {
       "facets": [
         {
-          "expression": "isBlank(value)",
           "invert": false,
+          "expression": "value",
           "selectError": false,
           "omitError": false,
-          "name": "genus",
           "selectBlank": false,
-          "columnName": "genus",
+          "name": "datasetName",
           "omitBlank": false,
+          "columnName": "datasetName",
           "type": "list",
           "selection": [
             {
               "v": {
-                "v": false,
-                "l": "false"
+                "v": "rinse",
+                "l": "rinse"
+              }
+            },
+            {
+              "v": {
+                "v": "rinse-annex-b",
+                "l": "rinse-annex-b"
               }
             }
           ]
         }
       ],
-      "mode": "row-based"
+      "mode": "record-based"
     },
     "columnName": "scientificName",
-    "expression": "grel:trim(trim(cells[\"genus\"].value) + \" \" + trim(cells[\"specificEpithet\"].value) + \" \" + trim(cells[\"subspecies\"].value))",
+    "expression": "grel:trim(trim(cells[\"genus\"].value) + \" \" + trim(cells[\"specificEpithet\"].value) + \" \" + trim(cells[\"infraspecificEpithet\"].value))",
     "onError": "keep-original",
     "repeat": false,
     "repeatCount": 10
@@ -146,14 +183,14 @@
     "engineConfig": {
       "facets": [
         {
-          "invert": false,
           "expression": "value",
+          "invert": false,
           "selectError": false,
           "omitError": false,
-          "selectBlank": false,
           "name": "datasetName",
-          "omitBlank": false,
+          "selectBlank": false,
           "columnName": "datasetName",
+          "omitBlank": false,
           "type": "list",
           "selection": [
             {
@@ -184,14 +221,14 @@
     "engineConfig": {
       "facets": [
         {
-          "invert": false,
           "expression": "value",
+          "invert": false,
           "selectError": false,
           "omitError": false,
-          "selectBlank": false,
           "name": "datasetName",
-          "omitBlank": false,
+          "selectBlank": false,
           "columnName": "datasetName",
+          "omitBlank": false,
           "type": "list",
           "selection": [
             {
@@ -222,14 +259,14 @@
     "engineConfig": {
       "facets": [
         {
-          "invert": false,
           "expression": "value",
+          "invert": false,
           "selectError": false,
           "omitError": false,
-          "selectBlank": false,
           "name": "datasetName",
-          "omitBlank": false,
+          "selectBlank": false,
           "columnName": "datasetName",
+          "omitBlank": false,
           "type": "list",
           "selection": [
             {
@@ -260,14 +297,14 @@
     "engineConfig": {
       "facets": [
         {
-          "invert": false,
           "expression": "value",
+          "invert": false,
           "selectError": false,
           "omitError": false,
-          "selectBlank": false,
           "name": "datasetName",
-          "omitBlank": false,
+          "selectBlank": false,
           "columnName": "datasetName",
+          "omitBlank": false,
           "type": "list",
           "selection": [
             {
@@ -291,14 +328,14 @@
           ]
         },
         {
-          "invert": false,
           "expression": "value",
+          "invert": false,
           "selectError": false,
           "omitError": false,
-          "selectBlank": false,
           "name": "phylum",
-          "omitBlank": false,
+          "selectBlank": false,
           "columnName": "phylum",
+          "omitBlank": false,
           "type": "list",
           "selection": [
             {
@@ -371,14 +408,14 @@
     "engineConfig": {
       "facets": [
         {
-          "invert": false,
           "expression": "value",
+          "invert": false,
           "selectError": false,
           "omitError": false,
-          "selectBlank": false,
           "name": "datasetName",
-          "omitBlank": false,
+          "selectBlank": false,
           "columnName": "datasetName",
+          "omitBlank": false,
           "type": "list",
           "selection": [
             {
@@ -402,14 +439,14 @@
           ]
         },
         {
-          "invert": false,
           "expression": "value",
+          "invert": false,
           "selectError": false,
           "omitError": false,
-          "selectBlank": false,
           "name": "phylum",
-          "omitBlank": false,
+          "selectBlank": false,
           "columnName": "phylum",
+          "omitBlank": false,
           "type": "list",
           "selection": [
             {
@@ -506,14 +543,14 @@
     "engineConfig": {
       "facets": [
         {
-          "invert": false,
           "expression": "value",
+          "invert": false,
           "selectError": false,
           "omitError": false,
-          "selectBlank": false,
           "name": "datasetName",
-          "omitBlank": false,
+          "selectBlank": false,
           "columnName": "datasetName",
+          "omitBlank": false,
           "type": "list",
           "selection": [
             {
@@ -537,14 +574,14 @@
           ]
         },
         {
-          "invert": false,
           "expression": "value",
+          "invert": false,
           "selectError": false,
           "omitError": false,
-          "selectBlank": false,
           "name": "phylum",
-          "omitBlank": false,
+          "selectBlank": false,
           "columnName": "phylum",
+          "omitBlank": false,
           "type": "list",
           "selection": [
             {
@@ -593,14 +630,14 @@
     "engineConfig": {
       "facets": [
         {
-          "invert": false,
           "expression": "value",
+          "invert": false,
           "selectError": false,
           "omitError": false,
-          "selectBlank": false,
           "name": "datasetName",
-          "omitBlank": false,
+          "selectBlank": false,
           "columnName": "datasetName",
+          "omitBlank": false,
           "type": "list",
           "selection": [
             {
@@ -624,14 +661,14 @@
           ]
         },
         {
-          "invert": false,
           "expression": "value",
+          "invert": false,
           "selectError": false,
           "omitError": false,
-          "selectBlank": false,
           "name": "phylum",
-          "omitBlank": false,
+          "selectBlank": false,
           "columnName": "phylum",
+          "omitBlank": false,
           "type": "list",
           "selection": [
             {
@@ -668,14 +705,14 @@
     "engineConfig": {
       "facets": [
         {
-          "invert": false,
           "expression": "value",
+          "invert": false,
           "selectError": false,
           "omitError": false,
-          "selectBlank": false,
           "name": "datasetName",
-          "omitBlank": false,
+          "selectBlank": false,
           "columnName": "datasetName",
+          "omitBlank": false,
           "type": "list",
           "selection": [
             {
@@ -699,14 +736,14 @@
           ]
         },
         {
-          "invert": false,
           "expression": "value",
+          "invert": false,
           "selectError": false,
           "omitError": false,
-          "selectBlank": false,
           "name": "phylum",
-          "omitBlank": false,
+          "selectBlank": false,
           "columnName": "phylum",
+          "omitBlank": false,
           "type": "list",
           "selection": [
             {
@@ -737,14 +774,14 @@
     "engineConfig": {
       "facets": [
         {
-          "invert": false,
           "expression": "value",
+          "invert": false,
           "selectError": false,
           "omitError": false,
-          "selectBlank": false,
           "name": "datasetName",
-          "omitBlank": false,
+          "selectBlank": false,
           "columnName": "datasetName",
+          "omitBlank": false,
           "type": "list",
           "selection": [
             {
@@ -768,14 +805,14 @@
           ]
         },
         {
-          "invert": false,
           "expression": "value",
+          "invert": false,
           "selectError": false,
           "omitError": false,
-          "selectBlank": false,
           "name": "phylum",
-          "omitBlank": false,
+          "selectBlank": false,
           "columnName": "phylum",
+          "omitBlank": false,
           "type": "list",
           "selection": [
             {
@@ -806,14 +843,14 @@
     "engineConfig": {
       "facets": [
         {
-          "invert": false,
           "expression": "value",
+          "invert": false,
           "selectError": false,
           "omitError": false,
-          "selectBlank": false,
           "name": "datasetName",
-          "omitBlank": false,
+          "selectBlank": false,
           "columnName": "datasetName",
+          "omitBlank": false,
           "type": "list",
           "selection": [
             {
@@ -837,14 +874,14 @@
           ]
         },
         {
-          "invert": false,
           "expression": "value",
+          "invert": false,
           "selectError": false,
           "omitError": false,
-          "selectBlank": true,
           "name": "kingdom",
-          "omitBlank": false,
+          "selectBlank": true,
           "columnName": "kingdom",
+          "omitBlank": false,
           "type": "list",
           "selection": []
         }
@@ -881,11 +918,5 @@
     "baseColumnName": "scientificName",
     "expression": "grel:value",
     "onError": "set-to-blank"
-  },
-  {
-    "op": "core/column-rename",
-    "description": "Rename column subspecies to infraspecificEpithet",
-    "oldColumnName": "subspecies",
-    "newColumnName": "infraspecificEpithet"
   }
 ]
