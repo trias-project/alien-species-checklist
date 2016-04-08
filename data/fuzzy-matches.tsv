@@ -1,21 +1,26 @@
 index	datasetName	scientificName	gbifapi_canonicalName	gbifapi_usageKey
-19	fishes	Proterorhinus semilunairs	Proterorhinus semilunaris	2379245
 193	macroinvertebrates	Athyaephyra desmaresti	Atyaephyra desmaresti	4417569
 230	macroinvertebrates	Mytilopsis leucophaeta	Mytilopsis leucophaeata	2287076
+336	plants	Chenopodium x preissmannii J. Murr	Chenopodium preissmanni	3757267
 338	plants	Corispermum gmelinii Bunge	Corispermum gmelini	3759793
 358	plants	Allium christophii Trautv.	Allium cristophii	2856780
 475	plants	Loncomelos brevistylus (Wolfner ) Dostál	Loncomelos brevistylum	2772890
 537	plants	Brachycome heterodonta DC.	Brachyscome heterodonta	3144548
 604	plants	Cyanus depressa (Bieb.) Soják	Cyanus depressus	5386007
+792	plants	Berberis x hybrido-gagnepainii J.V. Suringar	Berberis hybridogagnepainii	4938153
 947	plants	Neslia paniculata (L.) Desv. subsp. paniculata	Neslia paniculata apiculata	3047151
 948	plants	Neslia paniculata (L.) Desv. subsp. thracia (Velen.) Bornm.	Neslia paniculata thracica	3047147
+1036	plants	Cerastium x maureri M. Schulze	Cerastium mairei	3810137
 1204	plants	Ephedra saxatalis (Stapf) Royle subsp. sikkimensis (Stapf) Florin	Ephedra saxatilis sikkimensis	2653395
+1508	plants	Pterocarya x rhederiana C.K. Schneider	Pterocarya rehderiana	4205304
+1685	plants	Epilobium x novae-civitatis Smejkal	Epilobium novae-civitalis	3663855
 1760	plants	Papaver setiferum Goldblatt	Papaver setigerum	3602227
 2053	plants	Lachnagrostis billardieri (R. Brown) Trin.	Lachnagrostis billardierei	4136060
 2140	plants	Secale xderzhavinii Tzvelev	Secale derzhavinii	4121360
 2277	plants	Lysimachia monelli (L.) U. Manns et Anderb.	Lysimachia lunelli	4007543
 2402	plants	Prunus domestica L. subsp. instititia (L.) Bonnier et Layens	Prunus domestica insititia	6449311
 2484	plants	Salix elaeagnos Scop. subsp. angustifolia (Cariot) Rech. f.	Salix eleagnos angustifolia	6711137
+2542	plants	Verbascum x angulosum Teyber	Verbascum rugulosum	3736465
 2561	plants	Nicotiana langsdorfii J.A. Weinm.	Nicotiana langsdorffii	2928759
 2700	rinse	Acrophyllum dentatum	Achrophyllum dentatum	2670002
 2833	rinse	Amaranthus polygonioides	Amaranthus polygonoides	5384342
