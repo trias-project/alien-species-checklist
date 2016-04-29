@@ -69,7 +69,7 @@ index	correctionRemark	datasetName	scientificName	correctedScientificName	gbifap
 8811	correct typo	rinse	Zosterops erythropleura	Zosterops erythropleurus	Zosterops erythropleurus	2489345	widespread typo infection
 8836	correct typo	rinse	Beroe cucumi	Beroe cucumis	Beroe cucumis	2501114	widespread typo infection
 9006	no change	rinse	Limacus maculatus	Limacus maculatus			no match, but exists
-9039	no change	rinse	Petricola pholadiformis	Petricola pholadiformis	Petricola pholadiformis		
+9039	correct typo	rinse	Petricola pholadiformis	Petricolaria pholadiformis	Petricola pholadiformis		
 9090	correct typo	rinse	Philometroides sanguinea	Philometroides sanguineus	Philometroides sanguineus	7031934	-a + us
 9173	correct typo	rinse	Arthurdendyus triangulata	Arthurdendyus triangulatus	Arthurdendyus triangulatus	2502792	-a + us
 9241	correct typo	rinse	Acrothamnion preisii	Acrothamnion preissii	Acrothamnion preissii	2658484	+ s
@@ -79,5 +79,5 @@ index	correctionRemark	datasetName	scientificName	correctedScientificName	gbifap
 9334	correct typo	rinse-annex-b	Megabalanus coccoporna	Megabalanus coccopoma	Megabalanus coccopoma	5166489	no porn please
 9343	correct typo	rinse-annex-b	Tuberocephalus higansakurae hainnevilleae	Tuberocephalus higansakure subsp. hainnevilleae	Tuberocephalus higansakure hainnevilleae	6259949	- a
 9347	correct typo	rinse-annex-b	Hippollais rama	Hippolais rama	Hippolais rama	2493218	- l
-9495	no change	wrims	Petricola pholadiformis	Petricola pholadiformis	Petricola pholadiformis		
-9496	no change	wrims	Petricola pholadiformis	Petricola pholadiformis	Petricola pholadiformis		
+9495	correct typo	wrims	Petricola pholadiformis	Petricolaria pholadiformis	Petricola pholadiformis		
+9496	correct typo	wrims	Petricola pholadiformis	Petricolaria pholadiformis	Petricola pholadiformis		
