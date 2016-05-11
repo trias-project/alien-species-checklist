@@ -1,7 +1,7 @@
 dataset	verbatimValue	invasionStage
-fishes	A	Established
-fishes	A*	Established
-fishes	N	Established
+fishes	A	established
+fishes	A*	established
+fishes	N	established
 harmonia	naturalization	established
 harmonia	regression	established
 harmonia	stabilization	established
