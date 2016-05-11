@@ -1,0 +1,119 @@
+dataset	verbatimTerm	newTerm
+-	Source	datasetName
+fishes	Latin name	scientificName
+fishes	Common name	vernacularNameEN
+fishes	Origin	origin
+fishes	Introduction	firstObservationFL
+fishes	Pathway(s)	introductionPathways
+fishes	Status	status
+harmonia	Added	
+harmonia	Last state change	
+harmonia	Already invasive in (if any)	
+harmonia	Dispersion potential	
+harmonia	Natural habitats	
+harmonia	Predation / Herbivory	
+harmonia	Competition	
+harmonia	Disease transmission	
+harmonia	Genetic effects	
+harmonia	Nutrient cycling	
+harmonia	Physical alteration	
+harmonia	Natural successions	
+harmonia	Food web alteration	
+harmonia	Contributors	
+harmonia	Maritime	
+harmonia	Flandrian	
+harmonia	Kempen	
+harmonia	Brabant	
+harmonia	Meuse	
+harmonia	Ardenne	
+harmonia	Lorraine	
+harmonia	Last update	
+harmonia	Category	BFIS
+harmonia	Family	family
+harmonia	First observation	firstObservationYearBE
+harmonia	Habitat(s)	habitat
+harmonia	Introduction pathway(s)	introductionPathway
+harmonia	ISEIA score	ISEIA
+harmonia	Origin(s)	origin
+harmonia	Reproduction (Belgium)	presenceBE
+harmonia	Reproduction (Flanders)	presenceFL
+harmonia	Reproduction (Wallonia)	presenceWA
+harmonia	Current state	publicationStatus
+harmonia	Risk Analysis	riskAnalysis
+harmonia	Scientific name(s)	scientificName
+harmonia	Spatial distribution	spatialDistribution
+harmonia	Invasion stage	status
+harmonia	Synonym(s)	synonym
+harmonia	Group	
+harmonia	Species ID	taxonID
+harmonia	Local name(s) (en)	vernacularNameEN
+harmonia	Local name(s) (fr)	vernacularNameFR
+harmonia	Local name(s) (nl)	vernacularNameNL
+macroinvertebrates	Species	scientificName
+macroinvertebrates	family	family
+macroinvertebrates	First occurrence in Flanders	firstObservationYearFL
+macroinvertebrates	genus	genus
+macroinvertebrates	Salinity zone	habitat
+macroinvertebrates	Pathway of introduction	introductionPathway
+macroinvertebrates	order	order
+macroinvertebrates	Origin	origin
+macroinvertebrates	phylum	phylum
+macroinvertebrates	Reference	source
+plants	Family	family
+plants	FR	firstObservationYearBE
+plants	M/I	introductionMode
+plants	V/I	introductionPathway
+plants	MRR	latestObservationYearBE
+plants	Origin	origin
+plants	Presence_Br	presenceBR
+plants	Presence_Fl	presenceFL
+plants	Presence_Wa	presenceWA
+plants	Taxon	scientificName
+plants	D/N	status
+plants	Synonym	synonym
+rinse	Great Britain	
+rinse	France	
+rinse	Netherlands	
+rinse	Class	class
+rinse	Genus	genus
+rinse	Environment	habitat
+rinse	Notes	notes
+rinse	Phylum/Division	phylum
+rinse	Belgium	presenceBE
+rinse	Species	specificEpithet
+rinse-annex-b	GB	
+rinse-annex-b	France	
+rinse-annex-b	Netherlands	
+rinse-annex-b	Rinse GB	
+rinse-annex-b	Rinse France	
+rinse-annex-b	Rinse Belgium	
+rinse-annex-b	Rinse Netherlands	
+rinse-annex-b	Class	class
+rinse-annex-b	Genus	genus 
+rinse-annex-b	habitat	habitat
+rinse-annex-b	Phylum	phylum
+rinse-annex-b	Belgium	presenceFL
+rinse-annex-b	Species	specificEpithet
+rinse-annex-b	Subspecies	subspecies
+rinse-annex-b	English name	vernacularNameEN
+wrims	PlaceName	
+wrims		presenceBEEZ
+wrims		presenceBPNS
+wrims		presenceBECoast
+wrims		presenceBE
+wrims	Distribution_id	
+wrims	Class	class
+wrims	Family	family
+wrims	Beginyear	firstObservationYearBE
+wrims	Genus	genus
+wrims	Invasiveness	invasiveness
+wrims	Kingdom	kingdom
+wrims	Note	notes
+wrims	Order	order
+wrims	Phylum	phylum
+wrims	Taxon	scientificName
+wrims	Reference	source
+wrims	Reference_id	sourceID
+wrims	Occurrence	status
+wrims	Origin	statusCertainty
+wrims	AphiaID	taxonID

@@ -14,7 +14,7 @@ Our goal is to create an open, consolidated checklist of alien species in Belgiu
 1. Choose and download [source datasets](source-datasets)
 2. Format the data to tab-delimited values
 3. Define [common terms](utilities/common-terms.csv) for all source datasets
-4. Map the source datasets to the common terms schema (using the mapping defined in [this spreadsheet](https://docs.google.com/spreadsheets/d/1KJX6QBhv2xmDffYtXGt6FHV41Pm_eQjcUrDqxZxouvQ/edit?ts=56c18641#gid=0))
+4. Map the source datasets to the common terms schema, using [this mapping file](mapping/common-terms.tsv).
 5. Concatenate all source datasetes using:
 
     ```shell
