@@ -1,0 +1,96 @@
+dataset	verbatimValue	nativeRange
+plants	AF	Africa
+plants	AF  	Africa
+fishes	AFR	Africa
+harmonia	Africa	Africa
+macroinvertebrates	North-Africa	Africa
+plants	AF AS-Tr SAM AUS	Africa |  Asia | Oceania
+plants	AF AUS	Africa |  Oceania
+plants	AF AS	Africa | Asia
+plants	AF AS-Te	Africa | Asia
+plants	AF AS-Tr	Africa | Asia
+plants	AF AS-Tr  	Africa | Asia
+plants	AF AS-Tr AUS	Africa | Asia
+harmonia	Africa, Asia	Africa | Asia
+plants	AF AS AUS	Africa | Asia | Oceania
+macroinvertebrates	Asia, Africa and Australia	Africa | Asia | Oceania
+plants	AF, AS-Te, AM	Africa | Asia | S. America | N. America
+macroinvertebrates	West-Africa, Indio-Pacific	Africa | Indian Ocean | S. Pacific Ocean
+plants	Trop.	Africa | N. America | S. America | Asia | Oceania
+plants	AS	Asia
+fishes	AS	Asia
+plants	AS 	Asia
+plants	As-Te	Asia
+plants	AS-Te	Asia
+plants	AS-Tr	Asia
+plants	AS-Tr  	Asia
+plants	AS-Tr AUS SAM	Asia
+macroinvertebrates	East-Asia	Asia
+macroinvertebrates	Northeast-Asia	Asia
+macroinvertebrates	Southeast-Asia	Asia
+harmonia	Asia	Asia 
+macroinvertebrates	Asia	Asia 
+harmonia	Asia, Europe	Asia | Europe
+harmonia	Asia, North America	Asia | N. America
+macroinvertebrates	Southern hemisphere, China and USA	Asia | N. America | S. America | Oceania
+plants	AS AUS	Asia | Oceania
+plants	AS-Tr AUS	Asia | Oceania
+macroinvertebrates	Australia-Asia	Asia | Oceania
+plants	E	Europe
+plants	E 	Europe
+plants	E  	Europe
+macroinvertebrates	East-Europe	Europe
+fishes	EE	Europe
+harmonia	Europe	Europe
+macroinvertebrates	Ponto-Caspian	Europe
+macroinvertebrates	South-Europe	Europe
+plants	E AF	Europe | Africa
+plants	E AF 	Europe | Africa
+plants	E AF  	Europe | Africa
+plants	E AF AS	Europe | Africa | Asia
+plants	E AF AS 	Europe | Africa | Asia
+plants	E AF AS AUS	Europe | Africa | Asia | Oceania
+plants	E AS	Europe | Asia
+plants	E AS 	Europe | Asia
+plants	E AS  	Europe | Asia
+plants	E AS-Te	Europe | Asia
+plants	E AS-Te?	Europe | Asia
+plants	E AS-Te NAM	Europe | Asia | N. America
+plants	E NAM	Europe | N. America
+plants	E AM AS	Europe | N. America | S. America | Asia
+macroinvertebrates	Tropical and warm seas	Indian Ocean | S. Atlantic Ocean | S. Pacific Ocean
+plants	NAM	N. America
+plants	NAM 	N. America
+plants	NAM  	N. America
+harmonia	North America	N. America
+macroinvertebrates	North-America	N. America
+macroinvertebrates	North-America 	N. America
+plants	NAM AS-Te	N. America | Asia
+harmonia	North America, South America	N. America | S. America
+macroinvertebrates	West-Atlantic	N. Atlantic Ocean | S. Atlantic Ocean
+plants	AUS	Oceania
+macroinvertebrates	Australia	Oceania
+harmonia	Australia	Oceania
+macroinvertebrates	New Zealand	Oceania
+plants	AUS SAM	Oceania | S. America
+plants	AM	S. Amercica | N. America
+plants	AM-AS-Te	S. Amercica | N. America | Asia
+plants	SAM	S. America
+harmonia	South America	S. America
+macroinvertebrates	South-America	S. America
+rinse-annex-b		to be determined by experts
+fishes		to be determined by experts
+rinse		to be determined by experts
+harmonia		to be determined by experts
+plants		to be determined by experts
+wrims		to be determined by experts
+plants	E AF AS-Te	to be determined by experts
+plants	E AF AS-Te NAM	to be determined by experts
+plants	?	Unknown
+fishes	AS or EE	Unknown
+plants	AS-Te?	Unknown
+plants	Cult.	Unknown
+plants	Hybr.	Unknown
+macroinvertebrates	unknown	Unknown
+macroinvertebrates	Unknown	Unknown
+macroinvertebrates	Unknown 	Unknown

@@ -25,7 +25,7 @@ Our goal is to create an open, consolidated checklist of alien species in Belgiu
 
 1. Match scientific names to the GBIF backbone taxonomy and review any issues
 2. Define controlled vocabularies for the terms we're interested in.
-3. Map the current values to the controlled vocabularies (using the mapping defined in [this spreadsheet](https://docs.google.com/spreadsheets/d/1KJX6QBhv2xmDffYtXGt6FHV41Pm_eQjcUrDqxZxouvQ/edit?ts=56c18641#gid=0))
+3. Map the current values to controlled vocabularies, using [these mapping files](mapping).
 
 ## Repeatable process
 

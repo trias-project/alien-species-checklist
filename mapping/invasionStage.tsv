@@ -1,0 +1,28 @@
+dataset	verbatimValue	invasionStage
+fishes	A	Established
+fishes	A*	Established
+fishes	N	Established
+harmonia	naturalization	established
+harmonia	regression	established
+harmonia	stabilization	established
+macroinvertebrates		established
+plants	Inv.	established
+plants	Nat.	established
+wrims	Established	established
+plants	Cas.	introduced
+plants	Cas. 	introduced
+plants	Ext.	introduced
+plants	Ext. 	introduced
+plants	Ext./Cas.	introduced
+wrims	Reported	introduced
+harmonia	spread	invasive
+harmonia	to be determined by experts	to be determined by experts
+plants	to be determined by experts	to be determined by experts
+rinse	to be determined by experts	to be determined by experts
+rinse-annex-b	to be determined by experts	to be determined by experts
+wrims		to be determined by experts
+plants	Cas.?	unknown
+plants	Ext.?	unknown
+plants	Nat?	unknown
+plants	Nat.?	unknown
+wrims	Uncertain	unknown
