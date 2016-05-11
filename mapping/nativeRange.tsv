@@ -4,7 +4,7 @@ plants	AF  	Africa
 fishes	AFR	Africa
 harmonia	Africa	Africa
 macroinvertebrates	North-Africa	Africa
-plants	AF AS-Tr SAM AUS	Africa |  Asia | Oceania
+plants	AF AS-Tr SAM AUS	Africa | Asia | Oceania
 plants	AF AUS	Africa |  Oceania
 plants	AF AS	Africa | Asia
 plants	AF AS-Te	Africa | Asia
@@ -28,9 +28,9 @@ plants	AS-Tr AUS SAM	Asia
 macroinvertebrates	East-Asia	Asia
 macroinvertebrates	Northeast-Asia	Asia
 macroinvertebrates	Southeast-Asia	Asia
-harmonia	Asia	Asia 
-macroinvertebrates	Asia	Asia 
-harmonia	Asia, Europe	Asia | Europe
+harmonia	Asia	Asia
+macroinvertebrates	Asia	Asia
+harmonia	Asia, Europe	Europe | Asia
 harmonia	Asia, North America	Asia | N. America
 macroinvertebrates	Southern hemisphere, China and USA	Asia | N. America | S. America | Oceania
 plants	AS AUS	Asia | Oceania
@@ -65,7 +65,7 @@ plants	NAM  	N. America
 harmonia	North America	N. America
 macroinvertebrates	North-America	N. America
 macroinvertebrates	North-America 	N. America
-plants	NAM AS-Te	N. America | Asia
+plants	NAM AS-Te	Asia | N. America
 harmonia	North America, South America	N. America | S. America
 macroinvertebrates	West-Atlantic	N. Atlantic Ocean | S. Atlantic Ocean
 plants	AUS	Oceania
@@ -73,8 +73,8 @@ macroinvertebrates	Australia	Oceania
 harmonia	Australia	Oceania
 macroinvertebrates	New Zealand	Oceania
 plants	AUS SAM	Oceania | S. America
-plants	AM	S. Amercica | N. America
-plants	AM-AS-Te	S. Amercica | N. America | Asia
+plants	AM	N. America | S. America
+plants	AM-AS-Te	S. America | N. America | Asia
 plants	SAM	S. America
 harmonia	South America	S. America
 macroinvertebrates	South-America	S. America
@@ -86,11 +86,11 @@ plants		to be determined by experts
 wrims		to be determined by experts
 plants	E AF AS-Te	to be determined by experts
 plants	E AF AS-Te NAM	to be determined by experts
-plants	?	Unknown
-fishes	AS or EE	Unknown
-plants	AS-Te?	Unknown
-plants	Cult.	Unknown
-plants	Hybr.	Unknown
-macroinvertebrates	unknown	Unknown
-macroinvertebrates	Unknown	Unknown
-macroinvertebrates	Unknown 	Unknown
+plants	?	unknown
+fishes	AS or EE	unknown
+plants	AS-Te?	unknown
+plants	Cult.	unknown
+plants	Hybr.	unknown
+macroinvertebrates	unknown	unknown
+macroinvertebrates	Unknown	unknown
+macroinvertebrates	Unknown 	unknown
