@@ -1,26 +1,26 @@
 dataset	verbatimValue	habitat
-macroinvertebrates	Brackish	Estuarine
-macroinvertebrates	Brackish/Marine	Estuarine | Marine
-fishes		Freshwater
-rinse-annex-b	F	Freshwater
-rinse	freshwater	Freshwater
-harmonia	freshwater	Freshwater
-macroinvertebrates	Freshwater	Freshwater
-harmonia	freshwater, brackish	Freshwater | Estuarine
-macroinvertebrates	Freshwater/Brackish	Freshwater | Estuarine
-harmonia	freshwater, marine	Freshwater | Marine
-rinse	marine+freshwater	Freshwater | Marine
-harmonia	freshwater, terrestrial	Freshwater | Terrestrial
-rinse	freshwater+terrestrial	Freshwater | Terrestrial
-rinse-annex-b	F+T	Freshwater | Terrestrial
-rinse	freshwater+terrestrial+marine	Freshwater | Terrestrial | Marine
-rinse-annex-b	M	Marine
-rinse	marine	Marine
-macroinvertebrates	Marine	Marine
-rinse-annex-b	T	Terrestrial
-harmonia	terrestrial	Terrestrial
-rinse	terrestrial	Terrestrial
-rinse	terrestrial+marine	Terrestrial | Marine
+macroinvertebrates	Brackish	estuarine
+macroinvertebrates	Brackish/Marine	estuarine | marine
+fishes		freshwater
+rinse-annex-b	F	freshwater
+rinse	freshwater	freshwater
+harmonia	freshwater	freshwater
+macroinvertebrates	Freshwater	freshwater
+harmonia	freshwater, brackish	freshwater | estuarine
+macroinvertebrates	Freshwater/Brackish	freshwater | estuarine
+harmonia	freshwater, marine	freshwater | marine
+rinse	marine+freshwater	freshwater | marine
+harmonia	freshwater, terrestrial	freshwater | terrestrial
+rinse	freshwater+terrestrial	freshwater | terrestrial
+rinse-annex-b	F+T	freshwater | terrestrial
+rinse	freshwater+terrestrial+marine	freshwater | terrestrial | marine
+rinse-annex-b	M	marine
+rinse	marine	marine
+macroinvertebrates	Marine	marine
+rinse-annex-b	T	terrestrial
+harmonia	terrestrial	terrestrial
+rinse	terrestrial	terrestrial
+rinse	terrestrial+marine	terrestrial | marine
 harmonia		to be determined by experts
 plants		to be determined by experts
 wrims		to be determined by experts, primarily marine probably
