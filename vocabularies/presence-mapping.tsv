@@ -1,0 +1,51 @@
+dataset	verbatimPresenceBE	verbatimPresenceFL	verbatimPresenceWA	verbatimPresenceBR	verbatimPresenceBECoast	verbatimPresenceBPNS	verbatimPresenceBEEZ	presenceBE	presenceFL	presenceWA	presenceBR	presenceBECoast	presenceBPNS	presenceBEEZ
+fishes								present	present	to be determined by experts	to be determined by experts			
+harmonia	yes							present	to be determined by experts	to be determined by experts	to be determined by experts			
+harmonia	yes	no	yes					present	absent	present	to be determined by experts			
+harmonia	yes		yes					present	to be determined by experts	present	to be determined by experts			
+harmonia	yes	yes						present	present	to be determined by experts	to be determined by experts			
+harmonia	yes	yes	yes					present	present	present	present			
+harmonia	no							absent	absent	absent	absent			
+harmonia	no	no	no					absent	absent	absent	absent			
+harmonia	yes	yes	no					present	present	absent	to be determined by experts			
+macroinvertebrates								present	present	to be determined by experts	to be determined by experts			
+plants		X	 	 				present	present	absent	absent			
+plants		X	?					present	present	unknown	absent			
+plants		X		 				present	present	absent	absent			
+plants		 	X	X				present	absent	present	present			
+plants				X				present	absent	absent	present			
+plants		X	X	X				present	present	present	present			
+plants		?	X	?				present	unknown	present	unknown			
+plants		 X	X	X				present	present	present	present			
+plants		X	X					present	present	present	absent			
+plants								to be determined by experts	to be determined by experts	to be determined by experts	to be determined by experts			
+plants		 	X					present	absent	present	absent			
+plants		X	X	?				present	present	present	unknown			
+plants		 	 	 X				present	absent	absent	present			
+plants		?	?	?				unknown	unknown	unknown	unknown			
+plants			X					present	absent	present	absent			
+plants		X	 	X				present	present	absent	present			
+plants		X						present	present	absent	absent			
+plants		?	?	X				present	unknown	unknown	present			
+plants		X	 					present	present	absent	absent			
+plants		X		X				present	present	absent	present			
+plants		X	?	?				present	present	unknown	unknown			
+plants			X	X				present	absent	present	present			
+plants		X 	X	 				present	present	present	absent			
+plants		X	X	 				present	present	present	absent			
+rinse	present/native/extinct							to be determined by experts	to be determined by experts	to be determined by experts	to be determined by experts			
+rinse	present/native							to be determined by experts	to be determined by experts	to be determined by experts	to be determined by experts			
+rinse	present/not confirmed							to be determined by experts	to be determined by experts	to be determined by experts	to be determined by experts			
+rinse	native							to be determined by experts	to be determined by experts	to be determined by experts	to be determined by experts			
+rinse	present							to be determined by experts	present	to be determined by experts	to be determined by experts			
+rinse	extinct							to be determined by experts	absent	to be determined by experts	to be determined by experts			
+rinse	present 							present	present	to be determined by experts	to be determined by experts			
+rinse	not confirmed							unknown	unknown	unknown	unknown			
+rinse	present/extinct							to be determined by experts	to be determined by experts	to be determined by experts	to be determined by experts			
+rinse-annex-b								unknown	unknown	unknown	unknown			
+rinse-annex-b		Y						present	present	to be determined by experts	to be determined by experts			
+rinse-annex-b		N						to be determined by experts	absent	to be determined by experts	to be determined by experts			
+wrims							Belgian Exclusive Economic Zone	present		to be determined by experts	to be determined by experts	absent	absent	present
+wrims					Belgian Coast			present		to be determined by experts	to be determined by experts	present	absent	absent
+wrims	Belgium							present		to be determined by experts	to be determined by experts	to be determined by experts	to be determined by experts	to be determined by experts
+wrims						Belgian part of the North Sea		present		to be determined by experts	to be determined by experts	absent	present	absent
