@@ -1,4 +1,4 @@
-dataset	verbatimInvasionStage	invasionStage
+dataset	verbatimValue	controlledValue
 fishes	A	established
 fishes	A*	established
 fishes	N	established

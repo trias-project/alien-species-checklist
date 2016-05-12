@@ -1,4 +1,4 @@
-dataset	verbatimIntroductionPathway	introductionPathway	introductionPathwaySubcategory
+dataset	verbatimValue	controlledValue1	controlledValue2
 plants	Agric.	escape from confinement	agriculture (including biofuel feedstocks)
 plants	Agric.,etc	escape from confinement	agriculture (including biofuel feedstocks)
 plants	Agric., wool	escape from confinement | transport - contaminant	agriculture (including biofuel feedstocks) | contaminant on animals (except parasites, species transported by host/vector)

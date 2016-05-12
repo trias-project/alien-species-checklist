@@ -1,4 +1,4 @@
-dataset	verbatimHabitat	habitat
+dataset	verbatimValue	controlledValue
 macroinvertebrates	Brackish	estuarine
 macroinvertebrates	Brackish/Marine	estuarine | marine
 fishes		freshwater
