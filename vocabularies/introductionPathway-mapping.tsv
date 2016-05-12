@@ -1,166 +1,166 @@
-dataset	verbatimValue	controlledValue1	controlledValue2
-plants	Agric.	escape from confinement	agriculture (including biofuel feedstocks)
-plants	Agric.,etc	escape from confinement	agriculture (including biofuel feedstocks)
-plants	Agric., wool	escape from confinement | transport - contaminant	agriculture (including biofuel feedstocks) | contaminant on animals (except parasites, species transported by host/vector)
-plants	Agric., wool,etc	escape from confinement | transport - contaminant	agriculture (including biofuel feedstocks) | contaminant on animals (except parasites, species transported by host/vector)
-plants	Agric., hort.	escape from confinement	agriculture (including biofuel feedstocks) | horticulture
-plants	Hort., agric.	escape from confinement	agriculture (including biofuel feedstocks) | horticulture
-plants	Agric., grain	escape from confinement | transport - contaminant	agriculture (including biofuel feedstocks) | seed contaminant
-fishes	AQ	escape from confinement	aquaculture / mariculture
-harmonia	aqua- and mariculture	escape from confinement	aquaculture / mariculture
-macroinvertebrates	aquaculture	escape from confinement	aquaculture / mariculture
-macroinvertebrates	aquaculture, other	escape from confinement	aquaculture / mariculture
-fishes	AQ, AN	release in nature | escape from confinement	aquaculture / mariculture | fishery in the wild (including game fishing) | live food and live bait
-fishes	AQ, OR	escape from confinement	aquaculture / mariculture | pet/aquarium/terrarium species (including live food for such species )
-macroinvertebrates	aquaculture, aquarium trade	escape from confinement	aquaculture / mariculture | pet/aquarium/terrarium species (including live food for such species )
-fishes	BC	release in nature	biological control
-harmonia	biological control	release in nature	biological control
-plants	Nurseries	transport - contaminant	contaminant nursery material
-plants	Nurseries,etc	transport - contaminant	contaminant nursery material
-plants	Nurseries, etc	transport - contaminant	contaminant nursery material
-plants	Urban weed, nurseries	transport - contaminant | transport - stowaway	contaminant nursery material
-fishes	UN	transport - contaminant	contaminant on animals (except parasites, species transported by host/vector)
-plants	Waterfowl	transport - contaminant	contaminant on animals (except parasites, species transported by host/vector)
-plants	Waterfowl?, wool	transport - contaminant	contaminant on animals (except parasites, species transported by host/vector)
-plants	Wool	transport - contaminant	contaminant on animals (except parasites, species transported by host/vector)
-plants	Wool 	transport - contaminant	contaminant on animals (except parasites, species transported by host/vector)
-plants	Wool, ...	transport - contaminant	contaminant on animals (except parasites, species transported by host/vector)
-plants	Wool alien	transport - contaminant	contaminant on animals (except parasites, species transported by host/vector)
-plants	Wool,etc	transport - contaminant	contaminant on animals (except parasites, species transported by host/vector)
-plants	Wool, hort.?	transport - contaminant	contaminant on animals (except parasites, species transported by host/vector)
-plants	Urban weed, wool	transport - contaminant | transport - stowaway	contaminant on animals (except parasites, species transported by host/vector)
-plants	Wool, urban weed	transport - contaminant | transport - stowaway	contaminant on animals (except parasites, species transported by host/vector)
-plants	Wool, ore	transport - contaminant	contaminant on animals (except parasites, species transported by host/vector) | transportation of habitat material (soil, vegetation,…)
-plants	Wool, ore,etc	transport - contaminant	contaminant on animals (except parasites, species transported by host/vector) | transportation of habitat material (soil, vegetation,…)
-plants	Wool, ore, salt	transport - contaminant	contaminant on animals (except parasites, species transported by host/vector) | transportation of habitat material (soil, vegetation,…)
-plants	Pines	transport - contaminant	contaminant on plants (except parasites, species transported by host/vector)
-fishes	AN	release in nature | escape from confinement	fishery in the wild (including game fishing) | live food and live bait
-harmonia	forestry	escape from confinement	forestry (including afforestation or reforestation)
-harmonia	fur farming	escape from confinement	fur farms
-plants	hort.	escape from confinement	horticulture
-plants	Hort.	escape from confinement	horticulture
-plants	Hort. 	escape from confinement	horticulture
-plants	Hort.,etc	escape from confinement	horticulture
-plants	Hort., ore?	escape from confinement	horticulture
-plants	Hort., timber?	escape from confinement	horticulture
-plants	Hort., wool	escape from confinement | transport - contaminant	horticulture | contaminant on animals (except parasites, species transported by host/vector)
-plants	Hort., wool 	escape from confinement | transport - contaminant	horticulture | contaminant on animals (except parasites, species transported by host/vector)
-plants	Grain, hort.,etc	escape from confinement | transport - contaminant	horticulture | seed contaminant
-plants	Hort., birdseed	escape from confinement | transport - contaminant	horticulture | seed contaminant
-plants	Hort,, grain,	escape from confinement | transport - contaminant	horticulture | seed contaminant
-plants	Hort., grain,etc	escape from confinement | transport - contaminant	horticulture | seed contaminant
-plants	Hort., seeds	escape from confinement | transport - contaminant	horticulture | seed contaminant
-plants	Grain, wool, hort.	escape from confinement | transport - contaminant	horticulture | seed contaminant | contaminant on animals (except parasites, species transported by host/vector)
-plants	Hort., grain, wool	escape from confinement | transport - contaminant	horticulture | seed contaminant | contaminant on animals (except parasites, species transported by host/vector)
-plants	Hort., grain, wool,etc	escape from confinement | transport - contaminant	horticulture | seed contaminant | contaminant on animals (except parasites, species transported by host/vector)
-plants	Ore, hort.	escape from confinement | transport - contaminant	horticulture | transportation of habitat material (soil, vegetation,…)
-macroinvertebrates	corridors	corridor	interconnected waterways/basins/seas
-plants	Food refuse	escape from confinement	live food and live bait
-plants	Food refuse, wool	escape from confinement | transport - contaminant	live food and live bait | contaminant on animals (except parasites, species transported by host/vector)
-fishes	UN, AN	escape from confinement | transport - stowaway | transport - contaminant	live food and live bait | contaminant on animals (except parasites, species transported by host/vector) | angling/fishing equipment
-fishes	AM	unaided	natural dispersal across borders of invasive alien species that have been introduced through pathways 1 to 5
-fishes	OR	escape from confinement	ornamental purpose other than horticulture
-fishes	OR, AQ	escape from confinement	ornamental purpose other than horticulture | aquaculture / mariculture
-plants	Tourists	transport - stowaway	people and their luggage/equipment (in particular tourism)
-plants	Military troops	transport - stowaway	people and their luggage/equipment (in particular tourism) | other means of transport
-macroinvertebrates	aquarium trade	escape from confinement	pet/aquarium/terrarium species (including live food for such species )
-harmonia	pets and domestic animals	escape from confinement	pet/aquarium/terrarium species (including live food for such species )
-plants	Birdseed	transport - contaminant	seed contaminant
-plants	Birdseed  	transport - contaminant	seed contaminant
-plants	Birdseed,etc	transport - contaminant	seed contaminant
-plants	Birdseed, etc	transport - contaminant	seed contaminant
-plants	Coconut mats	transport - contaminant	seed contaminant
-plants	Grain	transport - contaminant	seed contaminant
-plants	Grain, ...	transport - contaminant	seed contaminant
-plants	Grain, birdseed	transport - contaminant	seed contaminant
-plants	Grain,etc	transport - contaminant	seed contaminant
-plants	Grain, etc	transport - contaminant	seed contaminant
-plants	Grain, etc.	transport - contaminant	seed contaminant
-plants	Grain, hort.?	transport - contaminant	seed contaminant
-plants	Grain, salt	transport - contaminant	seed contaminant
-plants	Grain, seeds	transport - contaminant	seed contaminant
-plants	Grain, seeds  	transport - contaminant	seed contaminant
-plants	Grain, seeds,etc	transport - contaminant	seed contaminant
-plants	Grain, seeds, etc	transport - contaminant	seed contaminant
-plants	Grass seed	transport - contaminant	seed contaminant
-plants	Grass seed,etc	transport - contaminant	seed contaminant
-plants	Grass seed, etc.	transport - contaminant	seed contaminant
-plants	Seeds	transport - contaminant	seed contaminant
-plants	Seeds 	transport - contaminant	seed contaminant
-plants	Seeds  	transport - contaminant	seed contaminant
-plants	Seeds,etc	transport - contaminant	seed contaminant
-plants	Seeds, grain	transport - contaminant	seed contaminant
-plants	Seeds, grain?	transport - contaminant	seed contaminant
-plants	Seeds, grain,etc	transport - contaminant	seed contaminant
-plants	Birdseed, wool	transport - contaminant	seed contaminant | contaminant on animals (except parasites, species transported by host/vector)
-plants	Birdseed, wool,etc	transport - contaminant	seed contaminant | contaminant on animals (except parasites, species transported by host/vector)
-plants	Grain, seeds, wool	transport - contaminant	seed contaminant | contaminant on animals (except parasites, species transported by host/vector)
-plants	Grain, wool	transport - contaminant	seed contaminant | contaminant on animals (except parasites, species transported by host/vector)
-plants	Grain, wool,etc	transport - contaminant	seed contaminant | contaminant on animals (except parasites, species transported by host/vector)
-plants	Grain, wool, etc	transport - contaminant	seed contaminant | contaminant on animals (except parasites, species transported by host/vector)
-plants	Grain, wool, seeds	transport - contaminant	seed contaminant | contaminant on animals (except parasites, species transported by host/vector)
-plants	Grass seed, wool	transport - contaminant	seed contaminant | contaminant on animals (except parasites, species transported by host/vector)
-plants	Wool, birdseed	transport - contaminant	seed contaminant | contaminant on animals (except parasites, species transported by host/vector)
-plants	Wool, grain	transport - contaminant	seed contaminant | contaminant on animals (except parasites, species transported by host/vector)
-plants	Wool, grain  	transport - contaminant	seed contaminant | contaminant on animals (except parasites, species transported by host/vector)
-plants	Wool, grain,etc	transport - contaminant	seed contaminant | contaminant on animals (except parasites, species transported by host/vector)
-plants	Wool, grain, etc	transport - contaminant	seed contaminant | contaminant on animals (except parasites, species transported by host/vector)
-plants	Wool, seeds	transport - contaminant	seed contaminant | contaminant on animals (except parasites, species transported by host/vector)
-plants	Wool, seeds,etc	transport - contaminant	seed contaminant | contaminant on animals (except parasites, species transported by host/vector)
-plants	Seeds, hort.	escape from confinement | transport - contaminant	horticulture | seed contaminant
-plants	Hort., wool, grain	escape from confinement | transport - contaminant	horticulture | seed contaminant | contaminant on animals (except parasites, species transported by host/vector)
-plants	Grain, ore, etc	transport - contaminant	seed contaminant | transportation of habitat material (soil, vegetation,…)
-plants	Grain, Ore,etc	transport - contaminant	seed contaminant | transportation of habitat material (soil, vegetation,…)
-plants	Grain, seeds, ore	transport - contaminant	seed contaminant | transportation of habitat material (soil, vegetation,…)
-plants	Grain, ore, wool	transport - contaminant	seed contaminant | transportation of habitat material (soil, vegetation,…) | contaminant on animals (except parasites, species transported by host/vector)
-plants	Ore, grain, wool	transport - contaminant	seed contaminant | transportation of habitat material (soil, vegetation,…) | contaminant on animals (except parasites, species transported by host/vector)
-fishes	BW, AM	transport - stowaway | unaided	ship/boat ballast water | natural dispersal across borders of invasive alien species that have been introduced through pathways 1 to 5
-plants	Timber	transport - contaminant	timber trade
-plants	Timber,etc	transport - contaminant	timber trade
-harmonia	agri- and horticulture	escape from confinement	to be determined by experts
-harmonia	agri- and horticulture, forestry	escape from confinement	to be determined by experts
-harmonia	aquariums and ponds	escape from confinement	to be determined by experts
-harmonia	game/fish stocking	release in nature	to be determined by experts
-harmonia	accidental, aquariums and ponds, game/fish stocking	release in nature | escape from confinement	to be determined by experts
-harmonia	fur farming, game/fish stocking	release in nature | escape from confinement	to be determined by experts
-rinse-annex-b		to be determined by experts	to be determined by experts
-rinse		to be determined by experts	to be determined by experts
-harmonia		to be determined by experts	to be determined by experts
-wrims		to be determined by experts	to be determined by experts
-plants		to be determined by experts	to be determined by experts
-harmonia	accidental	to be determined by experts	to be determined by experts
-plants	Fish	to be determined by experts	to be determined by experts
-plants	Hybridization	to be determined by experts	to be determined by experts
-macroinvertebrates	shipping	transport - stowaway	to be determined by experts
-macroinvertebrates	shipping, other	transport - stowaway	to be determined by experts
-macroinvertebrates	shipping, others	transport - stowaway	to be determined by experts
-macroinvertebrates	shipping, corridors	transport - stowaway | corridor	to be determined by experts
-macroinvertebrates	shipping, corridors, other	transport - stowaway | corridor	to be determined by experts
-macroinvertebrates	shipping, aquaculture	transport - stowaway | escape from confinement	to be determined by experts
-plants	Ore	transport - contaminant	transportation of habitat material (soil, vegetation,…)
-plants	Ore,etc	transport - contaminant	transportation of habitat material (soil, vegetation,…)
-plants	Ore, etc	transport - contaminant	transportation of habitat material (soil, vegetation,…)
-plants	Ore, wool	transport - contaminant	contaminant on animals (except parasites, species transported by host/vector) | transportation of habitat material (soil, vegetation,…)
-plants	Ore, wool,etc	transport - contaminant	contaminant on animals (except parasites, species transported by host/vector) | transportation of habitat material (soil, vegetation,…)
-plants	Grain, wool, ore	transport - contaminant	seed contaminant | transportation of habitat material (soil, vegetation,…) | contaminant on animals (except parasites, species transported by host/vector)
-plants	?	unknown	unknown
-plants	Birdseed?	unknown	unknown
-plants	Bulbs?	unknown	unknown
-plants	Food refuse?	unknown	unknown
-plants	Grain?	unknown	unknown
-plants	Hay?	unknown	unknown
-plants	Hort.?	unknown	unknown
-plants	Hort.?,etc	unknown	unknown
-plants	Military troops?	unknown	unknown
-plants	Nurseries?	unknown	unknown
-plants	Ore?	unknown	unknown
-plants	Ore?, grain?	unknown	unknown
-plants	Ore?, hort.?	unknown	unknown
-macroinvertebrates	other	unknown	unknown
-plants	Seeds?	unknown	unknown
-plants	Timber?	unknown	unknown
-plants	Traffic?	unknown	unknown
-plants	Waterfowl?	unknown	unknown
-plants	Wool?	unknown	unknown
-plants	Urban weed	transport - stowaway	
-plants	Urban weed,etc	transport - stowaway	
+dataset	verbatimValue	controlledValue
+plants	Agric.	escape > agriculture (including biofuel feedstocks)
+plants	Agric.,etc	escape > agriculture (including biofuel feedstocks)
+plants	Agric., wool	escape > agriculture (including biofuel feedstocks) | contaminant > contaminant on animals (except parasites, species transported by host/vector)
+plants	Agric., wool,etc	escape > agriculture (including biofuel feedstocks) | contaminant > contaminant on animals (except parasites, species transported by host/vector)
+plants	Agric., hort.	escape > agriculture (including biofuel feedstocks) | escape > horticulture
+plants	Hort., agric.	escape > agriculture (including biofuel feedstocks) | escape > horticulture
+plants	Agric., grain	escape > agriculture (including biofuel feedstocks) | contaminant > seed contaminant
+fishes	AQ	escape > aquaculture / mariculture
+harmonia	aqua- and mariculture	escape > aquaculture / mariculture
+macroinvertebrates	aquaculture	escape > aquaculture / mariculture
+macroinvertebrates	aquaculture, other	escape > aquaculture / mariculture
+fishes	AQ, AN	release > fishery in the wild (including game fishing) | escape > aquaculture / mariculture | escape > live food and live bait
+fishes	AQ, OR	escape > aquaculture / mariculture | escape > pet/aquarium/terrarium species (including live food for such species )
+macroinvertebrates	aquaculture, aquarium trade	escape > aquaculture / mariculture | escape > pet/aquarium/terrarium species (including live food for such species )
+fishes	BC	release > biological control
+harmonia	biological control	release > biological control
+plants	Nurseries	contaminant > contaminant nursery material
+plants	Nurseries,etc	contaminant > contaminant nursery material
+plants	Nurseries, etc	contaminant > contaminant nursery material
+plants	Urban weed, nurseries	contaminant > contaminant nursery material | stowaway
+fishes	UN	contaminant > contaminant on animals (except parasites, species transported by host/vector)
+plants	Waterfowl	contaminant > contaminant on animals (except parasites, species transported by host/vector)
+plants	Waterfowl?, wool	contaminant > contaminant on animals (except parasites, species transported by host/vector)
+plants	Wool	contaminant > contaminant on animals (except parasites, species transported by host/vector)
+plants	Wool 	contaminant > contaminant on animals (except parasites, species transported by host/vector)
+plants	Wool, ...	contaminant > contaminant on animals (except parasites, species transported by host/vector)
+plants	Wool alien	contaminant > contaminant on animals (except parasites, species transported by host/vector)
+plants	Wool,etc	contaminant > contaminant on animals (except parasites, species transported by host/vector)
+plants	Wool, hort.?	contaminant > contaminant on animals (except parasites, species transported by host/vector)
+plants	Urban weed, wool	contaminant > contaminant on animals (except parasites, species transported by host/vector) | stowaway
+plants	Wool, urban weed	contaminant > contaminant on animals (except parasites, species transported by host/vector) | stowaway
+plants	Wool, ore	contaminant > contaminant on animals (except parasites, species transported by host/vector) | contaminant > transportation of habitat material (soil, vegetation,…)
+plants	Wool, ore,etc	contaminant > contaminant on animals (except parasites, species transported by host/vector) | contaminant > transportation of habitat material (soil, vegetation,…)
+plants	Wool, ore, salt	contaminant > contaminant on animals (except parasites, species transported by host/vector) | contaminant > transportation of habitat material (soil, vegetation,…)
+plants	Pines	contaminant > contaminant on plants (except parasites, species transported by host/vector)
+fishes	AN	release > fishery in the wild (including game fishing) | escape > live food and live bait
+harmonia	forestry	escape > forestry (including afforestation or reforestation)
+harmonia	fur farming	escape > fur farms
+plants	hort.	escape > horticulture
+plants	Hort.	escape > horticulture
+plants	Hort. 	escape > horticulture
+plants	Hort.,etc	escape > horticulture
+plants	Hort., ore?	escape > horticulture
+plants	Hort., timber?	escape > horticulture
+plants	Hort., wool	escape > horticulture | contaminant > contaminant on animals (except parasites, species transported by host/vector)
+plants	Hort., wool 	escape > horticulture | contaminant > contaminant on animals (except parasites, species transported by host/vector)
+plants	Grain, hort.,etc	escape > horticulture | contaminant > seed contaminant
+plants	Hort., birdseed	escape > horticulture | contaminant > seed contaminant
+plants	Hort,, grain,	escape > horticulture | contaminant > seed contaminant
+plants	Hort., grain,etc	escape > horticulture | contaminant > seed contaminant
+plants	Hort., seeds	escape > horticulture | contaminant > seed contaminant
+plants	Grain, wool, hort.	escape > horticulture | contaminant > seed contaminant | contaminant > contaminant on animals (except parasites, species transported by host/vector)
+plants	Hort., grain, wool	escape > horticulture | contaminant > seed contaminant | contaminant > contaminant on animals (except parasites, species transported by host/vector)
+plants	Hort., grain, wool,etc	escape > horticulture | contaminant > seed contaminant | contaminant > contaminant on animals (except parasites, species transported by host/vector)
+plants	Ore, hort.	escape > horticulture | contaminant > transportation of habitat material (soil, vegetation,…)
+macroinvertebrates	corridors	corridor > interconnected waterways/basins/seas
+plants	Food refuse	escape > live food and live bait
+plants	Food refuse, wool	escape > live food and live bait | contaminant > contaminant on animals (except parasites, species transported by host/vector)
+fishes	UN, AN	escape > live food and live bait | stowaway > angling/fishing equipment | contaminant > contaminant on animals (except parasites, species transported by host/vector)
+fishes	AM	unaided > natural dispersal across borders of invasive alien species that have been introduced through pathways 1 to 5
+fishes	OR	escape > ornamental purpose other than horticulture
+fishes	OR, AQ	escape > ornamental purpose other than horticulture | escape > aquaculture / mariculture
+plants	Tourists	stowaway > people and their luggage/equipment (in particular tourism)
+plants	Military troops	stowaway > people and their luggage/equipment (in particular tourism) | stowaway > other means of transport
+macroinvertebrates	aquarium trade	escape > pet/aquarium/terrarium species (including live food for such species )
+harmonia	pets and domestic animals	escape > pet/aquarium/terrarium species (including live food for such species )
+plants	Birdseed	contaminant > seed contaminant
+plants	Birdseed  	contaminant > seed contaminant
+plants	Birdseed,etc	contaminant > seed contaminant
+plants	Birdseed, etc	contaminant > seed contaminant
+plants	Coconut mats	contaminant > seed contaminant
+plants	Grain	contaminant > seed contaminant
+plants	Grain, ...	contaminant > seed contaminant
+plants	Grain, birdseed	contaminant > seed contaminant
+plants	Grain,etc	contaminant > seed contaminant
+plants	Grain, etc	contaminant > seed contaminant
+plants	Grain, etc.	contaminant > seed contaminant
+plants	Grain, hort.?	contaminant > seed contaminant
+plants	Grain, salt	contaminant > seed contaminant
+plants	Grain, seeds	contaminant > seed contaminant
+plants	Grain, seeds  	contaminant > seed contaminant
+plants	Grain, seeds,etc	contaminant > seed contaminant
+plants	Grain, seeds, etc	contaminant > seed contaminant
+plants	Grass seed	contaminant > seed contaminant
+plants	Grass seed,etc	contaminant > seed contaminant
+plants	Grass seed, etc.	contaminant > seed contaminant
+plants	Seeds	contaminant > seed contaminant
+plants	Seeds 	contaminant > seed contaminant
+plants	Seeds  	contaminant > seed contaminant
+plants	Seeds,etc	contaminant > seed contaminant
+plants	Seeds, grain	contaminant > seed contaminant
+plants	Seeds, grain?	contaminant > seed contaminant
+plants	Seeds, grain,etc	contaminant > seed contaminant
+plants	Birdseed, wool	contaminant > seed contaminant | contaminant > contaminant on animals (except parasites, species transported by host/vector)
+plants	Birdseed, wool,etc	contaminant > seed contaminant | contaminant > contaminant on animals (except parasites, species transported by host/vector)
+plants	Grain, seeds, wool	contaminant > seed contaminant | contaminant > contaminant on animals (except parasites, species transported by host/vector)
+plants	Grain, wool	contaminant > seed contaminant | contaminant > contaminant on animals (except parasites, species transported by host/vector)
+plants	Grain, wool,etc	contaminant > seed contaminant | contaminant > contaminant on animals (except parasites, species transported by host/vector)
+plants	Grain, wool, etc	contaminant > seed contaminant | contaminant > contaminant on animals (except parasites, species transported by host/vector)
+plants	Grain, wool, seeds	contaminant > seed contaminant | contaminant > contaminant on animals (except parasites, species transported by host/vector)
+plants	Grass seed, wool	contaminant > seed contaminant | contaminant > contaminant on animals (except parasites, species transported by host/vector)
+plants	Wool, birdseed	contaminant > seed contaminant | contaminant > contaminant on animals (except parasites, species transported by host/vector)
+plants	Wool, grain	contaminant > seed contaminant | contaminant > contaminant on animals (except parasites, species transported by host/vector)
+plants	Wool, grain  	contaminant > seed contaminant | contaminant > contaminant on animals (except parasites, species transported by host/vector)
+plants	Wool, grain,etc	contaminant > seed contaminant | contaminant > contaminant on animals (except parasites, species transported by host/vector)
+plants	Wool, grain, etc	contaminant > seed contaminant | contaminant > contaminant on animals (except parasites, species transported by host/vector)
+plants	Wool, seeds	contaminant > seed contaminant | contaminant > contaminant on animals (except parasites, species transported by host/vector)
+plants	Wool, seeds,etc	contaminant > seed contaminant | contaminant > contaminant on animals (except parasites, species transported by host/vector)
+plants	Seeds, hort.	escape > horticulture | contaminant > seed contaminant
+plants	Hort., wool, grain	escape > horticulture | contaminant > seed contaminant | contaminant > contaminant on animals (except parasites, species transported by host/vector)
+plants	Grain, ore, etc	contaminant > seed contaminant | contaminant > transportation of habitat material (soil, vegetation,…)
+plants	Grain, Ore,etc	contaminant > seed contaminant | contaminant > transportation of habitat material (soil, vegetation,…)
+plants	Grain, seeds, ore	contaminant > seed contaminant | contaminant > transportation of habitat material (soil, vegetation,…)
+plants	Grain, ore, wool	contaminant > seed contaminant | contaminant > transportation of habitat material (soil, vegetation,…) | contaminant > contaminant on animals (except parasites, species transported by host/vector)
+plants	Ore, grain, wool	contaminant > seed contaminant | contaminant > transportation of habitat material (soil, vegetation,…) | contaminant > contaminant on animals (except parasites, species transported by host/vector)
+fishes	BW, AM	stowaway > ship/boat ballast water | unaided > natural dispersal across borders of invasive alien species that have been introduced through pathways 1 to 5
+plants	Timber	contaminant > timber trade
+plants	Timber,etc	contaminant > timber trade
+harmonia	agri- and horticulture	escape > to be determined by experts
+harmonia	agri- and horticulture, forestry	escape > to be determined by experts
+harmonia	aquariums and ponds	escape > to be determined by experts
+harmonia	game/fish stocking	release > to be determined by experts
+harmonia	accidental, aquariums and ponds, game/fish stocking	release > to be determined by experts | escape > to be determined by experts
+harmonia	fur farming, game/fish stocking	release > to be determined by experts | escape > to be determined by experts
+rinse-annex-b		to be determined by experts
+rinse		to be determined by experts
+harmonia		to be determined by experts
+wrims		to be determined by experts
+plants		to be determined by experts
+harmonia	accidental	to be determined by experts
+plants	Fish	to be determined by experts
+plants	Hybridization	to be determined by experts
+macroinvertebrates	shipping	stowaway > to be determined by experts
+macroinvertebrates	shipping, other	stowaway > to be determined by experts
+macroinvertebrates	shipping, others	stowaway > to be determined by experts
+macroinvertebrates	shipping, corridors	stowaway > to be determined by experts | corridor > to be determined by experts
+macroinvertebrates	shipping, corridors, other	stowaway > to be determined by experts | corridor > to be determined by experts
+macroinvertebrates	shipping, aquaculture	stowaway > to be determined by experts | escape > to be determined by experts
+plants	Ore	contaminant > transportation of habitat material (soil, vegetation,…)
+plants	Ore,etc	contaminant > transportation of habitat material (soil, vegetation,…)
+plants	Ore, etc	contaminant > transportation of habitat material (soil, vegetation,…)
+plants	Ore, wool	contaminant > contaminant on animals (except parasites, species transported by host/vector) | contaminant > transportation of habitat material (soil, vegetation,…)
+plants	Ore, wool,etc	contaminant > contaminant on animals (except parasites, species transported by host/vector) | contaminant > transportation of habitat material (soil, vegetation,…)
+plants	Grain, wool, ore	contaminant > seed contaminant | contaminant > transportation of habitat material (soil, vegetation,…) | contaminant > contaminant on animals (except parasites, species transported by host/vector)
+plants	?	unknown
+plants	Birdseed?	unknown
+plants	Bulbs?	unknown
+plants	Food refuse?	unknown
+plants	Grain?	unknown
+plants	Hay?	unknown
+plants	Hort.?	unknown
+plants	Hort.?,etc	unknown
+plants	Military troops?	unknown
+plants	Nurseries?	unknown
+plants	Ore?	unknown
+plants	Ore?, grain?	unknown
+plants	Ore?, hort.?	unknown
+macroinvertebrates	other	unknown
+plants	Seeds?	unknown
+plants	Timber?	unknown
+plants	Traffic?	unknown
+plants	Waterfowl?	unknown
+plants	Wool?	unknown
+plants	Urban weed	stowaway
+plants	Urban weed,etc	stowaway
