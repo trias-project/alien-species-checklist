@@ -14,7 +14,7 @@ Our goal is to create an open, consolidated checklist of alien species in Belgiu
 1. Choose and download [source datasets](source-datasets)
 2. Format the data to tab-delimited values
 3. Define [common terms](vocabularies/common-terms.csv) for all source datasets
-4. Map the source datasets to the common terms schema, using [this mapping file](mapping/common-terms.tsv).
+4. Map the source datasets to the common terms schema, using [this mapping file](vocabularies/common-terms-mapping.tsv).
 5. Concatenate all source datasetes using:
 
     ```shell
@@ -24,8 +24,8 @@ Our goal is to create an open, consolidated checklist of alien species in Belgiu
 ### Process concatenated data
 
 1. Match scientific names to the GBIF backbone taxonomy and review any issues
-2. Define controlled vocabularies for the terms we're interested in.
-3. Map the current values to controlled vocabularies, using [these mapping files](mapping).
+2. Define [controlled vocabularies](vocabularies) for the terms we're interested in.
+3. Map the current values to controlled vocabularies, using the `-mapping`-files in [this directory](vocabularies).
 
 ## Repeatable process
 
