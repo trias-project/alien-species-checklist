@@ -1,0 +1,45 @@
+id	supercategory	category	subcategory	COP decision
+1	movement of commodity	release	biological control	VIII/27
+2	movement of commodity	release	erosion control/ dune stabilization (windbreaks, hedges, …)	
+3	movement of commodity	release	fishery in the wild (including game fishing)	VIII/27 | X/38
+4	movement of commodity	release	hunting	X/38
+5	movement of commodity	release	landscape/flora/fauna improvement in the wild	
+6	movement of commodity	release	introduction for conservation purposes or wildlife management	
+7	movement of commodity	release	release in nature for use (other than above, e.g., fur, transport, medical use)	
+8	movement of commodity	release	other intentional release	
+9	movement of commodity	escape	agriculture (including biofuel feedstocks)	X/38
+10	movement of commodity	escape	aquaculture / mariculture	VIII/27 | IX/4
+11	movement of commodity	escape	botanical garden/zoo/aquaria (excluding domestic aquaria)	XI/28
+12	movement of commodity	escape	pet/aquarium/terrarium species (including live food for such species )	VIII/27, X/38, XI/28
+13	movement of commodity	escape	farmed animals (including animals left under limited control)	VIII/27
+14	movement of commodity	escape	forestry (including afforestation or reforestation)	
+15	movement of commodity	escape	fur farms	
+16	movement of commodity	escape	horticulture	
+17	movement of commodity	escape	ornamental purpose other than horticulture	
+18	movement of commodity	escape	research and ex-situ breeding (in facilities)	VIII/27
+19	movement of commodity	escape	live food and live bait	
+20	movement of commodity	escape	other escape from confinement	
+21	movement of commodity	contaminant	contaminant nursery material	
+22	movement of commodity	contaminant	contaminated bait	
+23	movement of commodity	contaminant	food contaminant (including of live food)	VIII/27 | XI/28
+24	movement of commodity	contaminant	contaminant on animals (except parasites, species transported by host/vector)	XI/28
+25	movement of commodity	contaminant	parasites on animals (including species transported by host and vector)	XI/28
+26	movement of commodity	contaminant	contaminant on plants (except parasites, species transported by host/vector)	XI/28
+27	movement of commodity	contaminant	parasites on plants (including species transported by host and vector)	XI/28
+28	movement of commodity	contaminant	seed contaminant	VIII/27
+29	movement of commodity	contaminant	timber trade	
+30	movement of commodity	contaminant	transportation of habitat material (soil, vegetation,…)	
+31	vector	stowaway	angling/fishing equipment	VIII/27
+32	vector	stowaway	container/bulk	VIII/27
+33	vector	stowaway	hitchhikers in or on airplane	VIII/27, IX/4
+34	vector	stowaway	hitchhikers on ship/boat (excluding ballast water and hull fouling)	
+35	vector	stowaway	machinery/equipment	VIII/27
+36	vector	stowaway	people and their luggage/equipment (in particular tourism)	VIII/27
+37	vector	stowaway	organic packing material, in particular wood packaging	
+38	vector	stowaway	ship/boat ballast water	VIII/27
+39	vector	stowaway	ship/boat hull fouling	VIII/27, IX/4
+40	vector	stowaway	vehicles (car, train, …)	
+41	vector	stowaway	other means of transport	
+42	spread	corridor	interconnected waterways/basins/seas	VIII/27
+43	spread	corridor	tunnels and land bridges	
+44	spread	unaided	natural dispersal across borders of invasive alien species that have been introduced through pathways 1 to 5
