@@ -27,7 +27,7 @@ Our goal is to create an open, consolidated checklist of alien species in Belgiu
 1. Match scientific names to the GBIF backbone taxonomy (assuming `gbif_species_name_extraction.py` is locally available):
 
     ```shell
-    python ../invasive-t0-occurrences/src/utilities/gbif_species_name_extraction/gbif_species_name_extraction.py data/processed/checklist.tsv data/processed/checklist.tsv --update --namecol scientificName --kingdomcol kingdom --strict
+    python ../invasive-t0-occurrences/src/utilities/gbif_species_name_extraction/gbif_species_name_extraction.py data/processed/checklist.tsv data/processed/checklist.tsv --update --namecol scientificName --kingdomcol kingdom --strict --api_terms usageKey scientificName canonicalName status rank matchType
     ```
 
 2. Review any issues (see [this procedure](data/processed/README.md) for updating names).
