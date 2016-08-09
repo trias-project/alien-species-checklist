@@ -11,8 +11,8 @@ Our goal is to create an open, consolidated checklist of alien species in Belgiu
 
 ### Process source datasets
 
-1. Choose and download [source datasets](source-datasets)
-2. Format the data to tab-delimited values
+1. Choose and download [source datasets](data/raw)
+2. Format the data to tab-delimited values with Open Refine
 3. Define [common terms](vocabularies/common-terms.tsv) for all source datasets
 4. Map the source datasets to the common terms schema, using [this mapping file](vocabularies/common-terms-mapping.tsv).
 5. Concatenate all source datasetes using:
