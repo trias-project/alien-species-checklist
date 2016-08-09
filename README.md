@@ -23,7 +23,7 @@ Our goal is to create an open, consolidated checklist of alien species in Belgiu
 
 ### Process concatenated data
 
-1. Copy concatenated file to [data/checklist.tsv](data/checklist.tsv)
+1. Copy concatenated file to [data/processed/checklist.tsv](data/processed/checklist.tsv)
 1. Match scientific names to the GBIF backbone taxonomy (assuming `gbif_species_name_extraction.py` is locally available):
 
     ```shell
