@@ -23,15 +23,16 @@ Our goal is to create an open, consolidated checklist of alien species in Belgiu
 
 ### Process concatenated data
 
+1. Copy concatenated file to [data/checklist.tsv](data/checklist.tsv)
 1. Match scientific names to the GBIF backbone taxonomy (assuming `gbif_species_name_extraction.py` is locally available):
 
     ```shell
-    python ../../invasive-t0-occurrences/src/utilities/gbif_species_name_extraction/gbif_species_name_extraction.py concatenated.tsv concatenated.tsv --update --namecol scientificName --kingdomcol kingdom --strict
+    python ../invasive-t0-occurrences/src/utilities/gbif_species_name_extraction/gbif_species_name_extraction.py data/processed/species-checklist.tsv data/processed/species-checklist.tsv --update --namecol scientificName --kingdomcol kingdom --strict
     ```
 
-2. Review any issues (see [this procedure](https://github.com/inbo/alien-species-checklist/blob/master/data/README.md) for updating names).
-3. Define [controlled vocabularies](vocabularies) for the terms we're interested in.
-4. Map the current values to controlled vocabularies, using the `-mapping`-files in [this directory](vocabularies).
+2. Review any issues (see [this procedure](https://github.com/inbo/alien-species-checklist/blob/master/data/processed/README.md) for updating names).
+3. Define [controlled vocabularies](data/vocabularies) for the terms we're interested in.
+4. Map the current values to controlled vocabularies, using the `-mapping`-files in [this directory](data/vocabularies).
 
 ## Repeatable process
 
