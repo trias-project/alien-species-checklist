@@ -18,7 +18,7 @@ Our goal is to create an open, consolidated checklist of alien species in Belgiu
 5. Concatenate all source datasetes using:
 
     ```shell
-    csvcat --skip-headers source-datasets/fishes/data-with-common-terms.tsv source-datasets/harmonia/data-with-common-terms.tsv source-datasets/macroinvertebrates/data-with-common-terms.tsv source-datasets/plants/data-with-common-terms.tsv source-datasets/rinse/data-with-common-terms.tsv source-datasets/rinse-annex-b/data-with-common-terms.tsv source-datasets/wrims/data-with-common-terms.tsv > data/concatenated-without-gbif-match.tsv
+    csvcat --skip-headers data/interim/fishes/data-with-common-terms.tsv data/interim/harmonia/data-with-common-terms.tsv data/interim/macroinvertebrates/data-with-common-terms.tsv data/interim/plants/data-with-common-terms.tsv data/interim/rinse/data-with-common-terms.tsv data/interim/rinse-annex-b/data-with-common-terms.tsv data/interim/wrims/data-with-common-terms.tsv > data/interim/concatenated.tsv
     ```
 
 ### Process concatenated data
