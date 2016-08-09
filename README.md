@@ -30,9 +30,9 @@ Our goal is to create an open, consolidated checklist of alien species in Belgiu
     python ../invasive-t0-occurrences/src/utilities/gbif_species_name_extraction/gbif_species_name_extraction.py data/processed/species-checklist.tsv data/processed/species-checklist.tsv --update --namecol scientificName --kingdomcol kingdom --strict
     ```
 
-2. Review any issues (see [this procedure](https://github.com/inbo/alien-species-checklist/blob/master/data/processed/README.md) for updating names).
+2. Review any issues (see [this procedure](data/processed/README.md) for updating names).
 3. Define [controlled vocabularies](data/vocabularies) for the terms we're interested in.
-4. Map the current values to controlled vocabularies, using the `-mapping`-files in [this directory](data/vocabularies).
+4. Map the current values to controlled vocabularies, using the `-mapping`-files in vocabularies directory.
 
 ## Repeatable process
 
