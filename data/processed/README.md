@@ -24,3 +24,10 @@ We update names to force a certain synonymy:
 We do NOT update names:
 
 * GBIF matches them to the correct accepted species: `Mustela vison` → Don't update to `Neovison vison`
+
+## Verifying synonymy
+
+* We initially indicate all matching names that GBIF considers synonyms as `verify: SYNONYM`
+* If the only difference between the accepted name and the synonym name is (a variation) in the authorship, we indicate: `ok: SYNONYM author variation`.
+* If the accepted name is listed in the source dataset as a synonym (field `synonym`), we indicate `ok: SYNONYM listed`. The authors need to be similar though.
+* If the accepted name was verified as a valid one (e.g. in an issue discussion), we indicate: `ok: SYNONYM verified`.
