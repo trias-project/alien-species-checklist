@@ -8,7 +8,7 @@ We keep the original scientific name in `verbatimScientificName` to be able to l
 
 We update names to correct typographic issues:
 
-* Remove typos and avoid fuzzy matches: `AseroÙ rubra` → `Asero rubra`
+* Remove typos to avoid misses in strict mode: `AseroÙ rubra` → `Asero rubra`
 * Remove double and trailing spaces: `Aethusa cynapium  agrestis` → `Aethusa cynapium agrestis`
 * Remove `sp.`, `spp.`, `spec.` indications: `Parthenocissus spp.` → `Parthenocissus`
 * Remove double quotes: `Procambarus "(""Marmorkrebs"")"` → `Procambarus "(""Marmorkrebs"")"`
