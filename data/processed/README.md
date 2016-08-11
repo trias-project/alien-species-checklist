@@ -9,8 +9,10 @@ We keep the original scientific name in `verbatimScientificName` to be able to l
 We update names to correct typographic issues:
 
 * Remove typos to avoid misses in strict mode: `AseroÙ rubra` → `Asero rubra`
+* Remove typographic variations/errors to avoid misses in strict mode: `Vaccinium macrocarpon Ait.` → `Vaccinium macrocarpum Ait.` or `Alopochen aegyptiacus` → `Alopochen aegyptiaca`
 * Remove double and trailing spaces: `Aethusa cynapium  agrestis` → `Aethusa cynapium agrestis`
 * Remove `sp.`, `spp.`, `spec.` indications: `Parthenocissus spp.` → `Parthenocissus`
+* Remove `group`, `aggr.` indications: `Clematis x jackmanii group` → `Clematis x jackmanii`
 * Remove double quotes: `Procambarus "(""Marmorkrebs"")"` → `Procambarus "(""Marmorkrebs"")"`
 * Remove the hybrid combination for named hybrids: `Amaranthus x ralletii Contré (A. bouchonii x retroflexus)` → `Amaranthus x ralletii Contré`
 * Remove subgenus information: `Acartia (Acanthacartia) tonsa` → `Acartia tonsa`
