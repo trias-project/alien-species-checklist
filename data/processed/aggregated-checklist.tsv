@@ -575,9 +575,11 @@ Cosmos sulphureus Cav.	3098951	Plantae	introduced	present	plants	Cosmos sulphure
 Cota altissima (L.) J.Gay	5390611	Plantae	introduced	present	plants	Cota altissima (L.) J.Gay	592
 Cota austriaca (Jacq.) Sch.Bip.	5390636	Plantae	introduced	present	plants	Cota austriaca (Jacq.) Sch.Bip.	593
 Cotinus coggygria Scop.	3190522	Plantae	introduced	present	plants	Cotinus coggygria Scop.	378
+Cotoneaster acutifolius var. villosulus Rehd. & E.H. Wilson	3025565	Plantae	established	present	plants	Cotoneaster villosulus (Rehder & E.H. Wilson) Flinck & B. Hylmö	2364
 Cotoneaster ambiguus Rehd. & E.H. Wilson	3025858	Plantae	introduced	present	plants	Cotoneaster ambiguus Rehd. & E.H. Wilson	2339
 Cotoneaster ascendens Flinck & B. Hylmö	3026024	Plantae	introduced	present	plants	Cotoneaster ascendens Flinck & B. Hylmö	2340
 Cotoneaster bullatus Bois in Bilm. & Bois	3026294	Plantae	introduced	present	plants	Cotoneaster bullatus Bois in Bilm. & Bois	2342
+Cotoneaster bullatus var. floribundus (Stapf) L. T. Lu & A. R. Brach	3026295	Plantae	introduced	present	plants	Cotoneaster boisianus G. Klotz	2341
 Cotoneaster bullatus var. macrophyllus Rehder & E. H. Wilson	3026161	Plantae	established	present	plants	Cotoneaster rehderi Pojark	2360
 Cotoneaster conspicuus H. F. Comber ex C. Marquand	3025875	Plantae	introduced	present	plants	Cotoneaster conspicuus H. F. Comber ex C. Marquand	2343
 Cotoneaster coriaceus Franch.	3026035	Plantae	introduced	present	plants	Cotoneaster coriaceus Franch.	2344
@@ -593,6 +595,7 @@ Cotoneaster moupinensis Franch.	3025731	Plantae	introduced	present	plants	Cotone
 Cotoneaster nanshan Mottet	3025935	Plantae	introduced	present	plants	Cotoneaster nanshan Mottet	2358
 Cotoneaster qungbixiensis J.Fryer & B.Hylmö	3025907	Plantae	introduced	present	plants	Cotoneaster qungbixiensis J.Fryer & B.Hylmö	2359
 Cotoneaster salicifolius Franch.	3026074	Plantae	established	present	plants	Cotoneaster salicifolius Franch.	2361
+Cotoneaster salicifolius var. rugosus (E. Pritz.) Rehd. & E.H. Wilson	3026076	Plantae	introduced	present	plants	Cotoneaster hylmoei K.E. Flinck & J. Fryer	2353
 Cotoneaster simonsii Baker	3026107	Plantae	established	present	plants	Cotoneaster simonsii Baker	2362
 Cotoneaster zabelii C.K. Schneid.	3025605	Plantae	introduced	present	plants	Cotoneaster zabelii C.K. Schneid.	2367
 Cotoneaster ×suecicus G. Klotz	3026040	Plantae	introduced	present	plants	Cotoneaster ×suecicus G. Klotz	2365
@@ -1457,7 +1460,7 @@ Oenothera oakesiana (A. Gray) S. Watson	3188884	Plantae	introduced	present	plant
 Oenothera oehlkersii A. Kappus	8153538	Plantae	introduced	present	plants	Oenothera oehlkersii A. Kappus	1705
 Oenothera paradoxa Hudziok	3667238	Plantae	introduced	present	plants	Oenothera paradoxa Hudziok	1706
 Oenothera parviflora L.	3188833	Plantae	introduced	present	plants	Oenothera parviflora L.	1707
-Oenothera perangusta Gates	7322738	Plantae	established	present	plants	Oenothera perangusta Gates	1708
+Oenothera perangusta Gates	7322738	Plantae	established | introduced	present	plants	Oenothera perangusta Gates | Oenothera rubricalyx R.R.Gates	1708 | 1714
 Oenothera perennis L.	3188838	Plantae	introduced	present	plants	Oenothera perennis L.	1709
 Oenothera pycnocarpa Atkinson & Bartlett	3188926	Plantae	introduced	present	plants	Oenothera pycnocarpa Atkinson & Bartlett	1710
 Oenothera rosea Aiton	3188875	Plantae	introduced	present	plants	Oenothera rosea Aiton	1711
@@ -1468,6 +1471,7 @@ Oenothera speciosa Nutt.	3188859	Plantae	introduced	present	plants	Oenothera spe
 Oenothera stricta Ledeb. ex Link	3188830	Plantae	introduced	present	plants	Oenothera stricta Ledeb. ex Link	1717
 Oenothera subterminalis R.R.Gates	3664677	Plantae	introduced	present	plants	Oenothera subterminalis R.R.Gates	1718
 Oenothera victorinii Gates & Catcheside	7322143	Plantae	unknown	present	plants	Oenothera victorinii Gates & Catcheside	1719
+Oenothera villosa subsp. villosa	6427623	Plantae	introduced	present	plants	Oenothera depressa Greene	1696
 Oenothera wratislaviensis Rostanski	3667721	Plantae	introduced	present	plants	Oenothera wratislaviensis Rostanski	1720
 Omphalodes linifolia (L.) Moench	2926050	Plantae	introduced	present	plants	Omphalodes linifolia (L.) Moench	839
 Omphalodes verna Moench	2926048	Plantae	established	present	plants	Omphalodes verna Moench	840
@@ -1536,6 +1540,7 @@ Parthenium hysterophorus L.	3086784	Plantae	introduced	present	plants	Parthenium
 Parthenocissus Planch.	3039188		invasive	present	harmonia	Parthenocissus Planch.	121
 Parthenocissus quinquefolia (L.) Planchon	3039194	Plantae	established	present	plants	Parthenocissus quinquefolia (L.) Planchon	2638
 Parthenocissus tricuspidata (Siebold & Zucc.) Planchon	3039209	Plantae	established	present	plants	Parthenocissus tricuspidata (Siebold & Zucc.) Planchon	2639
+Parthenocissus vitacea (Knerr) A.S. Hitchc.	3039193	Plantae	established	present	plants	Parthenocissus inserta (A. Kerner) Fritsch	2637
 Paspalum dilatatum Poir.	2705565	Plantae	introduced	present	plants	Paspalum dilatatum Poir.	2093
 Paspalum distichum L.	2705622	Plantae	introduced	present	plants	Paspalum distichum L.	2094
 Paspalum paniculatum L.	2705587	Plantae	introduced	present	plants	Paspalum paniculatum L.	2096
