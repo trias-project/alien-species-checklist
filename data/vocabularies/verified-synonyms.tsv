@@ -44,7 +44,7 @@ Arabis alpina subsp. caucasica (Willd. ex Schlecht.) Briq.	8609335	Arabis caucas
 Armeria arenaria Schult.	7136543	Armeria maritima subsp. maritima	3082290	incorrect	considered accepted	http://www.theplantlist.org/tpl1.1/record/kew-2652246
 Aronia melanocarpa (Michx.) Elliott	5363627	Photinia melanocarpa (Michx.) K.R. Robertson & Phipps	5363674	ok	synonym in other direction	http://www.theplantlist.org/tpl1.1/record/rjp-912
 Aronia prunifolia (Marsh.) Rehd.	5363613	Photinia floribunda (Lindl.) K.R. Robertson & J.B. Phipps	5364001	incorrect	considered 2 accepted species	http://www.theplantlist.org/tpl1.1/record/rjp-1172
-Artemisia afra Jacq.	8078031	Ptilostemon afer (Jacq.) Greuter	3096857	unresolved	unresolved	http://www.theplantlist.org/tpl1.1/record/gcc-24639
+Artemisia afra Jacq.	8078031	Ptilostemon afer (Jacq.) Greuter	3096857	unresolved	unresolved, no further info	http://www.theplantlist.org/tpl1.1/record/gcc-24639
 Aspius aspius (Linnaeus, 1758)	2360181	Leuciscus aspius (Linnaeus, 1758)	5851603	ok		Hugo Verreycken
 Aster divaricatus L.	7659971	Croptilon divaricatum (Nutt.) Raf.	3139628	incorrect	considered synonym of Eurybia divaricata	http://www.theplantlist.org/tpl1.1/record/gcc-31265
 Aster laevis L.	5406475	Symphyotrichum laeve (L.) Á.Löve & D.Löve	8421156	ok	synonym in same direction, accepted name is in plants	http://www.theplantlist.org/tpl1.1/record/gcc-92488
@@ -55,8 +55,8 @@ Avena hispanica Ard.	8027936	Avena strigosa Schreb.	2705295	ok	synonym in same d
 Avena matritensis B.R.Baum	4152909	Avena barbata Pott ex Link	2705300	ok	synonym in same direction	http://www.theplantlist.org/tpl1.1/record/kew-397679
 Avena sterilis subsp. ludoviciana (Durieu) Nyman	2705287	Avena sterilis subsp. ludoviciana (Durieu) Gillet & Magne	8429888	ok	other author	
 Barbarea stricta Andrz.	7560578	Barbarea stricta Andrz. ex Besser	5374614	ok	ex author	
-Berberis wagneri Hort.	8621680	Berberis pinnata subsp. pinnata	6403380	unresolved	unresolved	http://www.theplantlist.org/tpl1.1/record/kew-2674639
-Bergenia schmidtii (Regel) Silva Tarouca	5567657	Bergenia ciliata (Haw.) Sternb.	8330218	unresolved	unresolved	http://www.theplantlist.org/tpl1.1/record/kew-2674829
+Berberis wagneri Hort.	8621680	Berberis pinnata subsp. pinnata	6403380	unresolved	unresolved, no further info	http://www.theplantlist.org/tpl1.1/record/kew-2674639
+Bergenia schmidtii (Regel) Silva Tarouca	5567657	Bergenia ciliata (Haw.) Sternb.	8330218	unresolved	unresolved, no further info	http://www.theplantlist.org/tpl1.1/record/kew-2674829
 Bidens frondosa Buch.-Ham.	8662049	Bidens frondosa Buch.-Ham. ex Hook.f.	8359115	ok	ex author	
 Bidens frondosa var. anomala Porter ex Fernald	5700912	Bidens frondosa L.	5392174	ok	unresolved, suggested synonym in same direction	http://www.theplantlist.org/tpl1.1/record/gcc-58109
 Bidens frondosa var. frondosa	7872129	Bidens frondosa L.	5392174	ok	synonym in same direction	http://www.theplantlist.org/tpl1.1/record/gcc-9751
@@ -101,7 +101,7 @@ Conyza canadensis (L.) Cronquist	5404801	Erigeron canadensis	3146791	ok	synonym 
 Corispermum gmelinii Bunge	7648345	Corispermum tylocarpum Hance	3759032	ok	synonym in same direction	http://www.theplantlist.org/tpl1.1/record/kew-2737667
 Cornus sanguinea subsp. australis (C.A.Mey.) Soó	8207659	Cornus sanguinea subsp. australis (C.A.Mey.) Jáv.	3663237	ok	other author	
 Cotoneaster boisianus G. Klotz	3026167	Cotoneaster bullatus var. floribundus (Stapf) L. T. Lu & A. R. Brach	3026295	ok	in comparative taxonomy	http://alienplantsbelgium.be/taxonomy/term/6094/descriptions
-Cotoneaster ganghobaensis J. Fryer & B. Hylmö	3025989	Cotoneaster lambertii G. Klotz	3026007	incorrect	accepted in plants & The Plant List	http://alienplantsbelgium.be/taxonomy/term/6164/descriptions
+Cotoneaster ganghobaensis J. Fryer & B. Hylmö	3025989	Cotoneaster lambertii G. Klotz	3026007	incorrect	considered accepted in plants & The Plant List	http://alienplantsbelgium.be/taxonomy/term/6164/descriptions
 Cotoneaster hylmoei K.E. Flinck & J. Fryer	3025758	Cotoneaster salicifolius var. rugosus (E. Pritz.) Rehd. & E.H. Wilson	3026076	ok	in comparative taxonomy	http://alienplantsbelgium.be/taxonomy/term/6165/descriptions
 Cotoneaster integrifolius (Roxb.) Klotz	3026105	Cotoneaster microphylla var. thymifolius (Baker) Koehne	8422000	ok	in comparative taxonomy	http://alienplantsbelgium.be/taxonomy/term/4996/descriptions
 Cotoneaster lacteus W. W. Sm.	3025705	Cotoneaster coriaceus Franch.	3026035	ok	in comparative taxonomy	http://alienplantsbelgium.be/taxonomy/term/6058/descriptions
@@ -123,7 +123,7 @@ Cyperus esculentus var. leptostachyus Boeckeler	8087010	Cyperus esculentus L.	27
 Cyperus longus subsp. tenuiflorus (Rottb.) Kük.	2716588	Cyperus longus subsp. longus	7070211	unresolved	considered synonym of Cyperus longus	http://www.theplantlist.org/tpl1.1/record/kew-237354
 Cytisus sessilifolius L.	5347864	Cytisophyllum sessilifolium (L.) O.Lang	2940408	ok	synonym in same direction	http://www.theplantlist.org/tpl1.1/record/ild-8779
 Dactylis polygama Horv.	4126278	Dactylis glomerata subsp. lobata (Drejer) H.Lindb.	4932232	incorrect	considered synonym of Dactylis glomerata L.	http://www.theplantlist.org/tpl1.1/record/kew-406788
-Dasiphora davurica var. mandshurica (Maxim.) Verloove & Lambinon	8381801	Dasiphora fruticosa (L.) Rydb.	5370380	unresolved	unresolved	http://www.theplantlist.org/tpl1.1/record/rjp-10984
+Dasiphora davurica var. mandshurica (Maxim.) Verloove & Lambinon	8381801	Dasiphora fruticosa (L.) Rydb.	5370380	unresolved	unresolved, no further info	http://www.theplantlist.org/tpl1.1/record/rjp-10984
 Daucus carota subsp. sativus (Hoffm.) Arcangeli	4271342	Daucus carota subsp. sativus (Hoffm.) Schübl. & Martens	7350944	ok	other author	
 Delosperma cooperi (Hook. f.) L. Bolus	7538678	Delosperma cooperi (Hook. fil.) L. Bol.	8078333	ok	author variation	
 Delphinium ajacis L.	3033833	Consolida ajacis (L.) Schur	3033830	ok	synonym in same direction	http://www.theplantlist.org/tpl1.1/record/kew-2759384
@@ -321,52 +321,52 @@ Rumex fueginus R. Phil.	2888982	Rumex persicarioides var. fueginus (Phil.) A.Hai
 Rumex kerneri Borbás	2889005	Rumex cristatus subsp. kerneri (Borbás) J.R. Akeroyd & D.A. Webb	4034971	ok	synonym in same direction	http://www.theplantlist.org/tpl1.1/record/kew-2423985
 Ruta graveolens L.	3190382	Agathosma pulchella (L.) Link	3833118	incorrect	considered 2 accepted species	http://www.theplantlist.org/tpl1.1/record/kew-2527408
 Salix sepulcralis nothovar. chrysocoma (Dode) Meikle	5373039	Salix sepulchralis var. chrysocoma (Dode) R.D. Meikle	7742596	ok	nothovar. to var.	
-Salvia lavandulifolia subsp. gallica W.Lippert	3898065	Salvia officinalis subsp. gallica (W.Lippert) Reales, D.Rivera & Obón	6411218			
-Sasaella ramosa (Makino) Makino	4127352	Sasa ramosa (Makino) Makino & Shibata	5675849			
+Salvia lavandulifolia subsp. gallica W.Lippert	3898065	Salvia officinalis subsp. gallica (W.Lippert) Reales, D.Rivera & Obón	6411218	ok	synonym in same direction	http://www.theplantlist.org/tpl1.1/record/kew-183008
+Sasaella ramosa (Makino) Makino	4127352	Sasa ramosa (Makino) Makino & Shibata	5675849	ok	synonym in same direction	http://www.theplantlist.org/tpl1.1/record/kew-441017
 Saxifraga stolonifera Meerb.	8062061	Saxifraga stolonifera Curtis	3032762	ok	other author	
-Scabiosa atropurpurea L.	2888805	Sixalix atropurpurea subsp. atropurpurea	7301011			
-Schkuhria pinnata var. abrotanoides (Roth) Cabrera	4247879	Schkuhria pinnata (Lam.) Kuntze ex Thell.	3101235			
-Scirpus atrovirens subsp. georgianus (R.M.Harper) Verloove & Lambinon	8390304	Scirpus georgianus R.M.Harper	2720269			
-Scorpiurus muricatus subsp. subvillosus (L.) Thell.	8082844	Scorpiurus muricatus L.	5358302			
-Scorpiurus muricatus subsp. sulcatus (L.) Thell.	5358307	Scorpiurus muricatus L.	5358302			
+Scabiosa atropurpurea L.	2888805	Sixalix atropurpurea subsp. atropurpurea	7301011	incorrect	considered accepted	http://www.theplantlist.org/tpl1.1/record/kew-2593568
+Schkuhria pinnata var. abrotanoides (Roth) Cabrera	4247879	Schkuhria pinnata (Lam.) Kuntze ex Thell.	3101235	ok	synonym in same direction	http://www.theplantlist.org/tpl1.1/record/gcc-68459
+Scirpus atrovirens subsp. georgianus (R.M.Harper) Verloove & Lambinon	8390304	Scirpus georgianus R.M.Harper	2720269	ok	synonym in same direction	http://www.theplantlist.org/tpl1.1/record/kew-468182
+Scorpiurus muricatus subsp. subvillosus (L.) Thell.	8082844	Scorpiurus muricatus L.	5358302	ok	synonym in same direction	http://www.theplantlist.org/tpl1.1/record/ild-37820
+Scorpiurus muricatus subsp. sulcatus (L.) Thell.	5358307	Scorpiurus muricatus L.	5358302	ok	synonym in same direction	http://www.theplantlist.org/tpl1.1/record/ild-37821
 Secale strictum (C.Presl) C.Presl	4121049	Secale montanum Guss.	2705967	incorrect	considered synonym of Secale cereale L.	http://www.theplantlist.org/tpl1.1/record/kew-441797
-Sedum aizoon L.	5361976	Phedimus aizoon	8603974			
-Sedum anacampseros L.	5687999	Hylotelephium anacampseros (L.) H.Ohba	4202184			
-Sedum anopetalum DC.	5362017	Petrosedum anopetalum (DC.) V. Grulich	4200453			
-Sedum hybridum L.	5362013	Phedimus middendorfianus	4201668			
-Sedum sediforme (Jacq.) Pau	5688347	Petrosedum sediforme (Jacq.) V. Grulich	4201784			
-Sedum spurium Bieb.	5362018	Phedimus spurius	4201607			
-Sedum stoloniferum S. G. Gmel.	5362051	Phedimus stoloniferus	4201585			
+Sedum aizoon L.	5361976	Phedimus aizoon	8603974	ok	synonym in other direction	http://www.theplantlist.org/tpl1.1/record/kew-2483174
+Sedum anacampseros L.	5687999	Hylotelephium anacampseros (L.) H.Ohba	4202184	ok	synonym in other direction	http://www.theplantlist.org/tpl1.1/record/kew-2484734
+Sedum anopetalum DC.	5362017	Petrosedum anopetalum (DC.) V. Grulich	4200453	incorrect	considered synonym of Sedum ochroleucum Chaix.	http://www.theplantlist.org/tpl1.1/record/kew-2484785
+Sedum hybridum L.	5362013	Phedimus middendorfianus	4201668	incorrect	considered accepted	http://www.theplantlist.org/tpl1.1/record/kew-2483834
+Sedum sediforme (Jacq.) Pau	5688347	Petrosedum sediforme (Jacq.) V. Grulich	4201784	ok	synonym in other direction	http://www.theplantlist.org/tpl1.1/record/kew-2489469
+Sedum spurium Bieb.	5362018	Phedimus spurius	4201607	ok	synonym in other direction	http://www.theplantlist.org/tpl1.1/record/kew-2489037
+Sedum stoloniferum S. G. Gmel.	5362051	Phedimus stoloniferus	4201585	ok	synonym in other direction	http://www.theplantlist.org/tpl1.1/record/kew-2489101
 Selaginella kraussiana (Kunze) A. Braun	2688189	Selaginella kraussiana (G. Kunze) A. Br.	8368980	ok	author variation	
-Senecio vernalis Waldst. & Kit.	6063730	Senecio leucanthemifolius subsp. vernalis (Waldst. & Kit.) Greuter	4228701			
-Sesbania exaltata (Rafinesque) Rydberg ex A.W. Hill	7394001	Sesbania herbacea (Mill.) McVaugh	2970585			
-Setaria adhaerens (Forssk.) Chiov.	5289670	Setaria verticillata (L.) P.Beauv.	5289686			
-Setaria pumila (Poir.) Roem. & Schult.	5289693	Setaria helvola (L.f.) Roem. & Schult.	5673972			
-Setaria verticillata var. ambigua (Guss.) Parl.	7908347	Setaria verticillata (L.) P.Beauv.	5289686			
-Sidalcea oregana A. Gray	8428499	Sidalcea malviflora subsp. malviflora	7226545			
-Silene coeli-rosa (L.) Godr.	5384787	Eudianthe coeli-rosa (L.) Endl.	3814157			
-Silene scabriflora Brot.	8419625	Silene pendula L.	5384773			
-Sinapis dissecta Lag.	3047634	Sinapis alba subsp. dissecta (Lag.) Simonk.	3047633			
-Solanum aethiopicum var. aculeatum Dunal	2929889	Solanum aethiopicum L.	2929847			
-Solanum nigrum subsp. schultesii (Opiz) Wessely	2932877	Solanum nigrum L.	2932865			
-Solanum physalifolium var. nitidibaccatum (Bitter) Edmonds	2932146	Solanum physalifolium Rusby	2932144			
-Solanum triflorum var. ponticum (Prodan) Borza	2931238	Solanum triflorum Nutt.	2931237			
-Solanum villosum subsp. miniatum (Bernh. ex Willd.) Edmonds	6290046	Solanum villosum Mill.	2929505			
+Senecio vernalis Waldst. & Kit.	6063730	Senecio leucanthemifolius subsp. vernalis (Waldst. & Kit.) Greuter	4228701	ok	synonym in other direction	http://www.theplantlist.org/tpl1.1/record/gcc-44379
+Sesbania exaltata (Rafinesque) Rydberg ex A.W. Hill	7394001	Sesbania herbacea (Mill.) McVaugh	2970585	ok	synonym in same direction	http://www.theplantlist.org/tpl1.1/record/ild-33213
+Setaria adhaerens (Forssk.) Chiov.	5289670	Setaria verticillata (L.) P.Beauv.	5289686	ok	synonym in same direction	http://www.theplantlist.org/tpl1.1/record/kew-442159
+Setaria pumila (Poir.) Roem. & Schult.	5289693	Setaria helvola (L.f.) Roem. & Schult.	5673972	ok	synonym in other direction	http://www.theplantlist.org/tpl1.1/record/kew-442645
+Setaria verticillata var. ambigua (Guss.) Parl.	7908347	Setaria verticillata (L.) P.Beauv.	5289686	incorrect	considered 2 accepted species	http://www.theplantlist.org/tpl1.1/record/kew-442778
+Sidalcea oregana A. Gray	8428499	Sidalcea malviflora subsp. malviflora	7226545	incorrect	considered accepted	http://www.theplantlist.org/tpl1.1/record/tro-19601134
+Silene coeli-rosa (L.) Godr.	5384787	Eudianthe coeli-rosa (L.) Endl.	3814157	ok	synonym in other direction	http://www.theplantlist.org/tpl1.1/record/kew-2485510
+Silene scabriflora Brot.	8419625	Silene pendula L.	5384773	incorrect	considered 2 accepted species	http://www.theplantlist.org/tpl1.1/record/kew-2486882
+Sinapis dissecta Lag.	3047634	Sinapis alba subsp. dissecta (Lag.) Simonk.	3047633	ok	synonym in same direction	http://www.theplantlist.org/tpl1.1/record/kew-2476471
+Solanum aethiopicum var. aculeatum Dunal	2929889	Solanum aethiopicum L.	2929847	unresolved	not in The Plant List	
+Solanum nigrum subsp. schultesii (Opiz) Wessely	2932877	Solanum nigrum L.	2932865	incorrect	considered synonym of Solanum decipiens Opiz.	http://www.theplantlist.org/tpl1.1/record/tro-29603766
+Solanum physalifolium var. nitidibaccatum (Bitter) Edmonds	2932146	Solanum physalifolium Rusby	2932144	incorrect	considered 2 accepted species	http://www.theplantlist.org/tpl1.1/record/tro-29603058
+Solanum triflorum var. ponticum (Prodan) Borza	2931238	Solanum triflorum Nutt.	2931237	unresolved	not in The Plant List	
+Solanum villosum subsp. miniatum (Bernh. ex Willd.) Edmonds	6290046	Solanum villosum Mill.	2929505	unresolved	not in The Plant List	
 Solidago graminifolia (L.) Salisb.	5387035	Euthamia graminifolia (L.) Nutt.	3092782	ok	synonym in other direction	http://alienplantsbelgium.be/taxonomy/term/3560/descriptions
-Soliva pterosperma (Juss.) Less.	3092698	Soliva sessilis Ruiz & Pav.	3092691			
+Soliva pterosperma (Juss.) Less.	3092698	Soliva sessilis Ruiz & Pav.	3092691	ok	synonym in same direction	http://www.theplantlist.org/tpl1.1/record/gcc-109759
 Spiraea ×vanhouttei (Briot) Carrière	8236373	Spiraea vanhouttei (Briot) Zabel	3026622	ok	other author	
-Spiraea brachybotrys Lange	3026426	Spiraea canescens D. Don	3027138			
-Spiraea chamaedrifolia subsp. ulmifolia (Scop.) J. Duvigneaud	8324534	Spiraea chamaedryfolia L.	3026406			
+Spiraea brachybotrys Lange	3026426	Spiraea canescens D. Don	3027138	incorrect	considered 2 accepted species	http://www.theplantlist.org/tpl1.1/record/rjp-297
+Spiraea chamaedrifolia subsp. ulmifolia (Scop.) J. Duvigneaud	8324534	Spiraea chamaedryfolia L.	3026406	unresolved	not in The Plant List	
 Spirobassia hirsuta (L.) Freitag & G. Kadereit	8243150	Bassia crassifolia (Pall.) Soldano	5568298	ok	unresolved, suggested synonym in same direction	http://www.theplantlist.org/tpl1.1/record/kew-2902756
-Stachys macrantha (C. Koch) Stearn	3881468	Betonica macrantha C. Koch.	7876454			
-Stellaria media subsp. cupaniana (Jord. & Fourr.) Nym.	7625143	Stellaria neglecta subsp. cupaniana (Jord. & Fourr.) Gutermann	8319214			
-Stipa bromoides (L.) Dörfl.	4143865	Achnatherum bromoides (L.) P.Beauv.	4142335			
-Strigosella africana var. laxa (Lam.) Botsch.	5373456	Strigosella africana (L.) Botsch.	5373440			
+Stachys macrantha (C. Koch) Stearn	3881468	Betonica macrantha C. Koch.	7876454	ok	synonym in other direction	http://www.theplantlist.org/tpl1.1/record/kew-195289
+Stellaria media subsp. cupaniana (Jord. & Fourr.) Nym.	7625143	Stellaria neglecta subsp. cupaniana (Jord. & Fourr.) Gutermann	8319214	incorrect	considered accepted	http://www.theplantlist.org/tpl1.1/record/kew-2869948
+Stipa bromoides (L.) Dörfl.	4143865	Achnatherum bromoides (L.) P.Beauv.	4142335	ok	synonym in other direction	http://www.theplantlist.org/tpl1.1/record/kew-444809
+Strigosella africana var. laxa (Lam.) Botsch.	5373456	Strigosella africana (L.) Botsch.	5373440	incorrect	considered synonym of Malcolmia africana (L.) R.Br.	http://www.theplantlist.org/tpl1.1/record/tro-50202609
 Symphoricarpos albus (L.) S.F.Blake	2888634	Symphoricarpos albus (L.) C. Koch	7523753	ok	other author	
 Symphyotrichum laeve (L.) A	7868501	Symphyotrichum laeve (L.) Á.Löve & D.Löve	8421156	ok	author variation	
-Symphyotrichum lanceolatum (Willd.) G.L.Nesom	3151397	Aster lanceolatus (Hook.) Kuntze	7469966			
+Symphyotrichum lanceolatum (Willd.) G.L.Nesom	3151397	Aster lanceolatus (Hook.) Kuntze	7469966	incorrect	considered accepted	http://www.theplantlist.org/tpl1.1/record/gcc-112167
 Symphyotrichum lateriflorum (L.) Á.Löve & D.Löve	7832723	Symphyotrichum lateriflorum	3151522	ok	accepted has no author	
-Symphyotrichum subulatum (Michx.) G.L.Nesom	3094253	Aster subulatus Hort. ex Steud.	7600444			
+Symphyotrichum subulatum (Michx.) G.L.Nesom	3094253	Aster subulatus Hort. ex Steud.	7600444	ok	synonym in same direction	http://www.theplantlist.org/tpl1.1/record/gcc-93622
 Taeniatherum caput-medusae var. caput-medusae	4932718	Taeniatherum caput-medusae (L.) Nevski	2705666	ok	synonym in same direction	http://www.theplantlist.org/tpl1.1/record/tro-25543951
 Thinopyrum ponticum (Podp.) Barkworth & D.R.Dewey	2704143	Thinopyrum elongatum (Host) D.R.Dewey	4125808	incorrect	considered synonym of Elymus elongatus (Host) Runemark.	http://www.theplantlist.org/tpl1.1/record/kew-446502
 Thymus pannonicus All.	5341447	Thymus pulegioides subsp. pannonicus (All.) Kerguélen	5605749	ok	synonym in same direction	http://www.theplantlist.org/tpl1.1/record/kew-205212
@@ -385,7 +385,7 @@ Urochloa plantaginea (Link) R.D.Webster	2705828	Panicum brevifolium L.	4153922	i
 Urochloa platyphylla (Munro ex C.Wright) R.D.Webster	2705854	Brachiaria platyphylla (Munro ex C.Wright) Nash	2705857	ok	synonym in same direction	http://www.theplantlist.org/tpl1.1/record/kew-449529
 Verbesina alternifolia (L.) Britton	8691721	Verbesina alternifolia (L.) Britton ex Kearney	3147815	ok	ex author	
 Vicia dalmatica A.Kern.	3973636	Vicia tenuifolia subsp. dalmatica (A.Kern.) Greuter	3971572	ok	synonym in same direction	http://www.theplantlist.org/tpl1.1/record/ild-9106
-Vicia loiseaui (Alleiz.) Fridl.	8341222	Vicia melanops var. loiseaui Alleiz.	2974823	unresolved	unresolved	http://www.theplantlist.org/tpl1.1/record/kew-2897748
+Vicia loiseaui (Alleiz.) Fridl.	8341222	Vicia melanops var. loiseaui Alleiz.	2974823	unresolved	unresolved, no further info	http://www.theplantlist.org/tpl1.1/record/kew-2897748
 Vulpia alopecuros (Schousb.) Dumort.	7477513	Vulpia alopecuros (Schousb.) Link	5827791	ok	other author	
 Vulpia myuros var. megalura (Nutt.) Auquier	8091833	Vulpia myuros (L.) C.C.Gmel.	5289590	ok	synonym in same direction	http://www.theplantlist.org/tpl1.1/record/kew-450055
 Weigela floribunda (Siebold & Zucc.) K. Koch	2888732	Weigela floribunda (Sieb. & Zucc.) C. A. Mey.	8011733	ok	other author	
