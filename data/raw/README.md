@@ -7,7 +7,7 @@
 * **License**: 
 * **Downloaded/received from**: Tim Adriaens
 * **Downloaded/received at**: 2016-02-24
-* **Directory**: https://github.com/LifeWatchINBO/alien-species-checklist/tree/master/source-datasets/fishes
+* **Directory**: [fishes](fishes)
 
 ## Harmonia information system
 
@@ -16,7 +16,7 @@
 * **License**: open access
 * **Downloaded/received from**: Tim Adriaens
 * **Downloaded/received at**: 2016-01-19
-* **Directory**: https://github.com/LifeWatchINBO/alien-species-checklist/tree/master/source-datasets/harmonia
+* **Directory**: [harmonia](harmonia)
 
 ## Alien macroinvertebrates
 
@@ -25,7 +25,7 @@
 * **License**: 
 * **Downloaded/received from**: Tim Adriaens
 * **Downloaded/received at**: 2016-01-19
-* **Directory**: https://github.com/LifeWatchINBO/alien-species-checklist/tree/master/source-datasets/macroinvertebrates
+* **Directory**: [macroinvertebrates](macroinvertebrates)
 
 ## Manual of the Alien Plants of Belgium
 
@@ -34,7 +34,7 @@
 * **License**: http://creativecommons.org/licenses/by-sa/4.0/
 * **Downloaded/received from**: http://alienplantsbelgium.be/sites/alienplantsbelgium.be/files/Checklist2.xls
 * **Downloaded/received at**: 2016-01-19 (indicated on website as last modified 8 January 2016)
-* **Directory**: https://github.com/LifeWatchINBO/alien-species-checklist/tree/master/source-datasets/plants
+* **Directory**: [plants](plants)
 
 ## RINSE registry
 
@@ -43,7 +43,7 @@
 * **License**: http://opendatacommons.org/licenses/odbl/1.0/
 * **Downloaded/received from**: http://neobiota.pensoft.net//lib/ajax_srv/article_elements_srv.php?action=download_suppl_file&instance_id=31&article_id=4007
 * **Downloaded/received at**: 2016-01-19
-* **Directory**: https://github.com/LifeWatchINBO/alien-species-checklist/tree/master/source-datasets/rinse
+* **Directory**: [rinse](rinse)
 
 ## RINSE Annex B
 
@@ -52,7 +52,7 @@
 * **License**:
 * **Downloaded/received from**: Tim Adriaens
 * **Downloaded/received at**: 2016-01-19
-* **Directory**: https://github.com/LifeWatchINBO/alien-species-checklist/tree/master/source-datasets/rinse-annex-b
+* **Directory**: [rinse-annex-b](rinse-annex-b)
 
 ## World Register of Introduced Marine Species (WRIMS)
 
@@ -61,4 +61,4 @@
 * **License**:
 * **Downloaded/received from**: Shyama Pagad
 * **Downloaded/received at**: 2016-01-26
-* **Directory**: https://github.com/LifeWatchINBO/alien-species-checklist/tree/master/source-datasets/wrims
+* **Directory**: [wrims](wrims)
