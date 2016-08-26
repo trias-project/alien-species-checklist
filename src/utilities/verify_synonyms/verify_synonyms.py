@@ -96,23 +96,23 @@ def main(argv=None):
     
     parser.add_argument('--synonym_file', type=str,
                         action='store', default=None, 
-                        help='')                                            
+                        help='relative path and filename to the file containing the synonym status information')                                            
 
     parser.add_argument('--usagekeycol', type=str,
                         action='store', default='gbifapi_usageKey', 
-                        help='')                                            
+                        help='column name of the input file containing the gbif usage keys (default when not provided: `gbifapi_usageKey`)')                                            
 
     parser.add_argument('--acceptedkeycol', type=str,
                         action='store', default='gbifapi_acceptedKey', 
-                        help='')  
+                        help='column name of the input file containing the gbif accepted keys (default when not provided: `gbifapi_acceptedKey`)')  
 
     parser.add_argument('--taxonomicstatuscol', type=str,
                         action='store', default='gbifapi_status', 
-                        help='')                        
+                        help='column name of the input file containing the gbif taxonomic matchin status information, e.g. SYNONYM (default when not provided: `gbifapi_status`)')                        
 
     parser.add_argument('--outputcol', type=str,
                         action='store', default='nameMatchValidation', 
-                        help='')                        
+                        help='column name of the output file to provide the information about the synonym status (default when not provided: `nameMatchValidation`)')                        
 
     args = parser.parse_args()    
     
