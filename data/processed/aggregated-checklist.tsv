@@ -20,6 +20,7 @@ Achillea ageratum L.	3120391	Plantae	introduced	present	plants	Achillea ageratum
 Achillea collina (Becker ex Wirtg.) Heimerl	7767460	Plantae	unknown	present	plants	Achillea collina Becker ex Rchb.	489
 Achillea filipendulina Lam.	3120284	Plantae	introduced	present	plants	Achillea filipendulina Lam.	490
 Achillea nobilis L.	3120024	Plantae	established	present	plants	Achillea nobilis L.	491
+Achnatherum bromoides (L.) P.Beauv.	4142335	Plantae	introduced	present	plants	Stipa bromoides (L.) Dörfl.	2162
 Achnatherum calamagrostis (L.) P.Beauv.	4142326	Plantae	introduced	present	plants	Achnatherum calamagrostis (L.) P.Beauv.	1843
 Acipenser baerii Brandt, 1869	4287131	Animalia	established	present	fishes	Acipenser baerii Brandt, 1869	0
 Acipenser gueldenstaedtii Brandt & Ratzeburg, 1833	2402129	Animalia	established	present	fishes	Acipenser gueldenstaedtii Brandt & Ratzeburg, 1833	1
@@ -30,6 +31,7 @@ Aconogonon campanulatum (Hook. fil.) Hara	6391389	Plantae	unknown	present	plants
 Aconogonum divaricatum (L.) Nakai	7922417	Plantae	introduced	present	plants	Aconogonum divaricatum (L.) Nakai	2210
 Aconogonum ×fennicum Reiersen	8464367	Plantae	introduced	present	plants	Aconogonum ×fennicum Reiersen	2211
 Acorus calamus L.	2873769	Plantae	established	present	plants	Acorus calamus L.	237
+Actinidia chinensis var. hispida C.F. Liang	3644922	Plantae	introduced	present	plants	Actinidia deliciosa (Chev.) C.F. Liang & A.R. Ferguson	238
 Adenostyles alliariae (Gouan) A.Kern.	3133702	Plantae	introduced	present	plants	Adenostyles alliariae (Gouan) A.Kern.	495
 Adiantum capillus-veneris L.	2651816	Plantae	introduced	present	plants	Adiantum capillus-veneris L.	2280
 Adiantum raddianum Presl	2651826	Plantae	introduced	present	plants	Adiantum raddianum Presl	2281
@@ -44,12 +46,15 @@ Aeschynomene americana L.	2949235	Plantae	introduced	present	plants	Aeschynomene
 Aeschynomene indica L.	2949250	Plantae	introduced	present	plants	Aeschynomene indica L.	1247
 Aesculus hippocastanum L.	3189815	Plantae	established	present	plants	Aesculus hippocastanum L.	2504
 Aesculus indica (Colebr. ex Cambess.) Hook.	8566446	Plantae	introduced	present	plants	Aesculus indica (Colebr. ex Cambess.) Hook.	2505
+Aesculus pavia L.	3189807	Plantae	introduced	present	plants	Aesculus pavia var. discolor (Pursh) Torr. & A.Gray	2506
 Agastache rugosa (Fisch. & C.A.Mey.) Kuntze	7307327	Plantae	introduced	present	plants	Agastache rugosa (Fisch. & C.A.Mey.) Kuntze	1521
 Agave americana L.	2767031	Plantae	introduced	present	plants	Agave americana L.	464
 Ageratina altissima (L.) R.M.King & H.Rob.	5400552	Plantae	introduced	present	plants	Ageratina altissima (L.) R.M.King & H.Rob.	496
 Ageratum houstonianum Mill.	5401760	Plantae	introduced	present	plants	Ageratum houstonianum Mill.	497
 Agrimonia repens L.	3001978	Plantae	introduced	present	plants	Agrimonia repens L.	2328
 Agropogon lutosus (Poir.) P.Fourn.	4125930	Plantae	introduced	present	plants	Agropogon lutosus (Poir.) P.Fourn.	2198
+Agropyron cristatum (L.) Gaertn.	2705196	Plantae	introduced	present	plants	Agropyron cristatum subsp. pectinatum (M.Bieb.) Tzvelev	1849
+Agrostemma brachyloba (Fenzl) K. Hammer	3085366	Plantae	introduced	present	plants	Agrostemma gracile Boiss.	1033
 Agrostis castellana Boiss. & Reut.	2706501	Plantae	introduced	present	plants	Agrostis castellana Boiss. & Reut.	1850
 Agrostis eriantha Hack.	4123480	Plantae	introduced	present	plants	Agrostis eriantha Hack.	1851
 Agrostis exarata Trin.	2706526	Plantae	introduced	present	plants	Agrostis exarata Trin.	1852
@@ -67,6 +72,7 @@ Alchemilla conjuncta Bab.	3028431	Plantae	introduced	present	plants	Alchemilla c
 Alchemilla micans Buser	3027791	Plantae	introduced	present	plants	Alchemilla micans Buser	2330
 Alchemilla mollis (Buser) Rothm.	3028528	Plantae	established	present	plants	Alchemilla mollis (Buser) Rothm.	2331
 Alchemilla tytthantha Juz.	3028586	Plantae	introduced	present	plants	Alchemilla tytthantha Juz.	2332
+Allium ampeloprasum L.	2856037	Plantae	introduced	present	plants	Allium porrum L.	363
 Allium carinatum L.	2855968	Plantae	unknown	present	plants	Allium carinatum L.	357
 Allium christophii Trautv.	8174640	Plantae	introduced	present	plants	Allium christophii Trautv.	358
 Allium fistulosum L.	2856504	Plantae	introduced	present	plants	Allium fistulosum L.	359
@@ -87,7 +93,7 @@ Alternanthera caracasana Kunth	3084958	Plantae	introduced	present	plants	Alterna
 Alternanthera denticulata R. Br.	7655198	Plantae	introduced	present	plants	Alternanthera denticulata R. Br.	254
 Alternanthera paronychioides A. St.-Hil.	6429778	Plantae	introduced	present	plants	Alternanthera paronychioides A. St.-Hil.	256
 Alternanthera pungens Kunth	3084949	Plantae	introduced	present	plants	Alternanthera pungens Kunth	257
-Alternanthera sessilis (L.) R. Br. ex DC.	3084939	Plantae	introduced	present	plants	Alternanthera sessilis (L.) R. Br. ex DC.	258
+Alternanthera sessilis (L.) R. Br. ex DC.	3084939	Plantae	introduced	present	plants	Alternanthera nodiflora R. Br. | Alternanthera sessilis (L.) R. Br. ex DC.	255 | 258
 Alternanthera tenella Colla	3084968	Plantae	introduced	present	plants	Alternanthera tenella Colla	259
 Alyssum desertorum Stapf	3044743	Plantae	introduced	present	plants	Alyssum desertorum Stapf	854
 Alyssum hirsutum M.Bieb.	3045006	Plantae	introduced	present	plants	Alyssum hirsutum M.Bieb.	855
@@ -98,17 +104,20 @@ Alyssum strigosum Banks & Sol.	3045193	Plantae	introduced	present	plants	Alyssum
 Amaranthus albus L.	7905507	Plantae	established	present	plants	Amaranthus albus L.	261
 Amaranthus blitoides S. Watson	5384395	Plantae	established	present	plants	Amaranthus blitoides S. Watson	262
 Amaranthus blitum L.	5384336	Plantae	established	present	plants	Amaranthus blitum L.	263
+Amaranthus capensis Thell.	7323340	Plantae	introduced	present	plants	Amaranthus capensis subsp. uncinatus (Thell.) Brenan	265
 Amaranthus caudatus L.	6109611	Plantae	introduced	present	plants	Amaranthus caudatus L.	266
 Amaranthus clementii Domin	5547989	Plantae	introduced	present	plants	Amaranthus clementii Domin	267
 Amaranthus crispus (Lesp. & Thévenau) N. Terracc.	5384341	Plantae	introduced	present	plants	Amaranthus crispus (Lesp. & Thévenau) N. Terracc.	268
 Amaranthus deflexus L.	5384396	Plantae	established	present	plants	Amaranthus deflexus L.	270
 Amaranthus graecizans L.	5384373	Plantae	introduced	present	plants	Amaranthus graecizans L.	271
 Amaranthus hybridus var. hybridus	7323184	Plantae	established	present	plants	Amaranthus hybridus var. hybridus	272
+Amaranthus macrocarpus Benth.	7323833	Plantae	introduced	present	plants	Amaranthus macrocarpus var. pallidus Benth.	277
 Amaranthus macrocarpus var. macrocarpus	7323834	Plantae	introduced	present	plants	Amaranthus macrocarpus var. macrocarpus	276
 Amaranthus mitchellii Benth.	7323810	Plantae	introduced	present	plants	Amaranthus mitchellii Benth.	278
 Amaranthus muricatus (Moq.) Hieron.	5384332	Plantae	introduced	present	plants	Amaranthus muricatus (Moq.) Hieron.	279
 Amaranthus palmeri S. Watson	5384393	Plantae	introduced	present	plants	Amaranthus palmeri S. Watson	280
 Amaranthus polygonoides L.	5384342	Plantae	introduced	present	plants	Amaranthus polygonoides L.	281
+Amaranthus powellii S. Watson	5384359	Plantae	introduced	present	plants	Amaranthus hybridus var. pseudoretroflexus (Thellung) Carretero	273
 Amaranthus powellii subsp. bouchonii (Thell.) Costea & Carretero	5548528	Plantae	established	present	plants	Amaranthus powellii subsp. bouchonii (Thell.) Costea & Carretero	282
 Amaranthus ralletii Contré	7975549	Plantae	introduced	present	plants	Amaranthus ralletii Contré	292
 Amaranthus retroflexus L.	6109534	Plantae	established	present	plants	Amaranthus retroflexus L.	283
@@ -133,11 +142,13 @@ Amphibalanus variegatus (Darwin, 1854)	4805565	Animalia	introduced	present	wrims
 Amsinckia eastwoodiae J.F.Macbr.	2925879	Plantae	introduced	present	plants	Amsinckia eastwoodiae J.F.Macbr.	808
 Amsinckia intermedia Fisch. & Mey.	6395134	Plantae	introduced	unknown	plants	Amsinckia intermedia Fisch. & Mey.	809
 Amsinckia lycopsoides Fisch. & C. A. Mey.	8386733	Plantae	introduced	present	plants	Amsinckia lycopsoides Fisch. & C. A. Mey.	810
+Amsinckia menziesii (Lehm.) A. Nels. Macbr.	2925870	Plantae	established | introduced	present	plants	Amsinckia micrantha Suksdorf | Amsinckia retrorsa Suksd.	811 | 812
 Amsinckia tessellata A. Gray	2925877	Plantae	introduced	present	plants	Amsinckia tessellata A. Gray	813
 Anacyclus clavatus (Desf.) Pers.	3148589	Plantae	introduced	present	plants	Anacyclus clavatus (Desf.) Pers.	503
 Anaphalis margaritacea (L.) Benth. & Hook.f.	4926336	Plantae	introduced	present	plants	Anaphalis margaritacea (L.) Benth. & Hook.f.	506
 Anaphalis triplinervis (Sims) Sims ex C.B.Clarke	3136929	Plantae	introduced	present	plants	Anaphalis triplinervis (Sims) Sims ex C.B.Clarke	507
 Anarrhinum bellidifolium (L.) Willd.	8114833	Plantae	introduced	present	plants	Anarrhinum bellidifolium (L.) Willd.	1797
+Anchusa italica Retz.	5341199	Plantae	introduced	present	plants	Anchusa azurea Mill.	814
 Anchusa ochroleuca M. Bieb.	5662089	Plantae	introduced	present	plants	Anchusa ochroleuca M. Bieb.	815
 Anchusa officinalis subsp. officinalis	7295374	Plantae	established	present	plants	Anchusa officinalis subsp. officinalis	816
 Anchusa ovata Lehm.	5662067	Plantae	introduced	present	plants	Anchusa ovata Lehm.	817
@@ -170,6 +181,7 @@ Aponogeton distachyos L.f.	5328593	Plantae	unknown	present	plants	Aponogeton dis
 Arabidopsis arenosa subsp. arenosa	7068732	Plantae	established	present	plants	Arabidopsis arenosa subsp. arenosa	860
 Arabidopsis halleri (L.) O'Kane & Al-Shehbaz	3052450	Plantae	established	present	plants	Arabidopsis halleri (L.) O'Kane & Al-Shehbaz	861
 Arabis auriculata Lam.	5375105	Plantae	introduced	present	plants	Arabis auriculata Lam.	863
+Arabis caucasica Willd.	5374922	Plantae	established	present	plants	Arabis alpina subsp. caucasica (Willd. ex Schlecht.) Briq.	862
 Arabis collina Ten.	5374998	Plantae	unknown	present	plants	Arabis collina Ten.	864
 Arabis planisiliqua (Pers.) Rchb.	5374933	Plantae	introduced	present	plants	Arabis planisiliqua (Pers.) Rchb.	865
 Arabis procurrens Waldst. & Kit.	5375012	Plantae	introduced	present	plants	Arabis procurrens Waldst. & Kit.	866
@@ -220,6 +232,7 @@ Astacus leptodactylus Eschscholtz, 1823	4417551	Animalia	established	present	mac
 Aster ageratoides Turcz.	5387639	Plantae	introduced	present	plants	Aster ageratoides Turcz.	523
 Aster amellus L.	8133114	Plantae	introduced	present	plants	Aster amellus L.	524
 Aster lanceolatus	7593922		invasive	present	harmonia	Aster lanceolatus	39
+Aster subulatus Hort. ex Steud.	7600444	Plantae	introduced	present	plants	Symphyotrichum subulatum (Michx.) G.L.Nesom	754
 Asteriscus aquaticus (L.) Less.	5393689	Plantae	introduced	present	plants	Asteriscus aquaticus (L.) Less.	525
 Asterolinon linum-stellatum (L.) Duby	4007104	Plantae	introduced	present	plants	Lysimachia linum-stellatum L.	2276
 Astragalus boeticus L.	5344663	Plantae	introduced	present	plants	Astragalus boeticus L.	1252
@@ -255,13 +268,13 @@ Austrostipa nitida (Summerh. & C.E.Hubb.) S.W.L.Jacobs & J.Everett	4105208	Plant
 Austrostipa scabra subsp. falcata (Hughes) S.W.L.Jacobs & J.Everett	4104890	Plantae	introduced	present	plants	Austrostipa scabra subsp. falcata (Hughes) S.W.L.Jacobs & J.Everett	1874
 Austrostipa scabra subsp. scabra	6710856	Plantae	introduced	present	plants	Austrostipa scabra subsp. scabra	1875
 Austrostipa verticillata (Nees ex Spreng.) S.W.L.Jacobs & J.Everett	4104718	Plantae	introduced	present	plants	Austrostipa verticillata (Nees ex Spreng.) S.W.L.Jacobs & J.Everett	1876
-Avena barbata Pott ex Link	2705300	Plantae	introduced	present	plants	Avena barbata Pott ex Link	1877
+Avena barbata Pott ex Link	2705300	Plantae	introduced	present	plants	Avena barbata Pott ex Link | Avena matritensis B.R.Baum	1877 | 1880
 Avena brevis Roth	4154800	Plantae	introduced	present	plants	Avena brevis Roth	1878
 Avena nuda L.	8174035	Plantae	introduced	present	plants	Avena nuda L.	1881
 Avena sativa L.	2705290	Plantae	introduced	present	plants	Avena sativa L.	1882
 Avena sterilis subsp. ludoviciana (Durieu) Gillet & Magne	8429888	Plantae	introduced	present	plants	Avena sterilis subsp. ludoviciana (Durieu) Nyman	1884
 Avena sterilis subsp. sterilis	7226804	Plantae	introduced	present	plants	Avena sterilis subsp. sterilis	1885
-Avena strigosa Schreb.	2705295	Plantae	introduced	present	plants	Avena strigosa Schreb.	1886
+Avena strigosa Schreb.	2705295	Plantae	introduced	present	plants	Avena hispanica Ard. | Avena strigosa Schreb.	1879 | 1886
 Axonopus fissifolius (Raddi) Kuhlm.	2705932	Plantae	introduced	present	plants	Axonopus fissifolius (Raddi) Kuhlm.	1888
 Axyris amaranthoides L.	6447806	Plantae	introduced	present	plants	Axyris amaranthoides L.	308
 Azolla filiculoides Lam.	2650107	Plantae	established | invasive	present	harmonia | plants	Azolla filiculoides Lam.	43 | 2492
@@ -274,6 +287,7 @@ Barbarea stricta Andrz. ex Besser	5374614	Plantae	established	present	plants	Bar
 Barbarea verna (Mill.) Asch.	5374672	Plantae	established	present	plants	Barbarea verna (Mill.) Asch.	872
 Barentsia ramosa (Robertson, 1900)	5188774	Animalia	introduced	present	wrims	Barentsia ramosa (Robertson, 1900)	9372
 Bartsia trixago L.	3171813	Plantae	introduced	present	plants	Bartsia trixago L.	1730
+Bassia crassifolia (Pall.) Soldano	5568298	Plantae	introduced	present	plants	Spirobassia hirsuta (L.) Freitag & G. Kadereit	356
 Bassia hyssopifolia (Pall.) Kuntze	5383909	Plantae	introduced	present	plants	Bassia hyssopifolia (Pall.) Kuntze	309
 Bassia laniflora (S. G. Gmel.) A. J. Scott	5568188	Plantae	introduced	present	plants	Bassia laniflora (S. G. Gmel.) A. J. Scott	310
 Bassia scoparia (L.) Voss	7852603	Plantae	established	present	plants	Bassia scoparia (L.) Voss	311
@@ -290,11 +304,13 @@ Berteroa incana (L.) DC.	3053522	Plantae	established	present	plants	Berteroa inc
 Beta macrocarpa Guss.	5567951	Plantae	introduced	present	plants	Beta macrocarpa Guss.	312
 Beta trigyna Waldst. & Kit.	5383926	Plantae	introduced	present	plants	Beta trigyna Waldst. & Kit.	313
 Beta vulgaris subsp. vulgaris	7068845	Plantae	introduced	present	plants	Beta vulgaris subsp. vulgaris	314
+Betonica macrantha C. Koch.	7876454	Plantae	introduced	present	plants	Stachys macrantha (C. Koch) Stearn	1582
 Betula nana L.	5332004	Plantae	introduced	present	plants	Betula nana L.	800
 Betula papyrifera Marshall	5332120	Plantae	introduced	present	plants	Betula papyrifera Marshall	801
 Bidens bipinnata L.	5389402	Plantae	introduced	present	plants	Bidens bipinnata L.	528
 Bidens connata Muhl. ex Willd.	5392083	Plantae	established	present	plants	Bidens connata Muhl. ex Willd.	529
 Bidens frondosa Buch.-Ham. ex Hook.f.	8359115		established	present	harmonia	Bidens frondosa Buch.-Ham.	45
+Bidens frondosa L.	5392174	Plantae	established | unknown	present	plants	Bidens frondosa var. anomala Porter ex Fernald | Bidens frondosa var. frondosa	530 | 531
 Bidens pilosa L.	5391845	Plantae	introduced	present	plants	Bidens pilosa L.	532
 Bidens radiata Thuill.	5392145	Plantae	introduced	present	plants	Bidens radiata Thuill.	533
 Bidens subalternans DC.	5391882	Plantae	introduced	present	plants	Bidens subalternans DC.	534
@@ -315,8 +331,11 @@ Bothriochloa macra (Steud.) S.T.Blake	4136695	Plantae	introduced	present	plants	
 Botrychium simplex E. Hitchc.	2650180	Plantae	introduced	present	plants	Botrychium simplex E. Hitchc.	1724
 Botrylloides violaceus Oka, 1927	4354941	Animalia	established | to be determined by experts	present	wrims	Botrylloides violaceus Oka, 1927	9375 | 9376
 Brachiaria eruciformis (Sm.) Griseb.	2704068	Plantae	introduced	present	plants	Moorochloa eruciformis (Sm.) Veldkamp	2067
+Brachiaria mutica (Forssk.) Stapf	2705851	Plantae	introduced	present	plants	Urochloa mutica (Forssk.) T.Q.Nguyen	2183
+Brachiaria platyphylla (Munro ex C.Wright) Nash	2705857	Plantae	introduced	present	plants	Urochloa platyphylla (Munro ex C.Wright) R.D.Webster	2186
 Brachyachne convergens (F.Muell.) Stapf	4131558	Plantae	introduced	present	plants	Brachyachne convergens (F.Muell.) Stapf	1893
 Brachypodium distachyon (L.) P.Beauv.	5290143	Plantae	introduced	present	plants	Brachypodium distachyon (L.) P.Beauv.	1894
+Brachyscome dentata Gaudich.	3144545	Plantae	introduced	present	plants	Brachyscome heterodonta DC.	537
 Branchiodrilus hortensis (Stephenson, 1910)	4812260	Animalia	established	present	macroinvertebrates	Branchiodrilus hortensis (Stephenson, 1910)	168
 Branchiura sowerbyi Beddard, 1892	2308574	Animalia	established	present	macroinvertebrates	Branchiura sowerbyi Beddard, 1892	170
 Branta canadensis (Linnaeus, 1758)	5232437		invasive	present	harmonia	Branta canadensis (Linnaeus, 1758)	46 | 47
@@ -344,6 +363,7 @@ Bromus lepidus Holmb.	2703711	Plantae	introduced	present	plants	Bromus lepidus H
 Bromus madritensis L.	2703721	Plantae	established	present	plants	Bromus madritensis L.	1915
 Bromus pectinatus Thunb.	4122609	Plantae	introduced	present	plants	Bromus pectinatus Thunb.	1916
 Bromus polyanthus Scribn.	8040052	Plantae	introduced	present	plants	Bromus polyanthus Scribn.	1917
+Bromus rigidus Roth	2703663	Plantae	established	present	plants	Bromus diandrus subsp. maximus (Desf.) Soó	1906
 Bromus rubens L.	2703740	Plantae	introduced	present	plants	Bromus rubens L.	1918
 Bromus scoparius L.	2703720	Plantae	introduced	present	plants	Bromus scoparius L.	1919
 Bromus sitchensis Trin.	2703698	Plantae	established	present	plants	Bromus sitchensis Trin.	1920
@@ -365,6 +385,7 @@ Bupleurum odontites L.	3034552	Plantae	introduced	present	plants	Bupleurum odont
 Bupleurum praealtum L.	6026972	Plantae	introduced	present	plants	Bupleurum praealtum L.	393
 Bupleurum subovatum Link ex Spreng.	3034558	Plantae	introduced	present	plants	Bupleurum subovatum Link ex Spreng.	394
 Cabomba caroliniana A. Gray	2882443	Plantae	established	absent | present	harmonia | plants	Cabomba caroliniana A. Gray	50 | 973
+Calandrinia ciliata (Ruiz & Pavon) DC.	3084693	Plantae	introduced	present	plants	Calandrinia elegans Spach	1653
 Calandrinia compressa Schrad. ex DC.	4022175	Plantae	introduced	present	plants	Calandrinia compressa Schrad. ex DC.	1652
 Calceolaria chelidonioides Kunth	3172127	Plantae	introduced	present	plants	Calceolaria chelidonioides Kunth	978
 Calendula arvensis (Vaill.) L.	5391490	Plantae	introduced	present	plants	Calendula arvensis (Vaill.) L.	538
@@ -402,10 +423,12 @@ Capsicum annuum L.	2932944	Plantae	introduced	present	plants	Capsicum annuum L.	
 Carassius auratus (Linnaeus, 1758)	4286942	Animalia	established	present	fishes	Carassius auratus (Linnaeus, 1758)	5
 Carassius gibelio (Bloch, 1782)	2366634	Animalia	established | invasive	present	fishes | harmonia	Carassius gibelio (Bloch, 1782)	6 | 54
 Cardamine corymbosa Hook.f.	3046015	Plantae	established	present	plants	Cardamine corymbosa Hook.f.	888
+Cardamine flexuosa With.	3046076	Plantae	established	present	plants	Cardamine hamiltonii G.Don	889
 Cardamine parviflora L.	3046092	Plantae	introduced	present	plants	Cardamine parviflora L.	890
 Cardiospermum grandiflorum Sw.	3189935	Plantae	introduced	present	plants	Cardiospermum grandiflorum Sw.	2507
 Cardiospermum halicacabum L.	3189939	Plantae	introduced	present	plants	Cardiospermum halicacabum L.	2508
 Carduus acanthoides L.	3114643	Plantae	established	present	plants	Carduus acanthoides L.	544
+Carduus nigrescens subsp. vivariensis (Jord.) Bonnier & Layens	6076849	Plantae	introduced	present	plants	Carduus vivariensis Jord.	548
 Carduus pycnocephalus L.	3114667	Plantae	introduced	present	plants	Carduus pycnocephalus L.	547
 Carduus ×theriotii Rouy	4211074	Plantae	introduced	present	plants	Carduus ×theriotii Rouy	549
 Carex crawfordii Fernald	2722380	Plantae	established	present	plants	Carex crawfordii Fernald	1155
@@ -435,6 +458,7 @@ Ceanothus ×delilianus Spach	3875113	Plantae	introduced	present	plants	Ceanothus
 Celastrus orbiculatus C.P. Thunberg ex A. Murray	8104460	Plantae	established	present	plants	Celastrus orbiculatus Thunb.	1080
 Cenchrus echinatus L.	5289739	Plantae	introduced	present	plants	Cenchrus echinatus L.	1922
 Cenchrus longispinus (Hack.) Fernald	8638618	Plantae	introduced	present	plants	Cenchrus longispinus (Hack.) Fernald	1924
+Cenchrus spinifex Cav.	5289726	Plantae	introduced	present	plants	Cenchrus incertus M.A.Curtis	1923
 Centaurea alba L.	7437845	Plantae	introduced	unknown	plants	Centaurea alba L.	553
 Centaurea aspera L.	3128166	Plantae	introduced	present	plants	Centaurea aspera L.	555
 Centaurea benedicta (L.) L.	3127691	Plantae	introduced	present	plants	Centaurea benedicta (L.) L.	556
@@ -482,7 +506,9 @@ Chelone obliqua L.	5414932	Plantae	introduced	present	plants	Chelone obliqua L.	
 Chenopodiastrum simplex (Torr.) S. Fuentes, Uotila & Borsch	7407436	Plantae	introduced	present	plants	Chenopodiastrum simplex (Torr.) S. Fuentes, Uotila & Borsch	318
 Chenopodium auricomiforme Murr & Thell.	3757189	Plantae	introduced	present	plants	Chenopodium auricomiforme Murr & Thell.	322
 Chenopodium berlandieri Moq.	3083920	Plantae	established	present	plants	Chenopodium berlandieri Moq.	323
+Chenopodium berlandieri var. bushianum (Aellen) Cronquist	3757050	Plantae	introduced	present	plants	Chenopodium bushianum Aellen	325
 Chenopodium borbasioides A. Ludw.	7644304	Plantae	introduced	present	plants	Chenopodium borbasioides A. Ludw.	324
+Chenopodium foliosum Asch.	3083844	Plantae	established	present	plants	Blitum virgatum L.	317
 Chenopodium giganteum D. Don	3756077	Plantae	introduced	present	plants	Chenopodium giganteum D. Don	326
 Chenopodium hircinum Schrad.	3083934	Plantae	introduced	present	plants	Chenopodium hircinum Schrad.	327
 Chenopodium missouriense Aellen	6035721	Plantae	introduced	present	plants	Chenopodium missouriense Aellen	328
@@ -507,6 +533,7 @@ Chondrilla juncea L.	8537667	Plantae	unknown	present	plants	Chondrilla juncea L.
 Chorispora tenella (Pall.) DC.	3044349	Plantae	introduced	present	plants	Chorispora tenella (Pall.) DC.	892
 Cicer arietinum L.	2947311	Plantae	introduced	present	plants	Cicer arietinum L.	1261
 Cichorium calvum Sch.Bip. ex Asch.	5392271	Plantae	introduced	present	plants	Cichorium calvum Sch.Bip.	580
+Cichorium endivia L.	5392243	Plantae	introduced	present	plants	Cichorium endivia subsp. endivia	581
 Cichorium pumilum Jacq.	5392270	Plantae	introduced	present	plants	Cichorium pumilum Jacq.	582
 Cirsium heterophyllum (L.) Hill	3113745	Plantae	established	present	plants	Cirsium heterophyllum (L.) Hill	583
 Cirsium rivulare (Jacq.) All.	3113637	Plantae	established	present	plants	Cirsium rivulare (Jacq.) All.	584
@@ -533,6 +560,7 @@ Clethra alnifolia L.	2888323	Plantae	unknown	present	plants	Clethra alnifolia L.
 Clinopodium grandiflorum (L.) Kuntze	7437438	Plantae	introduced	present	plants	Clinopodium grandiflorum (L.) Kuntze	1527
 Clinopodium menthifolium (Host) Stace	3883897	Plantae	established	present	plants	Clinopodium menthifolium (Host) Stace	1528
 Clinopodium nepeta subsp. nepeta	7096205	Plantae	established	present	plants	Clinopodium nepeta subsp. nepeta	1529
+Clinopodium nepeta subsp. spruneri (Boiss.) Bartolucci & F.Conti	7757431	Plantae	established	present	plants	Clinopodium nepeta subsp. glandulosum (Req.) Govaerts	1530
 Codium fragile subsp. fragile	7230558	Plantae	established | to be determined by experts	present	wrims	Codium fragile subsp. fragile	9396 | 9397
 Coix lacryma-jobi L.	2706301	Plantae	introduced	present	plants	Coix lacryma-jobi L.	1932
 Collinsia heterophylla Buist ex Graham	5414959	Plantae	introduced	present	plants	Collinsia heterophylla Buist ex Graham	1803
@@ -546,6 +574,7 @@ Conringia austriaca (Jacq.) Sweet	3040923	Plantae	introduced	present	plants	Conr
 Conringia orientalis (L.) Dumort.	3040913	Plantae	introduced	present	plants	Conringia orientalis (L.) Dumort.	894
 Conringia planisiliqua Fisch. & C.A. Mey.	3040928	Plantae	introduced	present	plants	Conringia planisiliqua Fisch. & C.A. Mey.	895
 Consolida ajacis (L.) Schur	3033830	Plantae	introduced	present	plants	Delphinium ajacis L.	2301
+Consolida orientalis (Gay) Schröd.	3033828	Plantae	introduced	present	plants	Delphinium orientale Gay	2303
 Convolvulus tricolor subsp. cupanianus (Tod.) Cavara & Grande	7427650	Plantae	introduced	present	plants	Convolvulus tricolor subsp. cupanianus (Tod.) Cavara & Grande	1099
 Convolvulus tricolor subsp. tricolor	7323906	Plantae	introduced	present	plants	Convolvulus tricolor subsp. tricolor	1100
 Conyza pampeana (Parodi) Cabrera	5397996	Plantae	introduced	present	plants	Erigeron pampeanus Parodi	625
@@ -561,6 +590,7 @@ Coreopsis tinctoria Nutt.	3133950	Plantae	introduced	present	plants	Coreopsis ti
 Coreopsis verticillata L.	3133887	Plantae	introduced	present	plants	Coreopsis verticillata L.	589
 Coriandrum sativum L.	3034871	Plantae	introduced	present	plants	Coriandrum sativum L.	398
 Corispermum pallasii Steven	3083975	Plantae	established	present	plants	Corispermum pallasii Steven	339
+Corispermum tylocarpum Hance	3759032	Plantae	introduced	present	plants	Corispermum gmelinii Bunge	338
 Cornus sanguinea subsp. australis (C.A.Mey.) Jáv.	3663237	Plantae	established	present	plants	Cornus sanguinea subsp. australis (C.A.Mey.) Soó	1117
 Cornus sanguinea subsp. hungarica (Karpati) Soo	8421432	Plantae	established	present	plants	Cornus sanguinea subsp. hungarica (Karpati) Soo	1118
 Cornus sericea L.	3082244	Plantae	established | invasive	present	harmonia | plants	Cornus sericea L.	61 | 1119
@@ -569,12 +599,14 @@ Cortaderia selloana (Schult. & Schult.f.) Asch. & Graebn.	2704523	Plantae	establ
 Corydalis cheilanthifolia Hemsl.	5530829	Plantae	introduced	present	plants	Corydalis cheilanthifolia Hemsl.	1750
 Corylus colurna L.	2875968	Plantae	introduced	present	plants	Corylus colurna L.	802
 Corylus maxima Mill.	2876049	Plantae	introduced	present	plants	Corylus maxima Mill.	803
+Corynabutilon ×suntense (C. D. Brickell) Fryxell	3937506	Plantae	introduced	present	plants	Abutilon ×suntense C. D. Brickell	1611
 Coscinodiscus wailesii Gran & Angst, 1931	5421557	Chromista	established | to be determined by experts	present	wrims	Coscinodiscus wailesii Gran & Angst, 1931	9401 | 9402 | 9403
 Cosmos bipinnatus Cav.	3098912	Plantae	introduced	present	plants	Cosmos bipinnatus Cav.	590
 Cosmos sulphureus Cav.	3098951	Plantae	introduced	present	plants	Cosmos sulphureus Cav.	591
 Cota altissima (L.) J.Gay	5390611	Plantae	introduced	present	plants	Cota altissima (L.) J.Gay	592
 Cota austriaca (Jacq.) Sch.Bip.	5390636	Plantae	introduced	present	plants	Cota austriaca (Jacq.) Sch.Bip.	593
 Cotinus coggygria Scop.	3190522	Plantae	introduced	present	plants	Cotinus coggygria Scop.	378
+Cotoneaster acutifolius var. lucidus (Schltdl.) L. T. Lu	3026061	Plantae	introduced	present	plants	Cotoneaster lucidus Schltdl.	2355
 Cotoneaster acutifolius var. villosulus Rehd. & E.H. Wilson	3025565	Plantae	established	present	plants	Cotoneaster villosulus (Rehder & E.H. Wilson) Flinck & B. Hylmö	2364
 Cotoneaster ambiguus Rehd. & E.H. Wilson	3025858	Plantae	introduced	present	plants	Cotoneaster ambiguus Rehd. & E.H. Wilson	2339
 Cotoneaster ascendens Flinck & B. Hylmö	3026024	Plantae	introduced	present	plants	Cotoneaster ascendens Flinck & B. Hylmö	2340
@@ -604,6 +636,7 @@ Cotula anthemoides L.	3112123	Plantae	introduced	present	plants	Cotula anthemoid
 Cotula australis (Sieber ex Spreng.) Hook.f.	8542672	Plantae	introduced	present	plants	Cotula australis (Sieber ex Spreng.) Hook.f.	595
 Cotula coronopifolia L.	3112110	Plantae	unknown	present	plants	Cotula coronopifolia L.	596
 Cotula turbinata L.	3112098	Plantae	introduced	present	plants	Cotula turbinata L.	597
+Crambe hispanica subsp. abyssinica (Hochst ex. R.E. Fr.) A. Prina	8510990	Plantae	introduced	present	plants	Crambe abyssinica Hochst. ex R.E. Fr.	897
 Crangonyx pseudogracilis Bousfield, 1958	2217982	Animalia	established	present	macroinvertebrates	Crangonyx pseudogracilis Bousfield, 1958	180
 Crassostrea gigas (Thunberg, 1793)	2286069	Animalia	established | to be determined by experts	present	macroinvertebrates | wrims	Crassostrea gigas (Thunberg, 1793)	221 | 9404 | 9405 | 9406
 Crassula decumbens Thunb.	7334263	Plantae	introduced	present	plants	Crassula decumbens Thunb.	1120
@@ -630,6 +663,7 @@ Crypsis schoenoides (L.) Lam.	5290185	Plantae	introduced	present	plants	Crypsis 
 Cryptomeria japonica (Thunb. ex L. f.) D. Don	5284237	Plantae	introduced	present	plants	Cryptomeria japonica (Thunb. ex L. f.) D. Don	2610
 Ctenopharyngodon idella (Valenciennes, 1844)	2362030	Animalia	established	absent | present	fishes | harmonia	Ctenopharyngodon idella (Valenciennes, 1844)	8 | 65
 Cucumis melo L.	2874570	Plantae	introduced	present	plants	Cucumis melo L.	1143
+Cucumis myriocarpus subsp. myriocarpus	3624993	Plantae	introduced	present	plants	Cucumis myriocarpus Naud.	1144
 Cucumis sativus L.	2874569	Plantae	introduced	present	plants	Cucumis sativus L.	1145
 Cucurbita moschata Duchesne	2874509	Plantae	introduced	present	plants	Cucurbita moschata Duchesne	1146
 Cucurbita pepo L.	2874508	Plantae	introduced	present	plants	Cucurbita pepo L.	1147
@@ -650,6 +684,7 @@ Cymbalaria muralis subsp. muralis	7331861	Plantae	established	present	plants	Cym
 Cymbalaria muralis subsp. pubescens (C. Presl) D. A. Webb	8536465	Plantae	introduced	present	plants	Cymbalaria muralis subsp. pubescens (C. Presl) D. A. Webb	1805
 Cymbalaria pallida (Ten.) Wettst.	5559837	Plantae	established	present	plants	Cymbalaria pallida (Ten.) Wettst.	1806
 Cynodon dactylon (L.) Pers.	6109637	Plantae	established	present	plants	Cynodon dactylon (L.) Pers.	1938
+Cynodon incompletus Nees	5674825	Plantae	introduced	present	plants	Cynodon incompletus var. hirsutus (Stent) de Wet & Harlan	1939
 Cynoglossum amabile Stapf & Drummond	2925816	Plantae	introduced	present	plants	Cynoglossum amabile Stapf & Drummond	825
 Cynoglossum clandestinum Desf.	4064572	Plantae	introduced	present	plants	Cynoglossum clandestinum Desf.	826
 Cynosurus echinatus L.	2704394	Plantae	introduced	present	plants	Cynosurus echinatus L.	1940
@@ -659,6 +694,7 @@ Cyperus conglomeratus Rottb.	2714301	Plantae	introduced	present	plants	Cyperus c
 Cyperus cyperoides (L.) Kuntze	2714453	Plantae	introduced	present	plants	Cyperus cyperoides (L.) Kuntze	1169
 Cyperus difformis L.	2714796	Plantae	introduced	present	plants	Cyperus difformis L.	1170
 Cyperus eragrostis Lam.	2715482	Plantae	established | invasive	present	harmonia | plants	Cyperus eragrostis Lam.	67 | 1171
+Cyperus esculentus L.	2716226	Plantae	established	present	plants	Cyperus esculentus var. leptostachyus Boeckeler	1172
 Cyperus exaltatus Retz.	2715206	Plantae	introduced	present	plants	Cyperus exaltatus Retz.	1173
 Cyperus imbricatus Retz.	2714233	Plantae	introduced	present	plants	Cyperus imbricatus Retz.	1174
 Cyperus involucratus Rottb.	2714166	Plantae	introduced	present	plants	Cyperus involucratus Rottb.	1175
@@ -671,12 +707,12 @@ Cyperus virens Michx.	2716420	Plantae	introduced	present	plants	Cyperus virens M
 Cyprinus carpio Linnaeus, 1758	4286975	Animalia	established	present	fishes | wrims	Cyprinus carpio Linnaeus, 1758	9 | 9410
 Cyrtomium falcatum (L. fil.) Presl	8656764	Plantae	introduced	present	plants	Cyrtomium falcatum (L. fil.) Presl	1190
 Cyrtomium fortunei J. Sm.	2650827	Plantae	introduced	present	plants	Cyrtomium fortunei J. Sm.	1191
+Cytisophyllum sessilifolium (L.) O.Lang	2940408	Plantae	introduced	present	plants	Cytisus sessilifolius L.	1270
 Cytisus decumbens (Durande) Spach	5354676	Plantae	introduced	present	plants	Cytisus decumbens (Durande) Spach	1267
 Cytisus hirsutus L.	5354500	Plantae	introduced	present	plants	Cytisus hirsutus L.	1268
 Cytisus multiflorus Sweet	7681436	Plantae	established	present	plants	Cytisus multiflorus Sweet	1269
 Cytisus striatus (Hill) Rothm.	5354707	Plantae	established	present	plants	Cytisus striatus (Hill) Rothm.	1271
 Daboecia cantabrica (Huds.) K. Koch	8400045	Plantae	introduced	present	plants	Daboecia cantabrica (Huds.) K. Koch	1208
-Dactylis glomerata subsp. lobata (Drejer) H.Lindb.	4932232	Plantae	established	present	plants	Dactylis polygama Horv.	1941
 Dactyloctenium aegyptium (L.) Willd.	2706188	Plantae	introduced	present	plants	Dactyloctenium aegyptium (L.) Willd.	1942
 Dactyloctenium radulans (R.Br.) P.Beauv.	2706190	Plantae	introduced	present	plants	Dactyloctenium radulans (R.Br.) P.Beauv.	1943
 Dahlia coccinea Cav.	5387098	Plantae	introduced	present	plants	Dahlia coccinea Cav.	607
@@ -712,6 +748,8 @@ Dichondra argentea Humb. & Bonpl. ex Willd.	2928668	Plantae	introduced	present	p
 Digitaria acuminatissima Stapf	4131963	Plantae	introduced	present	plants	Digitaria acuminatissima Stapf	1947
 Digitaria aequiglumis (Hack. & Arechav.) Parodi	5676646	Plantae	established	present	plants	Digitaria aequiglumis (Hack. & Arechav.) Parodi	1948
 Digitaria brownii (Roem. & Schult.) Hughes	5289957	Plantae	introduced	present	plants	Digitaria brownii (Roem. & Schult.) Hughes	1949
+Digitaria ciliaris (Retz.) Koeler	5289998	Plantae	introduced	present	plants	Digitaria ciliaris subsp. nubica (Stapf) S.T. Blake	1951
+Digitaria sanguinalis (L.) Scop.	5289972	Plantae	unknown	present	plants	Digitaria sanguinalis subsp. pectiniformis Henrard	1952
 Digitaria violascens Link	5289995	Plantae	introduced	present	plants	Digitaria violascens Link	1954
 Dikerogammarus villosus (Sowinsky, 1894)	4315705	Animalia	established	present	macroinvertebrates | wrims	Dikerogammarus villosus (Sowinsky, 1894)	182 | 9412
 Dimorphotheca pluvialis (L.) Moench	5402363	Plantae	introduced	present	plants	Dimorphotheca pluvialis (L.) Moench	609
@@ -730,6 +768,7 @@ Dittrichia graveolens (L.) Greuter	3101193	Plantae	established	present	plants	Di
 Dittrichia viscosa (L.) Greuter	3101184	Plantae	established	present	plants	Dittrichia viscosa (L.) Greuter	611
 Doronicum columnae Ten.	3143034	Plantae	established	present	plants	Doronicum columnae Ten.	612
 Doronicum excelsum (N.E.Br.) Stace	3142974	Plantae	unknown	present	plants	Doronicum excelsum (N.E.Br.) Stace	613
+Doronicum plantagineum subsp. emarginatum (H.J.Coste) P.Fourn.	6077214	Plantae	established	present	plants	Doronicum willdenowii (Rouy) A.W.Hill	614
 Dorycnium hirsutum (L.) Ser.	2959124	Plantae	introduced	present	plants	Dorycnium hirsutum (L.) Ser.	1273
 Dorycnium pentaphyllum Scop.	2959128	Plantae	introduced	present	plants	Dorycnium pentaphyllum Scop.	1274
 Dracocephalum moldavica L.	2927222	Plantae	introduced	present	plants	Dracocephalum moldavica L.	1531
@@ -739,7 +778,7 @@ Dreissena polymorpha (Pallas, 1771)	2287072	Animalia	established	present	macroin
 Drosera linearis Goldie	3190845	Plantae	introduced	present	plants	Drosera linearis Goldie	1189
 Dryopteris cycadina (Franch. & Sav.) C. Chr.	7319302	Plantae	introduced	present	plants	Dryopteris cycadina (Franch. & Sav.) C. Chr.	1192
 Dryopteris erythrosora (D. C. Eat.) O. Kuntze	8660202	Plantae	introduced	present	plants	Dryopteris erythrosora (D. C. Eat.) O. Kuntze	1193
-Duchesnea indica (Jacks.) Focke	3031919	Plantae	established	present	harmonia | plants	Duchesnea indica (Jacks.) Focke | Potentilla indica (Jacks.) T.Wolf	69 | 2390
+Duchesnea indica (Jacks.) Focke	3031919			present	harmonia	Duchesnea indica (Jacks.) Focke	69
 Dugesia tigrina Girard	2502879	Animalia	established	present	macroinvertebrates	Dugesia tigrina Girard	234
 Dysphania ambrosioides (L.) Mosyakin & Clemants	5568446	Plantae	established	present	plants	Dysphania ambrosioides (L.) Mosyakin & Clemants	340
 Dysphania botrys (L.) Mosyakin & Clemants	5568428	Plantae	introduced	present	plants	Dysphania botrys (L.) Mosyakin & Clemants	341
@@ -758,6 +797,8 @@ Echinochloa esculenta (A.Braun) H.Scholz	2702798	Plantae	introduced	present	plan
 Echinochloa frumentacea Link	2702822	Plantae	introduced	present	plants	Echinochloa frumentacea Link	1969
 Echinochloa inundata Michael & Vickery	4118773	Plantae	introduced	present	plants	Echinochloa inundata Michael & Vickery	1971
 Echinochloa jubata Stapf	4118753	Plantae	introduced	present	plants	Echinochloa jubata Stapf	1972
+Echinochloa muricata (P.Beauv.) Fernald	2702816	Plantae	established	present	plants	Echinochloa muricata subsp. microstachya (Wiegand) Jauzein	1973
+Echinochloa oryzoides (Ard.) Fritsch	2702820	Plantae	introduced	present	plants	Echinochloa hispidula (Retz.) Nees ex Royle	1970
 Echinocystis lobata (Michx.) Torr. & Gray	5331404			absent	harmonia	Echinocystis lobata (Michx.) Torr. & Gray	70
 Echinogammarus berilloni (Catta, 1878)	4315760	Animalia	established	present	macroinvertebrates	Echinogammarus berilloni (Catta, 1878)	183
 Echinogammarus trichiatus (Martynov, 1932)	4417131	Animalia	established | introduced	present	macroinvertebrates | wrims	Echinogammarus trichiatus (Martynov, 1932)	184 | 9415
@@ -778,7 +819,9 @@ Elaeagnus submacrophylla Serv.	4048240	Plantae	introduced	present	plants	Elaeagn
 Elaeagnus umbellata C.P. Thunb. ex A. Murray	7752288	Plantae	established	present	plants	Elaeagnus umbellata Thunb.	1200
 Elatine alsinastrum L.	5646136	Plantae	introduced	present	plants	Elatine alsinastrum L.	1202
 Eleocharis engelmannii Steud.	2716838	Plantae	established	present	plants	Eleocharis engelmannii Steud.	1184
+Eleocharis mamillata subsp. austriaca (Hayek) Strandh.	2717402	Plantae	established	present	plants	Eleocharis austriaca Hayek	1183
 Eleocharis obtusa (Willd.) Schult.	2717467	Plantae	established	present	plants	Eleocharis obtusa (Willd.) Schult.	1185
+Eleusine africana	4124350	Plantae	introduced	present	plants	Eleusine coracana subsp. africana	1977
 Eleusine coracana (L.) Gaertn.	2705957	Plantae	introduced	present	plants	Eleusine coracana (L.) Gaertn.	1976
 Eleusine indica (L.) Gaertn.	2705953	Plantae	introduced	present	plants	Eleusine indica subsp. indica	1978
 Eleusine tristachya (Lam.) Lam.	2705955	Plantae	established	present	plants	Eleusine tristachya (Lam.) Lam.	1979
@@ -788,6 +831,7 @@ Elodea canadensis Michx.	2865448	Plantae	established	present	harmonia | plants	E
 Elodea nuttallii (Planch.) H.St.John	5329212	Plantae	established | invasive	present	harmonia | plants	Elodea nuttallii (Planch.) H.St.John	75 | 1480
 Elsholtzia ciliata (Thunb.) Hyl.	2927075	Plantae	introduced	present	plants	Elsholtzia ciliata (Thunb.) Hyl.	1534
 Elymus canadensis L.	5290282	Plantae	introduced	present	plants	Elymus canadensis L.	1980
+Elymus hystrix L.	8112114	Plantae	introduced	present	plants	Hystrix patula Moench	2052
 Emex australis Steinh.	2888871	Plantae	introduced	present	plants	Emex australis Steinh.	2214
 Emex spinosa (L.) Campd.	2888869	Plantae	introduced	present	plants	Emex spinosa (L.) Campd.	2215
 Emilia fosbergii Nicolson	5401508	Plantae	introduced	present	plants	Emilia fosbergii Nicolson	619
@@ -797,6 +841,7 @@ Enneapogon scaber Lehm.	4152153	Plantae	introduced	present	plants	Enneapogon sca
 Ensis directus (Conrad, 1843)	2287249	Animalia	established | to be determined by experts	present	wrims	Ensis directus (Conrad, 1843)	9418 | 9419
 Enteropogon acicularis (Lindl.) Lazarides	5679692	Plantae	introduced	present	plants	Enteropogon acicularis (Lindl.) Lazarides	1984
 Ephedra distachya L.	2653321	Plantae	introduced	present	plants	Ephedra distachya L.	1203
+Ephedra gerardiana var. sikkimensis Stapf	2653392	Plantae	introduced	present	plants	Ephedra saxatilis var. sikkimensis (Stapf) Florin	1204
 Epilobium brachycarpum Presl	3189073	Plantae	established	present	plants	Epilobium brachycarpum Presl	1680
 Epilobium ciliatum Raf.	3189096	Plantae	established | invasive	present	harmonia | plants	Epilobium ciliatum Raf.	76 | 1681
 Epilobium dodonaei Vill.	3666323	Plantae	established	present	plants	Chamaenerion dodonaei (Vill.) Schur	1675
@@ -814,13 +859,14 @@ Eragrostis bahiensis Schult.	2705452	Plantae	introduced	present	plants	Eragrosti
 Eragrostis barrelieri Daveau	2705431	Plantae	introduced	present	plants	Eragrostis barrelieri Daveau	1989
 Eragrostis bicolor Nees	4117648	Plantae	introduced	present	plants	Eragrostis bicolor Nees	1990
 Eragrostis ciliaris (L.) R.Br.	2705373	Plantae	introduced	present	plants	Eragrostis ciliaris (L.) R.Br.	1994
-Eragrostis curvula (Schrad.) Nees	2705378	Plantae	established	present	plants	Eragrostis curvula (Schrad.) Nees	1995
+Eragrostis curvula (Schrad.) Nees	2705378	Plantae	established | introduced	present	plants	Eragrostis chloromelas Steud. | Eragrostis curvula (Schrad.) Nees	1992 | 1995
+Eragrostis cylindriflora Hochst.	2705391	Plantae	introduced	present	plants	Eragrostis trichophora Coss. & Durieu	2017
 Eragrostis dielsii Pilg.	4113766	Plantae	introduced	present	plants	Eragrostis dielsii Pilg.	1996
 Eragrostis elongata (Willd.) J.Jacq.	2705362	Plantae	introduced	present	plants	Eragrostis elongata (Willd.) J.Jacq.	1997
 Eragrostis lacunaria F. Muell. ex Benth.	8192063	Plantae	introduced	present	plants	Eragrostis lacunaria F. Muell. ex Benth.	1998
 Eragrostis leptocarpa Benth.	4145354	Plantae	introduced	present	plants	Eragrostis leptocarpa Benth.	1999
 Eragrostis leptostachya (R.Br.) Steud.	2705422	Plantae	introduced	present	plants	Eragrostis leptostachya (R.Br.) Steud.	2000
-Eragrostis mexicana (Hornem.) Link	2705339	Plantae	introduced	present	plants	Eragrostis mexicana (Hornem.) Link	2001
+Eragrostis mexicana (Hornem.) Link	2705339	Plantae	introduced	present	plants	Eragrostis mexicana (Hornem.) Link | Eragrostis virescens subsp. verloovei Portal	2001 | 2018
 Eragrostis minor Host	2705449	Plantae	established	present	plants	Eragrostis minor Host	2002
 Eragrostis multicaulis Steud.	2705401	Plantae	established	present	plants	Eragrostis multicaulis Steud.	2003
 Eragrostis neesii Trin.	4143912	Plantae	introduced	present	plants	Eragrostis neesii Trin.	2004
@@ -858,11 +904,13 @@ Eriochloa procera (Retz.) C.E.Hubb.	2702527	Plantae	introduced	present	plants	Er
 Eriochloa pseudoacrotricha (Stapf ex Thell.) J.M.Black	2702519	Plantae	introduced	present	plants	Eriochloa pseudoacrotricha (Stapf ex Thell.) J.M.Black	2025
 Erodium botrys (Cav.) Bertol.	2891628	Plantae	introduced	present	plants	Erodium botrys (Cav.) Bertol.	1435
 Erodium brachycarpum (Godr.) Thellung	2891617	Plantae	introduced	present	plants	Erodium brachycarpum (Godr.) Thellung	1436
+Erodium carolinianum J.J. Aldasoro, C. Aedo, C. Navarro & L. Saez	3828342	Plantae	introduced	present	plants	Erodium cygnorum subsp. glandulosum Carolin	1441
 Erodium chium (L.) Willd.	3828217	Plantae	introduced	present	plants	Erodium chium (L.) Willd.	1437
 Erodium ciconium Willd.	8284583	Plantae	introduced	present	plants	Erodium ciconium Willd.	1438
 Erodium crinitum Carolin	3827980	Plantae	introduced	present	plants	Erodium crinitum Carolin	1439
 Erodium malacoides (L.) Willd.	2891621	Plantae	introduced	present	plants	Erodium malacoides (L.) Willd.	1442
 Erodium manescavii Cosson	4934105	Plantae	introduced	present	plants	Erodium manescavii Cosson	1443
+Erodium moschatum	2891625	Plantae	introduced	present	plants	Erodium moschatum var. moschatum	1445
 Erodium stephanianum Willd.	3829143	Plantae	introduced	present	plants	Erodium stephanianum Willd.	1447
 Eruca vesicaria subsp. sativa (Mill.) Thell.	5375925	Plantae	introduced	present	plants	Eruca vesicaria subsp. sativa (Mill.) Thell.	903
 Erucaria hispanica (L.) Druce	5377678	Plantae	introduced	present	plants	Erucaria hispanica (L.) Druce	904
@@ -883,13 +931,12 @@ Erythronium dens-canis L.	2752849	Plantae	introduced	present	plants	Erythronium 
 Eschscholzia californica Cham.	2888380	Plantae	introduced	present	plants	Eschscholzia californica Cham.	1751
 Euchiton sphaericus (Willd.) Holub	7587923	Plantae	introduced	present	plants	Euchiton sphaericus (Willd.) Holub	631
 Euclidium syriacum (L.) R. Br.	8191598	Plantae	introduced	present	plants	Euclidium syriacum (L.) R. Br.	913
+Eudianthe coeli-rosa (L.) Endl.	3814157	Plantae	introduced	present	plants	Silene coeli-rosa (L.) Godr.	1062
 Euonymus alatus (Thunb.) Siebold	3169120	Plantae	introduced	present	plants	Euonymus alatus (Thunb.) Siebold	1081
 Euonymus fortunei (Turcz.) Hand.-Mazz.	3169137	Plantae	established	present	plants	Euonymus hederaceus Champ. ex Benth.	1082
 Euonymus japonicus Thunb.	7102937	Plantae	introduced	present	plants	Euonymus japonicus Thunb.	1083
 Euonymus latifolius (L.) Mill.	7433196	Plantae	established	present	plants	Euonymus latifolius (L.) Mill.	1084
-Eupatorium maculatum L.	5401612	Plantae	established	present	plants	Eutrochium maculatum (L.) E.E.Lamont	635
 Eupatorium perfoliatum L.	5402874	Plantae	introduced	present	plants	Eupatorium perfoliatum L.	632
-Eupatorium purpureum L.	5401611	Plantae	introduced	present	plants	Eutrochium purpureum (L.) E.E.Lamont	636
 Euphorbia amygdaloides subsp. robbiae (Turrill) Stace	3065244	Plantae	established	present	plants	Euphorbia amygdaloides subsp. robbiae (Turrill) Stace	1222
 Euphorbia chamaesyce L.	3067869	Plantae	introduced	present	plants	Euphorbia chamaesyce L.	1224
 Euphorbia characias L.	3067353	Plantae	established	present	plants	Euphorbia characias L.	1225
@@ -899,6 +946,7 @@ Euphorbia esula subsp. tommasiniana (Bertol.) Kuzmanov	3064269	Plantae	establish
 Euphorbia glyptosperma Engelm.	3065883	Plantae	introduced	present	plants	Euphorbia glyptosperma Engelm.	1230
 Euphorbia heterophylla L.	3064495	Plantae	introduced	present	plants	Euphorbia heterophylla L.	1231
 Euphorbia humifusa Willd.	3067054	Plantae	established	present	plants	Euphorbia humifusa Willd.	1232
+Euphorbia hypericifolia L.	3066321	Plantae	introduced	present	plants	Euphorbia glomerifera (Millsp.) L.C.Wheeler	1229
 Euphorbia lathyris L.	3066965	Plantae	established	present	plants	Euphorbia lathyris L.	1233
 Euphorbia maculata L.	3067119	Plantae	established	present	plants	Euphorbia maculata L.	1234
 Euphorbia myrsinites L.	3064669	Plantae	unknown	present	plants	Euphorbia myrsinites L.	1235
@@ -909,7 +957,9 @@ Euphorbia peplis L.	3066482	Plantae	introduced	present	plants	Euphorbia peplis L
 Euphorbia prostrata Aiton	3067891	Plantae	established	present	plants	Euphorbia prostrata Aiton	1240
 Euphorbia pseudoesula Schur	3068528	Plantae	unknown	present	plants	Euphorbia pseudoesula Schur	1244
 Euphorbia seguieriana Neck.	3066179	Plantae	introduced	present	plants	Euphorbia seguieriana Neck.	1241
+Euphorbia serpens Kunth	3064221	Plantae	introduced	present	plants	Euphorbia serpens subsp. fissistipula (Thell.) Verloove & Lambinon	1242
 Euphorbia vermiculata Raf.	3069300	Plantae	unknown	present	plants	Euphorbia vermiculata Raf.	1243
+Euphorbia verrucosa L.	3069053	Plantae	established	present	plants	Euphorbia brittingeri Opiz ex Samp.	1223
 Eurytemora americana L. W. Williams, 1906	2114326	Animalia	to be determined by experts	present	wrims	Eurytemora americana L. W. Williams, 1906	9423
 Eustachys neglecta (Nash) Nash	5289814	Plantae	introduced	present	plants	Eustachys neglecta (Nash) Nash	2026
 Eustachys retusa (Lag.) Kunth	5289819	Plantae	introduced	present	plants	Eustachys retusa (Lag.) Kunth	2027
@@ -925,6 +975,7 @@ Felicia tenella (L.) Nees	5401239	Plantae	introduced	present	plants	Felicia tene
 Ferrissia fragilis Tryon, 1863	2291152	Animalia	established	present	macroinvertebrates	Ferrissia fragilis Tryon, 1863	223
 Festuca gautieri (Hack.) K.Richt.	4123970	Plantae	introduced	present	plants	Festuca gautieri (Hack.) K.Richt.	2030
 Festuca glauca Vill.	2705031	Plantae	unknown	present	plants	Festuca glauca Vill.	2031
+Festuca trachyphylla (Hack.) Hack.	2704949	Plantae	established	present	plants	Festuca brevipila R.Tracey	2029
 Festuca valesiaca Schleich. ex Gaudin	2704966	Plantae	established	present	plants	Festuca valesiaca Schleich. ex Gaudin	2032
 Festulolium braunii (K.Richt.) A.Camus	2703221	Plantae	introduced	present	plants	Festulolium braunii (K.Richt.) A.Camus	2199
 Ficopomatus enigmaticus (Fauvel, 1923)	2327735	Animalia	established | to be determined by experts	present	macroinvertebrates | wrims	Ficopomatus enigmaticus (Fauvel, 1923)	164 | 9424 | 9425
@@ -943,6 +994,7 @@ Fraxinus pennsylvanica Marshall	3172348	Plantae	established | invasive	present	h
 Gagea pratensis (Pers.) Dumort.	5300102	Plantae	introduced	present	plants	Gagea pratensis (Pers.) Dumort.	1592
 Gaillardia grandiflora Hort. ex Van Houtte	5387817	Plantae	established | invasive	present	harmonia | plants	Gaillardia grandiflora Hort. | Gaillardia grandiflora Hort. ex Van Houtte	82 | 639
 Galanthus ikariae Baker	2855374	Plantae	unknown	present	plants	Galanthus ikariae Baker	368
+Galanthus nivalis L.	2855356	Plantae	unknown	present	plants	Galanthus nivalis var. scharlockii Casp.	370
 Galanthus woronowii Losinsk.	2855439	Plantae	introduced	present	plants	Galanthus woronowii Losinsk.	372
 Galatella sedifolia (L.) Greuter	3091620	Plantae		to be determined by experts	plants	Galatella sedifolia (L.) Greuter	641
 Galega officinalis L.	2975667	Plantae	established	present	plants	Galega officinalis L.	1275
@@ -1031,6 +1083,7 @@ Helianthus tuberosus L.	3119175	Plantae	established | invasive	present	harmonia 
 Helichrysum italicum (Roth) G.Don	3131614	Plantae	introduced	present	plants	Helichrysum italicum (Roth) G.Don	659
 Helichrysum petiolare Hilliard & B.L.Burtt	3131367	Plantae	introduced	present	plants	Helichrysum petiolare Hilliard & B.L.Burtt	660
 Helictotrichon bromoides (Gouan) C.E.Hubb.	4153260	Plantae	introduced	present	plants	Helictotrichon bromoides (Gouan) C.E.Hubb.	2039
+Helictotrichon recurvatum (Swallen) Cope & Ryves	4152236	Plantae	introduced	present	plants	Amphibromus recurvatus Swallen	1860
 Helictotrichon sempervirens (Vill.) Pilg.	4152037	Plantae	introduced	present	plants	Helictotrichon sempervirens (Vill.) Pilg.	2040
 Heliophila pusilla L.f.	5374386	Plantae	introduced	to be determined by experts	plants	Heliophila pusilla L.f.	914
 Heliopsis helianthoides (L.) Sweet	5396474	Plantae	introduced	present	plants	Heliopsis helianthoides (L.) Sweet	661
@@ -1056,8 +1109,8 @@ Heuchera micrantha Douglas ex Lindl.	3032646	Plantae	introduced	present	plants	H
 Heuchera sanguinea Engelm.	3032653	Plantae	introduced	present	plants	Heuchera sanguinea Engelm.	2516
 Hibiscus syriacus L.	3152583	Plantae	introduced	present	plants	Hibiscus syriacus L.	1616
 Hibiscus trionum L.	3152560	Plantae	introduced	present	plants	Hibiscus trionum L.	1617
-Hieracium duplex Peter	3134985	Plantae	introduced	present	plants	Pilosella duplex (Peter) Holub	705
 Hieracium pilosum Froel.	7569785	Plantae	introduced	present	plants	Hieracium pilosum Froel.	669
+Hieracium recensitum ford	7358565	Plantae	established	present	plants	Hieracium glaucinum subsp. recensitum (Jord. ex Boreau) Gottschl.	668
 Hieracium speciosum Hornem.	4243464	Plantae	introduced	present	plants	Hieracium speciosum Hornem.	670
 Hierochloe odorata (L.) P.Beauv.	2703336	Plantae	established	present	plants	Anthoxanthum nitens (Weber) Y.Schouten & Veldkamp	1862
 Himantoglossum robertianum (Loisel.) P.Delforge	5324959	Plantae	unknown	present	plants	Himantoglossum robertianum (Loisel.) P.Delforge	1726
@@ -1068,6 +1121,7 @@ Hordeum distichon L.	8332019	Plantae	introduced	present	plants	Hordeum distichon
 Hordeum euclaston Steud.	4148721	Plantae	introduced	present	plants	Hordeum euclaston Steud.	2044
 Hordeum flexuosum Nees ex Steud.	4148661	Plantae	introduced	present	plants	Hordeum flexuosum Nees ex Steud.	2045
 Hordeum jubatum L.	2706052	Plantae	established	present	plants	Hordeum jubatum L.	2048
+Hordeum marinum subsp. gussoneanum (Parl.) Thell.	8338571	Plantae	introduced	present	plants	Hordeum geniculatum All.	2046
 Hordeum murinum subsp. glaucum (Steud.) Tzvelev	4115425	Plantae	introduced	present	plants	Hordeum glaucum Steud.	2047
 Hordeum murinum subsp. leporinum (Link) Arcang.	4270548	Plantae	established	present	plants	Hordeum leporinum Link	2049
 Hordeum pusillum Nutt.	2706070	Plantae	introduced	present	plants	Hordeum pusillum Nutt.	2050
@@ -1085,6 +1139,7 @@ Hydrangea paniculata Siebold	2985995	Plantae	introduced	present	plants	Hydrangea
 Hydrocotyle novae-zeelandiae DC.	3636471	Plantae	established	present	plants	Hydrocotyle novae-zeelandiae DC.	454
 Hydrocotyle ranunculoides L. fil.	7978544	Plantae	established | invasive	present	harmonia | plants	Hydrocotyle ranunculoides L. fil.	89 | 455
 Hydrocotyle verticillata Thunb.	3034602	Plantae	introduced	present	plants	Hydrocotyle verticillata Thunb.	456
+Hylotelephium anacampseros (L.) H.Ohba	4202184	Plantae	introduced	present	plants	Sedum anacampseros L.	1127
 Hyoscyamus albus L.	2928979	Plantae	introduced	present	plants	Hyoscyamus albus L.	2554
 Hypania invalida (Grube, 1860)	5199161	Animalia	established	present	macroinvertebrates	Hypania invalida (Grube, 1860)	167
 Hypecoum pendulum L.	2888559	Plantae	introduced	present	plants	Hypecoum pendulum L.	1753
@@ -1118,8 +1173,10 @@ Inula racemosa Hook.f.	4933624	Plantae	established	present	plants	Inula racemosa
 Inula spiraeifolia L.	8211936	Plantae	introduced	present	plants	Inula spiraeifolia L.	675
 Ipomoea hederacea var. hederacea	7324046	Plantae	introduced	present	plants	Ipomoea hederacea var. hederacea	1109
 Ipomoea hederifolia L.	2928624	Plantae	introduced	present	plants	Ipomoea hederifolia L.	1111
+Ipomoea lacunosa L.	2928584	Plantae	introduced	present	plants	Ipomoea lacunosa f. lacunosa	1112
 Ipomoea leucantha Jacq.	2928583	Plantae	introduced	present	plants	Ipomoea leucantha Jacq.	1113
 Ipomoea purpurea (L.) Roth	2928576	Plantae	introduced	present	plants	Ipomoea purpurea (L.) Roth	1114
+Ipomoea rubriflora O'Donell	7519113	Plantae	introduced	present	plants	Ipomoea coccinea L.	1108
 Ipomoea tricolor Cav.	2928589	Plantae	introduced	present	plants	Ipomoea tricolor Cav.	1115
 Ipomoea wrightii A. Gray	2928613	Plantae	introduced	present	plants	Ipomoea wrightii A. Gray	1116
 Iris foetidissima L.	5298765	Plantae	established	present	plants	Iris foetidissima L.	1496
@@ -1158,6 +1215,8 @@ Kniphofia praecox Baker	5305162	Plantae	established	present	plants	Kniphofia pra
 Laburnum anagyroides Medik.	5356345	Plantae	established	present	plants	Laburnum anagyroides Medik.	1279
 Lachnagrostis billardierei (R.Br.) Trin.	4136060	Plantae	introduced	present	plants	Lachnagrostis billardierei (R.Br.) Trin.	2053
 Lachnagrostis filiformis (G.Forst.) Trin.	4135963	Plantae	introduced	present	plants	Lachnagrostis filiformis (G.Forst.) Trin.	2054
+Lachnagrostis lachnantha (Nees) Rúgolo & A.M.Molina	4135892	Plantae	introduced	present	plants	Agrostis lachnantha Nees	1853
+Lactuca macrophylla (Willd.) A.Gray	3140436	Plantae	established	present	plants	Cicerbita macrophylla subsp. macrophylla	578
 Lactuca macrophylla subsp. uralensis (Rouy) N.Kilian & Greuter	4211590	Plantae	established	present	plants	Cicerbita macrophylla subsp. uralensis (Rouy) P.D.Sell	579
 Lactuca sativa	3140379	Plantae	introduced	present	plants	Lactuca sativa L.	678
 Lagarosiphon major (Ridl.) Moss	2865565	Plantae	established | invasive	present	harmonia | plants	Lagarosiphon major (Ridl.) Moss	94 | 1481
@@ -1197,9 +1256,10 @@ Leonurus japonicus Houtt.	6410563	Plantae	introduced	present	plants	Leonurus jap
 Leonurus quinquelobatus Gilib.	7307492	Plantae	established	present	plants	Leonurus quinquelobatus Gilib.	1543
 Lepidium africanum (Burm. f.) DC.	5376530	Plantae	introduced	present	plants	Lepidium africanum (Burm. f.) DC.	924
 Lepidium bonariense L.	5376925	Plantae	introduced	present	plants	Lepidium bonariense L.	925
-Lepidium densiflorum Schrad.	5377064	Plantae	established	present	plants	Lepidium densiflorum Schrad.	926
+Lepidium densiflorum Schrad.	5377064	Plantae	established | introduced	present	plants	Lepidium densiflorum Schrad. | Lepidium neglectum Thell.	926 | 936
 Lepidium desertorum Eckl. & Zeyh.	5376494	Plantae	introduced	present	plants	Lepidium desertorum Eckl. & Zeyh.	927
 Lepidium didymum L.	5377060	Plantae	established	present	plants	Lepidium didymum L.	928
+Lepidium draba L.	5376961	Plantae	established	present	plants	Lepidium draba subsp. draba	930
 Lepidium fasciculatum Thell.	5376785	Plantae	introduced	present	plants	Lepidium fasciculatum Thell.	931
 Lepidium graminifolium L.	5376994	Plantae	introduced	present	plants	Lepidium graminifolium L.	932
 Lepidium heterophyllum Benth.	5376846	Plantae	established	present	plants	Lepidium heterophyllum Benth.	933
@@ -1254,9 +1314,9 @@ Lobelia pedunculata R.Br.	5408682	Plantae	unknown	present	plants	Lobelia peduncu
 Lobelia sessilifolia Lamb.	5408775	Plantae	introduced	present	plants	Lobelia sessilifolia Lamb.	990
 Lobelia siphilitica L.	5409120	Plantae	introduced	present	plants	Lobelia siphilitica L.	991
 Lobularia maritima (L.) Desv.	5373358	Plantae	introduced	present	plants	Lobularia maritima (L.) Desv.	941
-Lolium multiflorum Lam.	4129708	Plantae	established	present	plants	Lolium multiflorum Lam.	2057
+Lolium multiflorum Lam.	4129708	Plantae	established | introduced	present	plants	Lolium boucheanum Kunth | Lolium multiflorum Lam.	2057 | 2061
 Lolium persicum Boiss. & Hohen.	2706225	Plantae	introduced	present	plants	Lolium persicum Boiss. & Hohen.	2058
-Lolium rigidum Gaudin	2706218	Plantae	introduced	present	plants	Lolium rigidum Gaudin	2059
+Lolium rigidum Gaudin	2706218	Plantae	introduced	present	plants	Lolium rigidum Gaudin | Lolium subulatum Vis.	2059 | 2060
 Lonicera acuminata Wall.	5598598	Plantae	established	present	plants	Lonicera acuminata Wall.	1008
 Lonicera caprifolium L.	5334227	Plantae	unknown	present	plants	Lonicera caprifolium L.	1009
 Lonicera chrysantha Turcz.	8242349	Plantae	introduced	present	plants	Lonicera chrysantha Turcz. ex Ledeb.	1010
@@ -1266,6 +1326,7 @@ Lonicera japonica Thunb. ex Murray	7697298	Plantae	established	present	plants	Lo
 Lonicera maackii (Rupr.) Maxim.	7902463	Plantae	introduced	present	plants	Lonicera maackii (Rupr.) Maxim.	1013
 Lonicera morrowii Gray	5334275	Plantae	introduced	present	plants	Lonicera morrowii Gray	1014
 Lonicera pileata Oliv.	5598915	Plantae	established	present	plants	Lonicera pileata Oliv.	1016
+Lonicera pileata var. yunnanensis (Franch.) Bernd Schulz	7764700	Plantae	established	present	plants	Lonicera nitida E.H. Wilson	1015
 Lonicera sempervirens L.	5334239	Plantae	introduced	present	plants	Lonicera sempervirens L.	1017
 Lonicera tatarica L.	5334242	Plantae	introduced	present	plants	Lonicera tatarica L.	1018
 Lonicera ×italica Tausch	8325800	Plantae	unknown	present	plants	Lonicera ×italica Tausch	1019
@@ -1303,6 +1364,7 @@ Malope trifida Cav.	3935421	Plantae	introduced	present	plants	Malope trifida Cav
 Malus baccata (L.) Borkh.	3001362	Plantae	introduced	present	plants	Malus baccata (L.) Borkh.	2379
 Malus sieboldii (Regel) Rehder	3001650	Plantae	introduced	present	plants	Malus sieboldii (Regel) Rehder	2380
 Malus ×purpurea (Barbey) Rehder	3001270	Plantae	introduced	present	plants	Malus ×purpurea (Barbey) Rehder	2382
+Malva australiana M.F. Ray	3935002	Plantae	introduced	present	plants	Malva preissiana Miq.	1625
 Malva maroccana (Batt. & Trab.) Verloove & Lambinon	7823743	Plantae	introduced	present	plants	Malva maroccana (Batt. & Trab.) Verloove & Lambinon	1622
 Malva nicaeensis All.	3152367	Plantae	introduced	present	plants	Malva nicaeensis All.	1623
 Malva parviflora L.	3152378	Plantae	introduced	present	plants	Malva parviflora L.	1624
@@ -1335,6 +1397,7 @@ Medicago polymorpha L.	2965531	Plantae	introduced	present	plants	Medicago polymo
 Medicago praecox DC.	2965419	Plantae	introduced	present	plants	Medicago praecox DC.	1317
 Medicago rigidula (L.) All.	2965438	Plantae	introduced	present	plants	Medicago rigidula (L.) All.	1318
 Medicago sativa L.	2965324	Plantae	established	present	plants	Medicago sativa L.	1319
+Medicago sativa subsp. varia (Martyn) Arcang.	8316569	Plantae	unknown	present	plants	Medicago varia Martyn	1324
 Medicago scutellata (L.) Mill.	2965397	Plantae	introduced	present	plants	Medicago scutellata (L.) Mill.	1320
 Medicago tornata subsp. helix (Willd.) Ooststr. & Reichg.	2965254	Plantae	introduced	present	plants	Medicago tornata subsp. helix (Willd.) Ooststr. & Reichg.	1321
 Medicago truncatula Gaertn.	2965280	Plantae	introduced	present	plants	Medicago truncatula Gaertn.	1322
@@ -1351,7 +1414,6 @@ Melilotus elegans Ser.	2971036	Plantae	introduced	present	plants	Melilotus elega
 Melilotus indicus (L.) All.	2971016	Plantae	introduced	present	plants	Melilotus indicus (L.) All.	1328
 Melilotus infestus Guss.	2971033	Plantae	introduced	present	plants	Melilotus infestus Guss.	1327
 Melilotus messanensis (L.) All.	2971107	Plantae	introduced	present	plants	Melilotus messanensis (L.) All.	1329
-Melilotus officinalis (L.) Pall.	2971024	Plantae	established	present	plants	Melilotus officinalis (L.) Lam.	1330
 Melilotus sulcatus Desf.	2971112	Plantae	introduced	present	plants	Melilotus sulcatus Desf.	1331
 Melilotus wolgicus Poir.	2971068	Plantae	introduced	present	plants	Melilotus wolgicus Poir.	1332
 Melissa officinalis L.	5341501	Plantae	unknown	present	plants	Melissa officinalis L.	1547
@@ -1359,6 +1421,7 @@ Melita nitida S. I. Smith, 1873	2215949	Animalia	established	present	macroinvert
 Menetus dilatatus Gould, 1841	5189713	Animalia	established	present	macroinvertebrates	Menetus dilatatus Gould, 1841	222
 Mentha cervina L.	3902360	Plantae	unknown	present	plants	Mentha cervina L.	1548
 Mentha requienii Benth.	2927174	Plantae	unknown	present	plants	Mentha requienii Benth.	1549
+Mentha wirtgeniana F.W.Schultz	3893979	Plantae	introduced	present	plants	Mentha smithiana R.A.Graham	1552
 Mentzelia albicaulis Dougl. ex Hook.	7397079	Plantae	introduced	present	plants	Mentzelia albicaulis Dougl. ex Hook.	1604
 Mercenaria mercenaria (Linnaeus, 1758)	2287668	Animalia	established | to be determined by experts	present	macroinvertebrates | wrims	Mercenaria mercenaria (Linnaeus, 1758)	233 | 9457 | 9458
 Mesembryanthemum cordifolium L. fil.	8185812	Plantae	introduced	present	plants	Mesembryanthemum cordifolium L. fil.	245
@@ -1375,6 +1438,7 @@ Misopates calycinum (Vent.) Rothm.	8601617	Plantae	introduced	present	plants	Mis
 Mnemiopsis leidyi A. Agassiz, 1865	2501248	Animalia	established | to be determined by experts	present	wrims	Mnemiopsis leidyi A. Agassiz, 1865	9462 | 9463 | 9464 | 9465
 Modiola caroliniana (L.) G. Don fil.	8338793	Plantae	introduced	present	plants	Modiola caroliniana (L.) G. Don fil.	1637
 Molgula manhattensis (De Kay, 1843)	2331498	Animalia	established | introduced | to be determined by experts	present	wrims	Molgula manhattensis (De Kay, 1843)	9466 | 9467 | 9468
+Molinia caerulea (L.) Moench	5289877	Plantae	unknown	present	plants	Molinia caerulea subsp. arundinacea (Schrank) K. Richt.	2066
 Mollugo verticillata L.	3084611	Plantae	introduced	present	plants	Mollugo verticillata L.	1651
 Moneses uniflora (L.) A. Gray	2888298	Plantae	introduced	present	plants	Moneses uniflora (L.) A. Gray	1215
 Monocorophium sextonae (Crawford, 1937)	4314702	Animalia	established | to be determined by experts	present	macroinvertebrates | wrims	Monocorophium sextonae (Crawford, 1937)	179 | 9469 | 9470
@@ -1390,6 +1454,7 @@ Mya arenaria Linnaeus, 1758	7791733	Animalia	established | to be determined by e
 Myagrum perfoliatum L.	3047811	Plantae	introduced	present	plants	Myagrum perfoliatum L.	946
 Mycale micracanthoxea Buizer & van Soest, 1977	2242011	Animalia	to be determined by experts	present	wrims	Mycale micracanthoxea Buizer & van Soest, 1977	9474
 Myocastor coypus (Molina, 1782)	4264680		invasive	present	harmonia	Myocastor coypus (Molina, 1782)	110
+Myosotis alpestris subsp. alpestris	7295191	Plantae	introduced	present	plants	Myosotis alpestris F. W. Schmidt	833
 Myricaria germanica (L.) Desv.	3612876	Plantae	introduced	unknown	plants	Myricaria germanica (L.) Desv.	2606
 Myriophyllum aquaticum (Vellozo) Verdcourt	5361785	Plantae	established | invasive	present	harmonia | plants	Myriophyllum aquaticum (Vellozo) Verdcourt	111 | 1470
 Myriophyllum heterophyllum Michx.	5361762	Plantae	established | invasive	present	harmonia | plants	Myriophyllum heterophyllum Michx.	112 | 1471
@@ -1397,6 +1462,7 @@ Myrrhis odorata (L.) Scop.	3034681	Plantae	established	present	plants	Myrrhis od
 Mytilicola intestinalis Steuer, 1903	2110811	Animalia	established | to be determined by experts	present	wrims	Mytilicola intestinalis Steuer, 1903	9475 | 9476
 Mytilopsis leucophaeata (Conrad, 1831)	2287076	Animalia	established | introduced | to be determined by experts	present	wrims	Mytilopsis leucophaeata (Conrad, 1831)	9477 | 9478 | 9479 | 9480
 Mytilopsis leucophaeta (Conrad, 1831)	8283653	Animalia	established	present	macroinvertebrates	Mytilopsis leucophaeta (Conrad, 1831)	230
+Narcissus hispanicus Gouan	2858384	Plantae	established | unknown	present | unknown	plants	Narcissus obvallaris Salisb. | Narcissus pseudonarcissus subsp. major (Curtis) Baker	373 | 375
 Narcissus incomparabilis Mill.	2859255	Plantae	introduced	unknown	plants	Narcissus incomparabilis Mill.	376
 Narcissus poeticus L.	2858581	Plantae	established	present	plants	Narcissus poeticus L.	374
 Nassella filiculmis (Delile) Barkworth	5674110	Plantae	introduced	present	plants	Nassella filiculmis (Delile) Barkworth	2069
@@ -1460,7 +1526,7 @@ Oenothera oakesiana (A. Gray) S. Watson	3188884	Plantae	introduced	present	plant
 Oenothera oehlkersii A. Kappus	8153538	Plantae	introduced	present	plants	Oenothera oehlkersii A. Kappus	1705
 Oenothera paradoxa Hudziok	3667238	Plantae	introduced	present	plants	Oenothera paradoxa Hudziok	1706
 Oenothera parviflora L.	3188833	Plantae	introduced	present	plants	Oenothera parviflora L.	1707
-Oenothera perangusta Gates	7322738	Plantae	established | introduced	present	plants	Oenothera perangusta Gates | Oenothera rubricalyx R.R.Gates	1708 | 1714
+Oenothera perangusta Gates	7322738	Plantae	established	present	plants	Oenothera perangusta Gates	1708
 Oenothera perennis L.	3188838	Plantae	introduced	present	plants	Oenothera perennis L.	1709
 Oenothera pycnocarpa Atkinson & Bartlett	3188926	Plantae	introduced	present	plants	Oenothera pycnocarpa Atkinson & Bartlett	1710
 Oenothera rosea Aiton	3188875	Plantae	introduced	present	plants	Oenothera rosea Aiton	1711
@@ -1471,7 +1537,6 @@ Oenothera speciosa Nutt.	3188859	Plantae	introduced	present	plants	Oenothera spe
 Oenothera stricta Ledeb. ex Link	3188830	Plantae	introduced	present	plants	Oenothera stricta Ledeb. ex Link	1717
 Oenothera subterminalis R.R.Gates	3664677	Plantae	introduced	present	plants	Oenothera subterminalis R.R.Gates	1718
 Oenothera victorinii Gates & Catcheside	7322143	Plantae	unknown	present	plants	Oenothera victorinii Gates & Catcheside	1719
-Oenothera villosa subsp. villosa	6427623	Plantae	introduced	present	plants	Oenothera depressa Greene	1696
 Oenothera wratislaviensis Rostanski	3667721	Plantae	introduced	present	plants	Oenothera wratislaviensis Rostanski	1720
 Omphalodes linifolia (L.) Moench	2926050	Plantae	introduced	present	plants	Omphalodes linifolia (L.) Moench	839
 Omphalodes verna Moench	2926048	Plantae	established	present	plants	Omphalodes verna Moench	840
@@ -1519,20 +1584,24 @@ Palaemon macrodactylus M. J. Rathbun, 1902	2224970	Animalia	established | introd
 Paliurus spina-christi Miller	5372457	Plantae	introduced	present	plants	Paliurus spina-christi Miller	2326
 Panicum antidotale Retz.	2705141	Plantae	introduced	present	plants	Panicum antidotale Retz.	2077
 Panicum bulbosum Kunth	2705106	Plantae	introduced	present	plants	Zuloagaea bulbosa (Kunth) Bess	2197
+Panicum capillare L.	2705162	Plantae	established | introduced	present	plants	Panicum capillare subsp. barbipulvinatum (Nash) Tzvelev | Panicum capillare subsp. capillare	2078 | 2079
 Panicum clandestinum L.	2702544	Plantae	introduced	present	plants	Dichanthelium clandestinum (L.) Gould	1946
 Panicum coloratum L.	2705092	Plantae	introduced	present	plants	Panicum coloratum L.	2082
 Panicum decompositum R.Br.	4113402	Plantae	introduced	present	plants	Panicum decompositum R.Br.	2083
-Panicum dichotomiflorum Michx.	2705144	Plantae	established	present	plants	Panicum dichotomiflorum Michx.	2084
+Panicum dichotomiflorum Michx.	2705144	Plantae	established | introduced	present	plants	Panicum chloroticum Nees ex Trin. | Panicum dichotomiflorum Michx.	2081 | 2084
 Panicum hillmanii Chase	2705098	Plantae	introduced	present	plants	Panicum capillare subsp. hillmanii (Chase) Freckmann & Lelong	2080
 Panicum hirticaule J.Presl	2705066	Plantae	introduced	present	plants	Panicum hirticaule J.Presl	2085
 Panicum laevinode Lindl.	4116709	Plantae	introduced	present	plants	Panicum laevinode Lindl.	2086
+Panicum miliaceum L.	2705090	Plantae	established | introduced	present	plants	Panicum miliaceum subsp. agricola H.Scholz & Mikoláš | Panicum miliaceum subsp. ruderale (Kitag.) Tzvelev	2087 | 2089
 Panicum miliaceum subsp. miliaceum	6449041	Plantae	introduced	present	plants	Panicum miliaceum subsp. miliaceum	2088
 Panicum schinzii Hack.	4125308	Plantae	established	present	plants	Panicum schinzii Hack.	2090
 Panicum virgatum L.	2705081	Plantae	introduced	present	plants	Panicum virgatum L.	2091
 Papaver atlanticum (Ball) Coss.	7315072	Plantae	established	present	plants	Papaver atlanticum (Ball) Coss.	1757
+Papaver cambricum L.	3602683	Plantae	unknown	present	plants	Meconopsis cambrica (L.) Vig.	1756
 Papaver hybridum L.	2888446	Plantae	introduced	present	plants	Papaver hybridum L.	1758
 Papaver nudicaule L.	8144599	Plantae	introduced	present	plants	Papaver nudicaule L.	1759
 Papaver setiferum Goldblatt	8342911	Plantae	established	present	plants	Papaver setiferum Goldblatt	1760
+Papaver setigerum DC.	3602227	Plantae	introduced	present	plants	Papaver somniferum subsp. setigerum (DC.) Arcangeli	1761
 Parapholis incurva (L.) C.E.Hubb.	5290069	Plantae	unknown	present	plants	Parapholis incurva (L.) C.E.Hubb.	2092
 Parentucellia viscosa (L.) Caruel	3171818	Plantae	established	present	plants	Parentucellia viscosa (L.) Caruel	1737
 Paronychia brasiliana DC.	7314281	Plantae	introduced	present	plants	Paronychia brasiliana DC.	1052
@@ -1544,7 +1613,6 @@ Parthenocissus vitacea (Knerr) A.S. Hitchc.	3039193	Plantae	established	present	
 Paspalum dilatatum Poir.	2705565	Plantae	introduced	present	plants	Paspalum dilatatum Poir.	2093
 Paspalum distichum L.	2705622	Plantae	introduced	present	plants	Paspalum distichum L.	2094
 Paspalum paniculatum L.	2705587	Plantae	introduced	present	plants	Paspalum paniculatum L.	2096
-Paspalum saurae (Parodi) Parodi	4154259	Plantae	introduced	present	plants	Paspalum notatum var. saurae Parodi	2095
 Passiflora caerulea L.	2874199	Plantae	introduced	present	plants	Passiflora caerulea L.	1766
 Passiflora edulis Sims	2874190	Plantae	introduced	present	plants	Passiflora edulis Sims	1767
 Pastinaca sativa subsp. sativa	7224157	Plantae	introduced	present	plants	Pastinaca sativa subsp. sativa	414
@@ -1571,6 +1639,7 @@ Petasites pyrenaicus (L.) G.López	3088282	Plantae	unknown	present	plants	Petasi
 Petricolaria pholadiformis (Lamarck, 1818)	2287615	Animalia	established | to be determined by experts	present	macroinvertebrates | wrims	Petricola pholadiformis Lamarck, 1818 | Petricolaria pholadiformis (Lamarck, 1818)	232 | 9495 | 9496 | 9497
 Petrorhagia nanteuilii (Bumat) P. W. Ball & Heywood	8693157	Plantae	introduced	present	plants	Petrorhagia nanteuilii (Burnat) P. W. Ball & Heywood	1053
 Petrorhagia saxifraga (L.) Link	3085623	Plantae	introduced	present	plants	Petrorhagia saxifraga (L.) Link	1054
+Petrosedum sediforme (Jacq.) V. Grulich	4201784	Plantae	established	present	plants	Sedum sediforme (Jacq.) Pau	1135
 Petroselinum crispum (Mill.) Nyman ex A. W. Hill	8193935	Plantae	introduced	present	plants	Petroselinum crispum (Mill.) Nyman ex A. W. Hill	416
 Petunia integrifolia (Hook.) Schinz & Thell.	2928861	Plantae	introduced	present	plants	Petunia integrifolia (Hook.) Schinz & Thell.	2568
 Petunia ×punctata Paxton	3802845	Plantae	introduced	present	plants	Petunia ×punctata Paxton	2570
@@ -1578,13 +1647,19 @@ Phacelia purshii Buckl.	2928153	Plantae	introduced	present	plants	Phacelia pursh
 Phacelia tanacetifolia Benth.	2928226	Plantae	introduced	present	plants	Phacelia tanacetifolia Benth.	843
 Phalaris angusta Nees ex Trin.	5289753	Plantae	introduced	present	plants	Phalaris angusta Nees ex Trin.	2101
 Phalaris aquatica L.	5289746	Plantae	introduced	present	plants	Phalaris aquatica L.	2102
+Phalaris arundinacea L.	5289756	Plantae	introduced	present	plants	Phalaris arundinacea var. picta L.	2103
 Phalaris brachystachys Link	5289745	Plantae	introduced	present	plants	Phalaris brachystachys Link	2104
 Phalaris canariensis L.	5289744	Plantae	introduced	present	plants	Phalaris canariensis L.	2105
 Phalaris coerulescens Desf.	5289751	Plantae	introduced	present	plants	Phalaris coerulescens Desf.	2106
 Phalaris minor Retz.	5289752	Plantae	introduced	present	plants	Phalaris minor Retz.	2107
+Phalaris paradoxa L.	5289758	Plantae	introduced	present	plants	Phalaris paradoxa var. paradoxa | Phalaris paradoxa var. praemorsa (Lam.) Coss. & Durieu	2108 | 2109
 Phalaris platensis Henrard ex Heukels	8420312	Plantae	introduced	present	plants	Phalaris platensis Henrard ex Heukels	2110
 Phaseolus coccineus L.	5350466	Plantae	introduced	present	plants	Phaseolus coccineus L.	1339
 Phaseolus vulgaris L.	5350452	Plantae	introduced	present	plants	Phaseolus vulgaris L.	1340
+Phedimus aizoon	8603974	Plantae	introduced	present	plants	Sedum aizoon L.	1125
+Phedimus spurius	4201607	Plantae	established	present	plants	Sedum spurium Bieb.	1136
+Phedimus stoloniferus	4201585	Plantae	introduced	present	plants	Sedum stoloniferum S. G. Gmel.	1137
+Phelipanche ramosa (L.) Pomel	3728894	Plantae	introduced	present	plants	Orobanche ramosa L.	1736
 Philadelphus coronarius L.	2986045	Plantae	unknown	present	plants	Philadelphus coronarius L.	1475
 Philadelphus pubescens Loisel.	2986022	Plantae	introduced	present	plants	Philadelphus pubescens Loisel.	1476
 Philadelphus ×virginalis Rehder	3645346	Plantae	introduced	present	plants	Philadelphus ×virginalis Rehder	1477
@@ -1599,12 +1674,15 @@ Phlox paniculata L.	2927744	Plantae	introduced	present	plants	Phlox paniculata L
 Phlox subulata L.	2927727	Plantae	introduced	present	plants	Phlox subulata L.	2207
 Phoenix dactylifera L.	6109699	Plantae	introduced	present	plants	Phoenix dactylifera L.	458
 Pholiurus pannonicus (Host) Trin.	4138669	Plantae	introduced	present	plants	Pholiurus pannonicus (Host) Trin.	2116
+Photinia beauverdiana C.K. Schneid.	5363891	Plantae	introduced	present	plants	Photinia beauverdiana var. notabilis (C. K. Schneider) Rehd. & E. H. Wilson	2386
+Photinia melanocarpa (Michx.) K.R. Robertson & Phipps	5363674	Plantae	unknown	present	plants	Aronia melanocarpa (Michx.) Elliott	2335
 Photinia villosa (Thunb.) DC.	5363819	Plantae	unknown	present	plants	Photinia villosa (Thunb.) DC.	2387
 Phuopsis stylosa (Trin.) G.Nicholson	7671397	Plantae	introduced	present	plants	Phuopsis stylosa (Trin.) Hook.f. ex B.D.Jacks.	2465
 Phyla nodiflora var. minor (Gillies & Hook.) N.O'Leary & Múlgura	7455425	Plantae	introduced	present	plants	Phyla nodiflora var. minor (Gillies & Hook.) N.O'Leary & Múlgura	2627
 Phyllanthus tenellus Roxb.	5381097	Plantae	introduced	present	plants	Phyllanthus tenellus Roxb.	1775
 Phyllostachys Siebold & Zucc.	2705978	Plantae	introduced	present	plants	Phyllostachys Siebold & Zucc.	2117
 Physalis alkekengi var. franchetii (Masters) Makino	5829065	Plantae	introduced	present	plants	Physalis alkekengi var. franchetii (Masters) Makino	2571
+Physalis angulata L.	5341792	Plantae	introduced	present	plants	Physalis angulata var. angulata	2572
 Physalis cinerascens A. S. Hitchcock	5341768	Plantae	introduced	present	plants	Physalis cinerascens A. S. Hitchcock	2574
 Physalis grisea (Waterf.) Mahinda Martínez	5341797	Plantae	introduced	present	plants	Physalis grisea (Waterf.) Mahinda Martínez	2575
 Physalis peruviana L.	5341784	Plantae	introduced	present	plants	Physalis peruviana L.	2579
@@ -1626,7 +1704,9 @@ Pilosella brachiata (DC.) F.W.Schultz & Sch.Bip.	3122897	Plantae	introduced	unkn
 Pilosella caespitosa (Dumort.) P.D.Sell & C.West	3123663	Plantae	unknown	present	plants	Pilosella caespitosa (Dumort.) P.D.Sell & C.West	701
 Pilosella flagellaris (Willd.) Arv.-Touv.	3123262	Plantae	established	present	plants	Pilosella flagellaris (Willd.) P.D.Sell & C.West	702
 Pilosella piloselloides (Vill.) Soják	8288930	Plantae	established	present	plants	Pilosella piloselloides (Vill.) Soják	703
+Pilosella piloselloides subsp. bauhini (Schult.) S.Bräut. & Greuter	8111836	Plantae	established	present	plants	Pilosella bauhini Arv.-Touv.	700
 Pilosella prussica (Nägeli & Peter) Soják	3123636	Plantae	unknown	present	plants	Pilosella prussica (Nägeli & Peter) Soják	707
+Pilosella visianii F.W.Schultz & Sch.Bip.	3123683	Plantae	introduced	present	plants	Pilosella florentoides (Arv.-Touv.) P.D.Sell & C.West	706
 Pimephales promelas Rafinesque, 1820	2367742	Animalia	established | invasive	present	fishes | harmonia	Pimephales promelas Rafinesque, 1820	17 | 126
 Pimpinella anisum L.	8080300	Plantae	introduced	present	plants	Pimpinella anisum L.	417
 Pimpinella peregrina L.	5538946	Plantae	unknown	present	plants	Pimpinella peregrina L.	418
@@ -1650,6 +1730,7 @@ Plantago myosuros Lam.	7303024	Plantae	introduced	present	plants	Plantago myosur
 Plantago ovata Forsskal	3189723	Plantae	introduced	present	plants	Plantago ovata Forsskal	1826
 Platanus orientalis L.	3152816	Plantae	introduced	present	plants	Platanus orientalis L.	1838
 Platycodon grandiflorus (Jacq.) A.DC.	3164340	Plantae	introduced	present	plants	Platycodon grandiflorus (Jacq.) A.DC.	992
+Pleioblastus argenteostriatus (Regel) Nakai	4132188	Plantae	introduced	present	plants	Pleioblastus pumilus (Mitford) Nakai	2120
 Poa alpina L.	2704234	Plantae	introduced	present	plants	Poa alpina L.	2121
 Poa sieberiana Spreng.	4110879	Plantae	introduced	present	plants	Poa sieberiana Spreng.	2122
 Podolepis auriculata DC.	3100344	Plantae	introduced	present	plants	Podolepis auriculata DC.	708
@@ -1668,14 +1749,17 @@ Polypodium hesperium Maxon	5274964	Plantae	unknown	present	plants	Polypodium hes
 Polypogon chilensis (Kunth) Pilg.	5679952	Plantae	introduced	present	plants	Polypogon chilensis (Kunth) Pilg.	2123
 Polypogon elongatus Kunth	5289911	Plantae	introduced	present	plants	Polypogon elongatus Kunth	2124
 Polypogon fugax Nees ex Steud.	5289912	Plantae	introduced	present	plants	Polypogon fugax Nees ex Steud.	2125
+Polypogon imberbis (Phil.) Johow	4154206	Plantae	introduced	present	plants	Polypogon rioplatensis Herter	2128
 Polypogon maritimus Willd.	5289913	Plantae	introduced	present	plants	Polypogon maritimus Willd.	2126
 Polypogon monspeliensis (L.) Desf.	5289917	Plantae	established	present	plants	Polypogon monspeliensis (L.) Desf.	2127
 Polypogon viridis (Gouan) Breistr.	5289919	Plantae	established	present	plants	Polypogon viridis (Gouan) Breistr.	2129
 Polysiphonia senticulosa Harvey, 1862	5277987	Plantae	established | to be determined by experts	present	wrims	Polysiphonia senticulosa Harvey, 1862	9499 | 9500
+Polystichum luctuosum (Kze.) T. Moore	4046493	Plantae	introduced	present	plants	Polystichum tsus-simense (Hook.) J. Sm.	1194
 Pontederia cordata L.	2766030	Plantae	unknown	present	plants	Pontederia cordata L.	2263
 Ponticola kessleri (Günther, 1861)	8694685	Animalia	established	present	fishes	Ponticola kessleri (Günther, 1861)	18
 Populus alba L.	3040233	Plantae	established	present	plants	Populus alba L.	2471
 Populus balsamifera Linnaeus	3040184	Plantae	introduced	present	plants	Populus balsamifera Linnaeus	2472
+Populus balsamifera subsp. trichocarpa (Torr. & Gray) Brayshaw	8694725	Plantae	established	present	plants	Populus trichocarpa Torr. & Gray ex Hooker	2475
 Populus canadensis Moench	8190077	Plantae	introduced	present	plants	Populus canadensis Moench	2476
 Populus canescens (Aiton) Sm.	3040185	Plantae	established	present	plants	Populus canescens (Aiton) Sm.	2477
 Populus deltoides Bartram ex Marshall	3040232	Plantae	introduced	present	plants	Populus deltoides Bartram ex Marshall	2473
@@ -1724,7 +1808,6 @@ Pseudotsuga menziesii (Mirb.) Franco	2685796	Plantae	established	present	harmoni
 Pseudoturritis turrita (L.) Al-Shehbaz	3042086	Plantae	established	present	plants	Pseudoturritis turrita (L.) Al-Shehbaz	950
 Psiloteredo megotara (Hanley in Forbes & Hanley, 1848)	2288859	Animalia	established | introduced | to be determined by experts | unknown	present	macroinvertebrates | wrims	Psiloteredo megotara (Hanley in Forbes & Hanley, 1848)	218 | 9510 | 9511 | 9512
 Psittacula krameri (Scopoli, 1769)	2479226		invasive	present	harmonia	Psittacula krameri (Scopoli, 1769)	135
-Psoralea cinerea Lindl.	2944044	Plantae	introduced	present	plants	Cullen cinereum (Lindl.) J. W. Grimes	1266
 Ptelea trifoliata L.	3190411	Plantae	established	present	plants	Ptelea trifoliata L.	2468
 Pteris cretica L.	5275404	Plantae	introduced	present	plants	Pteris cretica L.	2284
 Pteris multifida Poir.	5275415	Plantae	introduced	present	plants	Pteris multifida Poir.	2285
@@ -1766,12 +1849,14 @@ Reseda lutea subsp. vivantii (P. Monts.) Rovira	7853188	Plantae	introduced	prese
 Reseda odorata L.	3040255	Plantae	introduced	present	plants	Reseda odorata L.	2323
 Reseda phyteuma L.	3040253	Plantae	introduced	present	plants	Reseda phyteuma L.	2324
 Reynoutria bohemica J. Chrtek & A. Chrtková	4038485	Plantae	established | invasive	present	harmonia | plants	Fallopia bohemica (Chrtek & Chrtková) J.P. Bailey | Reynoutria bohemica J. Chrtek & A. Chrtková	80 | 2233
-Reynoutria japonica Houtt.	2889173	Plantae	established | invasive	present	harmonia | plants	Fallopia japonica (Houtt.) Ronse Decraene | Reynoutria japonica Houtt.	77 | 2231
+Reynoutria japonica Houtt.	2889173	Plantae	established | invasive | unknown	present	harmonia | plants	Fallopia japonica (Houtt.) Ronse Decraene | Reynoutria compacta (Hook. fil.) Nakai | Reynoutria japonica Houtt.	77 | 2230 | 2231
 Reynoutria sachalinensis (Friedrich Schmidt Petrop.) Nakai	2889088	Plantae	established | invasive	present	harmonia | plants	Fallopia sachalinensis (Friedrich Schmidt Petrop.) Ronse Decraene | Reynoutria sachalinensis (Friedrich Schmidt Petrop.) Nakai	78 | 79 | 2232
 Rhagadiolus stellatus (L.) Gaertn.	5399550	Plantae	introduced	present	plants	Rhagadiolus stellatus (L.) Gaertn.	714
 Rhaponticum repens (L.) Hidalgo	3142208	Plantae	introduced	present	plants	Rhaponticum repens (L.) Hidalgo	715
 Rheum rhabarbarum L.	2888867	Plantae	introduced	present	plants	Rheum rhabarbarum L.	2234
 Rhithropanopeus harrisii (Gould, 1841)	2227663	Animalia	established | introduced | to be determined by experts	present	macroinvertebrates | wrims	Rhithropanopeus harrisii (Gould, 1841)	196 | 9518 | 9519 | 9520 | 9521
+Rhodanthe floribunda (DC.) Paul G.Wilson	3137629	Plantae	introduced	present	plants	Helipterum floribundum A.Cunn. ex DC.	662
+Rhodanthe stricta (Lindl.) Paul G.Wilson	3137686	Plantae	introduced	present	plants	Helipterum strictum (Lindl.) Benth.	663
 Rhododendron luteum Sweet	7135755	Plantae	established	present	plants	Rhododendron luteum Sweet	1217
 Rhododendron ponticum L.	7327990	Plantae	established | invasive	present	harmonia | plants	Rhododendron ponticum L.	139 | 1218
 Rhodotypos scandens (Thunb.) Makino	3032442	Plantae	introduced	present	plants	Rhodotypos scandens (Thunb.) Makino	2411
@@ -1788,6 +1873,7 @@ Robinia pseudoacacia L.	5352251	Plantae	established	present	harmonia | plants	Ro
 Rodgersia aesculifolia Batalin	7339492	Plantae	introduced	present	plants	Rodgersia aesculifolia Batalin	2517
 Roemeria hybrida (L.) DC.	7315023	Plantae	introduced	present	plants	Roemeria hybrida (L.) DC.	1765
 Rorippa austriaca (Crantz) Besser	3053406	Plantae	established	present	plants	Rorippa austriaca (Crantz) Besser	955
+Rorippa pyrenaica (L.) Rchb.	8677936	Plantae	introduced	present	plants	Rorippa stylosa (Pers.) Mansf. & Rothm.	956
 Rosa blanda Aiton	3002372	Plantae	introduced	present	plants	Rosa blanda Aiton	2412
 Rosa chinensis Jacquin	3005039	Plantae	introduced	present	plants	Rosa chinensis Jacquin	2413
 Rosa glauca Pourret	3003709	Plantae	introduced	present	plants	Rosa glauca Pourret	2415
@@ -1798,7 +1884,9 @@ Rosa rugosa Thunb.	3003979	Plantae	established | invasive	present	harmonia | pla
 Rosa virginiana J. Herrmann	7882646	Plantae	introduced	present	plants	Rosa virginiana J. Herrmann	2421
 Rosmarinus officinalis L.	2926634	Plantae	introduced	present	plants	Rosmarinus officinalis L.	1563
 Rostraria cristata (L.) Tzvelev	5289906	Plantae	introduced	present	plants	Rostraria cristata (L.) Tzvelev	2132
+Rostraria festucoides (Link) Romero Zarco	5678081	Plantae	introduced	present	plants	Trisetaria michelii (Savi) D.Heller	2173
 Rubia tinctorum L.	2892272	Plantae	introduced	present	plants	Rubia tinctorum L.	2466
+Rubrivena polystachya (Wall.) M. Král	4037343	Plantae	established	present	plants	Rubrivena polystachya (Wall. ex Meisn.) M. Král	2235
 Rubus armeniacus Focke	2996525	Plantae	established	present	plants	Rubus armeniacus Focke	2422
 Rubus cockburnianus Hemsl.	2994120	Plantae	introduced	present	plants	Rubus cockburnianus Hemsl.	2423
 Rubus laciniatus (Weston) Willd.	2992543	Plantae	established	present	plants	Rubus laciniatus (Weston) Willd.	2424
@@ -1819,6 +1907,7 @@ Rumex confertus Willd.	2888943	Plantae	introduced	present	plants	Rumex confertus
 Rumex confusus Simonkai	2889024	Plantae	introduced	present	plants	Rumex confusus Simonkai	2257
 Rumex crispus subsp. robustus (Rech.) L.O. Pestova	4035024	Plantae	introduced	present	plants	Rumex crispus subsp. robustus (Rech.) L.O. Pestova	2241
 Rumex cristatus DC.	2889010	Plantae	introduced	present	plants	Rumex cristatus DC.	2242
+Rumex cristatus subsp. kerneri (Borbás) J.R. Akeroyd & D.A. Webb	4034971	Plantae	unknown	present	plants	Rumex kerneri Borbás	2245
 Rumex dentatus L.	2889038	Plantae	introduced	present	plants	Rumex dentatus L.	2243
 Rumex longifolius DC.	2888946	Plantae	introduced	present	plants	Rumex longifolius DC.	2246
 Rumex obovatus Danser	2888987	Plantae	introduced	present	plants	Rumex obovatus Danser	2247
@@ -1835,6 +1924,9 @@ Rumex ×erubescens Simonk.	8242651	Plantae	introduced	present	plants	Rumex ×eru
 Rumex ×hybridus Kindb.	8012649	Plantae	introduced	present	plants	Rumex ×hybridus Kindb.	2259
 Rumohra adiantiformis (G. Forst.) Ching	2650944	Plantae	introduced	present	plants	Rumohra adiantiformis (G. Forst.) Ching	1195
 Ruscus aculeatus L.	2769766	Plantae	introduced	present	plants	Ruscus aculeatus L.	482
+Rytidosperma gracile (Hook.f.) Connor & Edgar	4136338	Plantae	introduced	present	plants	Notodanthonia gracilis (Hook.f.) Zotov	2074
+Rytidosperma setaceum (R.Br.) Connor & Edgar	4135683	Plantae	introduced	present	plants	Austrodanthonia setacea (R.Br.) H.P.Linder	1871
+Rytidosperma tenuius (Steud.) O.E.Erikss., A.Hansen & Sunding	4135606	Plantae	introduced	present	plants	Austrodanthonia tenuior (Steud.) H.P.Linder	1872
 Rytidosperma thomsonii (Buchanan) Connor & Edgar	4121201	Plantae	introduced	present	plants	Rytidosperma thomsonii (Buchanan) Connor & Edgar	2133
 Sagina subulata (Sw.) C. Presl.	3085400	Plantae	introduced	present	plants	Sagina subulata (Sw.) C. Presl.	1056
 Sagittaria latifolia Willd.	5328909	Plantae	established	present	plants	Sagittaria latifolia Willd.	250
@@ -1854,6 +1946,7 @@ Salvia aethiopis L.	2927030	Plantae	introduced	present	plants	Salvia aethiopis L
 Salvia glutinosa L.	2927026	Plantae	unknown	present	plants	Salvia glutinosa L.	1565
 Salvia nemorosa L.	2927028	Plantae	introduced	present	plants	Salvia nemorosa L.	1567
 Salvia officinalis L.	2927004	Plantae	introduced	present	plants	Salvia officinalis L.	1568
+Salvia officinalis subsp. gallica (W.Lippert) Reales, D.Rivera & Obón	6411218	Plantae	introduced	present	plants	Salvia lavandulifolia subsp. gallica W.Lippert	1566
 Salvia reflexa Hornem.	2927001	Plantae	introduced	present	plants	Salvia reflexa Hornem.	1569
 Salvia sclarea L.	2927000	Plantae	introduced	present	plants	Salvia sclarea L.	1570
 Salvia verbenaca L.	6409706	Plantae	introduced	present	plants	Salvia verbenaca L.	1571
@@ -1872,6 +1965,7 @@ Sargassum muticum (Yendo) Fensholt, 1955	3197314	Chromista	established | to be d
 Sarracenia purpurea L.	5421389	Plantae	introduced	present	plants	Sarracenia purpurea L.	2509
 Sarracenia rubra Walter	5421385	Plantae	unknown	present	plants	Sarracenia rubra Walter	2510
 Sasa palmata (Burb.) E.G.Camus	8362005	Plantae	introduced	present	plants	Sasa palmata (Burb.) E.G.Camus	2134
+Sasa ramosa (Makino) Makino & Shibata	5675849	Plantae	established	present	plants	Sasaella ramosa (Makino) Makino	2135
 Satureja hortensis L.	2926885	Plantae	introduced	present	plants	Satureja hortensis L.	1574
 Satureja montana L.	2926884	Plantae	introduced	present	plants	Satureja montana L.	1575
 Sauromatum venosum (Dryand. ex Aiton) Kunth	2869597	Plantae	unknown	present	plants	Typhonium venosum (Dryand. ex Aiton) Hett. & P.C.Boyce	445
@@ -1888,14 +1982,19 @@ Scandix balansae Reuter ex Boiss.	3637507	Plantae	introduced	present	plants	Scan
 Scandix iberica M. Bieb.	3637112	Plantae	introduced	present	plants	Scandix iberica M. Bieb.	422
 Scandix stellata Banks & Solander	6026954	Plantae	introduced	present	plants	Scandix stellata Banks & Solander	423
 Schismus barbatus (L.) Thell.	2704341	Plantae	introduced	present	plants	Schismus barbatus (L.) Thell.	2136
+Schkuhria pinnata (Lam.) Kuntze ex Thell.	3101235	Plantae	introduced	present	plants	Schkuhria pinnata var. abrotanoides (Roth) Cabrera	722
 Schmidtia kalahariensis Stent	5674888	Plantae	introduced	present	plants	Schmidtia kalahariensis Stent	2137
 Schoenoplectiella bucharica (Roshev.) Hayas.	7961815	Plantae	introduced	present	plants	Schoenoplectiella bucharica (Roshev.) Hayas.	1187
+Scilla luciliae (Boiss.) Speta	2767271	Plantae	unknown	present	plants	Chionodoxa luciliae Boiss.	466
+Scilla sardensis (Whittall ex Barr & Sayden) Speta	2767229	Plantae	unknown	present	plants	Chionodoxa sardensis Whittall ex Barr & Sayden	467
 Scilla siberica Haw.	2767328	Plantae	unknown	present	plants	Scilla siberica Haw.	483
+Scirpus georgianus R.M.Harper	2720269	Plantae	established	present	plants	Scirpus atrovirens subsp. georgianus (R.M.Harper) Verloove & Lambinon	1188
 Sciurus carolinensis Gmelin, 1788	5219681			absent	harmonia	Sciurus carolinensis Gmelin, 1788	146
 Sciurus niger Linnaeus, 1758	5219683			absent	harmonia	Sciurus niger Linnaeus, 1758	147
 Sclerolaena muricata (Moq.) Domin	7933495	Plantae	introduced	present	plants	Sclerolaena muricata (Moq.) Domin	354
 Scolymus hispanicus L.	5403742	Plantae	introduced	present	plants	Scolymus hispanicus L.	724
 Scolymus maculatus L.	5403743	Plantae	introduced	present	plants	Scolymus maculatus L.	725
+Scorpiurus muricatus L.	5358302	Plantae	introduced	present	plants	Scorpiurus muricatus subsp. subvillosus (L.) Thell. | Scorpiurus muricatus subsp. sulcatus (L.) Thell.	1345 | 1346
 Scorpiurus vermiculatus L.	5358301	Plantae	introduced	present	plants	Scorpiurus vermiculatus L.	1347
 Scorzonera hispanica L.	3110905	Plantae	introduced	present	plants	Scorzonera hispanica L.	726
 Scrophularia lanceolata Pursh	3170878	Plantae	introduced	present	plants	Scrophularia lanceolata Pursh	2531
@@ -1905,7 +2004,6 @@ Scrophularia vernalis	7810918	Plantae	established	present	plants	Scrophularia ve
 Scutellaria altissima L.	5341373	Plantae	established	present	plants	Scutellaria altissima L.	1576
 Secale cereale L.	2705966	Plantae	introduced	present	plants	Secale cereale L.	2138
 Secale derzhavinii Tzvelev	4121360	Plantae	introduced	present	plants	Secale derzhavinii Tzvelev	2140
-Secale montanum Guss.	2705967	Plantae	introduced	present	plants	Secale strictum (C.Presl) C.Presl	2139
 Securigera securidaca (L.) Degen & Dorfl.	5349989	Plantae	introduced	present	plants	Securigera securidaca (L.) Degen & Dorfl.	1348
 Securigera varia (L.) Lassen	5350000	Plantae	established	present	plants	Securigera varia (L.) Lassen	1349
 Sedum cepaea L.	5690287	Plantae	introduced	present	plants	Sedum cepaea L.	1129
@@ -1919,6 +2017,7 @@ Sempervivum tectorum L.	2985949	Plantae	established	present	plants	Sempervivum t
 Senecio gallicus Chaix	3107896	Plantae	introduced	present	plants	Senecio gallicus Chaix	727
 Senecio glossanthus (Sond.) Belcher	3108121	Plantae	introduced	present	plants	Senecio glossanthus (Sond.) Belcher	728
 Senecio inaequidens DC.	3109086	Plantae	established | invasive	present	harmonia | plants	Senecio inaequidens DC.	148 | 729
+Senecio leucanthemifolius subsp. vernalis (Waldst. & Kit.) Greuter	4228701	Plantae	established	present	plants	Senecio vernalis Waldst. & Kit.	734
 Senecio pterophorus DC.	3107177	Plantae	introduced	present	plants	Senecio pterophorus DC.	730
 Senecio quadridentatus Labill.	3107661	Plantae	introduced	present	plants	Senecio quadridentatus Labill.	731
 Senecio sarracenicus L.	7903764	Plantae	established	present	plants	Senecio sarracenicus L.	732
@@ -1928,12 +2027,15 @@ Senna occidentalis (L.) Link	2957966	Plantae	introduced	present	plants	Senna occ
 Serapias lingua L.	5314814	Plantae	introduced	present	plants	Serapias lingua L.	1727
 Sesamum indicum L.	3172622	Plantae	introduced	present	plants	Sesamum indicum L.	1769
 Sesbania cannabina (Retz.) Pers.	2970619	Plantae	introduced	present	plants	Sesbania cannabina (Retz.) Pers.	1350
+Sesbania herbacea (Mill.) McVaugh	2970585	Plantae	introduced	present	plants	Sesbania exaltata (Rafinesque) Rydberg ex A.W. Hill	1351
 Sesuvium portulacastrum (L.) L.	3084883	Plantae	introduced	present	plants	Sesuvium portulacastrum (L.) L.	248
 Setaria dielsii R.A.W.Herrm.	5674218	Plantae	introduced	present	plants	Setaria dielsii R.A.W.Herrm.	2143
 Setaria faberi R.A.W.Herrm.	5289666	Plantae	established	present	plants	Setaria faberi R.A.W.Herrm.	2144
+Setaria helvola (L.f.) Roem. & Schult.	5673972	Plantae	established	present	plants	Setaria pumila (Poir.) Roem. & Schult.	2147
 Setaria italica (L.) P.Beauv.	5289698	Plantae	introduced	present	plants	Setaria italica (L.) P.Beauv.	2145
 Setaria parviflora (Poir.) M.Kerguelen	5289679	Plantae	established	present	plants	Setaria parviflora (Poir.) M.Kerguelen	2146
 Setaria sphacelata (Schumach.) Stapf & C.E.Hubb. ex Moss	5289709	Plantae	introduced	present	plants	Setaria sphacelata (Schumach.) Stapf & C.E.Hubb. ex Moss	2148
+Setaria verticillata (L.) P.Beauv.	5289686	Plantae	introduced	present	plants	Setaria adhaerens (Forssk.) Chiov.	2142
 Setaria verticillata var. verticillata	7226776	Plantae	established	present	plants	Setaria verticillata var. verticillata	2150
 Setaria viridis (L.) P.Beauv.	5289684	Plantae	established	present	plants	Setaria viridis (L.) P.Beauv.	2151
 Sicyos angulatus L.	2874655	Plantae	introduced	present	plants	Sicyos angulatus L.	1149
@@ -1966,6 +2068,7 @@ Silybum marianum (L.) Gaertn.	3145214	Plantae	introduced	present	plants	Silybum 
 Sinacalia tangutica (Maxim.) B.Nord.	3115131	Plantae	unknown	present	plants	Sinacalia tangutica (Maxim.) B.Nord.	738
 Sinanodonta woodiana (Lea, 1834)	4559541	Animalia	established	present	macroinvertebrates	Sinanodonta woodiana (Lea, 1834)	225
 Sinapis alba L.	3047621	Plantae	introduced	present	plants	Sinapis alba L.	957
+Sinapis alba subsp. dissecta (Lag.) Simonk.	3047633	Plantae	introduced	present	plants	Sinapis dissecta Lag.	958
 Sinelobus stanfordi (Richardson, 1901)	2228667	Animalia	to be determined by experts | unknown	present	wrims	Sinelobus stanfordi (Richardson, 1901)	9527 | 9528
 Sinelobus vanhaareni Bamber, 2014	7547256	Animalia	established	present	macroinvertebrates	Sinelobus vanhaareni Bamber, 2014	190
 Sisymbrium altissimum L.	3046736	Plantae	established	present	plants	Sisymbrium altissimum L.	959
@@ -2004,6 +2107,7 @@ Solidago canadensis L.	5389029	Plantae	established | invasive	present	harmonia |
 Solidago gigantea Aiton	5389017	Plantae	established | invasive	present	harmonia | plants	Solidago gigantea Aiton	151 | 740
 Solidago rugosa Mill.	5388967	Plantae	introduced	present	plants	Solidago rugosa Mill.	741
 Soliva anthemifolia R.Br.	7505045	Plantae	introduced	present	plants	Soliva anthemifolia R.Br.	742
+Soliva sessilis Ruiz & Pav.	3092691	Plantae	introduced	present	plants	Soliva pterosperma (Juss.) Less.	743
 Sonchus tenerrimus L.	3105768	Plantae	introduced	present	plants	Sonchus tenerrimus L.	744
 Sorbaria kirilowii (Regel) Maxim.	3012103	Plantae	introduced	present	plants	Sorbaria kirilowii (Regel) Maxim.	2431
 Sorbaria sorbifolia (L.) A. Braun	3012089	Plantae	established	present	plants	Sorbaria sorbifolia (L.) A. Braun	2432
@@ -2071,6 +2175,7 @@ Synurella ambulans (F. Müller, 1846)	4416920	Animalia	established	present	macro
 Syringa josikaea J.Jacq. ex Rchb.f.	7636833	Plantae	unknown	present	plants	Syringa josikaea J.Jacq. ex Rchb.f.	1673
 Syringa vulgaris L.	5415039	Plantae	unknown	present	plants	Syringa vulgaris L.	1674
 Tadorna ferruginea (Pallas, 1764)	2498015		established	present	harmonia	Tadorna ferruginea (Pallas, 1764)	158
+Taeniatherum caput-medusae (L.) Nevski	2705666	Plantae	introduced	present	plants	Taeniatherum caput-medusae var. caput-medusae	2165
 Tagetes erecta L.	3088488	Plantae	introduced	present	plants	Tagetes erecta L.	756
 Tagetes minuta L.	3088481	Plantae	introduced	present	plants	Tagetes minuta L.	757
 Tagetes patula L.	3088492	Plantae	introduced	present	plants	Tagetes patula L.	758
@@ -2102,6 +2207,7 @@ Threskiornis aethiopicus (Latham, 1790)	2480764			absent	harmonia	Threskiornis a
 Thuja occidentalis L.	2684178	Plantae	introduced	present	plants	Thuja occidentalis L.	1152
 Thuja plicata Donn ex D. Don	2684171	Plantae	introduced	present	plants	Thuja plicata Donn ex D. Don	1153
 Thymus citriodorus (Pers.) Schreb.	5607452	Plantae	introduced	present	plants	Thymus citriodorus (Pers.) Schreb.	1587
+Thymus pulegioides subsp. pannonicus (All.) Kerguélen	5605749	Plantae	introduced	present	plants	Thymus pannonicus All.	1585
 Thymus vulgaris L.	5341442	Plantae	established	present	plants	Thymus vulgaris L.	1586
 Tiarella cordifolia L.	5371610	Plantae	introduced	present	plants	Tiarella cordifolia L.	2525
 Tilia tomentosa Moench	4259350	Plantae	introduced	present	plants	Tilia tomentosa Moench	1643
@@ -2159,6 +2265,7 @@ Trifolium suffocatum L.	5359099	Plantae	unknown	present	plants	Trifolium suffoca
 Trifolium tomentosum L.	5359510	Plantae	introduced	present	plants	Trifolium tomentosum L.	1382
 Trifolium vesiculosum Savi	5359334	Plantae	introduced	present	plants	Trifolium vesiculosum Savi	1383
 Trigonella arabica Delile	5360465	Plantae	introduced	present	plants	Trigonella arabica Delile	1384
+Trigonella balansae Boiss. & Reut.	5360384	Plantae	introduced	present	plants	Trigonella corniculata (L.) L.	1388
 Trigonella caelesyriaca Boiss.	5360429	Plantae	introduced	present	plants	Trigonella caelesyriaca Boiss.	1385
 Trigonella caerulea (L.) Ser.	5360498	Plantae	introduced	present	plants	Trigonella caerulea (L.) Ser.	1386
 Trigonella calliceras Fisch.	5360415	Plantae	introduced	present	plants	Trigonella calliceras Fisch.	1387
@@ -2172,9 +2279,13 @@ Tripleurospermum decipiens (Fisch. & C.A.Mey.) Bornm.	3104150	Plantae	introduced
 Triraphis mollis R.Br.	7361239	Plantae	introduced	present	plants	Triraphis mollis R.Br.	2172
 Tristagma uniflorum (Lindl.) Traub	2859569	Plantae	introduced	present	plants	Tristagma uniflorum (Lindl.) Traub	377
 Triticum aestivum L.	7795888	Plantae	introduced	present	plants	Triticum aestivum L.	2175
+Triticum aestivum subsp. spelta (L.) Thell.	2706403	Plantae	introduced	present	plants	Triticum spelta L.	2181
 Triticum compactum Host	2706414	Plantae	introduced	present	plants	Triticum compactum Host	2176
 Triticum monococcum L.	7883427	Plantae	introduced	present	plants	Triticum monococcum L.	2179
 Triticum turgidum L.	2706406	Plantae	introduced	present	plants	Triticum turgidum L.	2182
+Triticum turgidum subsp. dicoccum (Schrank ex Schübl.) Thell.	8389446	Plantae	introduced	unknown	plants	Triticum dicoccum Schrank ex Schübl.	2177
+Triticum turgidum subsp. durum (Desf.) Husn.	6313051	Plantae	introduced	present	plants	Triticum durum Desf.	2178
+Triticum turgidum subsp. polonicum (L.) Thell.	6313049	Plantae	introduced	present	plants	Triticum polonicum L.	2180
 Trollius europaeus L.	3033289	Plantae	introduced	present	plants	Trollius europaeus L.	2319
 Tropaeolum majus L.	2889934	Plantae	introduced	present	plants	Tropaeolum majus L.	2612
 Tsuga canadensis (L.) Carrière	2687182	Plantae	introduced	present	plants	Tsuga canadensis (L.) Carrière	1795
@@ -2183,6 +2294,7 @@ Tuberaria guttata (L.) Fourr.	2874024	Plantae	introduced	present	plants	Tuberari
 Tubificoides heterochaetus (Michaelsen, 1926)	2308528	Animalia	established | to be determined by experts	present	wrims	Tubificoides heterochaetus (Michaelsen, 1926)	9546 | 9547
 Tulipa gesneriana L.	5299675	Plantae	introduced	present	plants	Tulipa gesneriana L.	1594
 Tulipa sylvestris L.	5299536	Plantae	established	present	plants	Tulipa sylvestris L.	1595
+Tulipa urumiensis Stapf	5299590	Plantae	introduced	present	plants	Tulipa tarda Stapf	1596
 Typha laxmannii Lepech.	5289503	Plantae	introduced	present	plants	Typha laxmannii Lepech.	2613
 Typha minima Funck	5289492	Plantae	introduced	present	plants	Typha minima Funck	2614
 Typha provincialis A.Camus	5289490	Plantae	unknown	present	plants	Typha provincialis A.Camus	2615
@@ -2259,6 +2371,7 @@ Vicia sativa subsp. sativa	7068379	Plantae	introduced	present	plants	Vicia sativ
 Vicia serratifolia Jacq.	2975135	Plantae	introduced	present	plants	Vicia serratifolia Jacq.	1417
 Vicia sicula (Raf.) Guss.	2975393	Plantae	introduced	present	plants	Vicia sicula (Raf.) Guss.	1418
 Vicia sylvatica L.	2974793	Plantae	introduced	present	plants	Vicia sylvatica L.	1419
+Vicia tenuifolia subsp. dalmatica (A.Kern.) Greuter	3971572	Plantae	established	present	plants	Vicia dalmatica A.Kern.	1400
 Vicia villosa subsp. eriocarpa (Hausskn.) P.W.Ball	2974936	Plantae	introduced	present	plants	Vicia villosa subsp. eriocarpa (Hausskn.) P.W.Ball	1420
 Vicia villosa subsp. varia (Host) Corb.	2974921	Plantae	unknown	present	plants	Vicia villosa subsp. varia (Host) Corb.	1421
 Vicia villosa subsp. villosa	7225471	Plantae	established	present	plants	Vicia villosa subsp. villosa	1422
@@ -2269,16 +2382,18 @@ Vincetoxicum nigrum (L.) Moench	5414551	Plantae	established	present	plants	Vince
 Vincetoxicum rossicum (Kleop.) Barbar.	5414550	Plantae	introduced	present	plants	Vincetoxicum rossicum (Kleop.) Barbar.	435
 Viola cornuta L.	7628663	Plantae	introduced	present	plants	Viola cornuta L.	2635
 Viola wittrockiana Gams ex Nauenb. & Buttler	8176318	Plantae	introduced	present	plants	Viola wittrockiana Gams ex Nauenb. & Buttler	2636
+Visnaga daucoides Gaertn.	5371753	Plantae	introduced	present	plants	Ammi visnaga (L.) Lam.	382
 Vitis vinifera L.	5372392	Plantae	established	present	plants	Vitis vinifera L.	2640
 Vulpia alopecuros (Schousb.) Link	5827791	Plantae	introduced	present	plants	Vulpia alopecuros (Schousb.) Dumort.	2187
 Vulpia antucensis Trin.	5679109	Plantae	introduced	present	plants	Vulpia antucensis Trin.	2188
 Vulpia ciliata ciliata	6085036	Plantae	established	present	plants	Vulpia ciliata ciliata	2189
 Vulpia geniculata (L.) Link	5679032	Plantae	introduced	present	plants	Vulpia geniculata (L.) Link	2190
 Vulpia ligustica (All.) Link	5679007	Plantae	introduced	present	plants	Vulpia ligustica (All.) Link	2191
+Vulpia myuros (L.) C.C.Gmel.	5289590	Plantae	introduced	present	plants	Vulpia myuros var. megalura (Nutt.) Auquier	2192
 Vulpia octoflora (Walter) Rydb.	5289597	Plantae	introduced	present	plants	Vulpia octoflora (Walter) Rydb.	2193
 Weigela floribunda (Sieb. & Zucc.) C. A. Mey.	8011733	Plantae	introduced	present	plants	Weigela floribunda (Siebold & Zucc.) K. Koch	1032
 Xanthium orientale L.	3089146	Plantae	established	present	plants	Xanthium orientale L.	774
-Xanthium spinosum L.	3089150	Plantae	introduced	present	plants	Xanthium spinosum L.	775
+Xanthium spinosum L.	3089150	Plantae	introduced	present	plants	Xanthium ambrosioides Hook. & Arn. | Xanthium spinosum L.	773 | 775
 Xanthium strumarium L.	3089154	Plantae	introduced	present	plants	Xanthium strumarium L.	776
 Xanthocyparis nootkatensis (D. Don) Farjon & Harder	2683894	Plantae	introduced	present	plants	Xanthocyparis nootkatensis (D. Don) Farjon & Harder	1154
 Xerochrysum bracteatum (Vent.) Tzevelev	7415946	Plantae	introduced	present	plants	Xerochrysum bracteatum (Vent.) Tzvelev	777
