@@ -226,26 +226,26 @@ Ludwigia hexapetala (Hook. & Arn.) E.M. Zardini, H.Y. Gu & P.H. Raven	5421040	Lu
 Lysimachia linum-stellatum L.	4007682	Asterolinon linum-stellatum (L.) Duby	4007104	ok: SYNONYM probably valid	synonym in other direction	http://www.theplantlist.org/tpl1.1/record/kew-2492991
 Lysimachia monellii (L.) U.Manns & Anderb.	7862391	Anagallis monellii subsp. monellii	8349720	verify: SYNONYM unresolved	unresolved, considered synonym of Anagallis monelli L.	http://www.theplantlist.org/tpl1.1/record/kew-2896585
 Mahonia aquifolium (Pursh) Nutt.	3033865	Berberis aquifolium Pursh	3033868	ok: SYNONYM confirmed	synonym in same direction	http://alienplantsbelgium.be/taxonomy/term/3619/descriptions
-Malus sylvestris subsp. mitis (Wallr.) Mansf.	3001381	Malus pumila Mill.	3001093			
-Malva preissiana Miq.	3941038	Malva australiana M.F. Ray	3935002			
-Malva pseudolavatera Webb & Berthel.	3940998	Malva multiflora (Cav.) Soldano et al.	3933415			
-Malva setigera K.F.Schimp. & Spenn.	3940638	Malva hirsuta (L.) E. H. L. Krause	7944532			
-Malva trimestris var. brachypoda (Pérez Lara) Verloove & Lambinon	8300984	Malva trimestris (L.) Salisb.	3940326			
-Matricaria recutita var. coronata (J.Gay ex Boiss.) Fertig	8258539	Chamomilla chamomilla var. coronata J.Gay ex Boiss.	6291909			
-Matthiola longipetala subsp. bicornis (Sm.) P.W. Ball	7740944	Matthiola longipetala subsp. longipetala	7225577			
-Mazus reptans N.E. Br.	3171303	Mazus miquelii Makino	3171302			
-Meconopsis cambrica (L.) Vig.	3601091	Papaver cambricum L.	3602683			
-Medicago monantha subsp. incisa (Benth.) Verloove & Lambinon	3966132	Medicago monantha (C.A.Mey.) Trautv.	2965226			
-Medicago monantha subsp. noeana (Boiss.) Greuter & Burdet	3966127	Medicago monantha (C.A.Mey.) Trautv.	2965226			
-Medicago varia Martyn	2965331	Medicago sativa subsp. varia (Martyn) Arcang.	8316569			
-Melilotus officinalis (L.) Lam.	8193111	Melilotus officinalis (L.) Pall.	2971024	ok: SYNONYM probably valid	other author, should be verified further	
-Mentha smithiana R.A.Graham	2927185	Mentha wirtgeniana F.W.Schultz	3893979			
-Mentha spicata subsp. glabrata (Lej. & Courtois) Lebeau	3895556	Mentha spicata subsp. spicata	7308335			
+Malus sylvestris subsp. mitis (Wallr.) Mansf.	3001381	Malus pumila Mill.	3001093	verify: SYNONYM unresolved	not in The Plant List	
+Malva preissiana Miq.	3941038	Malva australiana M.F. Ray	3935002	ok: SYNONYM probably valid	synonym in other direction	http://www.theplantlist.org/tpl1.1/record/kew-2503955
+Malva pseudolavatera Webb & Berthel.	3940998	Malva multiflora (Cav.) Soldano et al.	3933415	verify: SYNONYM probably invalid	considered 2 accepted species	http://www.theplantlist.org/tpl1.1/record/tro-50337435
+Malva setigera K.F.Schimp. & Spenn.	3940638	Malva hirsuta (L.) E. H. L. Krause	7944532	verify: SYNONYM unresolved	unresolved, considered synonym of Althaea hirsuta L.	http://www.theplantlist.org/tpl1.1/record/kew-2504097
+Malva trimestris var. brachypoda (Pérez Lara) Verloove & Lambinon	8300984	Malva trimestris (L.) Salisb.	3940326	verify: SYNONYM unresolved	not in The Plant List	
+Matricaria recutita var. coronata (J.Gay ex Boiss.) Fertig	8258539	Chamomilla chamomilla var. coronata J.Gay ex Boiss.	6291909	verify: SYNONYM unresolved	unresolved, considered synonym of Matricaria chamomilla var. coronata J.Gay ex Boiss.	http://www.theplantlist.org/tpl1.1/record/gcc-63011
+Matthiola longipetala subsp. bicornis (Sm.) P.W. Ball	7740944	Matthiola longipetala subsp. longipetala	7225577	verify: SYNONYM probably invalid	considered accepted	http://www.theplantlist.org/tpl1.1/record/kew-2357372
+Mazus reptans N.E. Br.	3171303	Mazus miquelii Makino	3171302	verify: SYNONYM probably invalid	considered 2 accepted species	http://www.theplantlist.org/tpl1.1/record/tro-29201050
+Meconopsis cambrica (L.) Vig.	3601091	Papaver cambricum L.	3602683	ok: SYNONYM confirmed	synonym in same direction	http://www.theplantlist.org/tpl1.1/record/kew-2502558
+Medicago monantha subsp. incisa (Benth.) Verloove & Lambinon	3966132	Medicago monantha (C.A.Mey.) Trautv.	2965226	verify: SYNONYM unresolved	not in The Plant List	
+Medicago monantha subsp. noeana (Boiss.) Greuter & Burdet	3966127	Medicago monantha (C.A.Mey.) Trautv.	2965226	verify: SYNONYM unresolved	not in The Plant List	
+Medicago varia Martyn	2965331	Medicago sativa subsp. varia (Martyn) Arcang.	8316569	ok: SYNONYM confirmed	synonym in same direction	http://www.theplantlist.org/tpl1.1/record/ild-9358
+Melilotus officinalis (L.) Lam.	8193111	Melilotus officinalis (L.) Pall.	2971024	verify: SYNONYM unresolved	unresolved, no further info	http://www.theplantlist.org/tpl1.1/record/tro-13035841
+Mentha smithiana R.A.Graham	2927185	Mentha wirtgeniana F.W.Schultz	3893979	ok: SYNONYM probably valid	synonym in other direction	http://www.theplantlist.org/tpl1.1/record/kew-125392
+Mentha spicata subsp. glabrata (Lej. & Courtois) Lebeau	3895556	Mentha spicata subsp. spicata	7308335	verify: SYNONYM probably invalid	considered synonym of Mentha spicata L.	http://www.theplantlist.org/tpl1.1/record/kew-125404
 Microlonchus salmanticus (L.) DC.	3141575	Mantisalca salmantica (L.) Briq. & Cavill.	3141571	ok: SYNONYM confirmed	synonym in same direction	http://www.theplantlist.org/tpl1.1/record/gcc-2745
-Minuartia laricifolia (L.) Schinz & Thell.	6364275	Cherleria laricifolia subsp. laricifolia	7808349			
-Minuartia mediterranea (Link) K. Maly	7895013	Sabulina mediterranea (Link) Rchb.	5587011			
-Miscanthus sacchariflorus (Maxim.) Benth. & Hook. f.	8410425	Miscanthus sacchariflorus (Maxim.) Hack.	2706023	ok: SYNONYM probably valid	other author, should be verified further	
-Molinia caerulea subsp. arundinacea (Schrank) K. Richt.	8353934	Molinia caerulea (L.) Moench	5289877			
+Minuartia laricifolia (L.) Schinz & Thell.	6364275	Cherleria laricifolia subsp. laricifolia	7808349	verify: SYNONYM probably invalid	considered accepted	http://www.theplantlist.org/tpl1.1/record/kew-2369550
+Minuartia mediterranea (Link) K. Maly	7895013	Sabulina mediterranea (Link) Rchb.	5587011	verify: SYNONYM probably invalid	considered accepted	http://www.theplantlist.org/tpl1.1/record/kew-2369728
+Miscanthus sacchariflorus (Maxim.) Benth. & Hook. f.	8410425	Miscanthus sacchariflorus (Maxim.) Hack.	2706023	ok: SYNONYM confirmed	synonym in same direction	http://www.theplantlist.org/tpl1.1/record/tro-100368282
+Molinia caerulea subsp. arundinacea (Schrank) K. Richt.	8353934	Molinia caerulea (L.) Moench	5289877	ok: SYNONYM confirmed	synonym in same direction	http://www.theplantlist.org/tpl1.1/record/tro-50224884
 Moorochloa eruciformis (Sm.) Veldkamp	4155246	Brachiaria eruciformis (Sm.) Griseb.	2704068	ok: SYNONYM confirmed	synonym in same direction	http://www.theplantlist.org/tpl1.1/record/kew-424915
 Mustela vison Schreber, 1777	5218823	Neovison vison (Schreber, 1777)	2433652	ok: SYNONYM probably valid	synonym in other direction	http://ias.biodiversity.be/species/show/26
 Myosotis alpestris F. W. Schmidt	5341187	Myosotis alpestris subsp. alpestris	7295191	ok: SYNONYM probably valid	synonym in other direction	http://www.theplantlist.org/tpl1.1/record/kew-2357465
@@ -262,56 +262,56 @@ Oenothera rubricalyx R.R.Gates	3665866	Oenothera perangusta Gates	7322738	verify
 Orobanche ramosa L.	3173272	Phelipanche ramosa (L.) Pomel	3728894	ok: SYNONYM probably valid	synonym in other direction	http://www.theplantlist.org/tpl1.1/record/tro-23201349
 Osteospermum jucundum (E.Phillips) Norl.	3093587	Dimorphotheca jucunda E.Phillips	5402340	verify: SYNONYM probably invalid	considered 2 accepted species	http://www.theplantlist.org/tpl1.1/record/gcc-97069
 Oxalis stricta L.	2891666	Oxalis dillenii Jacq.	2891677	verify: SYNONYM probably invalid	considered 2 accepted species	http://www.theplantlist.org/tpl1.1/record/kew-2394269
-Panicum capillare subsp. barbipulvinatum (Nash) Tzvelev	8536910	Panicum capillare L.	2705162			
-Panicum capillare subsp. capillare	6449040	Panicum capillare L.	2705162			
+Panicum capillare subsp. barbipulvinatum (Nash) Tzvelev	8536910	Panicum capillare L.	2705162	ok: SYNONYM confirmed	synonym in same direction	http://www.theplantlist.org/tpl1.1/record/kew-427593
+Panicum capillare subsp. capillare	6449040	Panicum capillare L.	2705162	ok: SYNONYM confirmed	synonym in same direction	http://www.theplantlist.org/tpl1.1/record/tro-25517701
 Panicum capillare subsp. hillmanii (Chase) Freckmann & Lelong	4153082	Panicum hillmanii Chase	2705098	ok: SYNONYM confirmed	synonym in same direction	http://alienplantsbelgium.be/taxonomy/term/6050/descriptions
-Panicum chloroticum Nees ex Trin.	8357651	Panicum dichotomiflorum Michx.	2705144			
-Panicum miliaceum subsp. agricola H.Scholz & Mikoláš	4134826	Panicum miliaceum L.	2705090			
-Panicum miliaceum subsp. ruderale (Kitag.) Tzvelev	4134741	Panicum miliaceum L.	2705090			
-Papaver somniferum subsp. setigerum (DC.) Arcangeli	8242032	Papaver setigerum DC.	3602227			
+Panicum chloroticum Nees ex Trin.	8357651	Panicum dichotomiflorum Michx.	2705144	ok: SYNONYM confirmed	synonym in same direction	http://www.theplantlist.org/tpl1.1/record/tro-25513813
+Panicum miliaceum subsp. agricola H.Scholz & Mikoláš	4134826	Panicum miliaceum L.	2705090	ok: SYNONYM confirmed	synonym in same direction	http://www.theplantlist.org/tpl1.1/record/kew-429272
+Panicum miliaceum subsp. ruderale (Kitag.) Tzvelev	4134741	Panicum miliaceum L.	2705090	ok: SYNONYM confirmed	synonym in same direction	http://www.theplantlist.org/tpl1.1/record/kew-429273
+Papaver somniferum subsp. setigerum (DC.) Arcangeli	8242032	Papaver setigerum DC.	3602227	ok: SYNONYM probably valid	synonym in other direction	http://www.theplantlist.org/tpl1.1/record/kew-2578309
 Parthenocissus inserta (A. Kerner) Fritsch	3039203	Parthenocissus vitacea (Knerr) A.S. Hitchc.	3039193	ok: SYNONYM probably valid	synonym in other direction	http://alienplantsbelgium.be/taxonomy/term/5306/descriptions
 Paspalum notatum var. saurae Parodi	4106609	Paspalum saurae (Parodi) Parodi	4154259	verify: SYNONYM unresolved	both considered synonyms of Paspalum notatum	http://alienplantsbelgium.be/taxonomy/term/6246/descriptions
 Pastinaca sativa subsp. urens (Req. ex Godr.) Celak.	7466434	Pastinaca sativa subsp. sativa	7224157	verify: SYNONYM probably invalid	considered synonym of Pastinaca umbrosa Steven	http://www.theplantlist.org/tpl1.1/record/tro-1702999
 Pelargonium capitatum (L.) Aiton	8112856	Pelargonium capitatum	2891613	ok: SYNONYM confirmed	accepted has no author	
-Pentaschistis airoides (Nees) Stapf	4145907	Pentameris airoides (Nees) Steud.	4146851	ok: SYNONYM probably valid	other author, should be verified further	
-Persicaria pensylvanica (L.) G. Maza	8026804	Persicaria pensylvanica (L.) M. Gómez	8263906	ok: SYNONYM probably valid	other author, should be verified further	
+Pentaschistis airoides (Nees) Stapf	4145907	Pentameris airoides (Nees) Steud.	4146851	ok: SYNONYM probably valid	synonym in other direction	http://www.theplantlist.org/tpl1.1/record/kew-433124
+Persicaria pensylvanica (L.) G. Maza	8026804	Persicaria pensylvanica (L.) M. Gómez	8263906	ok: SYNONYM probably valid	other author, accepted is in The Plants List	http://www.theplantlist.org/tpl1.1/record/tro-26000054
 Persicaria perfoliata (L.) H. Gross	4033648	Truellum perfoliatum (L.) Soják	4037171	verify: SYNONYM probably invalid	considered synonym of Polygonum perfoliatum L.	http://www.theplantlist.org/tpl1.1/record/kew-2572612
 Persicaria wallichii W. Greuter & Burdet	6391908	Rubrivena polystachya (Wall.) M. Král	4037343	verify: SYNONYM probably invalid	considered accepted	http://www.theplantlist.org/tpl1.1/record/kew-2572263
 Petrorhagia nanteuilii (Burnat) P. W. Ball & Heywood	3085622	Petrorhagia nanteuilii (Bumat) P. W. Ball & Heywood	8693157	ok: SYNONYM author variation	author variation	
 Petunia parviflora Juss.	2928906	Calibrachoa parviflora (Jussieu) W.G. D'Arcy	7823026	ok: SYNONYM confirmed	synonym in same direction	http://www.theplantlist.org/tpl1.1/record/tro-29600085
-Phalaris arundinacea var. picta L.	5289757	Phalaris arundinacea L.	5289756			
-Phalaris paradoxa var. paradoxa	6067713	Phalaris paradoxa L.	5289758			
-Phalaris paradoxa var. praemorsa (Lam.) Coss. & Durieu	8008561	Phalaris paradoxa L.	5289758			
-Photinia beauverdiana var. notabilis (C. K. Schneider) Rehd. & E. H. Wilson	5363895	Photinia beauverdiana C.K. Schneid.	5363891			
-Phuopsis stylosa (Trin.) Hook.f. ex B.D.Jacks.	2903387	Phuopsis stylosa (Trin.) G.Nicholson	7671397	ok: SYNONYM probably valid	other author, should be verified further	
-Physalis angulata var. angulata	7300041	Physalis angulata L.	5341792			
-Physalis angulata var. pendula (Rydb.) Waterf.	5341795	Physalis angulata L.	5341792			
-Physalis ixocarpa Brot. ex Hornem.	6402873	Physalis philadelphica subsp. ixocarpa (Brot. ex Hornem.) Sobr.-Vesp. & Sanz-Elorza	5581168			
-Physalis minima L.	5341772	Physalis lagascae Roem. & Schult.	5341775			
-Pilosella bauhini Arv.-Touv.	6300805	Pilosella piloselloides subsp. bauhini (Schult.) S.Bräut. & Greuter	8111836			
+Phalaris arundinacea var. picta L.	5289757	Phalaris arundinacea L.	5289756	ok: SYNONYM confirmed	synonym in same direction	http://www.theplantlist.org/tpl1.1/record/kew-433413
+Phalaris paradoxa var. paradoxa	6067713	Phalaris paradoxa L.	5289758	ok: SYNONYM confirmed	synonym in same direction	http://www.theplantlist.org/tpl1.1/record/tro-25556992
+Phalaris paradoxa var. praemorsa (Lam.) Coss. & Durieu	8008561	Phalaris paradoxa L.	5289758	ok: SYNONYM confirmed	synonym in same direction	http://www.theplantlist.org/tpl1.1/record/kew-433541
+Photinia beauverdiana var. notabilis (C. K. Schneider) Rehd. & E. H. Wilson	5363895	Photinia beauverdiana C.K. Schneid.	5363891	ok: SYNONYM confirmed	synonym in same direction	http://www.theplantlist.org/tpl1.1/record/rjp-2979
+Phuopsis stylosa (Trin.) Hook.f. ex B.D.Jacks.	2903387	Phuopsis stylosa (Trin.) G.Nicholson	7671397	ok: SYNONYM probably valid	other author, synonym is in The Plant List	http://www.theplantlist.org/tpl1.1/record/kew-153202
+Physalis angulata var. angulata	7300041	Physalis angulata L.	5341792	ok: SYNONYM confirmed	synonym in same direction	http://www.theplantlist.org/tpl1.1/record/tro-29604078
+Physalis angulata var. pendula (Rydb.) Waterf.	5341795	Physalis angulata L.	5341792	verify: SYNONYM unresolved	not in The Plant List	
+Physalis ixocarpa Brot. ex Hornem.	6402873	Physalis philadelphica subsp. ixocarpa (Brot. ex Hornem.) Sobr.-Vesp. & Sanz-Elorza	5581168	verify: SYNONYM probably invalid	considered accepted	http://www.theplantlist.org/tpl1.1/record/tro-29602557
+Physalis minima L.	5341772	Physalis lagascae Roem. & Schult.	5341775	verify: SYNONYM probably invalid	considered 2 accepted species	http://www.theplantlist.org/tpl1.1/record/kew-2549450
+Pilosella bauhini Arv.-Touv.	6300805	Pilosella piloselloides subsp. bauhini (Schult.) S.Bräut. & Greuter	8111836	ok: SYNONYM confirmed	synonym in same direction	http://www.theplantlist.org/tpl1.1/record/gcc-148054
 Pilosella duplex (Peter) Holub	3134993	Hieracium duplex Peter	3134985	verify: SYNONYM unresolved	unresolved, no further info	http://www.theplantlist.org/tpl1.1/record/gcc-117533
-Pilosella flagellaris (Willd.) P.D.Sell & C.West	7764066	Pilosella flagellaris (Willd.) Arv.-Touv.	3123262	ok: SYNONYM probably valid	other author, should be verified further	
-Pilosella florentoides (Arv.-Touv.) P.D.Sell & C.West	3123658	Pilosella visianii F.W.Schultz & Sch.Bip.	3123683			
-Piptatherum miliaceum subsp. miliaceum	6067668	Achnatherum miliaceum (L.) P.Beauv.	4141737			
-Piptatherum miliaceum subsp. thomasii (Duby) Freitag	4134872	Achnatherum miliaceum (L.) P.Beauv.	4141737			
-Platanus hispanicus Muenchh.	8221404	Platanus hybrida Brot.	3152814			
-Pleioblastus pumilus (Mitford) Nakai	4131135	Pleioblastus argenteostriatus (Regel) Nakai	4132188			
-Polygonum arenarium subsp. pulchellum (Loisel.) D. A. Webb & Chater	7681832	Polygonum arenarium subsp. pulchellum (Loisel.) Thell.	8336551	ok: SYNONYM probably valid	other author, should be verified further	
-Polypogon rioplatensis Herter	4153734	Polypogon imberbis (Phil.) Johow	4154206			
-Polysiphonia harveyi Bailey, 1848	5277408	Neosiphonia harveyi (Bailey) M.-S.Kim, H.-G.Choi, Guiry & G.W.Saunders, 2001	5277404			
-Polystichum tsus-simense (Hook.) J. Sm.	2651108	Polystichum luctuosum (Kze.) T. Moore	4046493			
-Populus generosa A.Henry	3040245	Populus jackii Sarg.	3040241			
-Populus nigra var. italica Münchh.	8154049	Populus nigra var. italica (Moench.) Koehne	7358677	ok: SYNONYM probably valid	other author, should be verified further	
-Populus trichocarpa Torr. & Gray ex Hooker	6362904	Populus balsamifera subsp. trichocarpa (Torr. & Gray) Brayshaw	8694725			
-Portulaca papillatostellulata (Danin & H.G.Baker) Danin	4022463	Portulaca macrantha (Maire) C. Ricceri & P.V. Arrigoni	4022910			
+Pilosella flagellaris (Willd.) P.D.Sell & C.West	7764066	Pilosella flagellaris (Willd.) Arv.-Touv.	3123262	ok: SYNONYM confirmed	synonym in same direction	http://www.theplantlist.org/tpl1.1/record/gcc-14968
+Pilosella florentoides (Arv.-Touv.) P.D.Sell & C.West	3123658	Pilosella visianii F.W.Schultz & Sch.Bip.	3123683	ok: SYNONYM confirmed	synonym in same direction	http://www.theplantlist.org/tpl1.1/record/gcc-130209
+Piptatherum miliaceum subsp. miliaceum	6067668	Achnatherum miliaceum (L.) P.Beauv.	4141737	verify: SYNONYM probably invalid	considered synonym of Piptatherum miliaceum (L.) Coss.	http://www.theplantlist.org/tpl1.1/record/tro-50170904
+Piptatherum miliaceum subsp. thomasii (Duby) Freitag	4134872	Achnatherum miliaceum (L.) P.Beauv.	4141737	verify: SYNONYM probably invalid	considered synonym of Piptatherum miliaceum (L.) Coss.	http://www.theplantlist.org/tpl1.1/record/tro-50170904
+Platanus hispanicus Muenchh.	8221404	Platanus hybrida Brot.	3152814	verify: SYNONYM unresolved	not in The Plant List	
+Pleioblastus pumilus (Mitford) Nakai	4131135	Pleioblastus argenteostriatus (Regel) Nakai	4132188	ok: SYNONYM confirmed	synonym in same direction	http://www.theplantlist.org/tpl1.1/record/kew-434847
+Polygonum arenarium subsp. pulchellum (Loisel.) D. A. Webb & Chater	7681832	Polygonum arenarium subsp. pulchellum (Loisel.) Thell.	8336551	ok: SYNONYM confirmed	synonym in same direction	http://www.theplantlist.org/tpl1.1/record/tro-26002253
+Polypogon rioplatensis Herter	4153734	Polypogon imberbis (Phil.) Johow	4154206	ok: SYNONYM confirmed	synonym in same direction	http://www.theplantlist.org/tpl1.1/record/kew-438116
+Polysiphonia harveyi Bailey, 1848	5277408	Neosiphonia harveyi (Bailey) M.-S.Kim, H.-G.Choi, Guiry & G.W.Saunders, 2001	5277404	verify: SYNONYM unresolved	not in The Plant List	
+Polystichum tsus-simense (Hook.) J. Sm.	2651108	Polystichum luctuosum (Kze.) T. Moore	4046493	ok: SYNONYM confirmed	synonym in same direction	http://www.theplantlist.org/tpl1.1/record/tro-26610910
+Populus generosa A.Henry	3040245	Populus jackii Sarg.	3040241	verify: SYNONYM probably invalid	considered 2 accepted species	http://www.theplantlist.org/tpl1.1/record/kew-5004911
+Populus nigra var. italica Münchh.	8154049	Populus nigra var. italica (Moench.) Koehne	7358677	ok: SYNONYM probably valid	other author, synonym is in The Plant List	http://www.theplantlist.org/tpl1.1/record/kew-5004793
+Populus trichocarpa Torr. & Gray ex Hooker	6362904	Populus balsamifera subsp. trichocarpa (Torr. & Gray) Brayshaw	8694725	ok: SYNONYM probably valid	synonym in other direction	http://www.theplantlist.org/tpl1.1/record/kew-5000272
+Portulaca papillatostellulata (Danin & H.G.Baker) Danin	4022463	Portulaca macrantha (Maire) C. Ricceri & P.V. Arrigoni	4022910	verify: SYNONYM probably invalid	considered 2 accepted species	http://www.theplantlist.org/tpl1.1/record/kew-2608339
 Potentilla indica (Jacks.) T.Wolf	8591421	Duchesnea indica (Jacks.) Focke	3031919	verify: SYNONYM unresolved	unresolved, no further info	http://www.theplantlist.org/tpl1.1/record/rjp-10798
 Proasellus meridianus (Racovitza, 1919)	2206086	Asellus meridianus Racovitza, 1919	2206087	verify: SYNONYM unresolved	not in The Plant List	
-Proboscidea louisianica Thell.	5415100	Proboscidea louisianica subsp. louisianica	7226243			
-Prunus cerasus L.	3021922	Prunus avium (L.) L.	3020791			
-Prunus persica (L.) Batsch	3022511	Prunus persica (L.) Stokes	8149923	ok: SYNONYM probably valid	other author, should be verified further	
-Prunus virginiana L.	3022668	Prunus serotina Ehrh.	3021850			
-Psephellus dealbatus (Willd.) K.Koch	3137829	Psephellus dealbatus (Willd.) Boiss.	7838007	ok: SYNONYM probably valid	other author, should be verified further	
-Pterocarya fraxinifolia (Lam.) Spach	8288647	Pterocarya pterocarpa (Michx.) Kunth ex I. Iljinsk.	4205311			
+Proboscidea louisianica Thell.	5415100	Proboscidea louisianica subsp. louisianica	7226243	verify: SYNONYM unresolved	not in The Plant List	
+Prunus cerasus L.	3021922	Prunus avium (L.) L.	3020791	verify: SYNONYM probably invalid	considered 2 accepted species	http://www.theplantlist.org/tpl1.1/record/rjp-696
+Prunus persica (L.) Batsch	3022511	Prunus persica (L.) Stokes	8149923	ok: SYNONYM probably valid	other author, synonym in other direction	http://www.theplantlist.org/tpl1.1/record/rjp-376
+Prunus virginiana L.	3022668	Prunus serotina Ehrh.	3021850	verify: SYNONYM probably invalid	considered 2 accepted species	http://www.theplantlist.org/tpl1.1/record/rjp-72
+Psephellus dealbatus (Willd.) K.Koch	3137829	Psephellus dealbatus (Willd.) Boiss.	7838007	ok: SYNONYM probably valid	other author, synonym is in The Plant List	http://www.theplantlist.org/tpl1.1/record/gcc-84107
+Pterocarya fraxinifolia (Lam.) Spach	8288647	Pterocarya pterocarpa (Michx.) Kunth ex I. Iljinsk.	4205311	verify: SYNONYM unresolved	unresolved, no further info	http://www.theplantlist.org/tpl1.1/record/kew-2529845
 Rana catesbeiana Shaw, 1802	2427092	Lithobates catesbeianus (Shaw, 1802)	2427091	ok: SYNONYM probably valid	synonym in other direction	http://ias.biodiversity.be/species/show/88
 Reynoutria compacta (Hook. fil.) Nakai	6709291	Reynoutria japonica Houtt.	2889173	ok: SYNONYM confirmed	synonym in same direction	http://www.theplantlist.org/tpl1.1/record/kew-2905898
 Ribes odoratum H.L. Wendl.	6442224	Ribes aureum var. villosum DC.	4194303	verify: SYNONYM unresolved	considered synonym of Ribes aureum Pursh	http://www.theplantlist.org/tpl1.1/record/kew-2426558
