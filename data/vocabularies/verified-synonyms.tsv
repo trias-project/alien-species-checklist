@@ -76,6 +76,7 @@ Bugula stolonifera Ryland, 1960	4984823	Bugulina stolonifera (Ryland, 1960)	8428
 Calandrinia elegans Spach	7389949	Calandrinia ciliata (Ruiz & Pavon) DC.	3084693	ok: SYNONYM confirmed	synonym in same direction	http://www.theplantlist.org/tpl1.1/record/kew-2690603
 Cardamine hamiltonii G.Don	3692264	Cardamine flexuosa With.	3046076	ok: SYNONYM confirmed	synonym in same direction	http://www.theplantlist.org/tpl1.1/record/kew-2699826
 Carduus hamulosus Ehrh.	3114679	Carduus nutans subsp. platypus (Lange) Greuter	4212130	verify: SYNONYM probably invalid	considered accepted	http://www.theplantlist.org/tpl1.1/record/gcc-80010
+Carduus nutans var. leiophyllus (Petrovic) Arènes	6290237	Carduus nutans subsp. leiophyllus (Petrovic) Stoj. & Stef.	4274443	wrong match: other rank		https://github.com/gbif/checklistbank/issues/6
 Carduus vivariensis Jord.	4210773	Carduus nigrescens subsp. vivariensis (Jord.) Bonnier & Layens	6076849	ok: SYNONYM confirmed	synonym in same direction	http://www.theplantlist.org/tpl1.1/record/gcc-131264
 Celastrus orbiculatus Thunb.	3169169	Celastrus orbiculatus C.P. Thunberg ex A. Murray	8104460	ok: SYNONYM author variation	ex author	
 Cenchrus incertus M.A.Curtis	5289728	Cenchrus spinifex Cav.	5289726	ok: SYNONYM probably valid	unresolved, suggested synonym in same direction	http://www.theplantlist.org/tpl1.1/record/kew-403941
@@ -131,7 +132,9 @@ Delphinium orientale Gay	3033829	Consolida orientalis (Gay) Schröd.	3033828	ok:
 Desmanthus illinoensis (Michx.) Robinson & Fernald	7484581	Desmanthus illinoensis (Michx.) MacMill.	5360112	ok: SYNONYM confirmed	synonym in same direction	http://www.theplantlist.org/tpl1.1/record/ild-33857
 Dichanthelium clandestinum (L.) Gould	2702543	Panicum clandestinum L.	2702544	ok: SYNONYM confirmed	synonym in same direction	http://www.theplantlist.org/tpl1.1/record/kew-408456
 Digitaria ciliaris subsp. nubica (Stapf) S.T. Blake	7736068	Digitaria ciliaris (Retz.) Koeler	5289998	ok: SYNONYM confirmed	synonym in same direction	http://www.theplantlist.org/tpl1.1/record/kew-408854
+Digitaria ciliaris var. ciliaris	8204630	Digitaria ciliaris (Retz.) Koeler	5289998	wrong match: other rank		https://github.com/gbif/checklistbank/issues/6
 Digitaria sanguinalis subsp. pectiniformis Henrard	5675253	Digitaria sanguinalis (L.) Scop.	5289972	ok: SYNONYM confirmed	synonym in same direction	http://www.theplantlist.org/tpl1.1/record/kew-409374
+Digitaria sanguinalis var. sanguinalis	7931699	Digitaria sanguinalis (L.) Scop.	5289972	wrong match: other rank		https://github.com/gbif/checklistbank/issues/6
 Dinebra decipiens subsp. decipiens	8247934	Leptochloa decipiens (R.Br.) Stapf ex Maiden	2703867	verify: SYNONYM unresolved	not in The Plant List	
 Dinebra decipiens var. peacockii (Maiden & Betche) P.M.Peterson & N.Snow	8328801	Leptochloa decipiens subsp. peacockii (Maiden & Betche) N.Snow	4132902	verify: SYNONYM unresolved	not in The Plant List	
 Dinebra divaricatissima (S.T.Blake) P.M.Peterson & N.Snow	7738621	Leptochloa divaricatissima S.T.Blake	2703882	verify: SYNONYM unresolved	not in The Plant List	
@@ -169,6 +172,7 @@ Euphorbia glomerifera (Millsp.) L.C.Wheeler	3066330	Euphorbia hypericifolia L.	3
 Euphorbia serpens subsp. fissistipula (Thell.) Verloove & Lambinon	8273282	Euphorbia serpens Kunth	3064221	ok: SYNONYM confirmed	synonym in same direction	http://www.theplantlist.org/tpl1.1/record/kew-465908
 Eurybia divaricata (L.) G.L.Nesom	5396125	Croptilon divaricatum (Nutt.) Raf.	3139628	verify: SYNONYM probably invalid	considered accepted	http://www.theplantlist.org/tpl1.1/record/gcc-17778
 Eutrochium maculatum (L.) E.E.Lamont	3138195	Eupatorium maculatum L.	5401612	verify: SYNONYM probably invalid	considered 2 accepted species	http://www.theplantlist.org/tpl1.1/record/gcc-51805
+Eutrochium purpureum (L.) E.E.Lamont	3138192	Eupatorium purpureum L.	5401611	verify: SYNONYM probably invalid	considered 2 accepted species	http://www.theplantlist.org/tpl1.1/record/gcc-34096
 Fallopia bohemica (Chrtek & Chrtková) J.P. Bailey	5652296	Reynoutria bohemica J. Chrtek & A. Chrtková	4038485	ok: SYNONYM confirmed	synonym in same direction	http://alienplantsbelgium.be/taxonomy/term/4858/descriptions
 Fallopia japonica (Houtt.) Ronse Decraene	5334357	Reynoutria japonica Houtt.	2889173	ok: SYNONYM confirmed	synonym in same direction	http://alienplantsbelgium.be/taxonomy/term/4856/descriptions
 Fallopia sachalinensis (Friedrich Schmidt Petrop.) Ronse Decraene	5334293	Reynoutria sachalinensis (Friedrich Schmidt Petrop.) Nakai	2889088	ok: SYNONYM confirmed	synonym in same direction	http://alienplantsbelgium.be/taxonomy/term/6034/descriptions
@@ -206,6 +210,7 @@ Jovibarba sobolifera (J. Sims) Opiz	7334511	Sempervivum globiferum subsp. globif
 Juncus tenuis subsp. anthelatus (Wiegand) Verloove & Lambinon	7841979	Juncus anthelatus (Wiegand) R.E.Brooks & Whittem.	2702058	ok: SYNONYM confirmed	synonym in same direction	http://www.theplantlist.org/tpl1.1/record/kew-467419
 Juncus tenuis subsp. dichotomus (Elliott) Verloove & Lambinon	8143288	Juncus dichotomus Elliott	2701120	ok: SYNONYM confirmed	synonym in same direction, accepted name is in plants	http://www.theplantlist.org/tpl1.1/record/kew-315964
 Juncus tenuis subsp. dudleyi (Wiegand) P.Fourn.	2701833	Juncus dudleyi Wiegand	2701831	ok: SYNONYM confirmed	synonym in same direction	http://www.theplantlist.org/tpl1.1/record/kew-315966
+Juncus tenuis var. tenuis	4270827	Juncus tenuis Willd.	2702084	wrong match: other rank		https://github.com/gbif/checklistbank/issues/6
 Kolkwitzia amabilis Graebn.	2888706	Linnaea amabilis (Graebn.) Christenh.	7529757	verify: SYNONYM probably invalid	considered accepted	http://www.theplantlist.org/tpl1.1/record/tro-6000434
 Lactuca sativa L.	7403263	Lactuca sativa	3140379	ok: SYNONYM confirmed	accepted has no author	
 Lamprocapnos spectabilis (L.) T.Fukuhara	2888564	Fumaria barnolae subsp. barnolae	7314977	verify: SYNONYM probably invalid	considered accepted	http://www.theplantlist.org/tpl1.1/record/kew-2494086
@@ -239,6 +244,7 @@ Medicago monantha subsp. incisa (Benth.) Verloove & Lambinon	3966132	Medicago mo
 Medicago monantha subsp. noeana (Boiss.) Greuter & Burdet	3966127	Medicago monantha (C.A.Mey.) Trautv.	2965226	verify: SYNONYM unresolved	not in The Plant List	
 Medicago varia Martyn	2965331	Medicago sativa subsp. varia (Martyn) Arcang.	8316569	ok: SYNONYM confirmed	synonym in same direction	http://www.theplantlist.org/tpl1.1/record/ild-9358
 Melilotus officinalis (L.) Lam.	8193111	Melilotus officinalis (L.) Pall.	2971024	verify: SYNONYM unresolved	unresolved, no further info	http://www.theplantlist.org/tpl1.1/record/tro-13035841
+Mentha ×piperita var. piperita	6411645	Mentha ×piperita	8704423	wrong match: other rank		https://github.com/gbif/checklistbank/issues/6
 Mentha smithiana R.A.Graham	2927185	Mentha wirtgeniana F.W.Schultz	3893979	ok: SYNONYM probably valid	synonym in other direction	http://www.theplantlist.org/tpl1.1/record/kew-125392
 Mentha spicata subsp. glabrata (Lej. & Courtois) Lebeau	3895556	Mentha spicata subsp. spicata	7308335	verify: SYNONYM probably invalid	considered synonym of Mentha spicata L.	http://www.theplantlist.org/tpl1.1/record/kew-125404
 Microlonchus salmanticus (L.) DC.	3141575	Mantisalca salmantica (L.) Briq. & Cavill.	3141571	ok: SYNONYM confirmed	synonym in same direction	http://www.theplantlist.org/tpl1.1/record/gcc-2745
@@ -277,6 +283,7 @@ Pentaschistis airoides (Nees) Stapf	4145907	Pentameris airoides (Nees) Steud.	41
 Persicaria pensylvanica (L.) G. Maza	8026804	Persicaria pensylvanica (L.) M. Gómez	8263906	ok: SYNONYM probably valid	other author, accepted is in The Plants List	http://www.theplantlist.org/tpl1.1/record/tro-26000054
 Persicaria perfoliata (L.) H. Gross	4033648	Truellum perfoliatum (L.) Soják	4037171	verify: SYNONYM probably invalid	considered synonym of Polygonum perfoliatum L.	http://www.theplantlist.org/tpl1.1/record/kew-2572612
 Persicaria wallichii W. Greuter & Burdet	6391908	Rubrivena polystachya (Wall.) M. Král	4037343	verify: SYNONYM probably invalid	considered accepted	http://www.theplantlist.org/tpl1.1/record/kew-2572263
+Petricola pholadiformis Lamarck, 1818	8180054	Petricolaria pholadiformis (Lamarck, 1818)	2287615	ok: SYNONYM confirmed	synonym in same direction	http://www.marinespecies.org/aphia.php?p=taxdetails&id=140730
 Petrorhagia nanteuilii (Burnat) P. W. Ball & Heywood	3085622	Petrorhagia nanteuilii (Bumat) P. W. Ball & Heywood	8693157	ok: SYNONYM author variation	author variation	
 Petunia parviflora Juss.	2928906	Calibrachoa parviflora (Jussieu) W.G. D'Arcy	7823026	ok: SYNONYM confirmed	synonym in same direction	http://www.theplantlist.org/tpl1.1/record/tro-29600085
 Phalaris arundinacea var. picta L.	5289757	Phalaris arundinacea L.	5289756	ok: SYNONYM confirmed	synonym in same direction	http://www.theplantlist.org/tpl1.1/record/kew-433413
@@ -325,6 +332,7 @@ Salvia lavandulifolia subsp. gallica W.Lippert	3898065	Salvia officinalis subsp.
 Sasaella ramosa (Makino) Makino	4127352	Sasa ramosa (Makino) Makino & Shibata	5675849	ok: SYNONYM confirmed	synonym in same direction	http://www.theplantlist.org/tpl1.1/record/kew-441017
 Saxifraga stolonifera Meerb.	8062061	Saxifraga stolonifera Curtis	3032762	ok: SYNONYM probably valid	other author, accepted is in The Plant List	http://www.theplantlist.org/tpl1.1/record/kew-2584890
 Scabiosa atropurpurea L.	2888805	Sixalix atropurpurea subsp. atropurpurea	7301011	verify: SYNONYM probably invalid	considered accepted	http://www.theplantlist.org/tpl1.1/record/kew-2593568
+Schkuhria pinnata f. pinnata	6294017	Schkuhria pinnata (Lam.) Kuntze ex Thell.	3101235	wrong match: other rank		https://github.com/gbif/checklistbank/issues/6
 Schkuhria pinnata var. abrotanoides (Roth) Cabrera	4247879	Schkuhria pinnata (Lam.) Kuntze ex Thell.	3101235	ok: SYNONYM confirmed	synonym in same direction	http://www.theplantlist.org/tpl1.1/record/gcc-68459
 Scirpus atrovirens subsp. georgianus (R.M.Harper) Verloove & Lambinon	8390304	Scirpus georgianus R.M.Harper	2720269	ok: SYNONYM confirmed	synonym in same direction	http://www.theplantlist.org/tpl1.1/record/kew-468182
 Scorpiurus muricatus subsp. subvillosus (L.) Thell.	8082844	Scorpiurus muricatus L.	5358302	ok: SYNONYM confirmed	synonym in same direction	http://www.theplantlist.org/tpl1.1/record/ild-37820
