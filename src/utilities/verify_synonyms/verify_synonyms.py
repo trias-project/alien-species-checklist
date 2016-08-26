@@ -6,12 +6,10 @@ import pandas as pd
 
 # Way to call script:
 
-# verify_synonyms.py input_file output_file --synonymlist --usagekeycol --acceptedkeycol --remarkcol
-
 def verify_synonym(input_file, output_file, synonym_file,
                    usagekeycol='gbifapi_usageKey', 
                    acceptedkeycol='gbifapi_acceptedKey', 
-                   api_status='gbifapi_status',
+                   api_statuscol='gbifapi_status',
                    remarkcol='nameMatchValidation'):
     """verify if more information on the synonyms is already present
     Find out which of the synonyms were already registered as defined by the 
@@ -22,14 +20,16 @@ def verify_synonym(input_file, output_file, synonym_file,
     Parameters:
     --------
     input_file: str (filepath)
-    
+        input file to check the synonym values    
     output_file: str (filepath)
-    
+        output file to write result    
+    synonym_file: str
+        relatie path to the synonym file for the verification
     usagekeycol: str (default: gbifapi_usageKey)
         column name with the usagekey for input_file 
     acceptedkeycol: str (default: gbifapi_acceptedKey)
         column name with the acceptedKey for input_file  
-    api_status: str (default: gbif_apistatus)
+    api_statuscol: str (default: gbif_apistatus)
         column name with the API status of GBIF for input_file  
     remarkcol: str
         column name to put the remarks of the verification of the input file
@@ -45,10 +45,10 @@ def verify_synonym(input_file, output_file, synonym_file,
         delimiter = '\t'
     else:
         delimiter = ','
-    input_file = pd.read_csv(input_file, sep=delimiter)                
+    input_file = pd.read_csv(input_file, sep=delimiter, dtype=object)                
 
     # read the synonyms file    
-    synonyms = pd.read_csv(synonym_file, sep='\t')
+    synonyms = pd.read_csv(synonym_file, sep='\t', dtype=object)
     
     #extract useful columns from synonym file (expected to be fixed)
     synonyms_subset = synonyms[["gbifapi_usageKey", "gbifapi_acceptedKey", "status"]]
@@ -59,9 +59,9 @@ def verify_synonym(input_file, output_file, synonym_file,
                         right_on=["gbifapi_usageKey", "gbifapi_acceptedKey"])
     
     # overwrite for SYNONYM values when already present
-    if remarkcol in verified.clumns:
-        verified.loc[verified[api_status] == "SYNONYM", remarkcol] = \
-            verified.loc[verified[api_status] == "SYNONYM", 'status']
+    if remarkcol in verified.columns:
+        verified.loc[verified[api_statuscol] == "SYNONYM", remarkcol] = \
+            verified.loc[verified[api_statuscol] == "SYNONYM", 'status']
         verified = verified.drop('status', axis=1)
     else:
         verified = verified.rename(columns={'status' : remarkcol})        
@@ -93,7 +93,7 @@ def main(argv=None):
     parser.add_argument('output_file', action='store', default=None, 
                         help='output file name, can be same as input')              
     
-    parser.add_argument('--synonymlist', type=str,
+    parser.add_argument('--synonym_file', type=str,
                         action='store', default=None, 
                         help='')                                            
 
@@ -104,20 +104,26 @@ def main(argv=None):
     parser.add_argument('--acceptedkeycol', type=str,
                         action='store', default='gbifapi_acceptedKey', 
                         help='')  
-    parser.add_argument('--statuscol', type=str,
-                        action='store', default='status', 
+
+    parser.add_argument('--api_statuscol', type=str,
+                        action='store', default='gbifapi_status', 
+                        help='')                        
+
+    parser.add_argument('--remarkcol', type=str,
+                        action='store', default='nameMatchValidation', 
                         help='')                        
 
     args = parser.parse_args()
     print(args)    
-    print(args.inputfile)    
+    print(args.input_file)    
     
     print("Verification of the synonym names...")
     verify_synonym(args.input_file, args.output_file,
                    args.synonym_file,
                    args.usagekeycol,
                    args.acceptedkeycol,
-                   args.statuscol
+                   args.api_statuscol,
+                   args.remarkcol
                    ) 
     print("saving to file...done!")
 
