@@ -1,5 +1,6 @@
 
 import sys
+import textwrap
 import argparse
 
 import pandas as pd
@@ -113,11 +114,25 @@ def main(argv=None):
                         action='store', default='nameMatchValidation', 
                         help='')                        
 
-    args = parser.parse_args()
-    print(args)    
-    print(args.input_file)    
+    args = parser.parse_args()    
     
     print("Verification of the synonym names...")
+    print(textwrap.dedent("""\
+                          Using {} as input file and searching matches
+                          with the synonmys enlisted in {}
+                          """.format(args.input_file, 
+                                     args.synonym_file)))
+    print(textwrap.dedent("""\
+                          Columns of usage_key and accepted_key as provided by
+                          gbif in the input file are named respectively {} 
+                          and {}. The columns with the taxonomicstatus 
+                          (SYNONYM,...) is named {}
+                          """.format(args.usagekeycol, 
+                                     args.acceptedkeycol,
+                                     args.taxonomicstatuscol)))
+    print(textwrap.dedent("""\
+                          Writing verification information to column {}
+                          """.format(args.outputcol)))
     verify_synonym(args.input_file, args.output_file,
                    args.synonym_file,
                    args.usagekeycol,
@@ -125,7 +140,7 @@ def main(argv=None):
                    args.taxonomicstatuscol,
                    args.outputcol
                    ) 
-    print("saving to file...done!")
+    print("".join(["saving to file", args.output_file, "...done!"]))
 
 if __name__ == "__main__":
     sys.exit(main())    
