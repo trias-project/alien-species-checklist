@@ -9,8 +9,8 @@ import pandas as pd
 def verify_synonym(input_file, output_file, synonym_file,
                    usagekeycol='gbifapi_usageKey', 
                    acceptedkeycol='gbifapi_acceptedKey', 
-                   api_statuscol='gbifapi_status',
-                   remarkcol='nameMatchValidation'):
+                   taxonomicstatuscol='gbifapi_status',
+                   outputcol='nameMatchValidation'):
     """verify if more information on the synonyms is already present
     Find out which of the synonyms were already registered as defined by the 
     synonym_file, by checking the match between the usageKey AND acceptedKey
@@ -29,9 +29,9 @@ def verify_synonym(input_file, output_file, synonym_file,
         column name with the usagekey for input_file 
     acceptedkeycol: str (default: gbifapi_acceptedKey)
         column name with the acceptedKey for input_file  
-    api_statuscol: str (default: gbif_apistatus)
+    taxonomicstatuscol: str (default: gbif_apistatus)
         column name with the API status of GBIF for input_file  
-    remarkcol: str
+    outputcol: str
         column name to put the remarks of the verification of the input file
         
     Remarks:
@@ -59,12 +59,12 @@ def verify_synonym(input_file, output_file, synonym_file,
                         right_on=["gbifapi_usageKey", "gbifapi_acceptedKey"])
     
     # overwrite for SYNONYM values when already present
-    if remarkcol in verified.columns:
-        verified.loc[verified[api_statuscol] == "SYNONYM", remarkcol] = \
-            verified.loc[verified[api_statuscol] == "SYNONYM", 'status']
+    if outputcol in verified.columns:
+        verified.loc[verified[taxonomicstatuscol] == "SYNONYM", outputcol] = \
+            verified.loc[verified[taxonomicstatuscol] == "SYNONYM", 'status']
         verified = verified.drop('status', axis=1)
     else:
-        verified = verified.rename(columns={'status' : remarkcol})        
+        verified = verified.rename(columns={'status' : outputcol})        
 
     verified.to_csv(output_file, sep=delimiter, index=False, 
                         encoding='utf-8')    
@@ -105,11 +105,11 @@ def main(argv=None):
                         action='store', default='gbifapi_acceptedKey', 
                         help='')  
 
-    parser.add_argument('--api_statuscol', type=str,
+    parser.add_argument('--taxonomicstatuscol', type=str,
                         action='store', default='gbifapi_status', 
                         help='')                        
 
-    parser.add_argument('--remarkcol', type=str,
+    parser.add_argument('--outputcol', type=str,
                         action='store', default='nameMatchValidation', 
                         help='')                        
 
@@ -122,8 +122,8 @@ def main(argv=None):
                    args.synonym_file,
                    args.usagekeycol,
                    args.acceptedkeycol,
-                   args.api_statuscol,
-                   args.remarkcol
+                   args.taxonomicstatuscol,
+                   args.outputcol
                    ) 
     print("saving to file...done!")
 
