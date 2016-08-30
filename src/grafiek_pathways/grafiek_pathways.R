@@ -39,15 +39,25 @@ dataset$category <- as.factor(sapply(dataset$category,
                                      max.length.allowed))
 
 # Create the graph
-ggplot(dataset, aes(x = subcategory, y = count_species_key)) +
-    geom_bar(stat = "identity", width = .75) +
-    geom_text(aes(label = count_species_key), y = .1, vjust = 1.5, size = 3) +
+ggplot(dataset, aes(x = reorder(subcategory, -count_species_key),
+                    y = count_species_key)) +
+    geom_bar(stat = "identity", width = .65) +
+    geom_text(aes(label = count_species_key), y = .1, vjust = 0.5,
+              size = 4, angle = 90, hjust = 1.2) +
     ylab("Number of species") +
     facet_grid(. ~ category, scales = "free_x",
                space = "free_x") +
     theme_inbo2015(base_size = 11) +
     theme(
-        axis.text.x = element_text(angle = 90, hjust = 1, vjust = 0.2),
-        axis.title.x = element_blank()
+        axis.text.x = element_text(angle = 90, hjust = 1,
+                                   vjust = 0.2, size = 10),
+        axis.title.x = element_blank(),
+        axis.text.y = element_text(size = 12, angle = 90,
+                                   hjust = 0.5),
+        axis.title.y = element_text(size = 14),
+        strip.text.x = element_text(angle = 90, size = 12)
         )
-#ggsave("pathway_graph.pdf")
+# Remark: Rotation of the figure should done outside ggplot
+ggsave("pathway_graph.png", width = 30, height = 33,
+       units = "cm", dpi = 150)
+
