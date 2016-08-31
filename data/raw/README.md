@@ -61,4 +61,13 @@
 * **License**:
 * **Downloaded/received from**: Shyama Pagad
 * **Downloaded/received at**: 2016-01-26
-* **Directory**: [wrims](wrims)
+* **Directory**: [wrims]
+
+## World Register of Introduced Marine Species (WRIMS)
+
+* **Scope**: T0 status of the invasive species target list of Belgium
+* **Citation**: List provided by Adriaens Tim and Vanderhoeven Sonia
+* **License**:
+* **Downloaded/received from**: Tim Adriaens
+* **Downloaded/received at**: 
+* **Directory**: [t0-shortlist](t0-shortlist)
