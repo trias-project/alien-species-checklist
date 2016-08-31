@@ -63,7 +63,7 @@
 * **Downloaded/received at**: 2016-01-26
 * **Directory**: [wrims]
 
-## World Register of Introduced Marine Species (WRIMS)
+## T0 species focus list
 
 * **Scope**: T0 status of the invasive species target list of Belgium
 * **Citation**: List provided by Adriaens Tim and Vanderhoeven Sonia
