@@ -1,0 +1,34 @@
+	introductionPathway	kingdom	count_species_key	category	subcategory
+0	contaminant > contaminant nursery material	Plantae	17	contaminant	contaminant nursery material
+1	contaminant > contaminant on animals (except parasites, species transported by host/vector)	Animalia	2	contaminant	contaminant on animals (except parasites, species transported by host/vector)
+2	contaminant > contaminant on animals (except parasites, species transported by host/vector)	Plantae	510	contaminant	contaminant on animals (except parasites, species transported by host/vector)
+3	contaminant > contaminant on plants (except parasites, species transported by host/vector)	Plantae	4	contaminant	contaminant on plants (except parasites, species transported by host/vector)
+4	contaminant > seed contaminant	Plantae	509	contaminant	seed contaminant
+5	contaminant > timber trade	Plantae	7	contaminant	timber trade
+6	contaminant > transportation of habitat material (soil, vegetation,…)	Plantae	50	contaminant	transportation of habitat material (soil, vegetation,…)
+7	corridor > interconnected waterways/basins/seas	Animalia	9	corridor	interconnected waterways/basins/seas
+8	corridor > to be determined by experts	Animalia	8	corridor	to be determined by experts
+9	escape > agriculture (including biofuel feedstocks)	Plantae	84	escape	agriculture (including biofuel feedstocks)
+10	escape > aquaculture / mariculture	Animalia	18	escape	aquaculture / mariculture
+11	escape > forestry (including afforestation or reforestation)	Plantae	1	escape	forestry (including afforestation or reforestation)
+12	escape > horticulture	Plantae	911	escape	horticulture
+13	escape > live food and live bait	Animalia	5	escape	live food and live bait
+14	escape > live food and live bait	Plantae	19	escape	live food and live bait
+15	escape > ornamental purpose other than horticulture	Animalia	3	escape	ornamental purpose other than horticulture
+16	escape > pet/aquarium/terrarium species (including live food for such species )	Animalia	8	escape	pet/aquarium/terrarium species (including live food for such species )
+17	escape > to be determined by experts	Animalia	6	escape	to be determined by experts
+18	escape > to be determined by experts	Plantae	49	escape	to be determined by experts
+19	release > biological control	Animalia	3	release	biological control
+20	release > fishery in the wild (including game fishing)	Animalia	4	release	fishery in the wild (including game fishing)
+21	release > to be determined by experts	Animalia	4	release	to be determined by experts
+22	stowaway	Plantae	9	stowaway	unknown
+23	stowaway > angling/fishing equipment	Animalia	1	stowaway	angling/fishing equipment
+24	stowaway > other means of transport	Plantae	1	stowaway	other means of transport
+25	stowaway > people and their luggage/equipment (in particular tourism)	Plantae	3	stowaway	people and their luggage/equipment (in particular tourism)
+26	stowaway > ship/boat ballast water	Animalia	2	stowaway	ship/boat ballast water
+27	stowaway > to be determined by experts	Animalia	46	stowaway	to be determined by experts
+28	to be determined by experts	Animalia	89	to be determined by experts	unknown
+29	to be determined by experts	Plantae	63	to be determined by experts	unknown
+30	unaided > natural dispersal across borders of invasive alien species that have been introduced through pathways 1 to 5	Animalia	3	unaided	natural dispersal across borders of invasive alien species that have been introduced through pathways 1 to 5
+31	unknown	Animalia	2	unknown	unknown
+32	unknown	Plantae	271	unknown	unknown

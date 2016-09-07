@@ -1,0 +1,30 @@
+	introductionPathway	count_species_key	category	subcategory
+0	contaminant > contaminant nursery material	17	contaminant	contaminant nursery material
+1	contaminant > contaminant on animals (except parasites, species transported by host/vector)	512	contaminant	contaminant on animals (except parasites, species transported by host/vector)
+2	contaminant > contaminant on plants (except parasites, species transported by host/vector)	4	contaminant	contaminant on plants (except parasites, species transported by host/vector)
+3	contaminant > seed contaminant	509	contaminant	seed contaminant
+4	contaminant > timber trade	7	contaminant	timber trade
+5	contaminant > transportation of habitat material (soil, vegetation,…)	50	contaminant	transportation of habitat material (soil, vegetation,…)
+6	corridor > interconnected waterways/basins/seas	9	corridor	interconnected waterways/basins/seas
+7	corridor > to be determined by experts	8	corridor	to be determined by experts
+8	escape > agriculture (including biofuel feedstocks)	84	escape	agriculture (including biofuel feedstocks)
+9	escape > aquaculture / mariculture	18	escape	aquaculture / mariculture
+10	escape > forestry (including afforestation or reforestation)	1	escape	forestry (including afforestation or reforestation)
+11	escape > fur farms	4	escape	fur farms
+12	escape > horticulture	911	escape	horticulture
+13	escape > live food and live bait	24	escape	live food and live bait
+14	escape > ornamental purpose other than horticulture	3	escape	ornamental purpose other than horticulture
+15	escape > pet/aquarium/terrarium species (including live food for such species )	20	escape	pet/aquarium/terrarium species (including live food for such species )
+16	escape > to be determined by experts	72	escape	to be determined by experts
+17	release > biological control	4	release	biological control
+18	release > fishery in the wild (including game fishing)	4	release	fishery in the wild (including game fishing)
+19	release > to be determined by experts	8	release	to be determined by experts
+20	stowaway	9	stowaway	unknown
+21	stowaway > angling/fishing equipment	1	stowaway	angling/fishing equipment
+22	stowaway > other means of transport	1	stowaway	other means of transport
+23	stowaway > people and their luggage/equipment (in particular tourism)	3	stowaway	people and their luggage/equipment (in particular tourism)
+24	stowaway > ship/boat ballast water	2	stowaway	ship/boat ballast water
+25	stowaway > to be determined by experts	46	stowaway	to be determined by experts
+26	to be determined by experts	177	to be determined by experts	unknown
+27	unaided > natural dispersal across borders of invasive alien species that have been introduced through pathways 1 to 5	3	unaided	natural dispersal across borders of invasive alien species that have been introduced through pathways 1 to 5
+28	unknown	273	unknown	unknown
