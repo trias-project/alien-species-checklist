@@ -117,16 +117,84 @@ checklist <- read.csv(
 # drop the rows without habitat info
 checklist <- checklist[checklist$habitat_short != "",]
 
-# Cumulative histogram
-ggplot(data = checklist, aes(checklist$firstObservationYearBE)) +
-    geom_histogram(aes(y = cumsum(..count..)),
-                    binwidth = 15) +
+## Cumulative histogram ->
+## cfr. ISSUE as count is also in between groups...
+## http://dantalus.github.io/2015/08/16/step-plots/
+# ggplot(data = checklist, aes(firstObservationYearBE)) +
+#     geom_histogram(aes(y = cumsum(..count..),
+#                        fill = habitat_short),
+#                     binwidth = 15,
+#                     position = "stack") +
+#     xlab("") +
+#     ylab("Aantal uitheemse soorten") +
+#     theme_inbo2015(base_size = 14) +
+#     theme(legend.position = "top",
+#           legend.title = element_blank())
+
+# Possible SOLUTION 1: plot them each independent
+
+bin_years = 15
+ggplot(data = checklist, aes(firstObservationYearBE)) +
+    stat_bin(data = subset(checklist, habitat_short == "terrestrial"),
+             aes(y = cumsum(..count..)),
+             binwidth = bin_years,
+             geom = "step", size = 3,
+             color = INBOgreen) +
+    annotate("text",
+             x = max(checklist$firstObservationYearBE) + 1.,
+             y = sum(checklist$habitat_short == "terrestrial"),
+             label = as.character(sum(checklist$habitat_short == "terrestrial")),
+             size = 8, color = INBOgreen) +
+    stat_bin(data = subset(checklist, habitat_short == "freshwater"),
+             aes(y = cumsum(..count..)),
+             binwidth = bin_years,
+             geom = "step", size = 3, color = INBOblue) +
+    annotate("text",
+             x = max(checklist$firstObservationYearBE)+ 1.,
+             y = sum(checklist$habitat_short == "freshwater"),
+             label = as.character(sum(checklist$habitat_short == "freshwater")),
+             size = 8, color = INBOblue) +
+    stat_bin(data = subset(checklist, habitat_short == "marine"),
+                   aes(y = cumsum(..count..)),
+                    binwidth = bin_years,
+                   geom = "step", size = 3, color = INBOreddishbrown) +
+    annotate("text",
+             x = max(checklist$firstObservationYearBE) + 1.,
+             y = sum(checklist$habitat_short == "marine"),
+             label = as.character(sum(checklist$habitat_short == "marine")),
+             size = 8, color = INBOreddishbrown) +
+    stat_bin(data = subset(checklist, habitat_short == "estuarine"),
+                   aes(y = cumsum(..count..)),
+                   binwidth = bin_years,
+                   geom = "step", size = 3, color = INBOdarkgreen) +
+    annotate("text",
+             x = max(checklist$firstObservationYearBE) + 1.,
+             y = sum(checklist$habitat_short == "estuarine"),
+             label = as.character(sum(checklist$habitat_short == "estuarine")),
+             size = 8, color = INBOdarkgreen) +
     xlab("") +
     ylab("Aantal uitheemse soorten") +
     theme_inbo2015(base_size = 14) +
     theme(legend.position = "top",
-          legend.title = element_blank())
-    #facet_grid(. ~ habitat_short, scales = "free", space = "free_x")
+          legend.title = element_blank(),
+          legend.text = element_text((size = 14)))
+
+
+
+
+# Consider to calculate it manually and plot the 'bars'...
+
+
+
+# other try-out...
+library(plyr)
+checklist <- ddply(checklist,.(habitat_short),transform,
+                   len = length(firstObservationYearBE))
+ggplot(data = checklist, aes(firstObservationYearBE,
+                             fill = habitat_short,
+                             color = habitat_short)) +
+    geom_step(aes(len = len, y = ..y.. * len),
+              stat="ecdf", bin = 15)
 
 ggsave("cumul_number.png", width = 30, height = 33,
        units = "cm", dpi = 150)
