@@ -85,8 +85,6 @@ dataset$category <- as.factor(sapply(dataset$category,
 ggplot(dataset, aes(x = reorder(subcategory, -count_species_key),
                     y = count_species_key, fill = kingdom)) +
     geom_bar(stat = "identity", width = .65) +
-    geom_text(aes(label = count_species_key), y = .1, vjust = 0.5,
-              size = 4, angle = 90, hjust = 1.2) +
     ylab("Number of species") +
     facet_grid(. ~ category, scales = "free_x",
                space = "free_x") +
@@ -99,13 +97,40 @@ ggplot(dataset, aes(x = reorder(subcategory, -count_species_key),
                                    hjust = 0.5),
         axis.title.y = element_text(size = 14),
         strip.text.x = element_text(angle = 90, size = 12),
-        legend.direction = "vertical",
-        legend.position = "left",
-        legend.text = element_text(angle = 90, size = 14,
-                                   hjust = 0.5, vjust = 0.5),
+        legend.direction = "horizontal",
+        legend.position = "bottom",
+        legend.text = element_text(angle = 90, size = 14),
         legend.title = element_blank(),
-        legend.text.align = 0.5
+        legend.text.align = -.6
     )
 
 ggsave("pathway_graph_plant_animal.png", width = 30, height = 33,
        units = "cm", dpi = 150)
+
+#-------------------------------------------------------
+
+checklist <- read.csv(
+    "../../data/interim/nara_figure_cumul_data.tsv",
+    sep = "\t"
+)
+
+# drop the rows without habitat info
+checklist <- checklist[checklist$habitat_short != "",]
+
+# Cumulative histogram
+ggplot(data = checklist, aes(checklist$firstObservationYearBE)) +
+    geom_histogram(aes(y = cumsum(..count..)),
+                    binwidth = 15) +
+    xlab("") +
+    ylab("Aantal uitheemse soorten") +
+    theme_inbo2015(base_size = 14) +
+    theme(legend.position = "top",
+          legend.title = element_blank())
+    #facet_grid(. ~ habitat_short, scales = "free", space = "free_x")
+
+ggsave("cumul_number.png", width = 30, height = 33,
+       units = "cm", dpi = 150)
+
+
+
+
