@@ -166,7 +166,7 @@ checklist_count$cumcount <- ave(checklist_count$freq,
 
 # Fill in the remaining habitat-period combination
 # strategy: combine with a dataframe with all combinations and fill in
-# empty spots
+# empty spots with continuous value from last known
 levels(checklist_count$period_sections) <- seq(min_year, 2020, bin_years)
 checklist_count$habitat_name <- factor(checklist_count$habitat_name)
 
@@ -181,15 +181,18 @@ checklist_count_all <- merge(all_options, checklist_count,
 
 checklist_count_all <- ddply(checklist_count_all, .(habitat_name), na.locf)
 checklist_count_all$cumcount <- as.numeric(checklist_count_all$cumcount)
-
+checklist_count_all$period_sections <- as.numeric(checklist_count_all$period_sections)
 
 ggplot(data = checklist_count_all, aes(x = period_sections,
-                                   y = cumcount,
-                                   fill = habitat_name)) +
+                                   y = cumcount)) +
                 geom_bar(stat = "identity") +
                 theme_inbo2015(base_size = 14) +
-                facet_grid(habitat_name ~ .) +
-                scale_x_discrete(labels = seq(1800, 2030, bin_years))
+                facet_grid( . ~ habitat_name) +
+                scale_x_discrete(labels = seq(1800, 2030, bin_years)) +
+                xlab("") +
+                ylab("Aantal uitheemse soorten") +
+                theme(strip.text.x = element_text(size = 16)) +
+                scale_x_continuous(breaks = seq(1800, 2010, 50))
 
 # -----------------------
 
@@ -220,7 +223,7 @@ ggplot(data = checklist, aes(firstObservationYearBE,
           legend.title = element_blank())  +
     facet_grid(.~ habitat_short)
 
-# Possible SOLUTION 1: plot them each independent
+# Possible SOLUTION 2: plot them each independent
 
 
 ggplot(data = checklist, aes(firstObservationYearBE)) +
@@ -276,8 +279,6 @@ ggplot(data = checklist, aes(firstObservationYearBE)) +
 ggsave("cumulatief_aantal_invasieve.png", width = 33, height = 25,
        units = "cm", dpi = 150)
 
-
-# SOLUTION 2: MANUEEL CUMULATIEIF EN PLOTTEN
 
 
 
