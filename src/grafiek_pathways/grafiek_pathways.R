@@ -1,4 +1,5 @@
 library(dplyr)
+library(plyr)
 library(ggplot2)
 library(INBOtheme) # install with devtools: install_github("inbo/inboTheme")
 library(tidyr)
@@ -155,7 +156,8 @@ checklist$period_count <- ave(rep(1, nrow(checklist)),
                            FUN = sum)
 
 # count number of species in each habitat-period combination
-checklist_count <- count(checklist, c("habitat_name", "period_sections"))
+checklist$habitat_name <- factor(checklist$habitat_name)
+checklist_count <- plyr::count(checklist, c("habitat_name", "period_sections"))
 
 # create cumulative counts per factor
 checklist_count$cumcount <- ave(checklist_count$freq,
@@ -187,12 +189,15 @@ ggplot(data = checklist_count_all, aes(x = period_sections,
                                    y = cumcount)) +
                 geom_bar(stat = "identity") +
                 theme_inbo2015(base_size = 14) +
-                facet_grid( . ~ habitat_name) +
+                facet_grid(habitat_name ~ .) +
                 scale_x_discrete(labels = seq(1800, 2030, bin_years)) +
                 xlab("") +
                 ylab("Aantal uitheemse soorten") +
-                theme(strip.text.x = element_text(size = 16)) +
+                theme(strip.text.y = element_text(size = 16)) +
                 scale_x_continuous(breaks = seq(1800, 2010, 50))
+
+ggsave("nara_number_invasive_cumul_option2.png", width = 30, height = 33,
+       units = "cm", dpi = 150)
 
 # -----------------------
 
@@ -210,74 +215,74 @@ ggplot(data = checklist_count_all, aes(x = period_sections,
 ## Cumulative histogram ->
 ## cfr. ISSUE as count is also in between groups...
 ## http://dantalus.github.io/2015/08/16/step-plots/
-ggplot(data = checklist, aes(firstObservationYearBE,
-                             colour = habitat_short)) +
-    geom_histogram(aes(y = cumsum(..count..),
-                       fill = habitat_short),
-                    binwidth = 15,
-                    position = "stack") +
-    xlab("") +
-    ylab("Aantal uitheemse soorten") +
-    theme_inbo2015(base_size = 14) +
-    theme(legend.position = "top",
-          legend.title = element_blank())  +
-    facet_grid(.~ habitat_short)
+# ggplot(data = checklist, aes(firstObservationYearBE,
+#                              colour = habitat_short)) +
+#     geom_histogram(aes(y = cumsum(..count..),
+#                        fill = habitat_short),
+#                     binwidth = 15,
+#                     position = "stack") +
+#     xlab("") +
+#     ylab("Aantal uitheemse soorten") +
+#     theme_inbo2015(base_size = 14) +
+#     theme(legend.position = "top",
+#           legend.title = element_blank())  +
+#     facet_grid(.~ habitat_short)
 
 # Possible SOLUTION 2: plot them each independent
 
 
-ggplot(data = checklist, aes(firstObservationYearBE)) +
-    stat_bin(data = subset(checklist, habitat_short == "terrestrial"),
-             aes(y = cumsum(..count..)),
-             binwidth = bin_years,
-             geom = "step", size = 3,
-             color = INBOgreen) +
-    annotate("text",
-             x = max(checklist$firstObservationYearBE) + 1.,
-             y = sum(checklist$habitat_short == "terrestrial"),
-             label = as.character(sum(checklist$habitat_short == "terrestrial")),
-             size = 8, color = INBOgreen) +
-    stat_bin(data = subset(checklist, habitat_short == "freshwater"),
-             aes(y = cumsum(..count..)),
-             binwidth = bin_years,
-             geom = "step", size = 3, color = INBOblue) +
-    annotate("text",
-             x = max(checklist$firstObservationYearBE) + 1.,
-             y = sum(checklist$habitat_short == "freshwater"),
-             label = as.character(sum(checklist$habitat_short == "freshwater")),
-             size = 8, color = INBOblue) +
-    stat_bin(data = subset(checklist, habitat_short == "marine"),
-                   aes(y = cumsum(..count..)),
-                    binwidth = bin_years,
-                   geom = "step", size = 3, color = INBOreddishbrown) +
-    annotate("text",
-             x = max(checklist$firstObservationYearBE) + 1.,
-             y = sum(checklist$habitat_short == "marine") - 3,
-             label = as.character(sum(checklist$habitat_short == "marine")),
-             size = 8, color = INBOreddishbrown) +
-    stat_bin(data = subset(checklist, habitat_short == "estuarine"),
-                   aes(y = cumsum(..count..)),
-                   binwidth = bin_years,
-                   geom = "step", size = 3, color = INBOdarkgreen) +
-    annotate("text",
-             x = max(checklist$firstObservationYearBE) + 1.,
-             y = sum(checklist$habitat_short == "estuarine"),
-             label = as.character(sum(checklist$habitat_short == "estuarine")),
-             size = 8, color = INBOdarkgreen) +
-    annotate("text",
-             x = max(checklist$firstObservationYearBE) - 3,
-             y = max(table(checklist$habitat_short)) + 4,
-             label = paste("Totaal: ", as.character(nrow(checklist))),
-             size = 8, color = INBOred) +
-    xlab("") +
-    ylab("Aantal uitheemse soorten") +
-    theme_inbo2015(base_size = 14) +
-    theme(legend.position = "top",
-          legend.title = element_blank(),
-          legend.text = element_text((size = 14)))
-
-ggsave("cumulatief_aantal_invasieve.png", width = 33, height = 25,
-       units = "cm", dpi = 150)
+# ggplot(data = checklist, aes(firstObservationYearBE)) +
+#     stat_bin(data = subset(checklist, habitat_short == "terrestrial"),
+#              aes(y = cumsum(..count..)),
+#              binwidth = bin_years,
+#              geom = "step", size = 3,
+#              color = INBOgreen) +
+#     annotate("text",
+#              x = max(checklist$firstObservationYearBE) + 1.,
+#              y = sum(checklist$habitat_short == "terrestrial"),
+#              label = as.character(sum(checklist$habitat_short == "terrestrial")),
+#              size = 8, color = INBOgreen) +
+#     stat_bin(data = subset(checklist, habitat_short == "freshwater"),
+#              aes(y = cumsum(..count..)),
+#              binwidth = bin_years,
+#              geom = "step", size = 3, color = INBOblue) +
+#     annotate("text",
+#              x = max(checklist$firstObservationYearBE) + 1.,
+#              y = sum(checklist$habitat_short == "freshwater"),
+#              label = as.character(sum(checklist$habitat_short == "freshwater")),
+#              size = 8, color = INBOblue) +
+#     stat_bin(data = subset(checklist, habitat_short == "marine"),
+#                    aes(y = cumsum(..count..)),
+#                     binwidth = bin_years,
+#                    geom = "step", size = 3, color = INBOreddishbrown) +
+#     annotate("text",
+#              x = max(checklist$firstObservationYearBE) + 1.,
+#              y = sum(checklist$habitat_short == "marine") - 3,
+#              label = as.character(sum(checklist$habitat_short == "marine")),
+#              size = 8, color = INBOreddishbrown) +
+#     stat_bin(data = subset(checklist, habitat_short == "estuarine"),
+#                    aes(y = cumsum(..count..)),
+#                    binwidth = bin_years,
+#                    geom = "step", size = 3, color = INBOdarkgreen) +
+#     annotate("text",
+#              x = max(checklist$firstObservationYearBE) + 1.,
+#              y = sum(checklist$habitat_short == "estuarine"),
+#              label = as.character(sum(checklist$habitat_short == "estuarine")),
+#              size = 8, color = INBOdarkgreen) +
+#     annotate("text",
+#              x = max(checklist$firstObservationYearBE) - 3,
+#              y = max(table(checklist$habitat_short)) + 4,
+#              label = paste("Totaal: ", as.character(nrow(checklist))),
+#              size = 8, color = INBOred) +
+#     xlab("") +
+#     ylab("Aantal uitheemse soorten") +
+#     theme_inbo2015(base_size = 14) +
+#     theme(legend.position = "top",
+#           legend.title = element_blank(),
+#           legend.text = element_text((size = 14)))
+#
+# ggsave("cumulatief_aantal_invasieve.png", width = 33, height = 25,
+#        units = "cm", dpi = 150)
 
 
 
