@@ -1,153 +1,153 @@
-name	kingdom	nameMatchValidation	euConcernStatus	gbifapi_usageKey	gbifapi_scientificName	gbifapi_canonicalName	gbifapi_status	gbifapi_rank	gbifapi_matchType	gbifapi_confidence	gbifapi_acceptedKey	gbifapi_acceptedScientificName	nbnTaxonID	NBN_scientificName
-Acer negundo	Plantae	ok	under consideration	3189866	Acer negundo L.	Acer negundo	ACCEPTED	SPECIES	EXACT	100	3189866	Acer negundo L.	NBNSYS0000014604	Acer negundo
-Alopochen aegyptiaca	Animalia	ok	under consideration	2498252	Alopochen aegyptiaca (Linnaeus, 1766)	Alopochen aegyptiaca	ACCEPTED	SPECIES	EXACT	100	2498252	Alopochen aegyptiaca (Linnaeus, 1766)	NHMSYS0001689380	Alopochen aegyptiacus
-Alternanthera philoxeroides	Plantae	ok	under consideration	3084923	Alternanthera philoxeroides (Mart.) Griseb.	Alternanthera philoxeroides	ACCEPTED	SPECIES	EXACT	100	3084923	Alternanthera philoxeroides (Mart.) Griseb.		
-Ameiurus melas	Animalia	ok	under consideration	2340977	Ameiurus melas (Rafinesque, 1820)	Ameiurus melas	ACCEPTED	SPECIES	EXACT	100	2340977	Ameiurus melas (Rafinesque, 1820)	NHMSYS0000544615	Ameiurus melas
-Asclepias syriaca	Plantae	ok	under consideration	3170247	Asclepias syriaca L.	Asclepias syriaca	ACCEPTED	SPECIES	EXACT	100	3170247	Asclepias syriaca L.	INBSYS0000005932	Asclepias syriaca
-Symphyotrichum salignum	Plantae	ok: DOUBTFUL		3151811	Symphyotrichum salignum (Willd.) G.L.Nesom	Symphyotrichum salignum	DOUBTFUL	SPECIES	EXACT	100	3151811	Symphyotrichum salignum (Willd.) G.L.Nesom	NBNSYS0000004434	
-Baccharis halimifolia	Plantae	ok: DOUBTFUL	listed	3129663	Baccharis halimifolia L.	Baccharis halimifolia	DOUBTFUL	SPECIES	EXACT	99	3129663	Baccharis halimifolia L.		
-Bison bison	Animalia	ok	under consideration	2441176	Bison bison (Linnaeus, 1758)	Bison bison	ACCEPTED	SPECIES	EXACT	100	2441176	Bison bison (Linnaeus, 1758)		
-Cabomba caroliniana	Plantae	ok	listed	2882443	Cabomba caroliniana A. Gray	Cabomba caroliniana	ACCEPTED	SPECIES	EXACT	100	2882443	Cabomba caroliniana A. Gray	NHMSYS0000456744	Cabomba caroliniana
-Callosciurus erythraeus	Animalia	ok	listed	2437394	Callosciurus erythraeus (Pallas, 1779)	Callosciurus erythraeus	ACCEPTED	SPECIES	EXACT	100	2437394	Callosciurus erythraeus (Pallas, 1779)	INBSYS0000012711	Callosciurus erythraeus
-Caprella mutica	Animalia	ok	not listed	5178057	Caprella mutica Schurin, 1935	Caprella mutica	ACCEPTED	SPECIES	EXACT	100	5178057	Caprella mutica Schurin, 1935	INBSYS0000046323	Caprella mutica
-Castor canadensis	Animalia	ok		2439838	Castor canadensis Kuhl, 1820	Castor canadensis	ACCEPTED	SPECIES	EXACT	100	2439838	Castor canadensis Kuhl, 1820	INBSYS0000012718,INBSYS0000032589	Castor canadensis,Castor canadensis
-Celastrus orbiculatus	Plantae	ok		8104460	Celastrus orbiculatus C.P. Thunberg ex A. Murray	Celastrus orbiculatus	ACCEPTED	SPECIES	EXACT	100	8104460	Celastrus orbiculatus C.P. Thunberg ex A. Murray	NHMSYS0100000968	Celastrus orbiculatus
-Corvus splendens	Animalia	ok	listed	2482499	Corvus splendens Vieillot, 1817	Corvus splendens	ACCEPTED	SPECIES	EXACT	100	2482499	Corvus splendens Vieillot, 1817		
-Cotoneaster ambiguus	Plantae	ok		3025858	Cotoneaster ambiguus Rehd. & E.H. Wilson	Cotoneaster ambiguus	ACCEPTED	SPECIES	EXACT	100	3025858	Cotoneaster ambiguus Rehd. & E.H. Wilson	NHMSYS0000457622	Cotoneaster pseudoambiguus
-Cotoneaster ascendens	Plantae	ok		3026024	Cotoneaster ascendens Flinck & B. Hylmö	Cotoneaster ascendens	ACCEPTED	SPECIES	EXACT	100	3026024	Cotoneaster ascendens Flinck & B. Hylmö	NHMSYS0000457556	Cotoneaster ascendens
-Cotoneaster boisianus	Plantae	ok: SYNONYM verified		3026167	Cotoneaster boisianus G. Klotz	Cotoneaster boisianus	SYNONYM	SPECIES	EXACT	100	3026295	Cotoneaster bullatus var. floribundus (Stapf) L. T. Lu & A. R. Brach	NBNSYS0100002625	Cotoneaster boisianus
-Cotoneaster bullatus	Plantae	ok		3026294	Cotoneaster bullatus Bois in Bilm. & Bois	Cotoneaster bullatus	ACCEPTED	SPECIES	EXACT	100	3026294	Cotoneaster bullatus Bois in Bilm. & Bois	NBNSYS0000004710	Cotoneaster bullatus
-Cotoneaster conspicuus	Plantae	ok		3025875	Cotoneaster conspicuus H. F. Comber ex C. Marquand	Cotoneaster conspicuus	ACCEPTED	SPECIES	EXACT	100	3025875	Cotoneaster conspicuus H. F. Comber ex C. Marquand	NHMSYS0000457572	Cotoneaster conspicuus
-Cotoneaster coriaceus	Plantae	ok		3026035	Cotoneaster coriaceus Franch.	Cotoneaster coriaceus	ACCEPTED	SPECIES	EXACT	100	3026035	Cotoneaster coriaceus Franch.	NHMSYS0000457601	Cotoneaster lacteus
-Cotoneaster dammeri	Plantae	ok		3026049	Cotoneaster dammeri C.K. Schneid.	Cotoneaster dammeri	ACCEPTED	SPECIES	EXACT	100	3026049	Cotoneaster dammeri C.K. Schneid.	NHMSYS0000457575,INBSYS0000011373	Cotoneaster dammeri,Cotoneaster dammeri
-Cotoneaster dielsianus	Plantae	ok		3025896	Cotoneaster dielsianus E. Pritz.	Cotoneaster dielsianus	ACCEPTED	SPECIES	EXACT	100	3025896	Cotoneaster dielsianus E. Pritz.	NBNSYS0000014211,NHMSYS0000457576,INBSYS0000005539,NBNSYS0100002637	Cotoneaster dielsianus,Cotoneaster dielsianus,Cotoneaster dielsianus,Cotoneaster vilmorinianus
-Cotoneaster divaricatus	Plantae	ok		3026334	Cotoneaster divaricatus Rehd. & E.H. Wilson	Cotoneaster divaricatus	ACCEPTED	SPECIES	EXACT	100	3026334	Cotoneaster divaricatus Rehd. & E.H. Wilson	NBNSYS0000014035	Cotoneaster divaricatus
-Cotoneaster fangianus	Plantae	ok		3025932	Cotoneaster fangianus T.T. Yu	Cotoneaster fangianus	ACCEPTED	SPECIES	EXACT	100	3025932	Cotoneaster fangianus T.T. Yu	NBNSYS0100002626	Cotoneaster fangianus
-Cotoneaster franchetii	Plantae	ok		3026162	Cotoneaster franchetii Boiss.	Cotoneaster franchetii	ACCEPTED	SPECIES	EXACT	100	3026162	Cotoneaster franchetii Boiss.	NBNSYS0000014170,NHMSYS0000457598,NHMSYS0000457569,NBNSYS0000004711,NHMSYS0000457554	Cotoneaster insculptus,Cotoneaster induratus,Cotoneaster cinerascens,Cotoneaster franchetii,Cotoneaster amoenus
-Cotoneaster ganghobaensis	Plantae	wrong: SYNONYM invalid		3025989	Cotoneaster ganghobaensis J. Fryer & B. Hylmö	Cotoneaster ganghobaensis	SYNONYM	SPECIES	EXACT	100	3026007	Cotoneaster lambertii G. Klotz		
-Cotoneaster hjelmqvistii	Plantae	ok		3026092	Cotoneaster hjelmqvistii K.E. Flinck & B. Hylmö	Cotoneaster hjelmqvistii	ACCEPTED	SPECIES	EXACT	100	3026092	Cotoneaster hjelmqvistii K.E. Flinck & B. Hylmö	NHMSYS0000457586,NBNSYS0000014085	Cotoneaster hjelmqvistii,Cotoneaster hjelmqvistii
-Cotoneaster horizontalis	Plantae	ok		3025617	Cotoneaster horizontalis Decne	Cotoneaster horizontalis	ACCEPTED	SPECIES	EXACT	100	3025617	Cotoneaster horizontalis Decne	NBNSYS0000003425,NBNSYS0000034267,NBNSYS0000042601,NHMSYS0000457558,INBSYS0000005538	Cotoneaster horizontalis,Cotoneaster atropurpureus,Cotoneaster horizontalis agg.,Cotoneaster atropurpureus,Cotoneaster horizontalis
-Cotoneaster hylmoei	Plantae	ok: SYNONYM verified		3025758	Cotoneaster hylmoei K.E. Flinck & J. Fryer	Cotoneaster hylmoei	SYNONYM	SPECIES	EXACT	100	3026076	Cotoneaster salicifolius var. rugosus (E. Pritz.) Rehd. & E.H. Wilson	NBNSYS0100002628	Cotoneaster hylmoei
-Cotoneaster integrifolius	Plantae	ok		7671502	Cotoneaster integrifolius (Lindl.) Koehne	Cotoneaster integrifolius	ACCEPTED	SPECIES	EXACT	100	7671502	Cotoneaster integrifolius (Lindl.) Koehne		
-Cotoneaster lucidus	Plantae	ok: SYNONYM verified		3025769	Cotoneaster lucidus Schltdl.	Cotoneaster lucidus	SYNONYM	SPECIES	EXACT	100	3026061	Cotoneaster acutifolius var. lucidus (Schltdl.) L. T. Lu	NHMSYS0000457606	Cotoneaster lucidus
-Cotoneaster mairei	Plantae	ok		3025944	Cotoneaster mairei	Cotoneaster mairei	ACCEPTED	SPECIES	EXACT	100	3025944	Cotoneaster mairei	NHMSYS0000457607	Cotoneaster mairei
-Cotoneaster moupinensis	Plantae	ok		3025731	Cotoneaster moupinensis Franch.	Cotoneaster moupinensis	ACCEPTED	SPECIES	EXACT	100	3025731	Cotoneaster moupinensis Franch.	NHMSYS0000457612,NBNSYS0000013945	Cotoneaster moupinensis,Cotoneaster moupinensis
-Cotoneaster nanshan	Plantae	ok		3025935	Cotoneaster nanshan Mottet	Cotoneaster nanshan	ACCEPTED	SPECIES	EXACT	100	3025935	Cotoneaster nanshan Mottet	NHMSYS0000457616	Cotoneaster nanshan
-Cotoneaster qungbixiensis	Plantae	ok		3025907	Cotoneaster qungbixiensis J.Fryer & B.Hylmö	Cotoneaster qungbixiensis	ACCEPTED	SPECIES	EXACT	100	3025907	Cotoneaster qungbixiensis J.Fryer & B.Hylmö		
-Cotoneaster rehderi	Plantae	ok: SYNONYM verified		3026160	Cotoneaster rehderi Pojark	Cotoneaster rehderi	SYNONYM	SPECIES	EXACT	100	3026161	Cotoneaster bullatus var. macrophyllus Rehder & E. H. Wilson	INBSYS0000005534	Cotoneaster rehderi
-Cotoneaster salicifolius	Plantae	ok		3026074	Cotoneaster salicifolius Franch.	Cotoneaster salicifolius	ACCEPTED	SPECIES	EXACT	100	3026074	Cotoneaster salicifolius Franch.	NBNSYS0000013979,NHMSYS0000457626	Cotoneaster salicifolius,Cotoneaster salicifolius
-Cotoneaster simonsii	Plantae	ok		3026107	Cotoneaster simonsii Baker	Cotoneaster simonsii	ACCEPTED	SPECIES	EXACT	100	3026107	Cotoneaster simonsii Baker	NBNSYS0000003424	Cotoneaster simonsii
-Cotoneaster sternianus	Plantae	wrong: SYNONYM invalid		3026154	Cotoneaster sternianus (Turrill) Boom	Cotoneaster sternianus	SYNONYM	SPECIES	EXACT	100	3026155	Cotoneaster franchetii var. sternianus Turrill	NBNSYS0000033983	Cotoneaster sternianus
-Cotoneaster villosulus	Plantae	ok: SYNONYM verified		3025564	Cotoneaster villosulus (Rehder & E.H. Wilson) Flinck & B. Hylmö	Cotoneaster villosulus	SYNONYM	SPECIES	EXACT	100	3025565	Cotoneaster acutifolius var. villosulus Rehd. & E.H. Wilson	NHMSYS0000457594,INBSYS0000005533,INBSYS0000009453,NBNSYS0000034264,NHMSYS0000457636	Cotoneaster hummelii,Cotoneaster villosulus,Cotoneaster villosulus,Cotoneaster villosulus,Cotoneaster villosulus
-Cotoneaster x suecicus	Plantae	ok		3026040	Cotoneaster ×suecicus G. Klotz	Cotoneaster suecicus	ACCEPTED	SPECIES	EXACT	100	3026040	Cotoneaster ×suecicus G. Klotz	NBNSYS0000014763,NBNSYS0000014875,INBSYS0000005532,NBNSYS0000014614	Cotoneaster x suecicus 'Skogholm',Cotoneaster x suecicus,Cotoneaster x suecicus,Cotoneaster x suecicus 'Coral Beauty'
-Cotoneaster x watereri	Plantae	ok		3026004	Cotoneaster ×watereri Exell	Cotoneaster watereri	ACCEPTED	SPECIES	EXACT	100	3026004	Cotoneaster ×watereri Exell	NBNSYS0000004713	Cotoneaster x watereri
-Cotoneaster zabelii	Plantae	ok		3025605	Cotoneaster zabelii C.K. Schneid.	Cotoneaster zabelii	ACCEPTED	SPECIES	EXACT	100	3025605	Cotoneaster zabelii C.K. Schneid.	NHMSYS0000457641	Cotoneaster zabelii
-Crepidula fornicata	Animalia	ok	not listed	5192789	Crepidula fornicata (Linnaeus, 1758)	Crepidula fornicata	ACCEPTED	SPECIES	EXACT	100	5192789	Crepidula fornicata (Linnaeus, 1758)	NBNSYS0000174750	Crepidula fornicata
-Didemnum vexillum	Animalia	ok	not listed	2329770	Didemnum vexillum Romanov, 1989	Didemnum vexillum	ACCEPTED	SPECIES	EXACT	100	2329770	Didemnum vexillum Romanov, 1989		
-Eichhornia crassipes	Plantae	ok	listed	2765940	Eichhornia crassipes (Mart.) Solms	Eichhornia crassipes	ACCEPTED	SPECIES	EXACT	100	2765940	Eichhornia crassipes (Mart.) Solms	NHMSYS0000458290,INBSYS0000005391	Eichhornia crassipes,Eichhornia crassipes
-Elodea nuttallii	Plantae	ok	under consideration	5329212	Elodea nuttallii (Planch.) H.St.John	Elodea nuttallii	ACCEPTED	SPECIES	EXACT	100	5329212	Elodea nuttallii (Planch.) H.St.John	NHMSYS0000458329,INBSYS0000005372	Elodea nuttallii,Elodea nuttallii
-Eriocheir sinensis	Animalia	ok	listed	2225776	Eriocheir sinensis H. Milne Edwards, 1853	Eriocheir sinensis	ACCEPTED	SPECIES	EXACT	100	2225776	Eriocheir sinensis H. Milne Edwards, 1853	NHMSYS0001593547	Eriocheir sinensis
-Fallopia bohemica	Plantae	ok: SYNONYM verified	under preparation	5652296	Fallopia bohemica (Chrtek & Chrtková) J.P. Bailey	Fallopia bohemica	SYNONYM	SPECIES	EXACT	100	4038485	Reynoutria bohemica J. Chrtek & A. Chrtková	INBSYS0000005251,INBSYS0000033059	Fallopia x bohemica,Reynoutria x bohemica
-Fraxinus pennsylvanica	Plantae	ok		3172348	Fraxinus pennsylvanica Marshall	Fraxinus pennsylvanica	ACCEPTED	SPECIES	EXACT	100	3172348	Fraxinus pennsylvanica Marshall	INBSYS0000005186	Fraxinus pennsylvanica
-Gaillardia grandiflora	Plantae	ok: SYNONYM author variation		8440418	Gaillardia grandiflora Hort.	Gaillardia grandiflora	SYNONYM	SPECIES	EXACT	100	5387817	Gaillardia grandiflora Hort. ex Van Houtte	NBNSYS0000033914	Gaillardia x grandiflora
-Gunnera manicata	Plantae	ok	under consideration	8078925	Gunnera manicata Linden	Gunnera manicata	ACCEPTED	SPECIES	EXACT	100	8078925	Gunnera manicata Linden	NBNSYS0000003613,NHMSYS0000459162	Gunnera manicata,Gunnera manicata
-Gunnera tinctoria	Plantae	ok	under consideration	2984306	Gunnera tinctoria (Molina) Mirbel	Gunnera tinctoria	ACCEPTED	SPECIES	EXACT	100	2984306	Gunnera tinctoria (Molina) Mirbel	NBNSYS0000147973,NHMSYS0000459164,NBNSYS0000003612	Gunnera chilensis,Gunnera tinctoria,Gunnera tinctoria
-Heracleum mantegazzianum	Plantae	ok	under consideration	3034825	Heracleum mantegazzianum Sommier & Levier	Heracleum mantegazzianum	ACCEPTED	SPECIES	EXACT	100	3034825	Heracleum mantegazzianum Sommier & Levier	INBSYS0000005076	Heracleum mantegazzianum
-Heracleum persicum	Plantae	ok	listed	3628745	Heracleum persicum Desf.	Heracleum persicum	ACCEPTED	SPECIES	EXACT	100	3628745	Heracleum persicum Desf.		
-Heracleum sosnowskyi	Plantae	ok	listed	3642949	Heracleum sosnowskyi Manden.	Heracleum sosnowskyi	ACCEPTED	SPECIES	EXACT	100	3642949	Heracleum sosnowskyi Manden.	INBSYS0000032618	Heracleum sosnowskyi
-Herpestes javanicus	Animalia	ok	listed	2434271	Herpestes javanicus	Herpestes javanicus	ACCEPTED	SPECIES	EXACT	100	2434271	Herpestes javanicus	INBSYS0000032619	Herpestes javanicus
-Homarus americanus	Animalia	ok	under consideration	5972004	Homarus americanus H. Milne Edwards, 1837	Homarus americanus	ACCEPTED	SPECIES	EXACT	100	5972004	Homarus americanus H. Milne Edwards, 1837	INBSYS0000032621	Homarus americanus
-Hyacinthoides hispanica	Plantae	ok		5304257	Hyacinthoides hispanica (Mill.) Rothm.	Hyacinthoides hispanica	ACCEPTED	SPECIES	EXACT	100	5304257	Hyacinthoides hispanica (Mill.) Rothm.	NBNSYS0000002186,NHMSYS0000459784	Hyacinthoides hispanica,Hyacinthoides hispanica
-Hydrocotyle ranunculoides	Plantae	ok	listed	7978544	Hydrocotyle ranunculoides L. fil.	Hydrocotyle ranunculoides	ACCEPTED	SPECIES	EXACT	100	7978544	Hydrocotyle ranunculoides L. fil.	NHMSYS0000459812	Hydrocotyle ranunculoides
-Impatiens balfourii	Plantae	ok		2891783	Impatiens balfourii Hook. fil.	Impatiens balfourii	ACCEPTED	SPECIES	EXACT	100	2891783	Impatiens balfourii Hook. fil.	NHMSYS0000459879	Impatiens balfourii
-Impatiens capensis	Plantae	ok		2891774	Impatiens capensis Meerb.	Impatiens capensis	ACCEPTED	SPECIES	EXACT	100	2891774	Impatiens capensis Meerb.	NBNSYS0000003187	Impatiens capensis
-Impatiens edgeworthii	Plantae	ok		4936345	Impatiens edgeworthii Hook. fil.	Impatiens edgeworthii	ACCEPTED	SPECIES	EXACT	100	4936345	Impatiens edgeworthii Hook. fil.		
-Impatiens glandulifera	Plantae	ok	under consideration	2891770	Impatiens glandulifera Royle	Impatiens glandulifera	ACCEPTED	SPECIES	EXACT	100	2891770	Impatiens glandulifera Royle	NBNSYS0000003189	Impatiens glandulifera
-Lagarosiphon major	Plantae	ok	listed	2865565	Lagarosiphon major (Ridl.) Moss	Lagarosiphon major	ACCEPTED	SPECIES	EXACT	100	2865565	Lagarosiphon major (Ridl.) Moss	NHMSYS0000460065,NBNSYS0000002117	Lagarosiphon major,Lagarosiphon major
-Lepomis gibbosus	Animalia	ok	under consideration	2394486	Lepomis gibbosus (Linnaeus, 1758)	Lepomis gibbosus	ACCEPTED	SPECIES	EXACT	100	2394486	Lepomis gibbosus (Linnaeus, 1758)	NHMSYS0000544687,NBNSYS0000005043	Lepomis gibbosus,Lepomis gibbosus
-Lithobates catesbeianus	Animalia	ok	listed	2427091	Lithobates catesbeianus (Shaw, 1802)	Lithobates catesbeianus	ACCEPTED	SPECIES	EXACT	100	2427091	Lithobates catesbeianus (Shaw, 1802)	NHMSYS0020194859	Lithobates catesbeianus
-Ludwigia grandiflora	Plantae	ok	listed	5421039	Ludwigia grandiflora (Michaux) Greuter & Burdet	Ludwigia grandiflora	ACCEPTED	SPECIES	EXACT	100	5421039	Ludwigia grandiflora (Michaux) Greuter & Burdet	INBSYS0000004874,NHMSYS0000460478	Ludwigia grandiflora,Ludwigia grandiflora
-Ludwigia peploides	Plantae	ok	listed	5420991	Ludwigia peploides (Kunth) P. H. Raven	Ludwigia peploides	ACCEPTED	SPECIES	EXACT	100	5420991	Ludwigia peploides (Kunth) P. H. Raven	INBSYS0000004871	Ludwigia peploides
-Lupinus polyphyllus	Plantae	ok	under consideration	2964355	Lupinus polyphyllus Lindl.	Lupinus polyphyllus	ACCEPTED	SPECIES	EXACT	100	2964355	Lupinus polyphyllus Lindl.	NHMSYS0000460488,NHMSYS0000460487	Lupinus polyphyllus agg.,Lupinus polyphyllus
-Lysichiton americanus	Plantae	ok	listed	2869311	Lysichiton americanus Hultén & H.St.John	Lysichiton americanus	ACCEPTED	SPECIES	EXACT	100	2869311	Lysichiton americanus Hultén & H.St.John	INBSYS0000004845,NBNSYS0000002350,NHMSYS0000460540	Lysichiton americanus,Lysichiton americanus,Lysichiton americanus
-Lysichiton camtschatcensis	Plantae	ok		2869301	Lysichiton camtschatcensis (L.) Schott	Lysichiton camtschatcensis	ACCEPTED	SPECIES	EXACT	100	2869301	Lysichiton camtschatcensis (L.) Schott	NBNSYS0000033298	Lysichiton camtschatcensis
-Micropterus dolomieu	Animalia	ok		5211250	Micropterus dolomieu Lacepède, 1802	Micropterus dolomieu	ACCEPTED	SPECIES	EXACT	100	5211250	Micropterus dolomieu Lacepède, 1802		
-Microstegium vimineum	Plantae	ok	under consideration	5289808	Microstegium vimineum (Trin.) A.Camus	Microstegium vimineum	ACCEPTED	SPECIES	EXACT	100	5289808	Microstegium vimineum (Trin.) A.Camus		
-Muntiacus reevesi	Animalia	ok	listed	2440946	Muntiacus reevesi (Ogilby, 1839)	Muntiacus reevesi	ACCEPTED	SPECIES	EXACT	100	2440946	Muntiacus reevesi (Ogilby, 1839)	INBSYS0000032642,INBSYS0000012720,NBNSYS0000005147,NHMSYS0000080204	Muntiacus reevesii,Muntiacus reevesii,Muntiacus reevesi,Muntiacus reevesi
-Neovison vison	Animalia	ok		2433652	Neovison vison (Schreber, 1777)	Neovison vison	ACCEPTED	SPECIES	EXACT	100	2433652	Neovison vison (Schreber, 1777)	NHMSYS0000332758	Mustela vison
-Myocastor coypus	Animalia	ok	listed	4264680	Myocastor coypus (Molina, 1782)	Myocastor coypus	ACCEPTED	SPECIES	EXACT	100	4264680	Myocastor coypus (Molina, 1782)	NHMSYS0000080217	Myocastor coypus
-Myriophyllum aquaticum	Plantae	ok	listed	5361785	Myriophyllum aquaticum (Vellozo) Verdcourt	Myriophyllum aquaticum	ACCEPTED	SPECIES	EXACT	100	5361785	Myriophyllum aquaticum (Vellozo) Verdcourt	INBSYS0000004739,NHMSYS0000460832,NBNSYS0000014129	Myriophyllum aquaticum,Myriophyllum aquaticum,Myriophyllum aquaticum
-Myriophyllum heterophyllum	Plantae	ok	under consideration	5361762	Myriophyllum heterophyllum Michx.	Myriophyllum heterophyllum	ACCEPTED	SPECIES	EXACT	100	5361762	Myriophyllum heterophyllum Michx.	NHMSYS0000460834,NBNSYS0000003611	Myriophyllum heterophyllum,Myriophyllum heterophyllum
-Nasua nasua	Animalia	ok	listed	2433536	Nasua nasua (Linnaeus, 1766)	Nasua nasua	ACCEPTED	SPECIES	EXACT	100	2433536	Nasua nasua (Linnaeus, 1766)	INBSYS0000012724	Nasua nasua
-Nyctereutes procyonoides	Animalia	ok	under consideration	2434552	Nyctereutes procyonoides (Gray, 1834)	Nyctereutes procyonoides	ACCEPTED	SPECIES	EXACT	100	2434552	Nyctereutes procyonoides (Gray, 1834)	INBSYS0000012539	Nyctereutes procyonoides
-Oenothera affinis	Plantae	ok		3188847	Oenothera affinis Camb.	Oenothera affinis	ACCEPTED	SPECIES	EXACT	100	3188847	Oenothera affinis Camb.	INBSYS0000009677,NBNSYS0200002718	Oenothera affinis,Oenothera affinis
-Oenothera angustissima	Plantae	ok		3188889	Oenothera angustissima Gates	Oenothera angustissima	ACCEPTED	SPECIES	EXACT	100	3188889	Oenothera angustissima Gates	INBSYS0000009678,NHMSYS0000461156	Oenothera angustissima,Oenothera rubricuspis
-Oenothera oakesiana	Plantae	ok		3188884	Oenothera oakesiana (A. Gray) S. Watson	Oenothera oakesiana	ACCEPTED	SPECIES	EXACT	100	3188884	Oenothera oakesiana (A. Gray) S. Watson	INBSYS0000009684	Oenothera oakesiana
-Oenothera biennis	Plantae	ok		3188924	Oenothera biennis L.	Oenothera biennis	ACCEPTED	SPECIES	EXACT	100	3188924	Oenothera biennis L.	NBNSYS0000003599	Oenothera biennis
-Oenothera pycnocarpa	Plantae	ok		3188926	Oenothera pycnocarpa Atkinson & Bartlett	Oenothera pycnocarpa	ACCEPTED	SPECIES	EXACT	100	3188926	Oenothera pycnocarpa Atkinson & Bartlett	INBSYS0000009686	Oenothera pycnocarpa
-Oenothera cambrica	Plantae	ok		7322292	Oenothera cambrica K. Rostanski	Oenothera cambrica	ACCEPTED	SPECIES	EXACT	100	7322292	Oenothera cambrica K. Rostanski	INBSYS0000009679,NBNSYS0000004772	Oenothera cambrica,Oenothera cambrica
-Oenothera cruciata	Plantae	no match							NONE Multiple equal matches for Oenothera cruciata					
-Oenothera curtiflora	Plantae	ok		3667406	Oenothera curtiflora W.L.Wagner & Hoch	Oenothera curtiflora	ACCEPTED	SPECIES	EXACT	100	3667406	Oenothera curtiflora W.L.Wagner & Hoch		
-Oenothera deflexa	Plantae	ok		7322773	Oenothera deflexa Gates	Oenothera deflexa	ACCEPTED	SPECIES	EXACT	100	7322773	Oenothera deflexa Gates	INBSYS0000004698,NBNSYS0200002724	Oenothera deflexa,Oenothera lipsiensis
-Oenothera depressa	Plantae	ok: SYNONYM verified		6428493	Oenothera depressa Greene	Oenothera depressa	SYNONYM	SPECIES	EXACT	100	6427623	Oenothera villosa subsp. villosa	INBSYS0000009681	Oenothera depressa
-Oenothera elata	Plantae	ok		3188829	Oenothera elata Kunth	Oenothera elata	ACCEPTED	SPECIES	EXACT	100	3188829	Oenothera elata Kunth	INBSYS0000009682	Oenothera elata
-Oenothera fruticosa subsp. glauca	Plantae	ok		8637919	Oenothera fruticosa subsp. glauca (Michx.) Straley	Oenothera fruticosa glauca	ACCEPTED	SUBSPECIES	EXACT	100	8637919	Oenothera fruticosa subsp. glauca (Michx.) Straley		
-Oenothera glazioviana	Plantae	ok		3188894	Oenothera glazioviana M. Micheli	Oenothera glazioviana	ACCEPTED	SPECIES	EXACT	100	3188894	Oenothera glazioviana M. Micheli	NHMSYS0000461148,INBSYS0000004697,NBNSYS0000003600	Oenothera glazioviana,Oenothera glazioviana,Oenothera glazioviana
-Oenothera indecora	Plantae	ok		7322393	Oenothera indecora Camb.	Oenothera indecora	ACCEPTED	SPECIES	EXACT	100	7322393	Oenothera indecora Camb.	NBNSYS0200002722	Oenothera indecora
-Oenothera laciniata	Plantae	ok		3188867	Oenothera laciniata Hill	Oenothera laciniata	ACCEPTED	SPECIES	EXACT	100	3188867	Oenothera laciniata Hill	NBNSYS0200002723	Oenothera laciniata
-Oenothera lindheimeri	Plantae	ok		3664589	Oenothera lindheimeri (Engelm. & A.Gray) W.L.Wagner & Hoch	Oenothera lindheimeri	ACCEPTED	SPECIES	EXACT	100	3664589	Oenothera lindheimeri (Engelm. & A.Gray) W.L.Wagner & Hoch		
-Oenothera nuda	Plantae	ok		3667628	Oenothera nuda Renner ex Rostanski	Oenothera nuda	ACCEPTED	SPECIES	EXACT	100	3667628	Oenothera nuda Renner ex Rostanski		
-Oenothera oehlkersii	Plantae	ok		8153538	Oenothera oehlkersii A. Kappus	Oenothera oehlkersii	ACCEPTED	SPECIES	EXACT	100	8153538	Oenothera oehlkersii A. Kappus	INBSYS0000004694,INBSYS0000009685	Oenothera oehlkersi,Oenothera oehlkersii
-Oenothera x fallax	Plantae	ok		7915783	Oenothera fallax Renner	Oenothera fallax	ACCEPTED	SPECIES	EXACT	100	7915783	Oenothera fallax Renner	NBNSYS0000004774,NHMSYS0100002165	Oenothera fallax,Oenothera x fallax
-Oenothera paradoxa	Plantae	ok		3667238	Oenothera paradoxa Hudziok	Oenothera paradoxa	ACCEPTED	SPECIES	EXACT	100	3667238	Oenothera paradoxa Hudziok		
-Oenothera parviflora	Plantae	ok		3188833	Oenothera parviflora L.	Oenothera parviflora	ACCEPTED	SPECIES	EXACT	100	3188833	Oenothera parviflora L.	NBNSYS0000003602	Oenothera parviflora
-Oenothera perangusta	Plantae	ok		7322738	Oenothera perangusta Gates	Oenothera perangusta	ACCEPTED	SPECIES	EXACT	100	7322738	Oenothera perangusta Gates	NBNSYS0000013948	Oenothera perangusta
-Oenothera perennis	Plantae	ok		3188838	Oenothera perennis L.	Oenothera perennis	ACCEPTED	SPECIES	EXACT	100	3188838	Oenothera perennis L.	NBNSYS0200002726	Oenothera perennis
-Oenothera rosea	Plantae	ok		3188875	Oenothera rosea Aiton	Oenothera rosea	ACCEPTED	SPECIES	EXACT	100	3188875	Oenothera rosea Aiton	NBNSYS0000005672,NBNSYS0200003883,INBSYS0000009687	Oenothera rosea,Oenothera rosea,Oenothera rosea
-Oenothera royfraseri	Plantae	ok		3665940	Oenothera royfraseri R.R.Gates	Oenothera royfraseri	ACCEPTED	SPECIES	EXACT	100	3665940	Oenothera royfraseri R.R.Gates		
-Oenothera rubricaulis	Plantae	ok		7322529	Oenothera rubricaulis Klebahn	Oenothera rubricaulis	ACCEPTED	SPECIES	EXACT	100	7322529	Oenothera rubricaulis Klebahn	INBSYS0000004692	Oenothera rubricaulis
-Oenothera rubricalyx	Plantae	ok: SYNONYM verified		3665866	Oenothera rubricalyx R.R.Gates	Oenothera rubricalyx	SYNONYM	SPECIES	EXACT	100	7322738	Oenothera perangusta Gates	NBNSYS0000013948	Oenothera perangusta
-Oenothera rubricauloides	Plantae	ok		3665817	Oenothera rubricauloides Rostanski	Oenothera rubricauloides	ACCEPTED	SPECIES	EXACT	100	3665817	Oenothera rubricauloides Rostanski		
-Oenothera speciosa	Plantae	ok		3188859	Oenothera speciosa Nutt.	Oenothera speciosa	ACCEPTED	SPECIES	EXACT	100	3188859	Oenothera speciosa Nutt.		
-Oenothera stricta	Plantae	ok		3188830	Oenothera stricta Ledeb. ex Link	Oenothera stricta	ACCEPTED	SPECIES	EXACT	100	3188830	Oenothera stricta Ledeb. ex Link	INBSYS0000004691	Oenothera stricta
-Oenothera subterminalis	Plantae	ok		3664677	Oenothera subterminalis R.R.Gates	Oenothera subterminalis	ACCEPTED	SPECIES	EXACT	100	3664677	Oenothera subterminalis R.R.Gates	INBSYS0000004690	Oenothera subterminalis
-Oenothera victorini	Plantae	ok		7322143	Oenothera victorinii Gates & Catcheside	Oenothera victorinii	ACCEPTED	SPECIES	FUZZY	99	7322143	Oenothera victorinii Gates & Catcheside	INBSYS0000004689	Oenothera victorini
-Oenothera wratislaviensis	Plantae	ok		3667721	Oenothera wratislaviensis Rostanski	Oenothera wratislaviensis	ACCEPTED	SPECIES	EXACT	100	3667721	Oenothera wratislaviensis Rostanski		
-Oenothera x issleri	Plantae	ok		7322373	Oenothera issleri Renn. ex Rostanski	Oenothera issleri	ACCEPTED	SPECIES	EXACT	100	7322373	Oenothera issleri Renn. ex Rostanski	INBSYS0000009691	Oenothera x issleri
-Ondatra zibethicus	Animalia	ok	under consideration	5219858	Ondatra zibethicus (Linnaeus, 1766)	Ondatra zibethicus	ACCEPTED	SPECIES	EXACT	100	5219858	Ondatra zibethicus (Linnaeus, 1766)	INBSYS0000012540,NBNSYS0000040193	Ondatra zibethicus,Ondatra zibethicus
-Orconectes limosus	Animalia	ok	listed	2227000	Orconectes limosus (Rafinesque, 1817)	Orconectes limosus	ACCEPTED	SPECIES	EXACT	100	2227000	Orconectes limosus (Rafinesque, 1817)	NHMSYS0001593792	Orconectes limosus
-Orconectes virilis	Animalia	ok	listed	2227064	Orconectes virilis (Hagen, 1870)	Orconectes virilis	ACCEPTED	SPECIES	EXACT	100	2227064	Orconectes virilis (Hagen, 1870)	INBSYS0000045066	Orconectes virilis
-Oxyura jamaicensis	Animalia	ok	listed	2498305	Oxyura jamaicensis (Gmelin, 1789)	Oxyura jamaicensis	ACCEPTED	SPECIES	EXACT	100	2498305	Oxyura jamaicensis (Gmelin, 1789)	NHMSYS0000530524	Oxyura jamaicensis
-Pacifastacus leniusculus	Animalia	ok	listed	2226990	Pacifastacus leniusculus (Dana, 1852)	Pacifastacus leniusculus	ACCEPTED	SPECIES	EXACT	100	2226990	Pacifastacus leniusculus (Dana, 1852)	NBNSYS0000036962,NHMSYS0000377494	Pacifastacus leniusculus,Pacifastacus leniusculus
-Parthenium hysterophorus	Plantae	ok: DOUBTFUL	listed	3086784	Parthenium hysterophorus L.	Parthenium hysterophorus	DOUBTFUL	SPECIES	EXACT	99	3086784	Parthenium hysterophorus L.		
-Parthenocissus inserta	Plantae	ok: SYNONYM verified		3039203	Parthenocissus inserta (A. Kerner) Fritsch	Parthenocissus inserta	SYNONYM	SPECIES	EXACT	100	3039193	Parthenocissus vitacea (Knerr) A.S. Hitchc.	NBNSYS0000033674,INBSYS0000004603,NHMSYS0000461525	Parthenocissus inserta,Parthenocissus inserta,Parthenocissus inserta
-Parthenocissus quinquefolia	Plantae	ok		3039194	Parthenocissus quinquefolia (L.) Planchon	Parthenocissus quinquefolia	ACCEPTED	SPECIES	EXACT	100	3039194	Parthenocissus quinquefolia (L.) Planchon	NBNSYS0000033673,NHMSYS0000461527	Parthenocissus quinquefolia,Parthenocissus quinquefolia
-Parthenocissus tricuspidata	Plantae	ok		3039209	Parthenocissus tricuspidata (Siebold & Zucc.) Planchon	Parthenocissus tricuspidata	ACCEPTED	SPECIES	EXACT	100	3039209	Parthenocissus tricuspidata (Siebold & Zucc.) Planchon	NHMSYS0000461528,INBSYS0000004602,NBNSYS0000033485	Parthenocissus tricuspidata,Parthenocissus tricuspidata,Parthenocissus tricuspidata
-Pennisetum setaceum	Plantae	ok	under consideration	2706134	Pennisetum setaceum (Forssk.) Chiov.	Pennisetum setaceum	ACCEPTED	SPECIES	EXACT	100	2706134	Pennisetum setaceum (Forssk.) Chiov.		
-Perccottus glenii	Animalia	ok	listed	2390064	Perccottus glenii Dybowski, 1877	Perccottus glenii	ACCEPTED	SPECIES	EXACT	100	2390064	Perccottus glenii Dybowski, 1877	INBSYS0000012722,INBSYS0000032652	Perccottus glenii,Perccottus glenii
-Persicaria perfoliata	Plantae	ok: SYNONYM verified	listed	4033648	Persicaria perfoliata (L.) H. Gross	Persicaria perfoliata	SYNONYM	SPECIES	EXACT	100	4037171	Truellum perfoliatum (L.) Soják	INBSYS0000033046	Polygonum perfoliatum
-Pontederia cordata	Plantae	ok		2766030	Pontederia cordata L.	Pontederia cordata	ACCEPTED	SPECIES	EXACT	100	2766030	Pontederia cordata L.	NBNSYS0000002209	Pontederia cordata
-Procambarus clarkii	Animalia	ok	listed	2227300	Procambarus clarkii (Girard, 1852)	Procambarus clarkii	ACCEPTED	SPECIES	EXACT	100	2227300	Procambarus clarkii (Girard, 1852)	NHMSYS0000377495	Procambarus clarkii
-Procambarus fallax f. virginalis	Animalia	no match	listed						NONE					
-Procyon lotor	Animalia	ok	listed	5218786	Procyon lotor (Linnaeus, 1758)	Procyon lotor	ACCEPTED	SPECIES	EXACT	100	5218786	Procyon lotor (Linnaeus, 1758)	INBSYS0000012542	Procyon lotor
-Pseudorasbora parva	Animalia	ok	listed	2362868	Pseudorasbora parva (Temminck & Schlegel, 1846)	Pseudorasbora parva	ACCEPTED	SPECIES	EXACT	100	2362868	Pseudorasbora parva (Temminck & Schlegel, 1846)	NHMSYS0000544730	Pseudorasbora parva
-Pueraria montana	Plantae	ok	listed	2977636	Pueraria montana (Lour.) Merr.	Pueraria montana	ACCEPTED	SPECIES	EXACT	100	2977636	Pueraria montana (Lour.) Merr.	INBSYS0000032668,INBSYS0000033057	Pueraria montana var. lobata,Pueraria lobata
-Rapana venosa	Animalia	ok	not listed	4363583	Rapana venosa (Valenciennes, 1846)	Rapana venosa	ACCEPTED	SPECIES	EXACT	100	4363583	Rapana venosa (Valenciennes, 1846)	INBSYS0000032669	Rapana venosa
-Sagittaria latifolia	Plantae	ok		5328909	Sagittaria latifolia Willd.	Sagittaria latifolia	ACCEPTED	SPECIES	EXACT	100	5328909	Sagittaria latifolia Willd.	NBNSYS0000002106	Sagittaria latifolia
-Sarracenia purpurea	Plantae	ok		5421389	Sarracenia purpurea L.	Sarracenia purpurea	ACCEPTED	SPECIES	EXACT	100	5421389	Sarracenia purpurea L.	NBNSYS0000003523	Sarracenia purpurea
-Sargassum muticum	Eukaryota	ok	not listed	3197314	Sargassum muticum (Yendo) Fensholt, 1955	Sargassum muticum	ACCEPTED	SPECIES	EXACT	98	3197314	Sargassum muticum (Yendo) Fensholt, 1955	NBNSYS0000188809	Sargassum muticum
-Sciurus carolinensis	Animalia	ok	listed	5219681	Sciurus carolinensis Gmelin, 1788	Sciurus carolinensis	ACCEPTED	SPECIES	EXACT	100	5219681	Sciurus carolinensis Gmelin, 1788	NBNSYS0000005109,NHMSYS0000332764	Sciurus carolinensis,Sciurus carolinensis
-Sciurus niger	Animalia	ok	listed	5219683	Sciurus niger Linnaeus, 1758	Sciurus niger	ACCEPTED	SPECIES	EXACT	100	5219683	Sciurus niger Linnaeus, 1758		
-Sicyos angulatus	Plantae	ok	not listed	2874655	Sicyos angulatus L.	Sicyos angulatus	ACCEPTED	SPECIES	EXACT	100	2874655	Sicyos angulatus L.	NBNSYS0000034270	Sicyos angulatus
-Solanum eleagnifolium	Plantae	ok	not listed	7299960	Solanum eleagnifolium	Solanum eleagnifolium	ACCEPTED	SPECIES	EXACT	100	7299960	Solanum eleagnifolium	NBNSYS0200003195	Solanum eleagnifolium
-Euthamia graminifolia	Plantae	ok: DOUBTFUL	under preparation	3092782	Euthamia graminifolia (L.) Nutt.	Euthamia graminifolia	DOUBTFUL	SPECIES	EXACT	99	3092782	Euthamia graminifolia (L.) Nutt.	INBSYS0000005315,NBNSYS0000004420	Erigeron annuus (L.) Desf. subsp. septentrionalis,Solidago graminifolia
-Spartina pectinata	Plantae	ok		5290030	Spartina pectinata Bosc ex Link	Spartina pectinata	ACCEPTED	SPECIES	EXACT	100	5290030	Spartina pectinata Bosc ex Link	NBNSYS0000014303,NHMSYS0000463858,INBSYS0000009805	Spartina pectinata,Spartina pectinata,Spartina pectinata
-Spartina townsendii	Plantae	ok		5290034	Spartina townsendii H.Groves & J.Groves	Spartina townsendii	ACCEPTED	SPECIES	EXACT	100	5290034	Spartina townsendii H.Groves & J.Groves	INBSYS0000003939,NBNSYS0000002679,NHMSYS0000463860	Spartina townsendii,Spartina x townsendii,Spartina x townsendii
-Spiraea salicifolia	Plantae	ok		3026454	Spiraea salicifolia L.	Spiraea salicifolia	ACCEPTED	SPECIES	EXACT	100	3026454	Spiraea salicifolia L.	NHMSYS0000463917,NBNSYS0000003313	Spiraea salicifolia agg.,Spiraea salicifolia
-Spiraea tomentosa	Plantae	ok	under preparation	3026819	Spiraea tomentosa L.	Spiraea tomentosa	ACCEPTED	SPECIES	EXACT	100	3026819	Spiraea tomentosa L.	NHMSYS0000463792,INBSYS0000003949,NBNSYS0000014018,NBNSYS0000014176	Sorbaria tomentosa,Sorbaria tomentosa,Sorbaria tomentosa,Spiraea tomentosa
-Spiraea pseudosalicifolia	Plantae	ok		3026444	Spiraea ×pseudosalicifolia Silverside	Spiraea pseudosalicifolia	ACCEPTED	SPECIES	EXACT	100	3026444	Spiraea ×pseudosalicifolia Silverside	INBSYS0000003921	Spiraea x pseudosalicifolius
-Tamias sibiricus	Animalia	ok	listed	2437450	Tamias sibiricus (Laxmann, 1769)	Tamias sibiricus	ACCEPTED	SPECIES	EXACT	100	2437450	Tamias sibiricus (Laxmann, 1769)	INBSYS0000012543	Tamias sibiricus
-Threskiornis aethiopicus	Animalia	ok	listed	2480764	Threskiornis aethiopicus (Latham, 1790)	Threskiornis aethiopicus	ACCEPTED	SPECIES	EXACT	100	2480764	Threskiornis aethiopicus (Latham, 1790)	NHMSYS0000534047	Threskiornis aethiopicus
-Trachemys scripta	Animalia	ok	listed	2443002	Trachemys scripta Schoepff, 1792	Trachemys scripta	ACCEPTED	SPECIES	EXACT	100	2443002	Trachemys scripta Schoepff, 1792	NHMSYS0000080227,INBSYS0000012414	Trachemys scripta,Trachemys scripta
-Vallisneria spiralis	Plantae	ok		2865526	Vallisneria spiralis L.	Vallisneria spiralis	ACCEPTED	SPECIES	EXACT	100	2865526	Vallisneria spiralis L.	NBNSYS0000002118	Vallisneria spiralis
-Vespa velutina	Animalia	ok	listed	1311477	Vespa velutina Lepeletier, 1836	Vespa velutina	ACCEPTED	SPECIES	EXACT	100	1311477	Vespa velutina Lepeletier, 1836		
+name	kingdom	euConcernStatus
+Acer negundo	Plantae	under consideration
+Alopochen aegyptiaca	Animalia	under consideration
+Alternanthera philoxeroides	Plantae	under consideration
+Ameiurus melas	Animalia	under consideration
+Asclepias syriaca	Plantae	under consideration
+Symphyotrichum salignum	Plantae	
+Baccharis halimifolia	Plantae	listed
+Bison bison	Animalia	under consideration
+Cabomba caroliniana	Plantae	listed
+Callosciurus erythraeus	Animalia	listed
+Caprella mutica	Animalia	not listed
+Castor canadensis	Animalia	
+Celastrus orbiculatus	Plantae	
+Corvus splendens	Animalia	listed
+Cotoneaster ambiguus	Plantae	
+Cotoneaster ascendens	Plantae	
+Cotoneaster boisianus	Plantae	
+Cotoneaster bullatus	Plantae	
+Cotoneaster conspicuus	Plantae	
+Cotoneaster coriaceus	Plantae	
+Cotoneaster dammeri	Plantae	
+Cotoneaster dielsianus	Plantae	
+Cotoneaster divaricatus	Plantae	
+Cotoneaster fangianus	Plantae	
+Cotoneaster franchetii	Plantae	
+Cotoneaster ganghobaensis	Plantae	
+Cotoneaster hjelmqvistii	Plantae	
+Cotoneaster horizontalis	Plantae	
+Cotoneaster hylmoei	Plantae	
+Cotoneaster integrifolius	Plantae	
+Cotoneaster lucidus	Plantae	
+Cotoneaster mairei	Plantae	
+Cotoneaster moupinensis	Plantae	
+Cotoneaster nanshan	Plantae	
+Cotoneaster qungbixiensis	Plantae	
+Cotoneaster rehderi	Plantae	
+Cotoneaster salicifolius	Plantae	
+Cotoneaster simonsii	Plantae	
+Cotoneaster sternianus	Plantae	
+Cotoneaster villosulus	Plantae	
+Cotoneaster x suecicus	Plantae	
+Cotoneaster x watereri	Plantae	
+Cotoneaster zabelii	Plantae	
+Crepidula fornicata	Animalia	not listed
+Didemnum vexillum	Animalia	not listed
+Eichhornia crassipes	Plantae	listed
+Elodea nuttallii	Plantae	under consideration
+Eriocheir sinensis	Animalia	listed
+Fallopia bohemica	Plantae	under preparation
+Fraxinus pennsylvanica	Plantae	
+Gaillardia grandiflora	Plantae	
+Gunnera manicata	Plantae	under consideration
+Gunnera tinctoria	Plantae	under consideration
+Heracleum mantegazzianum	Plantae	under consideration
+Heracleum persicum	Plantae	listed
+Heracleum sosnowskyi	Plantae	listed
+Herpestes javanicus	Animalia	listed
+Homarus americanus	Animalia	under consideration
+Hyacinthoides hispanica	Plantae	
+Hydrocotyle ranunculoides	Plantae	listed
+Impatiens balfourii	Plantae	
+Impatiens capensis	Plantae	
+Impatiens edgeworthii	Plantae	
+Impatiens glandulifera	Plantae	under consideration
+Lagarosiphon major	Plantae	listed
+Lepomis gibbosus	Animalia	under consideration
+Lithobates catesbeianus	Animalia	listed
+Ludwigia grandiflora	Plantae	listed
+Ludwigia peploides	Plantae	listed
+Lupinus polyphyllus	Plantae	under consideration
+Lysichiton americanus	Plantae	listed
+Lysichiton camtschatcensis	Plantae	
+Micropterus dolomieu	Animalia	
+Microstegium vimineum	Plantae	under consideration
+Muntiacus reevesi	Animalia	listed
+Neovison vison	Animalia	
+Myocastor coypus	Animalia	listed
+Myriophyllum aquaticum	Plantae	listed
+Myriophyllum heterophyllum	Plantae	under consideration
+Nasua nasua	Animalia	listed
+Nyctereutes procyonoides	Animalia	under consideration
+Oenothera affinis	Plantae	
+Oenothera angustissima	Plantae	
+Oenothera oakesiana	Plantae	
+Oenothera biennis	Plantae	
+Oenothera pycnocarpa	Plantae	
+Oenothera cambrica	Plantae	
+Oenothera cruciata	Plantae	
+Oenothera curtiflora	Plantae	
+Oenothera deflexa	Plantae	
+Oenothera depressa	Plantae	
+Oenothera elata	Plantae	
+Oenothera fruticosa subsp. glauca	Plantae	
+Oenothera glazioviana	Plantae	
+Oenothera indecora	Plantae	
+Oenothera laciniata	Plantae	
+Oenothera lindheimeri	Plantae	
+Oenothera nuda	Plantae	
+Oenothera oehlkersii	Plantae	
+Oenothera x fallax	Plantae	
+Oenothera paradoxa	Plantae	
+Oenothera parviflora	Plantae	
+Oenothera perangusta	Plantae	
+Oenothera perennis	Plantae	
+Oenothera rosea	Plantae	
+Oenothera royfraseri	Plantae	
+Oenothera rubricaulis	Plantae	
+Oenothera rubricalyx	Plantae	
+Oenothera rubricauloides	Plantae	
+Oenothera speciosa	Plantae	
+Oenothera stricta	Plantae	
+Oenothera subterminalis	Plantae	
+Oenothera victorini	Plantae	
+Oenothera wratislaviensis	Plantae	
+Oenothera x issleri	Plantae	
+Ondatra zibethicus	Animalia	under consideration
+Orconectes limosus	Animalia	listed
+Orconectes virilis	Animalia	listed
+Oxyura jamaicensis	Animalia	listed
+Pacifastacus leniusculus	Animalia	listed
+Parthenium hysterophorus	Plantae	listed
+Parthenocissus inserta	Plantae	
+Parthenocissus quinquefolia	Plantae	
+Parthenocissus tricuspidata	Plantae	
+Pennisetum setaceum	Plantae	under consideration
+Perccottus glenii	Animalia	listed
+Persicaria perfoliata	Plantae	listed
+Pontederia cordata	Plantae	
+Procambarus clarkii	Animalia	listed
+Procambarus fallax f. virginalis	Animalia	listed
+Procyon lotor	Animalia	listed
+Pseudorasbora parva	Animalia	listed
+Pueraria montana	Plantae	listed
+Rapana venosa	Animalia	not listed
+Sagittaria latifolia	Plantae	
+Sarracenia purpurea	Plantae	
+Sargassum muticum	Eukaryota	not listed
+Sciurus carolinensis	Animalia	listed
+Sciurus niger	Animalia	listed
+Sicyos angulatus	Plantae	not listed
+Solanum eleagnifolium	Plantae	not listed
+Euthamia graminifolia	Plantae	under preparation
+Spartina pectinata	Plantae	
+Spartina townsendii	Plantae	
+Spiraea salicifolia	Plantae	
+Spiraea tomentosa	Plantae	under preparation
+Spiraea pseudosalicifolia	Plantae	
+Tamias sibiricus	Animalia	listed
+Threskiornis aethiopicus	Animalia	listed
+Trachemys scripta	Animalia	listed
+Vallisneria spiralis	Plantae	
+Vespa velutina	Animalia	listed
