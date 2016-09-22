@@ -1,0 +1,153 @@
+taxonID	datasetName	scientificName	synonym	kingdom	phylum	class	order	family	genus	specificEpithet	subspecies	taxonGroup	vernacularNameEN	vernacularNameNL	vernacularNameFR	euConcernStatus	status	statusCertainty	BFIS	ISEIA	spatialDistribution	invasiveness	introductionPathway	introductionMode	habitat	origin	presenceBE	presenceFL	presenceWA	presenceBR	presenceBECoast	presenceBPNS	presenceBEEZ	firstObservationYearBE	firstObservationYearFL	latestObservationYearBE	source	sourceID	riskAnalysis	publicationStatus	notes
+	t0	Acer negundo		Plantae												under consideration																									
+	t0	Alopochen aegyptiaca		Animalia												under consideration																									
+	t0	Alternanthera philoxeroides		Plantae												under consideration																									
+	t0	Ameiurus melas		Animalia												under consideration																									
+	t0	Asclepias syriaca		Plantae												under consideration																									
+	t0	Symphyotrichum salignum		Plantae																																					
+	t0	Baccharis halimifolia		Plantae												listed																									
+	t0	Bison bison		Animalia												under consideration																									
+	t0	Cabomba caroliniana		Plantae												listed																									
+	t0	Callosciurus erythraeus		Animalia												listed																									
+	t0	Caprella mutica		Animalia												not listed																									
+	t0	Castor canadensis		Animalia																																					
+	t0	Celastrus orbiculatus		Plantae																																					
+	t0	Corvus splendens		Animalia												listed																									
+	t0	Cotoneaster ambiguus		Plantae																																					
+	t0	Cotoneaster ascendens		Plantae																																					
+	t0	Cotoneaster boisianus		Plantae																																					
+	t0	Cotoneaster bullatus		Plantae																																					
+	t0	Cotoneaster conspicuus		Plantae																																					
+	t0	Cotoneaster coriaceus		Plantae																																					
+	t0	Cotoneaster dammeri		Plantae																																					
+	t0	Cotoneaster dielsianus		Plantae																																					
+	t0	Cotoneaster divaricatus		Plantae																																					
+	t0	Cotoneaster fangianus		Plantae																																					
+	t0	Cotoneaster franchetii		Plantae																																					
+	t0	Cotoneaster ganghobaensis		Plantae																																					
+	t0	Cotoneaster hjelmqvistii		Plantae																																					
+	t0	Cotoneaster horizontalis		Plantae																																					
+	t0	Cotoneaster hylmoei		Plantae																																					
+	t0	Cotoneaster integrifolius		Plantae																																					
+	t0	Cotoneaster lucidus		Plantae																																					
+	t0	Cotoneaster mairei		Plantae																																					
+	t0	Cotoneaster moupinensis		Plantae																																					
+	t0	Cotoneaster nanshan		Plantae																																					
+	t0	Cotoneaster qungbixiensis		Plantae																																					
+	t0	Cotoneaster rehderi		Plantae																																					
+	t0	Cotoneaster salicifolius		Plantae																																					
+	t0	Cotoneaster simonsii		Plantae																																					
+	t0	Cotoneaster sternianus		Plantae																																					
+	t0	Cotoneaster villosulus		Plantae																																					
+	t0	Cotoneaster x suecicus		Plantae																																					
+	t0	Cotoneaster x watereri		Plantae																																					
+	t0	Cotoneaster zabelii		Plantae																																					
+	t0	Crepidula fornicata		Animalia												not listed																									
+	t0	Didemnum vexillum		Animalia												not listed																									
+	t0	Eichhornia crassipes		Plantae												listed																									
+	t0	Elodea nuttallii		Plantae												under consideration																									
+	t0	Eriocheir sinensis		Animalia												listed																									
+	t0	Fallopia bohemica		Plantae												under preparation																									
+	t0	Fraxinus pennsylvanica		Plantae																																					
+	t0	Gaillardia grandiflora		Plantae																																					
+	t0	Gunnera manicata		Plantae												under consideration																									
+	t0	Gunnera tinctoria		Plantae												under consideration																									
+	t0	Heracleum mantegazzianum		Plantae												under consideration																									
+	t0	Heracleum persicum		Plantae												listed																									
+	t0	Heracleum sosnowskyi		Plantae												listed																									
+	t0	Herpestes javanicus		Animalia												listed																									
+	t0	Homarus americanus		Animalia												under consideration																									
+	t0	Hyacinthoides hispanica		Plantae																																					
+	t0	Hydrocotyle ranunculoides		Plantae												listed																									
+	t0	Impatiens balfourii		Plantae																																					
+	t0	Impatiens capensis		Plantae																																					
+	t0	Impatiens edgeworthii		Plantae																																					
+	t0	Impatiens glandulifera		Plantae												under consideration																									
+	t0	Lagarosiphon major		Plantae												listed																									
+	t0	Lepomis gibbosus		Animalia												under consideration																									
+	t0	Lithobates catesbeianus		Animalia												listed																									
+	t0	Ludwigia grandiflora		Plantae												listed																									
+	t0	Ludwigia peploides		Plantae												listed																									
+	t0	Lupinus polyphyllus		Plantae												under consideration																									
+	t0	Lysichiton americanus		Plantae												listed																									
+	t0	Lysichiton camtschatcensis		Plantae																																					
+	t0	Micropterus dolomieu		Animalia																																					
+	t0	Microstegium vimineum		Plantae												under consideration																									
+	t0	Muntiacus reevesi		Animalia												listed																									
+	t0	Neovison vison		Animalia																																					
+	t0	Myocastor coypus		Animalia												listed																									
+	t0	Myriophyllum aquaticum		Plantae												listed																									
+	t0	Myriophyllum heterophyllum		Plantae												under consideration																									
+	t0	Nasua nasua		Animalia												listed																									
+	t0	Nyctereutes procyonoides		Animalia												under consideration																									
+	t0	Oenothera affinis		Plantae																																					
+	t0	Oenothera angustissima		Plantae																																					
+	t0	Oenothera oakesiana		Plantae																																					
+	t0	Oenothera biennis		Plantae																																					
+	t0	Oenothera pycnocarpa		Plantae																																					
+	t0	Oenothera cambrica		Plantae																																					
+	t0	Oenothera cruciata		Plantae																																					
+	t0	Oenothera curtiflora		Plantae																																					
+	t0	Oenothera deflexa		Plantae																																					
+	t0	Oenothera depressa		Plantae																																					
+	t0	Oenothera elata		Plantae																																					
+	t0	Oenothera fruticosa subsp. glauca		Plantae																																					
+	t0	Oenothera glazioviana		Plantae																																					
+	t0	Oenothera indecora		Plantae																																					
+	t0	Oenothera laciniata		Plantae																																					
+	t0	Oenothera lindheimeri		Plantae																																					
+	t0	Oenothera nuda		Plantae																																					
+	t0	Oenothera oehlkersii		Plantae																																					
+	t0	Oenothera x fallax		Plantae																																					
+	t0	Oenothera paradoxa		Plantae																																					
+	t0	Oenothera parviflora		Plantae																																					
+	t0	Oenothera perangusta		Plantae																																					
+	t0	Oenothera perennis		Plantae																																					
+	t0	Oenothera rosea		Plantae																																					
+	t0	Oenothera royfraseri		Plantae																																					
+	t0	Oenothera rubricaulis		Plantae																																					
+	t0	Oenothera rubricalyx		Plantae																																					
+	t0	Oenothera rubricauloides		Plantae																																					
+	t0	Oenothera speciosa		Plantae																																					
+	t0	Oenothera stricta		Plantae																																					
+	t0	Oenothera subterminalis		Plantae																																					
+	t0	Oenothera victorini		Plantae																																					
+	t0	Oenothera wratislaviensis		Plantae																																					
+	t0	Oenothera x issleri		Plantae																																					
+	t0	Ondatra zibethicus		Animalia												under consideration																									
+	t0	Orconectes limosus		Animalia												listed																									
+	t0	Orconectes virilis		Animalia												listed																									
+	t0	Oxyura jamaicensis		Animalia												listed																									
+	t0	Pacifastacus leniusculus		Animalia												listed																									
+	t0	Parthenium hysterophorus		Plantae												listed																									
+	t0	Parthenocissus inserta		Plantae																																					
+	t0	Parthenocissus quinquefolia		Plantae																																					
+	t0	Parthenocissus tricuspidata		Plantae																																					
+	t0	Pennisetum setaceum		Plantae												under consideration																									
+	t0	Perccottus glenii		Animalia												listed																									
+	t0	Persicaria perfoliata		Plantae												listed																									
+	t0	Pontederia cordata		Plantae																																					
+	t0	Procambarus clarkii		Animalia												listed																									
+	t0	Procambarus fallax f. virginalis		Animalia												listed																									
+	t0	Procyon lotor		Animalia												listed																									
+	t0	Pseudorasbora parva		Animalia												listed																									
+	t0	Pueraria montana		Plantae												listed																									
+	t0	Rapana venosa		Animalia												not listed																									
+	t0	Sagittaria latifolia		Plantae																																					
+	t0	Sarracenia purpurea		Plantae																																					
+	t0	Sargassum muticum		Eukaryota												not listed																									
+	t0	Sciurus carolinensis		Animalia												listed																									
+	t0	Sciurus niger		Animalia												listed																									
+	t0	Sicyos angulatus		Plantae												not listed																									
+	t0	Solanum eleagnifolium		Plantae												not listed																									
+	t0	Euthamia graminifolia		Plantae												under preparation																									
+	t0	Spartina pectinata		Plantae																																					
+	t0	Spartina townsendii		Plantae																																					
+	t0	Spiraea salicifolia		Plantae																																					
+	t0	Spiraea tomentosa		Plantae												under preparation																									
+	t0	Spiraea pseudosalicifolia		Plantae																																					
+	t0	Tamias sibiricus		Animalia												listed																									
+	t0	Threskiornis aethiopicus		Animalia												listed																									
+	t0	Trachemys scripta		Animalia												listed																									
+	t0	Vallisneria spiralis		Plantae																																					
+	t0	Vespa velutina		Animalia												listed																									
