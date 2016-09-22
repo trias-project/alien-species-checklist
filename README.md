@@ -15,26 +15,29 @@ Our goal is to create an open, consolidated checklist of alien species in Belgiu
 2. Format the data to tab-delimited values with Open Refine
 3. Define [common terms](data/vocabularies/common-terms.tsv) for all source datasets
 4. Map the source datasets to the common terms schema, using [this mapping file](data/vocabularies/common-terms-mapping.tsv).
-5. Concatenate all source datasetes using:
+5. Concatenate all source datasets using:
 
     ```shell
     csvcat --skip-headers data/interim/fishes/data-with-common-terms.tsv data/interim/harmonia/data-with-common-terms.tsv data/interim/macroinvertebrates/data-with-common-terms.tsv data/interim/plants/data-with-common-terms.tsv data/interim/rinse/data-with-common-terms.tsv data/interim/rinse-annex-b/data-with-common-terms.tsv data/interim/t0/data-with-common-terms.tsv data/interim/wrims/data-with-common-terms.tsv > data/interim/concatenated-checklist.tsv
     ```
 
+Up to this point, all steps are repeatable. The rest is not.
+
 ### Process concatenated data
 
 1. Copy concatenated file to [data/interim/verified-checklist.tsv](data/interim/verified-checklist.tsv).
-1. Match scientific names to the GBIF backbone taxonomy (assuming `gbif_species_name_extraction.py` is locally available):
-
-    ```shell
-    python ../invasive-t0-occurrences/src/utilities/gbif_species_name_extraction/gbif_species_name_extraction.py data/interim/verified-checklist.tsv data/interim/verified-checklist.tsv --update --namecol scientificName --kingdomcol kingdom --strict --api_terms usageKey scientificName canonicalName status rank matchType
-    ```
-
-2. Review any issues (see [this procedure](docs/README.md) for updating names).
+2. Add a number of columns.
 3. Define [controlled vocabularies](data/vocabularies) for the terms we're interested in.
 4. Map the current values to controlled vocabularies, using the `-mapping`-files in vocabularies directory.
-5. Aggregate the checklist with [this notebook](notebooks/1-peterdesmet-create-aggregated-checklist.ipynb) to create this [the final checklist](data/processed/aggregated-checklist.tsv).
+5. Match scientific names to the GBIF backbone taxonomy (assuming [inbo-pyutils](https://github.com/inbo/inbo-pyutils) is locally available):
+
+    ```shell
+    python ../inbo-pyutils/gbif/gbif_name_match/gbif_species_name_match.py data/interim/verified-checklist.tsv data/interim/verified-checklist.tsv --update --namecol scientificName --kingdomcol kingdom --strict --api_terms usageKey scientificName canonicalName status rank matchType
+    ```
+
+6. Review any remaining issues (see [this procedure](docs/README.md) for updating names).
+7. Aggregate the checklist with [this notebook](notebooks/1-peterdesmet-create-aggregated-checklist.ipynb) to create this [the final checklist](data/processed/aggregated-checklist.tsv).
 
 ## Repeatable process
 
-1. Publish a `alien-macroinvertebrates-checklist`
+Described in TrIAS proposal.
