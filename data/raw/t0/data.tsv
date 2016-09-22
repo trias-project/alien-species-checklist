@@ -128,7 +128,7 @@ Perccottus glenii	Animalia	listed	absent
 Persicaria perfoliata	Plantae	listed	present
 Pontederia cordata	Plantae		present
 Procambarus clarkii	Animalia	listed	present
-Procambarus fallax f. virginalis	Animalia	listed	present
+Procambarus fallax f. virginalis	Animalia	listed	absent
 Procyon lotor	Animalia	listed	present
 Pseudorasbora parva	Animalia	listed	present
 Pueraria montana	Plantae	listed	absent
@@ -136,8 +136,8 @@ Rapana venosa	Animalia	not listed	present
 Sagittaria latifolia	Plantae		present
 Sarracenia purpurea	Plantae		present
 Sargassum muticum	Eukaryota	not listed	present
-Sciurus carolinensis	Animalia	listed	absent
-Sciurus niger	Animalia	listed	absent
+Sciurus carolinensis	Animalia	listed	present
+Sciurus niger	Animalia	listed	present
 Sicyos angulatus	Plantae	not listed	present
 Solanum eleagnifolium	Plantae	not listed	absent
 Euthamia graminifolia	Plantae	under preparation	present
@@ -148,6 +148,6 @@ Spiraea tomentosa	Plantae	under preparation	present
 Spiraea pseudosalicifolia	Plantae		present
 Tamias sibiricus	Animalia	listed	present
 Threskiornis aethiopicus	Animalia	listed	present
-Trachemys scripta	Animalia	listed	absent
+Trachemys scripta	Animalia	listed	present
 Vallisneria spiralis	Plantae		present
 Vespa velutina	Animalia	listed	present
