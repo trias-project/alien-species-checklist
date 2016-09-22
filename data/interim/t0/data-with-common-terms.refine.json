@@ -293,27 +293,14 @@
   },
   {
     "op": "core/column-addition",
-    "description": "Create column presenceBE at index 25 based on column nativeRange using expression grel:value",
-    "engineConfig": {
-      "facets": [],
-      "mode": "row-based"
-    },
-    "newColumnName": "presenceBE",
-    "columnInsertIndex": 25,
-    "baseColumnName": "nativeRange",
-    "expression": "grel:value",
-    "onError": "set-to-blank"
-  },
-  {
-    "op": "core/column-addition",
-    "description": "Create column presenceFL at index 26 based on column presenceBE using expression grel:value",
+    "description": "Create column presenceFL at index 26 based on column nativeRange using expression grel:value",
     "engineConfig": {
       "facets": [],
       "mode": "row-based"
     },
     "newColumnName": "presenceFL",
     "columnInsertIndex": 26,
-    "baseColumnName": "presenceBE",
+    "baseColumnName": "nativeRange",
     "expression": "grel:value",
     "onError": "set-to-blank"
   },
