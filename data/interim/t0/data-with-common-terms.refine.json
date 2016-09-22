@@ -163,12 +163,12 @@
   },
   {
     "op": "core/column-addition",
-    "description": "Create column status at index 15 based on column euConcernStatus using expression null",
+    "description": "Create column invasionStage at index 15 based on column euConcernStatus using expression null",
     "engineConfig": {
       "facets": [],
       "mode": "row-based"
     },
-    "newColumnName": "status",
+    "newColumnName": "invasionStage",
     "columnInsertIndex": 15,
     "baseColumnName": "euConcernStatus",
     "expression": "null",
@@ -176,27 +176,27 @@
   },
   {
     "op": "core/column-addition",
-    "description": "Create column statusCertainty at index 16 based on column status using expression null",
+    "description": "Create column invasionStageCertainty at index 16 based on column invasionStage using expression null",
     "engineConfig": {
       "facets": [],
       "mode": "row-based"
     },
-    "newColumnName": "statusCertainty",
+    "newColumnName": "invasionStageCertainty",
     "columnInsertIndex": 16,
-    "baseColumnName": "status",
+    "baseColumnName": "invasionStage",
     "expression": "null",
     "onError": "set-to-blank"
   },
   {
     "op": "core/column-addition",
-    "description": "Create column BFIS at index 17 based on column statusCertainty using expression grel:value",
+    "description": "Create column BFIS at index 17 based on column invasionStageCertainty using expression grel:value",
     "engineConfig": {
       "facets": [],
       "mode": "row-based"
     },
     "newColumnName": "BFIS",
     "columnInsertIndex": 17,
-    "baseColumnName": "statusCertainty",
+    "baseColumnName": "invasionStageCertainty",
     "expression": "grel:value",
     "onError": "set-to-blank"
   },
@@ -280,12 +280,12 @@
   },
   {
     "op": "core/column-addition",
-    "description": "Create column origin at index 24 based on column habitat using expression grel:value",
+    "description": "Create column nativeRange at index 24 based on column habitat using expression grel:value",
     "engineConfig": {
       "facets": [],
       "mode": "row-based"
     },
-    "newColumnName": "origin",
+    "newColumnName": "nativeRange",
     "columnInsertIndex": 24,
     "baseColumnName": "habitat",
     "expression": "grel:value",
@@ -293,14 +293,14 @@
   },
   {
     "op": "core/column-addition",
-    "description": "Create column presenceBE at index 25 based on column origin using expression grel:value",
+    "description": "Create column presenceBE at index 25 based on column nativeRange using expression grel:value",
     "engineConfig": {
       "facets": [],
       "mode": "row-based"
     },
     "newColumnName": "presenceBE",
     "columnInsertIndex": 25,
-    "baseColumnName": "origin",
+    "baseColumnName": "nativeRange",
     "expression": "grel:value",
     "onError": "set-to-blank"
   },

@@ -15,8 +15,8 @@ vernacularNameEN
 vernacularNameNL        
 vernacularNameFR
 euConcernStatus
-status → invasionStage
-statusCertainty → invasionStageCertainty
+invasionStage
+invasionStageCertainty
 BFIS
 ISEIA
 spatialDistribution
@@ -24,7 +24,7 @@ invasiveness
 introductionPathway
 introductionMode
 habitat
-origin → nativeRange
+nativeRange
 presenceBE
 presenceFL
 presenceWA

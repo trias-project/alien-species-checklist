@@ -43,9 +43,9 @@
   },
   {
     "op": "core/column-rename",
-    "description": "Rename column Origin(s) to origin",
+    "description": "Rename column Origin(s) to nativeRange",
     "oldColumnName": "Origin(s)",
-    "newColumnName": "origin"
+    "newColumnName": "nativeRange"
   },
   {
     "op": "core/column-rename",
@@ -91,9 +91,9 @@
   },
   {
     "op": "core/column-rename",
-    "description": "Rename column Invasion stage to status",
+    "description": "Rename column Invasion stage to invasionStage",
     "oldColumnName": "Invasion stage",
-    "newColumnName": "status"
+    "newColumnName": "invasionStage"
   },
   {
     "op": "core/column-rename",
@@ -272,8 +272,8 @@
   },
   {
     "op": "core/column-move",
-    "description": "Move column status to position 0",
-    "columnName": "status",
+    "description": "Move column invasionStage to position 0",
+    "columnName": "invasionStage",
     "index": 0
   },
   {
@@ -338,8 +338,8 @@
   },
   {
     "op": "core/column-move",
-    "description": "Move column origin to position 0",
-    "columnName": "origin",
+    "description": "Move column nativeRange to position 0",
+    "columnName": "nativeRange",
     "index": 0
   },
   {
@@ -430,14 +430,14 @@
   },
   {
     "op": "core/column-addition",
-    "description": "Create column phylum at index 8 based on column origin using expression null",
+    "description": "Create column phylum at index 8 based on column nativeRange using expression null",
     "engineConfig": {
       "mode": "row-based",
       "facets": []
     },
     "newColumnName": "phylum",
     "columnInsertIndex": 8,
-    "baseColumnName": "origin",
+    "baseColumnName": "nativeRange",
     "expression": "null",
     "onError": "set-to-blank"
   },
@@ -507,33 +507,33 @@
   },
   {
     "op": "core/column-addition",
-    "description": "Create column notes at index 12 based on column origin using expression null",
+    "description": "Create column notes at index 12 based on column nativeRange using expression null",
     "engineConfig": {
       "mode": "row-based",
       "facets": []
     },
     "newColumnName": "notes",
     "columnInsertIndex": 12,
-    "baseColumnName": "origin",
+    "baseColumnName": "nativeRange",
     "expression": "null",
     "onError": "set-to-blank"
   },
   {
     "op": "core/column-move",
-    "description": "Move column origin to position 12",
-    "columnName": "origin",
+    "description": "Move column nativeRange to position 12",
+    "columnName": "nativeRange",
     "index": 12
   },
   {
     "op": "core/column-addition",
-    "description": "Create column order at index 13 based on column origin using expression null",
+    "description": "Create column order at index 13 based on column nativeRange using expression null",
     "engineConfig": {
       "mode": "row-based",
       "facets": []
     },
     "newColumnName": "order",
     "columnInsertIndex": 13,
-    "baseColumnName": "origin",
+    "baseColumnName": "nativeRange",
     "expression": "null",
     "onError": "set-to-blank"
   },
@@ -589,27 +589,27 @@
   },
   {
     "op": "core/column-addition",
-    "description": "Create column statusCertainty at index 26 based on column status using expression null",
+    "description": "Create column invasionStageCertainty at index 26 based on column invasionStage using expression null",
     "engineConfig": {
       "mode": "row-based",
       "facets": []
     },
-    "newColumnName": "statusCertainty",
+    "newColumnName": "invasionStageCertainty",
     "columnInsertIndex": 26,
-    "baseColumnName": "status",
+    "baseColumnName": "invasionStage",
     "expression": "null",
     "onError": "set-to-blank"
   },
   {
     "op": "core/column-addition",
-    "description": "Create column subspecies at index 27 based on column statusCertainty using expression null",
+    "description": "Create column subspecies at index 27 based on column invasionStageCertainty using expression null",
     "engineConfig": {
       "mode": "row-based",
       "facets": []
     },
     "newColumnName": "subspecies",
     "columnInsertIndex": 27,
-    "baseColumnName": "statusCertainty",
+    "baseColumnName": "invasionStageCertainty",
     "expression": "null",
     "onError": "set-to-blank"
   },
@@ -758,8 +758,8 @@
   },
   {
     "op": "core/column-move",
-    "description": "Move column origin to position 0",
-    "columnName": "origin",
+    "description": "Move column nativeRange to position 0",
+    "columnName": "nativeRange",
     "index": 0
   },
   {
@@ -806,14 +806,14 @@
   },
   {
     "op": "core/column-move",
-    "description": "Move column statusCertainty to position 0",
-    "columnName": "statusCertainty",
+    "description": "Move column invasionStageCertainty to position 0",
+    "columnName": "invasionStageCertainty",
     "index": 0
   },
   {
     "op": "core/column-move",
-    "description": "Move column status to position 0",
-    "columnName": "status",
+    "description": "Move column invasionStage to position 0",
+    "columnName": "invasionStage",
     "index": 0
   },
   {
