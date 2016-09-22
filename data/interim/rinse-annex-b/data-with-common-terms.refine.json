@@ -870,5 +870,18 @@
     "description": "Rename column firstOservationYearFL to firstObservationYearFL",
     "oldColumnName": "firstOservationYearFL",
     "newColumnName": "firstObservationYearFL"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column euConcernStatus at index 16 based on column vernacularNameFR using expression null",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "newColumnName": "euConcernStatus",
+    "columnInsertIndex": 16,
+    "baseColumnName": "vernacularNameFR",
+    "expression": "null",
+    "onError": "set-to-blank"
   }
 ]

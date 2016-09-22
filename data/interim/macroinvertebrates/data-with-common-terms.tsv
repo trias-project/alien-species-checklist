@@ -1,74 +1,74 @@
-taxonID	datasetName	scientificName	synonym	kingdom	phylum	class	order	family	genus	specificEpithet	subspecies	taxonGroup	vernacularNameEN	vernacularNameNL	vernacularNameFR	status	statusCertainty	BFIS	ISEIA	spatialDistribution	invasiveness	introductionPathway	introductionMode	habitat	origin	presenceBE	presenceFL	presenceWA	presenceBR	presenceBECoast	presenceBPNS	presenceBEEZ	firstObservationYearBE	firstObservationYearFL	latestObservationYearBE	source	sourceID	riskAnalysis	publicationStatus	notes
-	macroinvertebrates	Laonome calida			ANNELIDA		Sabellida	Sabellidae														shipping		Freshwater/Brackish	Australia									2014		This study				
-	macroinvertebrates	Ficopomatus enigmaticus			ANNELIDA			Serpulidae														shipping		Freshwater/Brackish	Asia									1950		Leloup and Lefevre 1952				
-	macroinvertebrates	Marenzelleria viridis			ANNELIDA		Spionida	Spionidae														shipping		Brackish	North-America									1995		Ysebaert et al. 1997				
-	macroinvertebrates	Marenzelleria neglecta			ANNELIDA																	shipping		Brackish	North-America									2008		Soors et al. 2013				
-	macroinvertebrates	Hypania invalida			ANNELIDA		Terebellida	Ampharetidae														shipping		Freshwater	Ponto-Caspian									2000		Vercauteren et al. 2005				
-	macroinvertebrates	Branchiodrilus hortensis			ANNELIDA		Tubficida	Naididae														shipping, corridors		Freshwater	Asia, Africa and Australia									2010		Soors et al. 2013				
-	macroinvertebrates	Bratislavia dadayi			ANNELIDA																	shipping, corridors		Freshwater	Southern hemisphere, China and USA									2002		Soors et al. 2013				
-	macroinvertebrates	Branchiura sowerbyi			ANNELIDA			Tubificidae														shipping		Freshwater/Brackish	East-Asia									1931		Damas 1938				
-	macroinvertebrates	Limnodrilus cervix			ANNELIDA																	shipping		Freshwater	North-America									2009		Soors et al. 2013				
-	macroinvertebrates	Monopylephorus limosus			ANNELIDA																	shipping		Freshwater	Asia									2002		Soors et al. 2013				
-	macroinvertebrates	Potamothrix vejdovskyi			ANNELIDA																	shipping		Freshwater	Ponto-Caspian									2009		Soors et al. 2013				
-	macroinvertebrates	Psammoryctides moravicus			ANNELIDA																	shipping		Freshwater	Ponto-Caspian									2008		Soors et al. 2013				
-	macroinvertebrates	Quistadrilus multisetosus			ANNELIDA																	shipping		Freshwater	North-America									1996		Seys et al. 1999				
-	macroinvertebrates	Tasserkidrilus americanus			ANNELIDA																	shipping		Freshwater	North-America									2006		Soors et al. 2013				
-	macroinvertebrates	Caprella mutica			CRUSTACEA		Amphipoda	Caprellidae														shipping, aquaculture		Marine	Northeast-Asia									1998		Cook et al. 2007				
-	macroinvertebrates	Chelicorophium curvispinum			CRUSTACEA			Corophidae														corridors		Freshwater/Brackish	Ponto-Caspian									1990		Vercauteren et al. 2006				
-	macroinvertebrates	Monocorophium sextonae 			CRUSTACEA																	shipping		Brackish/Marine	New Zealand									1993		Dewicke 2002				
-	macroinvertebrates	Crangonyx pseudogracilis			CRUSTACEA			Crangonictidae														shipping		Freshwater	North-America									1992		Wouters 2002				
-	macroinvertebrates	Synurella ambulans			CRUSTACEA																	aquaculture		Freshwater	Ponto-Caspian									2003		Boets et al. 2010b				
-	macroinvertebrates	Dikerogammarus villosus			CRUSTACEA			Gammaridae														corridors		Freshwater/Brackish	Ponto-Caspian									1997		Messiaen et al. 2010				
-	macroinvertebrates	Echinogammarus berilloni			CRUSTACEA																	corridors		Freshwater	South-Europe									1925		Wouters 2002				
-	macroinvertebrates	Echinogammarus trichiatus			CRUSTACEA																	corridors		Freshwater	Ponto-Caspian									2009		Boets et al. 2012c 				
-	macroinvertebrates	Gammarus roeseli			CRUSTACEA																	corridors		Freshwater	South-Europe									1937		Collection RBINS				
-	macroinvertebrates	Gammarus tigrinus			CRUSTACEA																	corridors		Freshwater/Brackish	North-America									1991		Messiaen et al. 2010				
-	macroinvertebrates	Melita nitida			CRUSTACEA			Melitidae														shipping		Marine	North-America									1996		Faasse and Van Moorsel, 2003				
-	macroinvertebrates	Incisocalliope aestuarius			CRUSTACEA			Pleustidae														shipping		Brackish/Marine	North-America									1996		Faasse and Van Moorsel 2003				
-	macroinvertebrates	Orchestia cavimana			CRUSTACEA			Talitridae														shipping, corridors		Freshwater/Brackish	Ponto-Caspian									1927		Wouters 2002				
-	macroinvertebrates	Sinelobus vanhaareni			CRUSTACEA			Tanaidae														shipping, aquaculture		Brackish	unknown									2007		Van  Haaren and Soors 2009				
-	macroinvertebrates	Astacus leptodactylus			CRUSTACEA		Decapoda	Astacidae														aquaculture		Freshwater	East-Europe									1986		Gerard 1986				
-	macroinvertebrates	Pacifastacus leniusculus			CRUSTACEA																	aquaculture		Freshwater	North-America									1986		Gerard 1986				
-	macroinvertebrates	Athyaephyra desmaresti			CRUSTACEA			Atyidae														aquarium trade		Freshwater	South-Europe									1895		Wouters 2002				
-	macroinvertebrates	Procambarus clarkii			CRUSTACEA			Cambaridae														aquaculture, aquarium trade		Freshwater	North-America									2008		Boets et al. 2009				
-	macroinvertebrates	Orconectes limosus			CRUSTACEA																	aquaculture, aquarium trade		Freshwater	North-America									1977		Wouters 2002				
-	macroinvertebrates	Rhithropanopeus harrisii 			CRUSTACEA			Panopeidae														shipping		Freshwater/Brackish	North-America									1991		Van Damme et al. 1992				
-	macroinvertebrates	Palaemon macrodactylus			CRUSTACEA			Palaemonidae														shipping		Freshwater/Brackish	Southeast-Asia									1999		Boets et al. 2011b				
-	macroinvertebrates	Callinectes sapidus			CRUSTACEA			Portunidae														shipping		Brackish/Marine	North-America									1993		Van Damme and Maes 1993				
-	macroinvertebrates	Eriocheir sinensis			CRUSTACEA			Varunidae														shipping		Freshwater/Brackish	Southeast-Asia									1933		Wouters 2002				
-	macroinvertebrates	Hemigrapsus takanoi			CRUSTACEA																	shipping, aquaculture		Marine	North-America									2003		Dumoulin 2004				
-	macroinvertebrates	Hemigrapsus sanguineus 			CRUSTACEA																	shipping, aquaculture		Marine	North-America									2006		Nuyttens et al. 2006				
-	macroinvertebrates	Proasellus coxalis			CRUSTACEA		Isopoda	Asellidae														shipping, corridors, other		Freshwater/Brackish	South-Europe									1998		Boets et al. unpub data				
-	macroinvertebrates	Proasellus meridianus			CRUSTACEA																	shipping, corridors, other		Freshwater/Brackish	South-Europe									1945		Collection RBINS				
-	macroinvertebrates	Synidotea laticauda			CRUSTACEA			Idoteidae														shipping		Brackish	North-America									2005		Soors et al. 2010				
-	macroinvertebrates	Jaera istri			CRUSTACEA			Janiridae														shipping, corridors		Freshwater	Ponto-Caspian									2000		Messiaen et al. 2010				
-	macroinvertebrates	Hemimysis anomala			CRUSTACEA		Mysida	Mysidae														shipping, others		Freshwater/Brackish	Ponto-Caspian									1999		Verslycke et al. 2000				
-	macroinvertebrates	Limnomysis benedeni			CRUSTACEA																	shipping, corridors		Freshwater	Ponto-Caspian									2005		Lock et al. 2007				
-	macroinvertebrates	Elminius modestus			CRUSTACEA		Sessilia	Austrobalanidae 														shipping		Marine	Australia-Asia									1950		Leloup and Lefevre 1952				
-	macroinvertebrates	Amphibalanus amphitrite			CRUSTACEA			Balanidae														shipping		Marine	South-Europe									1952		Kerckhof and Catrijsse 2001				
-	macroinvertebrates	Amphibalanus improvisus			CRUSTACEA																	shipping		Marine	West-Atlantic									before 1700		Kerckhof and Catrijsse 2001				
-	macroinvertebrates	Megabalanus tintinnabulum			CRUSTACEA																	shipping		Marine	West-Africa, Indio-Pacific									1998		Kerckhof and Catrijsse 2001				
-	macroinvertebrates	Megabalanus coccopoma			CRUSTACEA																	shipping		Marine	South-America									1997		Kerckhof and Catrijsse 2001				
-	macroinvertebrates	Amphibalanus reticulatus			CRUSTACEA																	shipping		Marine	Tropical and warm seas									1997		Kerckhof and Catrijsse 2001				
-	macroinvertebrates	Austrominius directus			MOLLUSCA		Euheterodonta 	Pharidae														shipping, other		Marine	North-America 									1987		Kerckhof and Dumoulin 1987				
-	macroinvertebrates	Crepidula fornicata			MOLLUSCA		Littorinimorpha 	Calyptraeidae 														shipping, other		Marine	North-America 									1911		Adam  and Leloup 1934				
-	macroinvertebrates	Mya arenaria			MOLLUSCA		Myoida	Myidae														shipping, other		Marine	North-America 									< 1700		Kerckhof et al. 2007				
-	macroinvertebrates	Teredo navalis			MOLLUSCA			Teredinidae														shipping, other		Marine	Unknown									1730-1732		Sellius 1733				
-	macroinvertebrates	Psiloteredo megotara			MOLLUSCA																	shipping, other		Marine	Unknown 									<1600		Backeljau 1986				
-	macroinvertebrates	Lithoglyphus naticoides			MOLLUSCA		Neotaenioglossa	Hydrobiidae														corridors		Freshwater	Ponto-Caspian									1924		Adam 1947				
-	macroinvertebrates	Potamopyrgus antipodarum			MOLLUSCA																	shipping		Freshwater/Brackish	New Zealand									1927		Adam 1947				
-	macroinvertebrates	Crassostrea gigas			MOLLUSCA		Ostreoida	Ostreidae														aquaculture		Brackish/Marine	Southeast-Asia									1969		Leloup 1971				
-	macroinvertebrates	Menetus dilatatus			MOLLUSCA		Pulmonata	Planorbidae														shipping, corridors		Freshwater	North-America									1998		Sablon et al. 2010a				
-	macroinvertebrates	Ferrissia fragilis			MOLLUSCA																	aquarium trade		Freshwater	North-Africa									1937		Van Goethem and Sablon 1986				
-	macroinvertebrates	Physella acuta			MOLLUSCA			Physidae														other		Freshwater	North-America									1869		Adam 1947				
-	macroinvertebrates	Sinanodonta woodiana			MOLLUSCA		Unionoida	Unionidae														aquaculture		Freshwater	Asia									1999		Keppens and Mienis 2004				
-	macroinvertebrates	Corbicula fluminalis			MOLLUSCA		Veneroidea	Corbiculidae														shipping, corridors		Freshwater	Asia									1992		Swinnen et al. 1998				
-	macroinvertebrates	Corbicula fluminea			MOLLUSCA																	shipping, corridors		Freshwater	Asia									1992		Swinnen et al. 1998				
-	macroinvertebrates	Dreissena polymorpha			MOLLUSCA			Dreissenidae														corridors		Freshwater	Ponto-Caspian									1834		Adam 1947				
-	macroinvertebrates	Dreissena rostriformis bugensis			MOLLUSCA																	corridors		Freshwater	Ponto-Caspian									2009		Sablon et al. 2010b				
-	macroinvertebrates	Mytilopsis leucophaeta			MOLLUSCA																	shipping		Freshwater/Brackish	North-America									1835		Nyst 1835; Adam 1947				
-	macroinvertebrates	Rangia cuneata			MOLLUSCA			Mactridae														shipping		Freshwater/Brackish	North-America									2004		Verween et al. 2006				
-	macroinvertebrates	Petricolaria pholadiformis			MOLLUSCA			Veneridae														aquaculture, other		Marine	North-America 									1899		Loppens 1902				
-	macroinvertebrates	Mercenaria mercenaria			MOLLUSCA																	shipping		Marine	North-America 									1933		Vandepitte et al. 2012				
-	macroinvertebrates	Dugesia tigrina			PLATYHELMINTHES		Seriata	Dugesiidae														other		Freshwater	North-America									2004		Vercauteren et al. 2006				
-	macroinvertebrates	Dendrocoelum romanodanubiale			PLATYHELMINTHES			Dendrocoelidae														corridors		Freshwater	Ponto-Caspian									2001		Vercauteren et al. 2005				
+taxonID	datasetName	scientificName	synonym	kingdom	phylum	class	order	family	genus	specificEpithet	subspecies	taxonGroup	vernacularNameEN	vernacularNameNL	vernacularNameFR	euConcernStatus	status	statusCertainty	BFIS	ISEIA	spatialDistribution	invasiveness	introductionPathway	introductionMode	habitat	origin	presenceBE	presenceFL	presenceWA	presenceBR	presenceBECoast	presenceBPNS	presenceBEEZ	firstObservationYearBE	firstObservationYearFL	latestObservationYearBE	source	sourceID	riskAnalysis	publicationStatus	notes
+	macroinvertebrates	Laonome calida			ANNELIDA		Sabellida	Sabellidae															shipping		Freshwater/Brackish	Australia									2014		This study				
+	macroinvertebrates	Ficopomatus enigmaticus			ANNELIDA			Serpulidae															shipping		Freshwater/Brackish	Asia									1950		Leloup and Lefevre 1952				
+	macroinvertebrates	Marenzelleria viridis			ANNELIDA		Spionida	Spionidae															shipping		Brackish	North-America									1995		Ysebaert et al. 1997				
+	macroinvertebrates	Marenzelleria neglecta			ANNELIDA																		shipping		Brackish	North-America									2008		Soors et al. 2013				
+	macroinvertebrates	Hypania invalida			ANNELIDA		Terebellida	Ampharetidae															shipping		Freshwater	Ponto-Caspian									2000		Vercauteren et al. 2005				
+	macroinvertebrates	Branchiodrilus hortensis			ANNELIDA		Tubficida	Naididae															shipping, corridors		Freshwater	Asia, Africa and Australia									2010		Soors et al. 2013				
+	macroinvertebrates	Bratislavia dadayi			ANNELIDA																		shipping, corridors		Freshwater	Southern hemisphere, China and USA									2002		Soors et al. 2013				
+	macroinvertebrates	Branchiura sowerbyi			ANNELIDA			Tubificidae															shipping		Freshwater/Brackish	East-Asia									1931		Damas 1938				
+	macroinvertebrates	Limnodrilus cervix			ANNELIDA																		shipping		Freshwater	North-America									2009		Soors et al. 2013				
+	macroinvertebrates	Monopylephorus limosus			ANNELIDA																		shipping		Freshwater	Asia									2002		Soors et al. 2013				
+	macroinvertebrates	Potamothrix vejdovskyi			ANNELIDA																		shipping		Freshwater	Ponto-Caspian									2009		Soors et al. 2013				
+	macroinvertebrates	Psammoryctides moravicus			ANNELIDA																		shipping		Freshwater	Ponto-Caspian									2008		Soors et al. 2013				
+	macroinvertebrates	Quistadrilus multisetosus			ANNELIDA																		shipping		Freshwater	North-America									1996		Seys et al. 1999				
+	macroinvertebrates	Tasserkidrilus americanus			ANNELIDA																		shipping		Freshwater	North-America									2006		Soors et al. 2013				
+	macroinvertebrates	Caprella mutica			CRUSTACEA		Amphipoda	Caprellidae															shipping, aquaculture		Marine	Northeast-Asia									1998		Cook et al. 2007				
+	macroinvertebrates	Chelicorophium curvispinum			CRUSTACEA			Corophidae															corridors		Freshwater/Brackish	Ponto-Caspian									1990		Vercauteren et al. 2006				
+	macroinvertebrates	Monocorophium sextonae 			CRUSTACEA																		shipping		Brackish/Marine	New Zealand									1993		Dewicke 2002				
+	macroinvertebrates	Crangonyx pseudogracilis			CRUSTACEA			Crangonictidae															shipping		Freshwater	North-America									1992		Wouters 2002				
+	macroinvertebrates	Synurella ambulans			CRUSTACEA																		aquaculture		Freshwater	Ponto-Caspian									2003		Boets et al. 2010b				
+	macroinvertebrates	Dikerogammarus villosus			CRUSTACEA			Gammaridae															corridors		Freshwater/Brackish	Ponto-Caspian									1997		Messiaen et al. 2010				
+	macroinvertebrates	Echinogammarus berilloni			CRUSTACEA																		corridors		Freshwater	South-Europe									1925		Wouters 2002				
+	macroinvertebrates	Echinogammarus trichiatus			CRUSTACEA																		corridors		Freshwater	Ponto-Caspian									2009		Boets et al. 2012c 				
+	macroinvertebrates	Gammarus roeseli			CRUSTACEA																		corridors		Freshwater	South-Europe									1937		Collection RBINS				
+	macroinvertebrates	Gammarus tigrinus			CRUSTACEA																		corridors		Freshwater/Brackish	North-America									1991		Messiaen et al. 2010				
+	macroinvertebrates	Melita nitida			CRUSTACEA			Melitidae															shipping		Marine	North-America									1996		Faasse and Van Moorsel, 2003				
+	macroinvertebrates	Incisocalliope aestuarius			CRUSTACEA			Pleustidae															shipping		Brackish/Marine	North-America									1996		Faasse and Van Moorsel 2003				
+	macroinvertebrates	Orchestia cavimana			CRUSTACEA			Talitridae															shipping, corridors		Freshwater/Brackish	Ponto-Caspian									1927		Wouters 2002				
+	macroinvertebrates	Sinelobus vanhaareni			CRUSTACEA			Tanaidae															shipping, aquaculture		Brackish	unknown									2007		Van  Haaren and Soors 2009				
+	macroinvertebrates	Astacus leptodactylus			CRUSTACEA		Decapoda	Astacidae															aquaculture		Freshwater	East-Europe									1986		Gerard 1986				
+	macroinvertebrates	Pacifastacus leniusculus			CRUSTACEA																		aquaculture		Freshwater	North-America									1986		Gerard 1986				
+	macroinvertebrates	Athyaephyra desmaresti			CRUSTACEA			Atyidae															aquarium trade		Freshwater	South-Europe									1895		Wouters 2002				
+	macroinvertebrates	Procambarus clarkii			CRUSTACEA			Cambaridae															aquaculture, aquarium trade		Freshwater	North-America									2008		Boets et al. 2009				
+	macroinvertebrates	Orconectes limosus			CRUSTACEA																		aquaculture, aquarium trade		Freshwater	North-America									1977		Wouters 2002				
+	macroinvertebrates	Rhithropanopeus harrisii 			CRUSTACEA			Panopeidae															shipping		Freshwater/Brackish	North-America									1991		Van Damme et al. 1992				
+	macroinvertebrates	Palaemon macrodactylus			CRUSTACEA			Palaemonidae															shipping		Freshwater/Brackish	Southeast-Asia									1999		Boets et al. 2011b				
+	macroinvertebrates	Callinectes sapidus			CRUSTACEA			Portunidae															shipping		Brackish/Marine	North-America									1993		Van Damme and Maes 1993				
+	macroinvertebrates	Eriocheir sinensis			CRUSTACEA			Varunidae															shipping		Freshwater/Brackish	Southeast-Asia									1933		Wouters 2002				
+	macroinvertebrates	Hemigrapsus takanoi			CRUSTACEA																		shipping, aquaculture		Marine	North-America									2003		Dumoulin 2004				
+	macroinvertebrates	Hemigrapsus sanguineus 			CRUSTACEA																		shipping, aquaculture		Marine	North-America									2006		Nuyttens et al. 2006				
+	macroinvertebrates	Proasellus coxalis			CRUSTACEA		Isopoda	Asellidae															shipping, corridors, other		Freshwater/Brackish	South-Europe									1998		Boets et al. unpub data				
+	macroinvertebrates	Proasellus meridianus			CRUSTACEA																		shipping, corridors, other		Freshwater/Brackish	South-Europe									1945		Collection RBINS				
+	macroinvertebrates	Synidotea laticauda			CRUSTACEA			Idoteidae															shipping		Brackish	North-America									2005		Soors et al. 2010				
+	macroinvertebrates	Jaera istri			CRUSTACEA			Janiridae															shipping, corridors		Freshwater	Ponto-Caspian									2000		Messiaen et al. 2010				
+	macroinvertebrates	Hemimysis anomala			CRUSTACEA		Mysida	Mysidae															shipping, others		Freshwater/Brackish	Ponto-Caspian									1999		Verslycke et al. 2000				
+	macroinvertebrates	Limnomysis benedeni			CRUSTACEA																		shipping, corridors		Freshwater	Ponto-Caspian									2005		Lock et al. 2007				
+	macroinvertebrates	Elminius modestus			CRUSTACEA		Sessilia	Austrobalanidae 															shipping		Marine	Australia-Asia									1950		Leloup and Lefevre 1952				
+	macroinvertebrates	Amphibalanus amphitrite			CRUSTACEA			Balanidae															shipping		Marine	South-Europe									1952		Kerckhof and Catrijsse 2001				
+	macroinvertebrates	Amphibalanus improvisus			CRUSTACEA																		shipping		Marine	West-Atlantic									before 1700		Kerckhof and Catrijsse 2001				
+	macroinvertebrates	Megabalanus tintinnabulum			CRUSTACEA																		shipping		Marine	West-Africa, Indio-Pacific									1998		Kerckhof and Catrijsse 2001				
+	macroinvertebrates	Megabalanus coccopoma			CRUSTACEA																		shipping		Marine	South-America									1997		Kerckhof and Catrijsse 2001				
+	macroinvertebrates	Amphibalanus reticulatus			CRUSTACEA																		shipping		Marine	Tropical and warm seas									1997		Kerckhof and Catrijsse 2001				
+	macroinvertebrates	Austrominius directus			MOLLUSCA		Euheterodonta 	Pharidae															shipping, other		Marine	North-America 									1987		Kerckhof and Dumoulin 1987				
+	macroinvertebrates	Crepidula fornicata			MOLLUSCA		Littorinimorpha 	Calyptraeidae 															shipping, other		Marine	North-America 									1911		Adam  and Leloup 1934				
+	macroinvertebrates	Mya arenaria			MOLLUSCA		Myoida	Myidae															shipping, other		Marine	North-America 									< 1700		Kerckhof et al. 2007				
+	macroinvertebrates	Teredo navalis			MOLLUSCA			Teredinidae															shipping, other		Marine	Unknown									1730-1732		Sellius 1733				
+	macroinvertebrates	Psiloteredo megotara			MOLLUSCA																		shipping, other		Marine	Unknown 									<1600		Backeljau 1986				
+	macroinvertebrates	Lithoglyphus naticoides			MOLLUSCA		Neotaenioglossa	Hydrobiidae															corridors		Freshwater	Ponto-Caspian									1924		Adam 1947				
+	macroinvertebrates	Potamopyrgus antipodarum			MOLLUSCA																		shipping		Freshwater/Brackish	New Zealand									1927		Adam 1947				
+	macroinvertebrates	Crassostrea gigas			MOLLUSCA		Ostreoida	Ostreidae															aquaculture		Brackish/Marine	Southeast-Asia									1969		Leloup 1971				
+	macroinvertebrates	Menetus dilatatus			MOLLUSCA		Pulmonata	Planorbidae															shipping, corridors		Freshwater	North-America									1998		Sablon et al. 2010a				
+	macroinvertebrates	Ferrissia fragilis			MOLLUSCA																		aquarium trade		Freshwater	North-Africa									1937		Van Goethem and Sablon 1986				
+	macroinvertebrates	Physella acuta			MOLLUSCA			Physidae															other		Freshwater	North-America									1869		Adam 1947				
+	macroinvertebrates	Sinanodonta woodiana			MOLLUSCA		Unionoida	Unionidae															aquaculture		Freshwater	Asia									1999		Keppens and Mienis 2004				
+	macroinvertebrates	Corbicula fluminalis			MOLLUSCA		Veneroidea	Corbiculidae															shipping, corridors		Freshwater	Asia									1992		Swinnen et al. 1998				
+	macroinvertebrates	Corbicula fluminea			MOLLUSCA																		shipping, corridors		Freshwater	Asia									1992		Swinnen et al. 1998				
+	macroinvertebrates	Dreissena polymorpha			MOLLUSCA			Dreissenidae															corridors		Freshwater	Ponto-Caspian									1834		Adam 1947				
+	macroinvertebrates	Dreissena rostriformis bugensis			MOLLUSCA																		corridors		Freshwater	Ponto-Caspian									2009		Sablon et al. 2010b				
+	macroinvertebrates	Mytilopsis leucophaeta			MOLLUSCA																		shipping		Freshwater/Brackish	North-America									1835		Nyst 1835; Adam 1947				
+	macroinvertebrates	Rangia cuneata			MOLLUSCA			Mactridae															shipping		Freshwater/Brackish	North-America									2004		Verween et al. 2006				
+	macroinvertebrates	Petricolaria pholadiformis			MOLLUSCA			Veneridae															aquaculture, other		Marine	North-America 									1899		Loppens 1902				
+	macroinvertebrates	Mercenaria mercenaria			MOLLUSCA																		shipping		Marine	North-America 									1933		Vandepitte et al. 2012				
+	macroinvertebrates	Dugesia tigrina			PLATYHELMINTHES		Seriata	Dugesiidae															other		Freshwater	North-America									2004		Vercauteren et al. 2006				
+	macroinvertebrates	Dendrocoelum romanodanubiale			PLATYHELMINTHES			Dendrocoelidae															corridors		Freshwater	Ponto-Caspian									2001		Vercauteren et al. 2005				

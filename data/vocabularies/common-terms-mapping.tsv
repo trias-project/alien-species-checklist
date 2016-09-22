@@ -96,6 +96,10 @@ rinse-annex-b	Belgium	presenceFL
 rinse-annex-b	Species	specificEpithet
 rinse-annex-b	Subspecies	subspecies
 rinse-annex-b	English name	vernacularNameEN
+t0	name	scientificName
+t0	kingdom	kingdom
+t0	euConcernStatus	euConcernStatus
+t0		status
 wrims	PlaceName	
 wrims		presenceBEEZ
 wrims		presenceBPNS
