@@ -39,6 +39,7 @@ Up to this point, all steps are repeatable. The rest is not.
 
     ```shell
     python ../inbo-pyutils/gbif/verify_synonyms/verify_synonyms.py data/interim/verified-checklist.tsv data/interim/verified-checklist.tsv --synonym_file data/vocabularies/verified-synonyms.tsv --usagekeycol gbifapi_usageKey --acceptedkeycol gbifapi_acceptedKey --taxonomicstatuscol gbifapi_status --outputcol nameMatchValidation
+    ```
 
 7. Review any remaining issues (see [this procedure](docs/README.md) for updating names).
 8. Aggregate the checklist with [this notebook](notebooks/1-peterdesmet-create-aggregated-checklist.ipynb) to create this [the final checklist](data/processed/aggregated-checklist.tsv).
