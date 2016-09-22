@@ -9,7 +9,7 @@ taxonID	datasetName	scientificName	synonym	kingdom	phylum	class	order	family	gen
 	t0	Bison bison		Animalia												under consideration											absent														
 	t0	Cabomba caroliniana		Plantae												listed											present														
 	t0	Callosciurus erythraeus		Animalia												listed											present														
-	t0	Caprella mutica		Animalia												not listed											present														
+	t0	Caprella mutica		Animalia																							present														
 	t0	Castor canadensis		Animalia																							present														
 	t0	Celastrus orbiculatus		Plantae																							present														
 	t0	Corvus splendens		Animalia												listed											absent														
@@ -42,8 +42,8 @@ taxonID	datasetName	scientificName	synonym	kingdom	phylum	class	order	family	gen
 	t0	Cotoneaster x suecicus		Plantae																							present														
 	t0	Cotoneaster x watereri		Plantae																							present														
 	t0	Cotoneaster zabelii		Plantae																							present														
-	t0	Crepidula fornicata		Animalia												not listed											present														
-	t0	Didemnum vexillum		Animalia												not listed											absent														
+	t0	Crepidula fornicata		Animalia																							present														
+	t0	Didemnum vexillum		Animalia																							absent														
 	t0	Eichhornia crassipes		Plantae												listed											present														
 	t0	Elodea nuttallii		Plantae												under consideration											present														
 	t0	Eriocheir sinensis		Animalia												listed											present														
@@ -132,14 +132,14 @@ taxonID	datasetName	scientificName	synonym	kingdom	phylum	class	order	family	gen
 	t0	Procyon lotor		Animalia												listed											present														
 	t0	Pseudorasbora parva		Animalia												listed											present														
 	t0	Pueraria montana		Plantae												listed											absent														
-	t0	Rapana venosa		Animalia												not listed											present														
+	t0	Rapana venosa		Animalia																							present														
 	t0	Sagittaria latifolia		Plantae																							present														
 	t0	Sarracenia purpurea		Plantae																							present														
-	t0	Sargassum muticum		Eukaryota												not listed											present														
+	t0	Sargassum muticum		Eukaryota																							present														
 	t0	Sciurus carolinensis		Animalia												listed											present														
 	t0	Sciurus niger		Animalia												listed											present														
-	t0	Sicyos angulatus		Plantae												not listed											present														
-	t0	Solanum eleagnifolium		Plantae												not listed											absent														
+	t0	Sicyos angulatus		Plantae																							present														
+	t0	Solanum eleagnifolium		Plantae																							absent														
 	t0	Euthamia graminifolia		Plantae												under preparation											present														
 	t0	Spartina pectinata		Plantae																							present														
 	t0	Spartina townsendii		Plantae																							present														
