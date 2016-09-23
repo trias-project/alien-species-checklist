@@ -1,0 +1,521 @@
+[
+  {
+    "op": "core/column-rename",
+    "description": "Rename column name to scientificName",
+    "oldColumnName": "name",
+    "newColumnName": "scientificName"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column synonym at index 1 based on column scientificName using expression null",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "newColumnName": "synonym",
+    "columnInsertIndex": 1,
+    "baseColumnName": "scientificName",
+    "expression": "null",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column phylum at index 3 based on column kingdom using expression null",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "newColumnName": "phylum",
+    "columnInsertIndex": 3,
+    "baseColumnName": "kingdom",
+    "expression": "null",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column class at index 4 based on column phylum using expression grel:value",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "newColumnName": "class",
+    "columnInsertIndex": 4,
+    "baseColumnName": "phylum",
+    "expression": "grel:value",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column order at index 5 based on column class using expression grel:value",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "newColumnName": "order",
+    "columnInsertIndex": 5,
+    "baseColumnName": "class",
+    "expression": "grel:value",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column family at index 6 based on column order using expression grel:value",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "newColumnName": "family",
+    "columnInsertIndex": 6,
+    "baseColumnName": "order",
+    "expression": "grel:value",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column genus at index 7 based on column family using expression grel:value",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "newColumnName": "genus",
+    "columnInsertIndex": 7,
+    "baseColumnName": "family",
+    "expression": "grel:value",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column specificEpithet at index 8 based on column genus using expression grel:value",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "newColumnName": "specificEpithet",
+    "columnInsertIndex": 8,
+    "baseColumnName": "genus",
+    "expression": "grel:value",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column subspecies at index 9 based on column specificEpithet using expression grel:value",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "newColumnName": "subspecies",
+    "columnInsertIndex": 9,
+    "baseColumnName": "specificEpithet",
+    "expression": "grel:value",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column taxonGroup at index 10 based on column subspecies using expression grel:value",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "newColumnName": "taxonGroup",
+    "columnInsertIndex": 10,
+    "baseColumnName": "subspecies",
+    "expression": "grel:value",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column vernacularNameEN at index 11 based on column taxonGroup using expression null",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "newColumnName": "vernacularNameEN",
+    "columnInsertIndex": 11,
+    "baseColumnName": "taxonGroup",
+    "expression": "null",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column vernacularNameNL at index 12 based on column vernacularNameEN using expression grel:value",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "newColumnName": "vernacularNameNL",
+    "columnInsertIndex": 12,
+    "baseColumnName": "vernacularNameEN",
+    "expression": "grel:value",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column vernacularNameFR at index 13 based on column vernacularNameNL using expression grel:value",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "newColumnName": "vernacularNameFR",
+    "columnInsertIndex": 13,
+    "baseColumnName": "vernacularNameNL",
+    "expression": "grel:value",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column invasionStage at index 15 based on column euConcernStatus using expression null",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "newColumnName": "invasionStage",
+    "columnInsertIndex": 15,
+    "baseColumnName": "euConcernStatus",
+    "expression": "null",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column invasionStageCertainty at index 16 based on column invasionStage using expression null",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "newColumnName": "invasionStageCertainty",
+    "columnInsertIndex": 16,
+    "baseColumnName": "invasionStage",
+    "expression": "null",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column BFIS at index 17 based on column invasionStageCertainty using expression grel:value",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "newColumnName": "BFIS",
+    "columnInsertIndex": 17,
+    "baseColumnName": "invasionStageCertainty",
+    "expression": "grel:value",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column ISEIA at index 18 based on column BFIS using expression grel:value",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "newColumnName": "ISEIA",
+    "columnInsertIndex": 18,
+    "baseColumnName": "BFIS",
+    "expression": "grel:value",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column spatialDistribution at index 19 based on column ISEIA using expression grel:value",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "newColumnName": "spatialDistribution",
+    "columnInsertIndex": 19,
+    "baseColumnName": "ISEIA",
+    "expression": "grel:value",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column invasiveness at index 19 based on column ISEIA using expression grel:value",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "newColumnName": "invasiveness",
+    "columnInsertIndex": 19,
+    "baseColumnName": "ISEIA",
+    "expression": "grel:value",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column introductionPathway at index 21 based on column spatialDistribution using expression grel:value",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "newColumnName": "introductionPathway",
+    "columnInsertIndex": 21,
+    "baseColumnName": "spatialDistribution",
+    "expression": "grel:value",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column introductionMode at index 22 based on column introductionPathway using expression grel:value",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "newColumnName": "introductionMode",
+    "columnInsertIndex": 22,
+    "baseColumnName": "introductionPathway",
+    "expression": "grel:value",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column habitat at index 23 based on column introductionMode using expression grel:value",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "newColumnName": "habitat",
+    "columnInsertIndex": 23,
+    "baseColumnName": "introductionMode",
+    "expression": "grel:value",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column nativeRange at index 24 based on column habitat using expression grel:value",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "newColumnName": "nativeRange",
+    "columnInsertIndex": 24,
+    "baseColumnName": "habitat",
+    "expression": "grel:value",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column presenceFL at index 26 based on column nativeRange using expression grel:value",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "newColumnName": "presenceFL",
+    "columnInsertIndex": 26,
+    "baseColumnName": "nativeRange",
+    "expression": "grel:value",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column presenceWA at index 27 based on column presenceFL using expression grel:value",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "newColumnName": "presenceWA",
+    "columnInsertIndex": 27,
+    "baseColumnName": "presenceFL",
+    "expression": "grel:value",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column presenceBR at index 27 based on column presenceFL using expression grel:value",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "newColumnName": "presenceBR",
+    "columnInsertIndex": 27,
+    "baseColumnName": "presenceFL",
+    "expression": "grel:value",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column presenceBECoast at index 29 based on column presenceWA using expression grel:value",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "newColumnName": "presenceBECoast",
+    "columnInsertIndex": 29,
+    "baseColumnName": "presenceWA",
+    "expression": "grel:value",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column presenceBPNS at index 30 based on column presenceBECoast using expression grel:value",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "newColumnName": "presenceBPNS",
+    "columnInsertIndex": 30,
+    "baseColumnName": "presenceBECoast",
+    "expression": "grel:value",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column presenceBEEZ at index 31 based on column presenceBPNS using expression grel:value",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "newColumnName": "presenceBEEZ",
+    "columnInsertIndex": 31,
+    "baseColumnName": "presenceBPNS",
+    "expression": "grel:value",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column firstObservationYearBE at index 32 based on column presenceBEEZ using expression grel:value",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "newColumnName": "firstObservationYearBE",
+    "columnInsertIndex": 32,
+    "baseColumnName": "presenceBEEZ",
+    "expression": "grel:value",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column firstObservationYearFL at index 33 based on column firstObservationYearBE using expression grel:value",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "newColumnName": "firstObservationYearFL",
+    "columnInsertIndex": 33,
+    "baseColumnName": "firstObservationYearBE",
+    "expression": "grel:value",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column latestObservationYearBE at index 34 based on column firstObservationYearFL using expression grel:value",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "newColumnName": "latestObservationYearBE",
+    "columnInsertIndex": 34,
+    "baseColumnName": "firstObservationYearFL",
+    "expression": "grel:value",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column source at index 35 based on column latestObservationYearBE using expression grel:value",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "newColumnName": "source",
+    "columnInsertIndex": 35,
+    "baseColumnName": "latestObservationYearBE",
+    "expression": "grel:value",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column sourceID at index 36 based on column source using expression grel:value",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "newColumnName": "sourceID",
+    "columnInsertIndex": 36,
+    "baseColumnName": "source",
+    "expression": "grel:value",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column riskAnalysis at index 37 based on column sourceID using expression grel:value",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "newColumnName": "riskAnalysis",
+    "columnInsertIndex": 37,
+    "baseColumnName": "sourceID",
+    "expression": "grel:value",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column publicationStatus at index 38 based on column riskAnalysis using expression grel:value",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "newColumnName": "publicationStatus",
+    "columnInsertIndex": 38,
+    "baseColumnName": "riskAnalysis",
+    "expression": "grel:value",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition-by-fetching-urls",
+    "description": "Create column notes at index 39 by fetching URLs based on column publicationStatus using expression grel:value",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "newColumnName": "notes",
+    "columnInsertIndex": 39,
+    "baseColumnName": "publicationStatus",
+    "urlExpression": "grel:value",
+    "onError": "set-to-blank",
+    "delay": 5000
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column taxonID at index 1 based on column scientificName using expression null",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "newColumnName": "taxonID",
+    "columnInsertIndex": 1,
+    "baseColumnName": "scientificName",
+    "expression": "null",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column taxonID to position 0",
+    "columnName": "taxonID",
+    "index": 0
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column datasetName at index 1 based on column taxonID using expression grel:\"t0\"",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "newColumnName": "datasetName",
+    "columnInsertIndex": 1,
+    "baseColumnName": "taxonID",
+    "expression": "grel:\"t0\"",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column spatialDistribution to position 21",
+    "columnName": "spatialDistribution",
+    "index": 21
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column presenceWA to position 29",
+    "columnName": "presenceWA",
+    "index": 29
+  }
+]

@@ -2,10 +2,10 @@ dataset	verbatimTerm	newTerm
 -	Source	datasetName
 fishes	Latin name	scientificName
 fishes	Common name	vernacularNameEN
-fishes	Origin	origin
+fishes	Origin	nativeRange
 fishes	Introduction	firstObservationFL
 fishes	Pathway(s)	introductionPathways
-fishes	Status	status
+fishes	Status	invasionStage
 harmonia	Added	
 harmonia	Last state change	
 harmonia	Already invasive in (if any)	
@@ -34,7 +34,7 @@ harmonia	First observation	firstObservationYearBE
 harmonia	Habitat(s)	habitat
 harmonia	Introduction pathway(s)	introductionPathway
 harmonia	ISEIA score	ISEIA
-harmonia	Origin(s)	origin
+harmonia	Origin(s)	nativeRange
 harmonia	Reproduction (Belgium)	presenceBE
 harmonia	Reproduction (Flanders)	presenceFL
 harmonia	Reproduction (Wallonia)	presenceWA
@@ -42,7 +42,7 @@ harmonia	Current state	publicationStatus
 harmonia	Risk Analysis	riskAnalysis
 harmonia	Scientific name(s)	scientificName
 harmonia	Spatial distribution	spatialDistribution
-harmonia	Invasion stage	status
+harmonia	Invasion stage	invasionStage
 harmonia	Synonym(s)	synonym
 harmonia	Group	
 harmonia	Species ID	taxonID
@@ -56,7 +56,7 @@ macroinvertebrates	genus	genus
 macroinvertebrates	Salinity zone	habitat
 macroinvertebrates	Pathway of introduction	introductionPathway
 macroinvertebrates	order	order
-macroinvertebrates	Origin	origin
+macroinvertebrates	Origin	nativeRange
 macroinvertebrates	phylum	phylum
 macroinvertebrates	Reference	source
 plants	Family	family
@@ -64,12 +64,12 @@ plants	FR	firstObservationYearBE
 plants	M/I	introductionMode
 plants	V/I	introductionPathway
 plants	MRR	latestObservationYearBE
-plants	Origin	origin
+plants	Origin	nativeRange
 plants	Presence_Br	presenceBR
 plants	Presence_Fl	presenceFL
 plants	Presence_Wa	presenceWA
 plants	Taxon	scientificName
-plants	D/N	status
+plants	D/N	invasionStage
 plants	Synonym	synonym
 rinse	Great Britain	
 rinse	France	
@@ -96,6 +96,10 @@ rinse-annex-b	Belgium	presenceFL
 rinse-annex-b	Species	specificEpithet
 rinse-annex-b	Subspecies	subspecies
 rinse-annex-b	English name	vernacularNameEN
+t0	name	scientificName
+t0	kingdom	kingdom
+t0	euConcernStatus	euConcernStatus
+t0		invasionStage
 wrims	PlaceName	
 wrims		presenceBEEZ
 wrims		presenceBPNS
@@ -114,6 +118,6 @@ wrims	Phylum	phylum
 wrims	Taxon	scientificName
 wrims	Reference	source
 wrims	Reference_id	sourceID
-wrims	Occurrence	status
-wrims	Origin	statusCertainty
+wrims	Occurrence	invasionStage
+wrims	Origin	invasionStageCertainty
 wrims	AphiaID	taxonID
