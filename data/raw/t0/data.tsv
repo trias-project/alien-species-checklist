@@ -1,9 +1,9 @@
 name	kingdom	euConcernStatus	presenceBE
 Acer negundo	Plantae	under consideration	present
-Alopochen aegyptiaca	Animalia	under consideration	present
-Alternanthera philoxeroides	Plantae	under consideration	absent
+Alopochen aegyptiaca	Animalia	listed	present
+Alternanthera philoxeroides	Plantae	listed	absent
 Ameiurus melas	Animalia	under consideration	absent
-Asclepias syriaca	Plantae	under consideration	present
+Asclepias syriaca	Plantae	listed	present
 Symphyotrichum salignum	Plantae		present
 Baccharis halimifolia	Plantae	listed	present
 Bison bison	Animalia	under consideration	absent
@@ -45,14 +45,14 @@ Cotoneaster zabelii	Plantae		present
 Crepidula fornicata	Animalia		present
 Didemnum vexillum	Animalia		absent
 Eichhornia crassipes	Plantae	listed	present
-Elodea nuttallii	Plantae	under consideration	present
+Elodea nuttallii	Plantae	listed	present
 Eriocheir sinensis	Animalia	listed	present
 Fallopia bohemica	Plantae	under preparation	present
 Fraxinus pennsylvanica	Plantae		present
 Gaillardia grandiflora	Plantae		present
 Gunnera manicata	Plantae	under consideration	absent
-Gunnera tinctoria	Plantae	under consideration	absent
-Heracleum mantegazzianum	Plantae	under consideration	present
+Gunnera tinctoria	Plantae	listed	absent
+Heracleum mantegazzianum	Plantae	listed	present
 Heracleum persicum	Plantae	listed	absent
 Heracleum sosnowskyi	Plantae	listed	absent
 Herpestes javanicus	Animalia	listed	absent
@@ -62,7 +62,7 @@ Hydrocotyle ranunculoides	Plantae	listed	present
 Impatiens balfourii	Plantae		present
 Impatiens capensis	Plantae		present
 Impatiens edgeworthii	Plantae		absent
-Impatiens glandulifera	Plantae	under consideration	present
+Impatiens glandulifera	Plantae	listed	present
 Lagarosiphon major	Plantae	listed	present
 Lepomis gibbosus	Animalia	under consideration	present
 Lithobates catesbeianus	Animalia	listed	present
@@ -72,14 +72,14 @@ Lupinus polyphyllus	Plantae	under consideration	present
 Lysichiton americanus	Plantae	listed	present
 Lysichiton camtschatcensis	Plantae		absent
 Micropterus dolomieu	Animalia		absent
-Microstegium vimineum	Plantae	under consideration	absent
+Microstegium vimineum	Plantae	listed	absent
 Muntiacus reevesi	Animalia	listed	present
 Neovison vison	Animalia		present
 Myocastor coypus	Animalia	listed	present
 Myriophyllum aquaticum	Plantae	listed	present
-Myriophyllum heterophyllum	Plantae	under consideration	present
+Myriophyllum heterophyllum	Plantae	listed	present
 Nasua nasua	Animalia	listed	present
-Nyctereutes procyonoides	Animalia	under consideration	present
+Nyctereutes procyonoides	Animalia	listed	present
 Oenothera affinis	Plantae		present
 Oenothera angustissima	Plantae		present
 Oenothera oakesiana	Plantae		present
@@ -114,7 +114,7 @@ Oenothera subterminalis	Plantae		present
 Oenothera victorini	Plantae		present
 Oenothera wratislaviensis	Plantae		present
 Oenothera x issleri	Plantae		present
-Ondatra zibethicus	Animalia	under consideration	present
+Ondatra zibethicus	Animalia	listed	present
 Orconectes limosus	Animalia	listed	present
 Orconectes virilis	Animalia	listed	absent
 Oxyura jamaicensis	Animalia	listed	present
@@ -123,7 +123,7 @@ Parthenium hysterophorus	Plantae	listed	present
 Parthenocissus inserta	Plantae		present
 Parthenocissus quinquefolia	Plantae		present
 Parthenocissus tricuspidata	Plantae		present
-Pennisetum setaceum	Plantae	under consideration	absent
+Pennisetum setaceum	Plantae	listed	absent
 Perccottus glenii	Animalia	listed	absent
 Persicaria perfoliata	Plantae	listed	present
 Pontederia cordata	Plantae		present
