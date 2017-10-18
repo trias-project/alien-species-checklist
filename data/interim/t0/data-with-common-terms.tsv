@@ -1,9 +1,9 @@
 taxonID	datasetName	scientificName	synonym	kingdom	phylum	class	order	family	genus	specificEpithet	subspecies	taxonGroup	vernacularNameEN	vernacularNameNL	vernacularNameFR	euConcernStatus	invasionStage	invasionStageCertainty	BFIS	ISEIA	spatialDistribution	invasiveness	introductionPathway	introductionMode	habitat	nativeRange	presenceBE	presenceFL	presenceWA	presenceBR	presenceBECoast	presenceBPNS	presenceBEEZ	firstObservationYearBE	firstObservationYearFL	latestObservationYearBE	source	sourceID	riskAnalysis	publicationStatus	notes
 	t0	Acer negundo		Plantae												under consideration											present														
-	t0	Alopochen aegyptiaca		Animalia												under consideration											present														
-	t0	Alternanthera philoxeroides		Plantae												under consideration											absent														
+	t0	Alopochen aegyptiaca		Animalia												listed											present														
+	t0	Alternanthera philoxeroides		Plantae												listed											absent														
 	t0	Ameiurus melas		Animalia												under consideration											absent														
-	t0	Asclepias syriaca		Plantae												under consideration											present														
+	t0	Asclepias syriaca		Plantae												listed											present														
 	t0	Symphyotrichum salignum		Plantae																							present														
 	t0	Baccharis halimifolia		Plantae												listed											present														
 	t0	Bison bison		Animalia												under consideration											absent														
@@ -42,17 +42,18 @@ taxonID	datasetName	scientificName	synonym	kingdom	phylum	class	order	family	gen
 	t0	Cotoneaster x suecicus		Plantae																							present														
 	t0	Cotoneaster x watereri		Plantae																							present														
 	t0	Cotoneaster zabelii		Plantae																							present														
+	t0	Crassula helmsi		Plantae																							present														
 	t0	Crepidula fornicata		Animalia																							present														
 	t0	Didemnum vexillum		Animalia																							absent														
 	t0	Eichhornia crassipes		Plantae												listed											present														
-	t0	Elodea nuttallii		Plantae												under consideration											present														
+	t0	Elodea nuttallii		Plantae												listed											present														
 	t0	Eriocheir sinensis		Animalia												listed											present														
 	t0	Fallopia bohemica		Plantae												under preparation											present														
 	t0	Fraxinus pennsylvanica		Plantae																							present														
 	t0	Gaillardia grandiflora		Plantae																							present														
 	t0	Gunnera manicata		Plantae												under consideration											absent														
-	t0	Gunnera tinctoria		Plantae												under consideration											absent														
-	t0	Heracleum mantegazzianum		Plantae												under consideration											present														
+	t0	Gunnera tinctoria		Plantae												listed											absent														
+	t0	Heracleum mantegazzianum		Plantae												listed											present														
 	t0	Heracleum persicum		Plantae												listed											absent														
 	t0	Heracleum sosnowskyi		Plantae												listed											absent														
 	t0	Herpestes javanicus		Animalia												listed											absent														
@@ -62,7 +63,7 @@ taxonID	datasetName	scientificName	synonym	kingdom	phylum	class	order	family	gen
 	t0	Impatiens balfourii		Plantae																							present														
 	t0	Impatiens capensis		Plantae																							present														
 	t0	Impatiens edgeworthii		Plantae																							absent														
-	t0	Impatiens glandulifera		Plantae												under consideration											present														
+	t0	Impatiens glandulifera		Plantae												listed											present														
 	t0	Lagarosiphon major		Plantae												listed											present														
 	t0	Lepomis gibbosus		Animalia												under consideration											present														
 	t0	Lithobates catesbeianus		Animalia												listed											present														
@@ -72,14 +73,14 @@ taxonID	datasetName	scientificName	synonym	kingdom	phylum	class	order	family	gen
 	t0	Lysichiton americanus		Plantae												listed											present														
 	t0	Lysichiton camtschatcensis		Plantae																							absent														
 	t0	Micropterus dolomieu		Animalia																							absent														
-	t0	Microstegium vimineum		Plantae												under consideration											absent														
+	t0	Microstegium vimineum		Plantae												listed											absent														
 	t0	Muntiacus reevesi		Animalia												listed											present														
 	t0	Neovison vison		Animalia																							present														
 	t0	Myocastor coypus		Animalia												listed											present														
 	t0	Myriophyllum aquaticum		Plantae												listed											present														
-	t0	Myriophyllum heterophyllum		Plantae												under consideration											present														
+	t0	Myriophyllum heterophyllum		Plantae												listed											present														
 	t0	Nasua nasua		Animalia												listed											present														
-	t0	Nyctereutes procyonoides		Animalia												under consideration											present														
+	t0	Nyctereutes procyonoides		Animalia												listed											present														
 	t0	Oenothera affinis		Plantae																							present														
 	t0	Oenothera angustissima		Plantae																							present														
 	t0	Oenothera oakesiana		Plantae																							present														
@@ -114,7 +115,7 @@ taxonID	datasetName	scientificName	synonym	kingdom	phylum	class	order	family	gen
 	t0	Oenothera victorini		Plantae																							present														
 	t0	Oenothera wratislaviensis		Plantae																							present														
 	t0	Oenothera x issleri		Plantae																							present														
-	t0	Ondatra zibethicus		Animalia												under consideration											present														
+	t0	Ondatra zibethicus		Animalia												listed											present														
 	t0	Orconectes limosus		Animalia												listed											present														
 	t0	Orconectes virilis		Animalia												listed											absent														
 	t0	Oxyura jamaicensis		Animalia												listed											present														
@@ -123,7 +124,7 @@ taxonID	datasetName	scientificName	synonym	kingdom	phylum	class	order	family	gen
 	t0	Parthenocissus inserta		Plantae																							present														
 	t0	Parthenocissus quinquefolia		Plantae																							present														
 	t0	Parthenocissus tricuspidata		Plantae																							present														
-	t0	Pennisetum setaceum		Plantae												under consideration											absent														
+	t0	Pennisetum setaceum		Plantae												listed											absent														
 	t0	Perccottus glenii		Animalia												listed											absent														
 	t0	Persicaria perfoliata		Plantae												listed											present														
 	t0	Pontederia cordata		Plantae																							present														
